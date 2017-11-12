@@ -1,8 +1,8 @@
-## Strategie entwickeln
+## Develop Strategy
 
 ![right,fit](img/driver-domain/driver-strategy-agreements-domain.png)
 
-*Eine **Strategie** ist der Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.*
+{{define:strategy}}
 
 - die Strategie wird jeweils von der Organisation, Gruppe bzw. dem Mitarbeiter in der Rolle selbst erarbeitet
 - eine Strategie enthält typischerweise eine Beschreibung des angestrebten Ergebnisses

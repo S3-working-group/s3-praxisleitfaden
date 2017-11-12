@@ -1,6 +1,6 @@
 ## Koordinationsmeeting
 
-Regelmässiges Treffen (üblicherweise wöchentlich) zur Berichterstattung und Koordinierung der Arbeit.
+**Halte regelmäßige Treffen (typischerweise wöchentlich), um Bericht zu erstatten und Arbeitsaufgaben zu koordinieren.**
 
 - Moderiere das Treffen, und bevorzuge Runden anstatt Diskussionen,
 - Falls möglich, erstelle vor dem Treffen eine Agenda 

@@ -2,7 +2,7 @@
 
 Ein Workshop-Format um einer komplexen Situation effektiv zu begegnen: Unternehmensgründung, Projektbeginn, Umgang mit Hindernissen oder Chancen, oder die Ausrichtung der Organisationsstruktur am Wertfluss.
 
-Kleine oder grosse Gruppen erkennen und priorisieren Treiber, um in selbstorganisierenden Teams schnell vom Konzept zur Umsetzung zu gelangen.
+Kleine oder grosse Gruppen identifizieren und priorisieren Treiber, um in selbstorganisierenden Teams schnell vom Konzept zur Umsetzung zu gelangen.
 
 * * *
 

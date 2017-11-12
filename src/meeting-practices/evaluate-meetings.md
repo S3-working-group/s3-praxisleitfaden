@@ -2,7 +2,7 @@
 
 ![right,fit](img/meetings/evaluate-interactions.png)
 
-Reserviere etwas Zeit zum Lernen am Ende jedes Meetings oder Workshops.
+**Investiere etwas Zeit in gemeinsame Reflektion am Ende jedes Meetings oder Workshops.**
 
 Reflektiere über Interaktionen, zelebriere Erfolge und teile Verbesserungsvorschläge
 

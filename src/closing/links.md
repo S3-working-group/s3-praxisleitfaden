@@ -2,8 +2,8 @@
 
 ![fit](img/framework/logo.png)
 
-**Latest version of this guide**: <http://sociocracy30.org/guide/>
+**Neueste Version dieses Leitfadens**: <http://sociocracy30.org/guide/>
 
-**S3 website**: <http://sociocracy30.org>
+**S3 Webseite**: <http://sociocracy30.org>
 
-Follow us on **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
+Folge uns auf **Twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)

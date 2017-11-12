@@ -1,6 +1,6 @@
 ## Steuerungs-Backlog
 
-Ein Steuerungs-Backlog ist eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen. 
+{{define:governance-backlog}}
 
 - anstehende Berichte
 - notwendige Entscheidungen

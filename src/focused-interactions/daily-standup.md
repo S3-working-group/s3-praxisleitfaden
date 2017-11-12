@@ -2,7 +2,7 @@
 
 ![right,fit](img/meetings/planning-review-standup.png)
 
-**Arbeitspakete koordinieren, Lernen ermöglichen, Produktivität und Effektivität erhöhen**
+**Ein tägliches Meeting um Arbeitsaufgaben zu koordinieren, gemeinsames Lernen zu ermöglichen, und Produktivität und Effektivität erhöhen.**
 
 - feste Time-Box (üblicherweise 15 min.)
 - findet jeden Tag zur selben Zeit und am selben Ort statt

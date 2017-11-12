@@ -1,6 +1,6 @@
 ## laufende Arbeit begrenzen
 
-Begrenze die Anzahl an Arbeitsaufgaben für jeden Schritt deiner Arbeitsprozesse
+**Begrenze die Anzahl an Arbeitsaufgaben für jeden Schritt deiner Arbeitsprozesse**
 
 laufende Arbeit beinhaltet
 

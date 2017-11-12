@@ -6,6 +6,7 @@ Eine effektive Organisationsstruktur:
 
 - unterstützt den Wertfluss
 - ermöglicht Zusammenarbeit
+- behandelt Abhängigkeiten und macht sie explzit
 - stellt sicher, das Information dort verfügbar ist, wo sie gebraucht wird
 - verteilt Einflussmöglichkeiten nach tatsächlichem Bedarf
 - entwickelt sich kontinuierlich, um sich an veränderte Rahmenbedingungen anzupassen
@@ -16,7 +17,7 @@ Eine effektive Organisationsstruktur:
 
 Die Grundbausteine für Organisationsstruktur sind interdependente und verbundene Domains.
 
-Domänen werden verbunden zu Hierarchien oder einer **Heterarchien** (auch bekannt als komplexe adaptive Systeme oder Netzwerke, in denen mehrere funktionale Strukturen parallel existieren können).
+Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als komplexe adaptive Systeme oder Netzwerke, in denen mehrere funktionale Strukturen parallel existieren können).
 
 * * *
 

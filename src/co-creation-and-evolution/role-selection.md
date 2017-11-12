@@ -2,7 +2,7 @@
 
 ![right,fit](img/agreements/selection.png)
 
-**Ein Gruppenprozess für die Auswahl von Personen für Rollen**
+**Ein Gruppenprozess für die Auswahl von Personen für Rollen.**
 
 - vermeide, im Voraus Interesse an einer Rolle zu bekunden
 - Nominierungen werden aufgrund der Qualität der gehörten Argumente vorgenommen, nicht nach Mehrheiten

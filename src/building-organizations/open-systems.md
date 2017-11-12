@@ -1,8 +1,8 @@
 ## offene Systeme
 
-Eine Organisation (und ihre Subdomänen) können davon profitieren, bewusst von Außenstehenden zu lernen.
+Eine Organisation kann davon profitieren, wenn bewusst kommuniziert wird und durch das Lernen von anderen.
 
-Eine Organisation ist ein interdependentes System, dass Nutzen daraus ziehen kann, </strong>Information und Einfluss</0> von Externen einzuladen, die dabei helfen können, Entscheidungen zu treffen und die Organisation weiterzuentwickeln.
+Eine Organisation kann durch Anerkennung von gegenseitiger Abhängigkeit bewusst **Information von aussen, Einfluss oder Kompetenzen** annehmen, um Hilfe für Entscheidungen zu erhalten oder ein gemeinsames Lernen zu unterstützen.
 
 * * *
 

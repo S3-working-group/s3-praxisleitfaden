@@ -1,28 +1,15 @@
 ## Einwand
 
-*Ein **Einwand** ist ein Grund, weshalb etwas einer effektiven (oder effektiveren) Reaktion auf einen Treiber im Weg steht.*
+{{define:objection}}
 
 Einwände enthalten Informationen, die darauf hindeuten:
 
-- dass sicher (oder sehr wahrscheinlich) Schaden entstehen wird (nicht sicher genug, um es auszuprobieren)
+- dass sicher (oder sehr wahrscheinlich) Schaden entstehen wird (der Vorschlag ist nicht sicher genug, um ihn auszuprobieren)
 - dass man Vorschläge, Entscheidungen, bestehende Vereinbarungen oder Massnahmen signifikant verbessern kann
 
 * * *
 
 ### Einwände qualifizieren
-
-*Wie würde diese Entscheidung den auf einen Organisationstreiber bezogenen Wertfluss behindern – oder uns eine Gelegenheit zur Verbesserung entgehen?*
-
-Einwände verhindern …
-
-- laufende und geplante Aktivitäten
-- die Umsetzung von Entscheidungen
-- das Weiterbestehen von Vereinbarungen ohne Überarbeitung
-- das Vorschläge zu Vereinbarungen werden
-
-* * *
-
-### Einwände qualifizieren (…)
 
 Es liegt in der Verantwortung des Einzelnen, mögliche Einwände zu erklären.
 
@@ -31,6 +18,19 @@ Die für die betreffende Aktion oder Entscheidung Verantwortlichen sind ebenfall
 Das Zurückhalten von Einwänden kann die Fähigkeit von Personen, Gruppen oder der Organisation beeinträchtigen, auf Organisationstreiber zu reagieren.
 
 Die Möglichkeit, * potentielle* Einwände jederzeit einbringen zu können bedeutet, dass Entscheidungen lediglich *gut genug für den Moment und sicher genug, um sie auszuprobieren * sein müssen.
+
+* * *
+
+### Einwände qualifizieren (…)
+
+*Wie würde durch diese Entscheidung der Wertfluss (bezogen auf einen Organisationstreiber) behindert – oder eine Gelegenheit zur Verbesserung verpasst?*
+
+Einwände verhindern …
+
+- laufende und geplante Aktivitäten
+- die Umsetzung von Entscheidungen
+- das Weiterbestehen von Vereinbarungen ohne Überarbeitung
+- das Vorschläge zu Vereinbarungen werden
 
 * * *
 

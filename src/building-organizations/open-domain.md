@@ -2,7 +2,7 @@
 
 ![right,fit](img/structural-patterns/open-domain.png)
 
-Eine offene Domain ermöglicht, Arbeit- und Steuerungsaufgaben in einer Domäne auf freiwilliger Basis zu gestalten.
+**Eine Möglichkeit bewusst Verantwortung für eine Domäne zu übernehmen durch Einladung statt Zuweisung.**
 
 Die Delegierende der Domäne definiert
 

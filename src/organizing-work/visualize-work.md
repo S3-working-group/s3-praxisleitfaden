@@ -5,13 +5,13 @@
 Transparenz bzgl. des Status aller Arbeitsaufgaben, die anstehen, in Arbeit sind, oder bereits abgeschlossen wurden.
 
 - essentiell für Selbstorganisation und Pull-Systeme
-- system must be accessible to everyone affected
+- das System muss für alle Betroffenen zugänglich sein
 - **analog**: Haftnotizen an der Wand, oder Karteikarten, Magnete und Whiteboard
 - **digital**: Trello, Kanbanery, Leankit, Jira, Google Sheets, etc.
 
 * * *
 
-### Things to track:
+### Für jede Arbeitsaufgabe sollten folgende Dinge ersichtlich sein:
 
 ![right,fit](img/workflow-and-value/card.png)
 

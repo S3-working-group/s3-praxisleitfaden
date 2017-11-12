@@ -2,7 +2,7 @@
 
 ## James Priest
 
-... serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.
+… bietet seine Unterstützung international an; Beratung zu Organisationsentwicklung, Lernbegleitung, sowie Mentoring für Menschen, die kollaborative, adaptive Organisationen in grösserem Rahmen entwickeln möchten.
 
 [thriveincollaboration.com](http://thriveincollaboration.com)
 
@@ -14,7 +14,7 @@
 
 ## Bernhard Bockelbrink
 
-... is an agile coach, trainer and consultant supporting individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
+... unterstützt als Agile-Coach, Trainer und Berater Personen, Teams und Organisationen darin, komplexen Herausforderungen erfolgreich zu begegnen, und dabei eine Kultur effektiver, bewusster und freudvoller Zusammenarbeit zu entwickeln.
 
 [evolvingcollaboration.com](http://evolvingcollaboration.com)
 
@@ -26,7 +26,7 @@
 
 ## Liliana David
 
-... serves internationally, providing training, facilitation and mentoring to groups and organizations wishing to develop greater effectiveness and equivalence in collaboration.
+… bietet ihre Unterstützung international an; Training, Prozessbegleitung und Mentoring für Gruppen und Organisationen mit dem Wunsch, grössere Effektivität und Gleichberechtigung in der Zusammenarbeit zu entwickeln.
 
 [thriveincollaboration.com](http://thriveincollaboration.com)
 

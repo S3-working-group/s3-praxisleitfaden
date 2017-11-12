@@ -1,6 +1,6 @@
 ## Backlog
 
-Ein Backlog (Aufgabenliste) ist eine sichtbare Liste aus (meist priorisierten) Aufgaben, die noch abgearbeitet werden müssen.
+{{define:backlog}}
 
 Typische Backlogs:
 
@@ -19,7 +19,9 @@ Typische Backlogs:
 
 * * *
 
-### Elemente eines Backlogs beschreiben
+## Backlog (…)
+
+Jedes Element in einem (priorisierten) Backlog hat:
 
 - eine **kurze Beschreibung**
 - eine **eindeutige Referenznummer** (oder ein Link) für jedes Element 

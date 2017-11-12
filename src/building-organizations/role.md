@@ -2,18 +2,25 @@
 
 ![right,fit](img/illustrations/roles.png)
 
-*Eine **Rolle** definiert die Rahmenbedingungen für die Delegation einer Domäne an eine Person.*
+**Delegation von Verantwortung einer Domäne an Personen.**
 
-Der *Inhaber der Rolle* kann innerhalb der Beschränkungen der Rolle selbstständig handeln und entscheiden
+Eine Rolle deckt einen Verantwortungsbereich einer Domäne ab und wird an eine Person (den **Rollen-Inhaber**) gebunden, die die Autonomie für Entscheidungen und Aktionen hat, solange die Rahmenbedingungen der Rollen-Domäne nicht verletzt werden.
 
-- ein Person kann mehr als eine Rolle innehaben
-- eine Rolle wird im Konsent und auf beschränkte Dauer vergeben
-- der Rolleninhaber entwickelt eine Strategie, wie er in seiner Domäne Wert schöpft, und passt diese an Einwände der Delegierenden an
-- Kollegen unterstützen einander in der Ausübung ihrer Rollen
+Der Rollen-Inhaber ist zuständig für das Erstellen der Strategie, um den Auftrag der Domäne zu erfüllen oder um die Domäne weiterzuentwickeln, falls Einsprüche von einem Stellvertreter kommen.
 
-Der Inhaber einer Rolle kann ein Logbuch und ein Steuerungs-Backlog führen, um seinen System zur Wertschöpfung zu entwickeln. 
+Eine Rolle ist ein einfacher Weg für eine Gruppe, um wiederkehrende Aufgaben in einem bestimmten Arbeitsbereich, an eine Person der Gruppe zu delegieren.
 
-**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können genauso wie Vereinbarungen behandelt und entwickelt werden.
+* * *
+
+## Rolle (Forts.)
+
+- Personen können in mehr als einer Rolle sein und Rollen können von mehreren Personen ausgeführt werden
+- Personen die eine Rolle inne haben, werden durch Konsent und für eine bestimmte Dauer gewählt
+- Kollegen unterstützen sich gegenseitig, um sich in der Rolle weiterzuentwickeln
+
+Der Inhaber einer Rolle kann ein Logbuch führen und ein Entscheidungs-Backlog, um seine Vorgehensweise und Wertschöpfung zu verbessern.
+
+**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können wie Vereinbarungen behandelt werden.
 
 * * *
 

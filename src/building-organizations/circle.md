@@ -1,8 +1,8 @@
 ## Kreis
 
-![right,fit](img/circle/circle-driver.png)
+![right,fit](img/circle/circle.png)
 
-*Ein **Kreis** ist eine gleichgestellte, teilautonome und selbstverwaltete Gruppe von Personen, die zusammenarbeiten, um auf einen Treiber zu reagieren.*
+{{define:circle}}
 
 Ein Kreis …
 

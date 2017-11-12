@@ -1,0 +1,282 @@
+---
+patterns:
+  - 
+    gid: 5
+    name: Patterns an Kontext anpassen
+    pid: 1
+  - 
+    gid: 3
+    name: Die 7 Prinzipien leben
+    pid: 2
+  - 
+    gid: 3
+    name: gemeinsame Werte
+    pid: 3
+  - 
+    gid: 6
+    name: Vereinbarung
+    pid: 1
+  - 
+    gid: 9
+    name: Fluss angleichen
+    pid: 6
+  - 
+    gid: 3
+    name: kunstvolle Teilnahme
+    pid: 1
+  - 
+    gid: 2
+    name: Um Hilfe bitten
+    pid: 1
+  - 
+    gid: 9
+    name: Backlog
+    pid: 1
+  - 
+    gid: 5
+    name: Als Beispiel dienen
+    pid: 3
+  - 
+    gid: 3
+    name: Vereinbarungen brechen
+    pid: 5
+  - 
+    gid: 3
+    name: Statuten
+    pid: 9
+  - 
+    gid: 4
+    name: Kreis
+    pid: 2
+  - 
+    gid: 6
+    name: Domänen klären
+    pid: 3
+  - 
+    gid: 1
+    name: Konsent-Entscheidung
+    pid: 4
+  - 
+    gid: 5
+    name: kontinuierliche Verbesserung des Arbeitsablaufs
+    pid: 6
+  - 
+    gid: 3
+    name: Verantwortung und Verträge
+    pid: 6
+  - 
+    gid: 7
+    name: Koordinationsmeeting
+    pid: 5
+  - 
+    gid: 9
+    name: Koordinatior(in)
+    pid: 7
+  - 
+    gid: 5
+    name: Pull-System für Organisationsentwicklung schaffen
+    pid: 2
+  - 
+    gid: 7
+    name: Daily Standup
+    pid: 3
+  - 
+    gid: 10
+    name: Delegiertenkreis
+    pid: 2
+  - 
+    gid: 4
+    name: Einfluss delegieren
+    pid: 1
+  - 
+    gid: 6
+    name: Leistungen definieren
+    pid: 5
+  - 
+    gid: 1
+    name: Treiber beschreiben
+    pid: 3
+  - 
+    gid: 6
+    name: Strategie entwickeln
+    pid: 2
+  - 
+    gid: 2
+    name: Entwicklungsplan
+    pid: 4
+  - 
+    gid: 4
+    name: doppelte Verbindung
+    pid: 5
+  - 
+    gid: 10
+    name: doppelt-verbundene Hierarchie
+    pid: 4
+  - 
+    gid: 1
+    name: Driver Mapping
+    pid: 11
+  - 
+    gid: 1
+    name: Vereinbarungen prüfen
+    pid: 7
+  - 
+    gid: 8
+    name: Meetings evaluieren
+    pid: 3
+  - 
+    gid: 6
+    name: Evaluationskriterien
+    pid: 6
+  - 
+    gid: 8
+    name: Meetings moderieren
+    pid: 2
+  - 
+    gid: 10
+    name: Fraktal-Organisation
+    pid: 6
+  - 
+    gid: 8
+    name: Governance Backlog
+    pid: 5
+  - 
+    gid: 3
+    name: Governance-Moderator
+    pid: 4
+  - 
+    gid: 7
+    name: Steuerungs-Meetings
+    pid: 1
+  - 
+    gid: 4
+    name: Hilfsteam
+    pid: 7
+  - 
+    gid: 6
+    name: angestrebtes Ergebnis
+    pid: 4
+  - 
+    gid: 5
+    name: Veränderung einladen
+    pid: 4
+  - 
+    gid: 9
+    name: laufende Arbeit begrenzen
+    pid: 5
+  - 
+    gid: 4
+    name: Verbindungen
+    pid: 4
+  - 
+    gid: 6
+    name: Logbuch
+    pid: 7
+  - 
+    gid: 6
+    name: Logbuchführer
+    pid: 8
+  - 
+    gid: 8
+    name: Gastgeber(in)
+    pid: 4
+  - 
+    gid: 1
+    name: Navigiere nach Spannung
+    pid: 2
+  - 
+    gid: 1
+    name: Einwand
+    pid: 5
+  - 
+    gid: 4
+    name: Offene Domäne
+    pid: 8
+  - 
+    gid: 5
+    name: Open S3-Adoption
+    pid: 5
+  - 
+    gid: 4
+    name: offene Systeme
+    pid: 9
+  - 
+    gid: 10
+    name: Pfirsichorganisation
+    pid: 3
+  - 
+    gid: 2
+    name: Peer-Feedback
+    pid: 2
+  - 
+    gid: 2
+    name: Entwicklungsgespräch
+    pid: 3
+  - 
+    gid: 7
+    name: Planungs- und Review-Meetings
+    pid: 4
+  - 
+    gid: 9
+    name: Backlogs priorisieren
+    pid: 2
+  - 
+    gid: 1
+    name: Proposal Forming
+    pid: 9
+  - 
+    gid: 9
+    name: Arbeiten nach Pull-System
+    pid: 4
+  - 
+    gid: 4
+    name: Repräsentant
+    pid: 6
+  - 
+    gid: 1
+    name: Einwände integrieren
+    pid: 6
+  - 
+    gid: 1
+    name: Reagiere auf Organisationstreiber
+    pid: 1
+  - 
+    gid: 7
+    name: Retrospektive
+    pid: 2
+  - 
+    gid: 4
+    name: Rolle
+    pid: 3
+  - 
+    gid: 1
+    name: Wahl
+    pid: 10
+  - 
+    gid: 8
+    name: Runden
+    pid: 1
+  - 
+    gid: 10
+    name: Servicekreis
+    pid: 1
+  - 
+    gid: 10
+    name: Service-Organisation
+    pid: 5
+  - 
+    gid: 3
+    name: Hilfsrolle
+    pid: 8
+  - 
+    gid: 1
+    name: die Betroffenen entscheiden
+    pid: 8
+  - 
+    gid: 3
+    name: Gehaltstransparenz
+    pid: 7
+  - 
+    gid: 9
+    name: Arbeit visualisieren
+    pid: 3

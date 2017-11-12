@@ -1,10 +1,12 @@
 ## Entwicklungsplan
 
-Eine Vereinbarung zur Entwicklung effektiverer Arbeit in einer Rolle bzw. Zusammenarbeit in einer Gruppe.
+**Ein Plan, um sich effektiver um eine Domäne zu kümmern, der von Delegierenden und Beauftragten vereinbart wird. **
 
-Ein Entwicklungsplan wird der Delegierenden als Vorschlag vorgelegt, und unter Einbezug von Einwände und Bedenken angepasst.
+Der Entwicklungsplan kann für einen Mitarbeiter in einer Rolle oder für eine Gruppe (z.B. eine Abteilung, ein Kreis, ein Team oder eine offene Domäne) erstellt werden.
 
-Die Umsetzung von Entwicklungsplänen liegt in der Verantwortung des Rollen-Inhabers bzw. der Gruppe.
+Die Entwicklung kann sich auf eine Klarstellung von Treiber oder Domäne beziehen, auf eine Anpassung der Strategie, auf neue oder veränderte Vereinbarung, und auf konkrete Aufgaben für die Beauftragten oder auch für die Delegierenden.
+
+Der Vorschlag für einen Entwicklungsplan wird, zusammen mit Empfehlungen für die Anpassung der Domäne, den Delegierenden vorgelegt, damit diese Einwände und Bedenken anmelden können.
 
 * * *
 

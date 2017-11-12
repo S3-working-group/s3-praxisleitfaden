@@ -1,20 +1,20 @@
 ## Navigiere nach Spannung
 
-### Erkenne und beantworte Organisationstreiber.
+**Erkenne und beantworte Organisationstreiber.**
 
 **Alle Mitarbeiter** richten ihre Aufmerksamkeit darauf, was der Organisation helfen oder schaden könnte, und suchen nach effektiven Antworten auf diese Treiber.
 
-Eine **Spannung** ist eine persönliche Erfahrung: Ein Symptom von Unstimmigkeit zwischen individueller Wahrnehmung und Erwartung (oder Präferenz).
+Eine **Spannung** ist eine persönliche Erfahrung: Ein Symptom von Unstimmigkeit zwischen persönlicher Wahrnehmung und Erwartung (oder Präferenz).
 
 * * *
 
 ## Navigiere nach Spannung (…)
 
-**Herausforderungen und Chancen** für eine Organisation werden aufgedeckt, wenn ihre Mitglieder auf diesbezügliche Spannungen aufmerksam werden.
+**Herausforderungen und Chancen** für eine Organisation können dadurch identifiziert werden, dass Mitarbeiter auf Spannungen aufmerksam werden.
 
-Um **Treiber zu entdecken**, spüre Spannungen nach, und beschreibe, Situation und Bedarf. Manchmal zeigt unsere Untersuchung Missverständnisse auf, wodurch sich die Spannung oft auflöst.
+Spüre Spannungen nach, und beschreibe, Situation und Bedarf, um **Treiber zu entdecken**. Manchmal zeigt diese Untersuchung auch Missverständnisse auf, wodurch sich die Spannung oft auflöst.
 
-Erkannte **Organisationstreiber** können an die zuständige Domäne zur Bearbeitung weiter gereicht werden.
+Die erkannten **Organisationstreiber** werden an die zuständige Domäne zur Bearbeitung weiter gereicht.
 
 * * *
 

@@ -2,7 +2,7 @@
 
 ![right,fit](img/collaboration-values/chosen-values.png)
 
-**Gestalte die Organisationskultur**
+**Gestalte bewusst die Kultur der Organisation.**
 
 *Ein **Wert** ist ein Verhalten steuerndes Prinzip. Werte definieren den Handlungsraum und ethische Bedingungen.*
 

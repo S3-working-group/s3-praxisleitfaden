@@ -1,22 +1,22 @@
 ## Governance, Teilautonomie und Selbstorganisation
 
-**Governance**: fortwährend entscheiden, was zu tun, um Ziele zu erreichen, und Richtlinien festlegen, wie und wann Dinge getan werden.
+**Governance**: {{glossary:governance}}
 
-**Selbstverwaltung**: Menschen in einer Domäne verwalten diese Domäne selbst.
+**Selbststeuerung**: {{glossary:self-governance}}
 
-**Selbstorganisation**: Menschen koordinieren - innerhalb der durch Governance vorgegebenen Grenzen - ihre Arbeit selbst
+**Selbstorganisation**: {{glossary:self-organization}}
 
-**Operations** (Arbeit): Menschen tun, was getan werden muss, um Ziele zu erreichen, geleitet durch Koordination und Governance.
+**Operatives Geschäft**: {{glossary:operations}}
 
-**Teilautonomie**: Die Autonomie der Mitarbeiter, innerhalb ihrer Domäne Wert zu schöpfen (begrenzt von den Einschränkungen der Domäne).
+**Teilautonomie**: {{glossary:semi-autonomy}}
 
 * * *
 
 ## Unterscheidung zwischen Governance und operativem Geschäft
 
-Dokumentieren, evaluieren und entwickeln der Vereinbarungen, die den Zielen dienten, ermöglicht einer Organisation, kontinuierlich zu lernen und sich zu verbessern.
+Damit eine Organisation dazulernen kann und sich kontinuierlich verbessert, sollte sie alle wesentlichen Entscheidungen dokumentieren, prüfen und weiterentwickeln.
 
-*Fragestellung: Profitiert etwas von einer Einzel- oder Grupppen-Entscheidung?*
+*Fragestellung: Profitiert etwas von einer Einzel- oder Gruppen-Entscheidung?*
 
 - ja: Governance 
     - nicht von existierenden Vereinbarungen abgedeckt

@@ -1,6 +1,6 @@
 ## Hilfsrolle
 
-### Wende das Rollen-Pattern auf externe Vertragspartner an
+**Wende das Rollen-Pattern auf externe Vertragspartner an.**
 
 - Kläre und beschreibe den Treiber für die Rolle
 - Erstelle eine Domänenbeschreibung

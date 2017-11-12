@@ -2,7 +2,7 @@
 
 ![right,fit](img/process/peer-review.png)
 
-Kollegen unterstützen sich gegenseitig dabei, sich in ihren Rollen und Gruppen zu weiterzuentwickeln.
+**Kollegen unterstützen sich gegenseitig dabei, sich in ihren Rollen und Gruppen zu weiterzuentwickeln.**
 
 Der Rolleninhaber - oder die sich entwickelnde Gruppe - führt im Entwicklungsgespräch, indem sie den Prozess initiiert, und jeden Prozessschritt beginnt.
 

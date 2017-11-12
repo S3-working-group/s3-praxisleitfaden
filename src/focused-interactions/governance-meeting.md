@@ -37,5 +37,5 @@ Typische Agendapunkte:
     - gemeinsam Situationen verstehen, die eine Reaktion erfordern 
     - Vorschläge erarbeiten und Vereinbarungen treffen 
     - neue Rollen und Gruppen schaffen 
-    - existierende Rollen und Teams evaluieren 
+    - existierende Rollen und Teams evaluieren
     - Personen in Rollen wählen

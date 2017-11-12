@@ -1,6 +1,6 @@
 ## Ständige Verbesserung des Arbeitsablaufes mit S3
 
-**Entdecke relevante Treiber und etabliere ein Metrik-basiertes Pull-System für Veränderung in der Organisation.**
+**Entdecke Treiber und etabliere ein Metrik-basiertes Pull-System für Veränderungen in der Organisation.**
 
 - führe für ein Team das Konsent-Prinzip die *Steuerung nach Spannung* ein, so dass das Team seine Arbeitsabläufe selbst verbessern kann
 - erwäge die Einigung auf Werte und die Wahl eines Moderators 

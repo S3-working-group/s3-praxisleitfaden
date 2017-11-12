@@ -23,8 +23,8 @@ Die regelmässige Überprüfung aller Vereinbarungen ist essentiell für lernend
     
     - Nächsten Überprüfungstermin vereinbaren
     - Dokumentation oder Benachrichtigung
-    - Festhalten von Aufgaben und Entscheidungen
-    - Auswirkungen auf zugehörige Vereinbarungen
+    - Nachverfolgung von Aufgaben und Entscheidungen
+    - Auswirkungen auf andere Vereinbarungen
 
 * * *
 
@@ -32,7 +32,7 @@ Die regelmässige Überprüfung aller Vereinbarungen ist essentiell für lernend
 
 - Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und kein Einwand gegen das weiterbestehen existiert 
 - Vereinbarungen werden häufig in *Steuerungsmeetings* überprüft 
-- manchmal sollte ein separater Termin für die Überprüfung einer Vereinbarung angesetzt werden. 
+- für manche Vereinbarungen ist es effektiver, einen eigenes Treffen für die Überprüfung einzuberufen 
 - Die Häufigkeit der Überprüfung wird nach Bedarf angepasst
 - Falls nötig, kann früher überprüft werden
 - Elemente dieses Prozesses können auch bei der Prüfung der Entscheidungen von Einzelpersonen angewendet werden

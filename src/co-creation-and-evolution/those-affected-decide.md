@@ -1,6 +1,6 @@
 ## die Betroffenen entscheiden
 
-Involviere alle, die von einer Entscheidung betroffen sein werden, um Gleichberechtigung und Verantwortlichkeit sicher zu stellen. Vervollständige die Informationen, die zu dem Thema verfügbar sind.
+Involviere alle, die von einer Entscheidung betroffen sein werden, um Gleichstellung und Verantwortlichkeit sicher zu stellen. Vervollständige die Informationen, die zu dem Thema verfügbar sind.
 
 Für grössere Gruppen:
 

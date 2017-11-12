@@ -2,11 +2,11 @@
 
 ![right,fit](img/driver-domain/domains-in-organizations.png)
 
-*Eine **Domäne** ist ein eigener Arbeits-, Einfluss- und Entscheidungsbereich innerhalb einer Organisation*.
+{{define:domain}}
 
-Alle Domänen liegen innerhalb der Domäne der Organisation, und können überlappen oder vollständig in einer anderen Domäne enthalten sein.
+Alle Domänen befinden innerhalb der Domäne der Organisation, und können sich mit anderen Domänen überschneiden, oder auch vollständig in ihnen enthalten sein.
 
-Domänen werden an Mitarbeiter delegiert (z.B. an eine Unit, eine Abteilung, ein Team oder eine Einzelperson), die dann - innerhalb der Grenzen des Autonomie- und Einflussbereiches dieser Domäne - dafür Verantwortung übernehmen 
+Domänen werden an Mitarbeiter delegiert (z.B. an eine Unit, eine Abteilung, ein Team oder eine Einzelperson), die dann - innerhalb der Grenzen des Autonomie- und Einflussbereiches dieser Domäne - dafür Verantwortung übernehmen.
 
 * * *
 
@@ -14,7 +14,7 @@ Domänen werden an Mitarbeiter delegiert (z.B. an eine Unit, eine Abteilung, ein
 
 Der letztendliche Verantwortung für eine Domäne verbleibt bei der delegierenden Person. Diese bestimmt:
 
-- **zentrale Aufgaben** (Details der delegierten Arbeits- und Entscheidungsverantwortung)
+- **Kernaufgaben** (die wesentlichen delegierten Arbeitsaufgaben und Entscheidungen)
 - **Grenzen von Autonomie und Einfluss**, normalerweise in Bezug auf die Organisation selbst (z.B. Budget, Ressourcen, Delegationsstufe, Reporting)
 
 * * *

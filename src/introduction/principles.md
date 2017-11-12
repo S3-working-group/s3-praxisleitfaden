@@ -6,20 +6,20 @@
 
 ## Die sieben Prinzipien
 
-**Effektivität:** *Investiere Zeit nur in das, was Dich Deinen Zielen näher bringt.*
+**Effektivität:** *{{glossary:effectiveness}}*
 
-**Konsent:** *Handle nur, wenn es dagegen keine Einwände gibt.*
+**Konsent:** *{{glossary:consent}}*
 
-**Empierismus:** *Überprüfe alle Annahmen durch Experimente (Falsifikation!)*
+**Empirismus:** *{{glossary:empiricism}}*
 
 * * *
 
 ## Die Sieben Prinzipien (…)
 
-**Kontinuierliche Verbesserung:** *Bevorzuge inkrementelle Veränderung, um ständiges empirisches Lernen zu ermöglichen.*
+**Kontinuierliche Verbesserung:** *{{glossary:continuous-improvement}}*
 
-**Gleichstellung:** *Beziehe alle Menschen, die von einer Entscheidung betroffen sind, in diese Entscheidung und deren Entwicklung ein.*
+**Gleichstellung:** *{{glossary:equivalence}}*
 
-**Transparenz:** *Mache alle Informationen für jeden in der Organisation zugänglich, es sei denn, es gibt einen wichtigen Grund für Vertraulichkeit.*
+**Transparenz:** *{{glossary:transparency}}*
 
-**Verantwortlichkeit:** *Handle, wenn es erforderlich ist; befolge, was Du vereinbart hast und behalte die gesamte Organisation im Blick.*
+**Verantwortlichkeit:** *{{glossary:accountability}}*

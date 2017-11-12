@@ -7,13 +7,13 @@
 Antworten auf Treiber:
 
 - Aktion
-- Entscheidung (inkl. Delegation an Rollen, Kreisen, Hilfsteams oder offene Domänen)
+- Entscheidung (inkl. Delegation an Rollen, Kreise, Hilfsteams oder offene Domänen)
 
 * * *
 
 ### Qualifiziere Organisationstreiber
 
-Auf Treiber stehen in (direktem oder indirektem) Bezug zum Primärtreiber der Organisation. Andere Treiber befinden sich klar ausserhalb der Domäne der Organisation.
+Treiber, die in (direktem oder indirektem) Zusammenhang zum Primärtreiber der Organisation stehen, betrachtet man als **Organisationstreiber**. Andere Treiber fallen nicht in die Verantwortung (Domäne) der Organisation.
 
 Eine einfache Möglichkeit, um organisatorische Treiber zu qualifizieren, ist die Frage:
 

@@ -2,10 +2,9 @@
 
 ![right,fit](img/circle/rounds.png)
 
-Eine Moderationstechnik, die die Gleichstellung in Gruppen unterstützt.
+**Eine Moderationstechnik, die die Gleichstellung in Gruppen unterstützt.**
 
-1. Wähle eine zufällige Person für den Beginn der Runde 
-    - beginne jede Runde mit einer anderen Person, um Gleichstellung zu fördern
-2. gib jedem im Kreis der Reihe nach die Gelegenheit, zu sprech
+- gib jedem im Kreis der Reihe nach die Gelegenheit, zu sprechen
+- beginne jede Runde mit einer anderen Person, und ändere die Richtung (im oder gegen den Uhrzeigersinn), um den ersten und letzten Beitrag, sowie die Reihenfolge der Teilnehmer zu variieren
 
-Es gibt viele Möglichkeiten, wie erfahrene Gruppen in bestimmten Fällen Runden beschleunigen können.
+Erfahrene Gruppen entscheiden sich auch manchmal dafür, bestimmte Runden in S3-Gruppenprozessen durch andere Aktivitäten zu ersetzen.

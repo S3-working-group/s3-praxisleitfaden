@@ -1,19 +1,30 @@
-## Änderungen 2017-10-21
+## Änderungen zum 10.11.2017
 
-- added Liliana David to authors
-- dropped the term "framework" (replaced with "practical guide")
-- updated order of patterns
-- added an index of all the patterns 
-- added a glossary 
-- added acknowledgements
-- various small clarifications and corrections to text and illustrations
-- updated templates for agreement and development plan
+- verschiedene Klarstellungen und Korrekturen
+- *Kreis*: Klärung der Beziehung zwischen Kreis und Domäne
+- *Rolle*: Beschreibung überarbeitet
+- *Runden*: Beschreibung aktualisiert
+- *Offene Domänen*, *Hilfsteam* und *Offene Systeme* in die Kategorie "Organizationsentwicklung" verschoben
+- mehrere Begriffe zum Glossar hinzugefügt
 
 * * *
 
-## Changelog 2017-10-21 (cont.)
+## Änderungen zum 21.10.2017
 
-- Introduction: 
+- Liliana David zu Autoren hinzugefügt
+- den Begriff «Framework» ersetzt durch «Praktischer Leitfaden»
+- Reihenfolge der Muster aktualisiert
+- Index der Muster Patterns hinzugefügt 
+- Glossar mit vielen relevanten Begriffen erstellet 
+- Danksagungen hinzugefügt
+- verschiedene kleine Überarbeitungen in Text und Illustrationen
+- Vorlagen für Vereinbarungen und Entwicklungsplan angepasst
+
+* * *
+
+## Änderungen zum 21.10.2017 (Forts.)
+
+- Einführung: 
     - added "what's in it for me?"
     - added definitions for governance, self-organization, semi-autonomy, operations to introduction
     - clarified domains and their relationship to drivers
@@ -22,7 +33,7 @@
 
 * * *
 
-## Changelog 2017-10-21 (cont.)
+## Änderungen zum 21.10.2017 (Forts.)
 
 - *Artful Participation*: refined description
 - *Agreement*: clarified that the concept of agreements is applicable to people in roles

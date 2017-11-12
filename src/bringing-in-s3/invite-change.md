@@ -1,6 +1,6 @@
 ## Zu Veränderung einladen
 
-Ein individueller Ansatz, um Wandel auszulösen und zu begleiten.
+**Ein Ansatz für einzelne Personen, um Wandel auszulösen und zu begleiten.**
 
 - Sei der Wandel, den Du sehen möchtest
 - Verwende S3-Pattern und passe sie an, wann immer das nützlich erscheint

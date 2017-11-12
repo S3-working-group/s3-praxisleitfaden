@@ -1,8 +1,8 @@
-## Repräsentant
+## Repräsentanten (Rolle)
 
 Repräsentanten (auch: Delegierte oder Vertreter) …
 
-- stehen für die Interessen eines Kreises (oder Teams) in einem anderen Kreis ein
+- vertreten die Interessen einer Gruppe in einer anderen Gruppe
 - werden für eine beschränkte Amtszeit gewählt
 - nehmen als vollwertige Mitglieder an den **Steuerungsentscheidungen** des Kreises, in welchen sie delegiert wurden teil und können: 
     - Agendapunkte vorschlagen
