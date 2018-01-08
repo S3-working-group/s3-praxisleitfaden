@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-10-de-rc1) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (de-v2018-01-08-rc3) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -21,25 +21,25 @@ theme: Plain Jane, 1
 
 - **prinzipiengetrieben**: ein ganzheitlicher Weg zur Entwicklung einer agilen und soziokratischen Geisteshaltung 
 - **flexibel**: unabhängige, sich gegenseitig verstärkende Muster, die Organisationen in allen Aspekten der Zusammenarbeit unterstützen, und die leicht an den eigenen Kontext angepasst werden können
-- **kostenlos**: lizensiert unter einer Creative Commons Free Culture Lizenz
+- **kostenlos**:lizenziert unter einer Creative Commons Free Culture Lizenz
 
 * * *
 
 ## Was habe ich davon?
 
-Soziokratie 3.0 (oder kurz: "**S3**") bietet Dir eine umfangreiche Sammlung von Ideen und (Muster), die sich in Organisationen als hilfreich erwiesen haben, um **Produktivität, Zusammenarbeit und Zufriedenheit zu verbessern**.
+Soziokratie 3.0 (oder kurz: "**S3**") bietet Dir eine umfangreiche Sammlung von Ideen und (Mustern), die sich in Organisationen als hilfreich erwiesen haben, um **Produktivität, Zusammenarbeit und Zufriedenheit zu verbessern**.
 
-S3 unterstützt Dich dabei, herauszufinden, wie Du am Besten Deine Ziele erreichst, und wie Du komplexe Herausforderungen meisterst, Schritt für Schritt, **und das ganz ohne Reorganisation oder groß angelegte Change-Initiativen**:
+S3 unterstützt Dich dabei, herauszufinden, wie Du am besten Deine Ziele erreichst, und wie Du komplexe Herausforderungen meisterst, Schritt für Schritt, **und das ganz ohne Reorganisation oder groß angelegte Change-Initiativen**:
 
 - Beginne dort, wo der Bedarf am größten ist, und wähle ein oder mehrere Muster für ein Experiment. **Bestimme selbst die passende Geschwindigkeit** und entwickle die erforderlichen Fähigkeiten unterwegs.
 
-- Du wirst für **jede beliebige Position in der Organisation** Muster finden, dir Dir weiterhelfen können.
+- Du wirst für **jede beliebige Position in der Organisation** Muster finden, die Dir weiterhelfen können.
 
 * * *
 
 ## Inhalt
 
-- eine kurze Einführung in wesentlichen Konzepte, auf denen S3 basiert
+- eine kurze Einführung in die wesentlichen Konzepte, auf denen S3 basiert
 - eine Beschreibung aller Muster in S3
 - ein Anhang mit einer Änderungshistorie, Danksagungen, Info über die Autoren, einem Glossar und einem alphabetischen Verzeichnis der Muster
 
@@ -89,7 +89,7 @@ _Ein **Muster** ist eine Vorgehensweise, um einer bestimmten Herausforderungen e
 
 **Konsent:** *Tu etwas nur dann, wenn nichts dagegen spricht.*
 
-**Empirismus:** *Überprüfe alle*
+**Empirismus:** *Überprüfe alle Annahmen durch Experiment, kontinuierliche Revision und Falsifikation.*
 
 * * *
 
@@ -239,8 +239,8 @@ Eine einfache Möglichkeit, um organisatorische Treiber zu qualifizieren, ist di
 Die Antwort auf einen Treiber ist üblicherweise ein Experiment, das über über längere Zeit in einem Lernprozess weiterentwickelt wird.
 
 - Ist die Beschreibung der Situation immer noch zutreffend?
-- Verbinden wir mit dieser Situation immer noch die gleichen Bedürfnisse?
-- Ist der Treiber immer noch innerhalb unserer Domäne?
+- Verbinden wir mit dieser Situation immer noch den gleichen Bedarf?
+- Befindet sich der Treiber immer noch innerhalb unserer Domäne?
 - Ist der Treiber immer noch relevant?
 
 ---
@@ -422,12 +422,12 @@ Die regelmässige Überprüfung aller Vereinbarungen ist essentiell für lernend
 
 ## Vereinbarungen prüfen (…)
 
-- Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und kein Einwand gegen das weiterbestehen existiert 
-- Vereinbarungen werden häufig in *Steuerungsmeetings* überprüft 
-- für manche Vereinbarungen ist es effektiver, einen eigenes Treffen für die Überprüfung einzuberufen 
-- Die Häufigkeit der Überprüfung wird nach Bedarf angepasst
-- Falls nötig, kann früher überprüft werden
-- Elemente dieses Prozesses können auch bei der Prüfung der Entscheidungen von Einzelpersonen angewendet werden
+- Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und kein Einwand gegen das Weiterbestehen existiert. 
+- Vereinbarungen werden häufig in *Steuerungsmeetings* überprüft. 
+- Für manche Vereinbarungen ist es effektiver, einen eigenes Treffen für die Überprüfung einzuberufen. 
+- Die Häufigkeit der Überprüfung wird nach Bedarf angepasst.
+- Falls nötig, kann auch früher überprüft werden.
+- Elemente dieses Prozesses können auch bei der Prüfung der Entscheidungen von Einzelpersonen angewendet werden.
 
 ---
 
@@ -451,8 +451,8 @@ Erwäge, die Betroffenen auch bei Überprüfung und Weiterentwicklung der Entsch
 **Ein (moderiertes) Format zur gemeinsamen Gestaltung eines Vorschlags zur Antwort auf einen Treiber.**
 
 - nutzt das kollektive Wissen und die Vielfalt der Perspektiven innerhalb einer Gruppe
-- bezieht die gesamte Gruppe in die Gestaltung von Vereinbarungen ein
-- fördert Verantwortlichkeit und Identifikation
+- bezieht die gesamte Gruppe in die Gestaltung von Vereinbarungen mit ein
+- fördert Verantwortlichkeit und Unterstützung der resultierenden Vereinbarung
 
 Proposal forming kann auch von Einzelpersonen angewendet werden.
 
@@ -488,10 +488,10 @@ Proposal forming kann auch von Einzelpersonen angewendet werden.
 
 **Ein Gruppenprozess für die Auswahl von Personen für Rollen.**
 
-- vermeide, im Voraus Interesse an einer Rolle zu bekunden
-- Nominierungen werden aufgrund der Qualität der gehörten Argumente vorgenommen, nicht nach Mehrheiten
-- jeder kann sich selbst zu nominieren, oder auch passen
-- beim Einholen von Einwänden ist immer die nominierte Person zuletzt an der Reihe
+- Vermeide es, im Voraus Interesse an einer Rolle zu bekunden.
+- Nominierungen werden aufgrund der Qualität der gehörten Argumente vorgenommen, nicht nach Mehrheiten.
+- Jeder kann sich selbst nominieren, oder auch passen.
+- Die nominierte Person wird immer zuletzt nach Einwänden gefragt.
 
 Einwände gegen eine Nominierung können auf verschiedene Arten aufgelöst werden, z.B. durch Anpassung der Rollenbeschreibung oder durch Nominierung einer anderen Person.
 
@@ -860,7 +860,7 @@ Eine Rolle ist ein einfacher Weg für eine Gruppe, um wiederkehrende Aufgaben in
 - Personen die eine Rolle inne haben, werden durch Konsent und für eine bestimmte Dauer gewählt
 - Kollegen unterstützen sich gegenseitig, um sich in der Rolle weiterzuentwickeln
 
-Der Inhaber einer Rolle kann ein Logbuch führen und ein Entscheidungs-Backlog, um seine Vorgehensweise und Wertschöpfung zu verbessern.
+Der Inhaber einer Rolle kann ein Logbuch und ein Steuerungs-Backlog führen, um seinen System zur Wertschöpfung zu entwickeln. 
 
 **Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können wie Vereinbarungen behandelt werden.
 
@@ -1884,15 +1884,15 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Backlog**: Eine sichtbare Liste aus (meist priorisierten)  Aufgaben, die noch abgearbeitet werden müssen.
 **Beauftragte**: Eine Person oder Gruppe, die die Verantwortlichkeit für eine Domäne übernimmt.
 **Bedenken**: Die Ansicht, dass etwas den Wertfluss zu einem Organisationstreiber behindern - oder einer Verbesserung im Weg stehen - würde
+**Benachbarte Treiber**: Zwei Treiber, die als direkte Antwort auf einen gemeinsamen Supertreiber bestehen, werden benachbarte Treiber genannt.
 **Delegierende**: Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert .
 **Domäne**: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.
 **Effektivität**: Investiere Zeit nur für das, was Dich dem Erreichen Deiner Ziele näher bringt.
 **Einwand**: Ein Grund, weshalb etwas einer effektiven (oder effektiveren) Antwort auf einen Treiber im Weg steht.
-**Empirismus**: Überprüfe alle
+**Empirismus**: Überprüfe alle Annahmen durch Experiment, kontinuierliche Revision und Falsifikation.
 **Gewählte Werte**: Ein Satz von Prinzipien, für die sich eine Gruppe (oder eine Organisation) gemeinsam entschieden hat, um sie im Rahmen ihrer Zusammenarbeit umzusetzen.
 **Gleichstellung**: Beziehe Menschen in die sie betreffenden Entscheidungsfindung und deren Entwicklung ein.
 **Governance**: Fortwährend entscheiden, was zu tun ist, um Ziele zu erreichen, und Richtlinien festlegen, wie und wann Dinge getan werden.
-**Governance Backlog**: Eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.
 **Kernaufgaben**: Die in einer bestimmten Domäne zentralen Arbeitsaufgaben und Entscheidungen.
 **Komplexität**: Eine Umgebung, in dem die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen kann, aus denen man Muster ableiten kann. [nach: D. Snowden und M. Boone]
 **Konsent**: Tu etwas nur dann, wenn nichts dagegen spricht.
@@ -1912,7 +1912,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Operatives Geschäft**: Mitarbeiter erledigen die anfallenden Arbeiten innerhalb des Rahmens, der durch Governance und Koordination gesetzt wurde
 **Organisation**: Eine Gruppe von Menschen, die auf ein gemeinsames Ziel hin zusammenarbeiten.
 **Organisationstreiber**: Ein Treiber, der in (direktem oder indirektem) Zusammenhang zum Primärtreiber einer Organisation steht.
-**Peer Drivers**: Two drivers existing as a direct consequence of a response to the same superdriver, are called peer drivers.
 **Primärteiber**: Der Treiber, der eine Domäne begründet, wird als Primärtreiber dieser Domäne bezeichnet.
 **Prinzip**: Eine Gesetzmäßigkeit, die einer Sache zugrunde liegt, oder ein Grundsatz für   Denken und Handeln.
 **Rolle**: Eine Rolle ist ein Verantworungsbereich, der über eine Domäne definiert und an eine Person übertragen wird.
@@ -1920,6 +1919,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Selbstorgansation**: Menschen, die ihre Arbeit - innerhalb der durch Governance festgelegten Grenzen - selbst organisieren.
 **Selbststeuerung**: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuern (und führen).
 **Soziokratie**: Die Geisteshaltung, dass die von einer Entscheidung betroffenen Menschen diese Entscheidung beeinflussen können, wenn sie gute Gründe dafür haben.
+**Steuerungs-Backlog**: Eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.
 
 
 ---
@@ -1951,7 +1951,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 Patterns  | Patterns (cont.)
 --- | ---
-Als Beispiel dienen - 5.3<br\>angestrebtes Ergebnis - 6.4<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Daily Standup - 7.3<br\>Delegiertenkreis - 10.2<br\>Die 7 Prinzipien leben - 3.2<br\>die Betroffenen entscheiden - 1.8<br\>Domänen klären - 6.3<br\>doppelt-verbundene Hierarchie - 10.4<br\>doppelte Verbindung - 4.5<br\>Driver Mapping - 1.11<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6<br\>Entwicklungsgespräch - 2.3<br\>Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6 | Fluss angleichen - 9.6<br\>Fraktal-Organisation - 10.6<br\>Gastgeber(in) - 8.4<br\>Gehaltstransparenz - 3.7<br\>gemeinsame Werte - 3.3<br\>Governance Backlog - 8.5<br\>Governance-Moderator - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsent-Entscheidung - 1.4<br\>kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinatior(in) - 9.7<br\>Kreis - 4.2<br\>kunstvolle Teilnahme - 3.1<br\>laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7<br\>Logbuchführer - 6.8<br\>Meetings evaluieren - 8.3
+Als Beispiel dienen - 5.3<br\>Angestrebtes Ergebnis - 6.4<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Daily Standup - 7.3<br\>Delegiertenkreis - 10.2<br\>die Betroffenen entscheiden - 1.8<br\>Die Sieben Prinzipien leben - 3.2<br\>Domänen klären - 6.3<br\>doppelt-verbundene Hierarchie - 10.4<br\>Doppelte Verbindung - 4.5<br\>Driver Mapping - 1.11<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6<br\>Entwicklungsgespräch - 2.3<br\>Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6 | Fluss angleichen - 9.6<br\>Fraktal-Organisation - 10.6<br\>Gastgeber(in) - 8.4<br\>Gehaltstransparenz - 3.7<br\>Gemeinsame Werte - 3.3<br\>Governance-Moderator - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsent-Entscheidung - 1.4<br\>kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinatior(in) - 9.7<br\>Kreis - 4.2<br\>Kunstvolle Teilnahme - 3.1<br\>laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7<br\>Logbuchführer - 6.8<br\>Meetings evaluieren - 8.3<br\>Meetings moderieren - 8.2
 
 
 ---
@@ -1959,4 +1959,4 @@ Als Beispiel dienen - 5.3<br\>angestrebtes Ergebnis - 6.4<br\>Arbeit visualisier
 
 Patterns (cont.) | Patterns (cont.)
 --- | ---
-Meetings moderieren - 8.2<br\>Navigiere nach Spannung - 1.2<br\>Offene Domäne - 4.8<br\>offene Systeme - 4.9<br\>Open S3-Adoption - 5.5<br\>Patterns an Kontext anpassen - 5.1<br\>Peer-Feedback - 2.2<br\>Pfirsichorganisation - 10.3<br\>Planungs- und Review-Meetings - 7.4<br\>Proposal Forming - 1.9<br\>Pull-System für Organisationsentwicklung schaffen - 5.2<br\>Reagiere auf Organisationstreiber - 1.1<br\>Repräsentant - 4.6<br\>Retrospektive - 7.2<br\>Rolle - 4.3<br\>Runden - 8.1<br\>Service-Organisation - 10.5<br\>Servicekreis - 10.1<br\>Statuten - 3.9<br\>Steuerungs-Meetings - 7.1 | Strategie entwickeln - 6.2<br\>Treiber beschreiben - 1.3<br\>Um Hilfe bitten - 2.1<br\>Verantwortung und Verträge - 3.6<br\>Verbindungen - 4.4<br\>Vereinbarung - 6.1<br\>Vereinbarungen brechen - 3.5<br\>Vereinbarungen prüfen - 1.7<br\>Veränderung einladen - 5.4<br\>Wahl - 1.10
+Navigiere nach Spannung - 1.2<br\>Offene Domäne - 4.8<br\>offene Systeme - 4.9<br\>Patterns an Kontext anpassen - 5.1<br\>Peer-Feedback - 2.2<br\>Pfirsichorganisation - 10.3<br\>Planungs- und Review-Meetings - 7.4<br\>Proposal Forming - 1.9<br\>Pull-System für Organisationsentwicklung schaffen - 5.2<br\>Reagiere auf Organisationstreiber - 1.1<br\>Repräsentant - 4.6<br\>Retrospektive - 7.2<br\>Rolle - 4.3<br\>Runden - 8.1<br\>S3 per Open-Space - 5.5<br\>Service-Organisation - 10.5<br\>Servicekreis - 10.1<br\>Statuten - 3.9<br\>Steuerungs-Backlog - 8.5<br\>Steuerungs-Meeting - 7.1 | Strategie entwickeln - 6.2<br\>Treiber beschreiben - 1.3<br\>Um Hilfe bitten - 2.1<br\>Verantwortung und Verträge - 3.6<br\>Verbindungen - 4.4<br\>Vereinbarung - 6.1<br\>Vereinbarungen brechen - 3.5<br\>Vereinbarungen prüfen - 1.7<br\>Wahl - 1.10<br\>Zu Veränderung einladen - 5.4
