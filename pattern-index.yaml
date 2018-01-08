@@ -6,11 +6,11 @@ patterns:
     pid: 1
   - 
     gid: 3
-    name: Die 7 Prinzipien leben
+    name: Die Sieben Prinzipien leben
     pid: 2
   - 
     gid: 3
-    name: gemeinsame Werte
+    name: Gemeinsame Werte
     pid: 3
   - 
     gid: 6
@@ -22,7 +22,7 @@ patterns:
     pid: 6
   - 
     gid: 3
-    name: kunstvolle Teilnahme
+    name: Kunstvolle Teilnahme
     pid: 1
   - 
     gid: 2
@@ -106,7 +106,7 @@ patterns:
     pid: 4
   - 
     gid: 4
-    name: doppelte Verbindung
+    name: Doppelte Verbindung
     pid: 5
   - 
     gid: 10
@@ -138,7 +138,7 @@ patterns:
     pid: 6
   - 
     gid: 8
-    name: Governance Backlog
+    name: Steuerungs-Backlog
     pid: 5
   - 
     gid: 3
@@ -146,7 +146,7 @@ patterns:
     pid: 4
   - 
     gid: 7
-    name: Steuerungs-Meetings
+    name: Steuerungs-Meeting
     pid: 1
   - 
     gid: 4
@@ -154,11 +154,11 @@ patterns:
     pid: 7
   - 
     gid: 6
-    name: angestrebtes Ergebnis
+    name: Angestrebtes Ergebnis
     pid: 4
   - 
     gid: 5
-    name: Veränderung einladen
+    name: Zu Veränderung einladen
     pid: 4
   - 
     gid: 9
@@ -194,7 +194,7 @@ patterns:
     pid: 8
   - 
     gid: 5
-    name: Open S3-Adoption
+    name: S3 per Open-Space
     pid: 5
   - 
     gid: 4

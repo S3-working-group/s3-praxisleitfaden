@@ -28,6 +28,6 @@ Eine einfache Möglichkeit, um organisatorische Treiber zu qualifizieren, ist di
 Die Antwort auf einen Treiber ist üblicherweise ein Experiment, das über über längere Zeit in einem Lernprozess weiterentwickelt wird.
 
 - Ist die Beschreibung der Situation immer noch zutreffend?
-- Verbinden wir mit dieser Situation immer noch die gleichen Bedürfnisse?
-- Ist der Treiber immer noch innerhalb unserer Domäne?
+- Verbinden wir mit dieser Situation immer noch den gleichen Bedarf?
+- Befindet sich der Treiber immer noch innerhalb unserer Domäne?
 - Ist der Treiber immer noch relevant?

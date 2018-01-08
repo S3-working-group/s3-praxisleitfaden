@@ -4,10 +4,10 @@
 
 **Ein Gruppenprozess für die Auswahl von Personen für Rollen.**
 
-- vermeide, im Voraus Interesse an einer Rolle zu bekunden
-- Nominierungen werden aufgrund der Qualität der gehörten Argumente vorgenommen, nicht nach Mehrheiten
-- jeder kann sich selbst zu nominieren, oder auch passen
-- beim Einholen von Einwänden ist immer die nominierte Person zuletzt an der Reihe
+- Vermeide es, im Voraus Interesse an einer Rolle zu bekunden.
+- Nominierungen werden aufgrund der Qualität der gehörten Argumente vorgenommen, nicht nach Mehrheiten.
+- Jeder kann sich selbst nominieren, oder auch passen.
+- Die nominierte Person wird immer zuletzt nach Einwänden gefragt.
 
 Einwände gegen eine Nominierung können auf verschiedene Arten aufgelöst werden, z.B. durch Anpassung der Rollenbeschreibung oder durch Nominierung einer anderen Person.
 

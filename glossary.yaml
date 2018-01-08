@@ -67,7 +67,7 @@ terms:
   empiricism:
     name: Empirismus
     definition: ""
-    glossary: Überprüfe alle 
+    glossary: Überprüfe alle Annahmen durch Experiment, kontinuierliche Revision und Falsifikation.
   equivalence:
     name: Gleichstellung
     definition: ""
@@ -77,7 +77,7 @@ terms:
     definition: ""
     glossary: Fortwährend entscheiden, was zu tun ist, um Ziele zu erreichen, und Richtlinien festlegen, wie und wann Dinge getan werden.
   governance-backlog:
-    name: Governance Backlog
+    name: Steuerungs-Backlog
     definition: Ein **Steuerungs-Backlog** ist eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.
     glossary: Eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.
   key-responsibilities:
@@ -108,9 +108,9 @@ terms:
     definition: Ein ** Organisationstreiber** ist ein Treiber, der in (direktem oder indirektem) Zusammenhang zum Primärtreiber einer Organisation steht.
     glossary: Ein Treiber, der in (direktem oder indirektem) Zusammenhang zum Primärtreiber einer Organisation steht.
   peer-drivers:
-    name: Peer Drivers
+    name: Benachbarte Treiber
     definition: ""
-    glossary: Two drivers existing as a direct consequence of a response to the same superdriver, are called peer drivers.
+    glossary: Zwei Treiber, die als direkte Antwort auf einen gemeinsamen Supertreiber bestehen, werden benachbarte Treiber genannt.
   pattern:
     name: Muster
     definition: Ein **Muster** ist eine Vorgehensweise, um einer bestimmten Herausforderungen erfolgreich zu begegnen.

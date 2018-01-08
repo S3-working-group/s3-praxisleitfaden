@@ -5,8 +5,8 @@
 **Ein (moderiertes) Format zur gemeinsamen Gestaltung eines Vorschlags zur Antwort auf einen Treiber.**
 
 - nutzt das kollektive Wissen und die Vielfalt der Perspektiven innerhalb einer Gruppe
-- bezieht die gesamte Gruppe in die Gestaltung von Vereinbarungen ein
-- fördert Verantwortlichkeit und Identifikation
+- bezieht die gesamte Gruppe in die Gestaltung von Vereinbarungen mit ein
+- fördert Verantwortlichkeit und Unterstützung der resultierenden Vereinbarung
 
 Proposal forming kann auch von Einzelpersonen angewendet werden.
 

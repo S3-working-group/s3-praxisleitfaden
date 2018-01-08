@@ -18,7 +18,7 @@ Eine Rolle ist ein einfacher Weg für eine Gruppe, um wiederkehrende Aufgaben in
 - Personen die eine Rolle inne haben, werden durch Konsent und für eine bestimmte Dauer gewählt
 - Kollegen unterstützen sich gegenseitig, um sich in der Rolle weiterzuentwickeln
 
-Der Inhaber einer Rolle kann ein Logbuch führen und ein Entscheidungs-Backlog, um seine Vorgehensweise und Wertschöpfung zu verbessern.
+Der Inhaber einer Rolle kann ein Logbuch und ein Steuerungs-Backlog führen, um seinen System zur Wertschöpfung zu entwickeln. 
 
 **Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können wie Vereinbarungen behandelt werden.
 
