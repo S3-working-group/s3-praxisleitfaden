@@ -21,5 +21,5 @@ Transparenz bzgl. des Status aller Arbeitsaufgaben, die anstehen, in Arbeit sind
 - **Zustand** der Aufgabe (z.B. "unerledigt", "in Arbeit", "Review" and "erledigt")
 - Hindernisse oder Blockaden
 - Bearbeiter
-- Vereinbarungen und Erwartungenzum Arbeitsablauf (z.B. Definition of Done, Policies, Qualitätsstandards)
+- Vereinbarungen und Erwartungen zum Arbeitsablauf (z.B. Definition of Done, Policies, Qualitätsstandards)
 - nutze Farben, Symbole, Highlights etc.

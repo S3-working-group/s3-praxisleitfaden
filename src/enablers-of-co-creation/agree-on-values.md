@@ -4,19 +4,18 @@
 
 **Gestalte bewusst die Kultur der Organisation.**
 
-*Ein **Wert** ist ein Verhalten steuerndes Prinzip. Werte definieren den Handlungsraum und ethische Bedingungen.*
+*Ein **Wert** ist ein Prinzip, an dem Personen ihr Verhalten ausrichten. Werte begrenzen den Handlungsspielraum und definieren ethische Rahmenbedingungen.*
 
-- Jedes Mitglied bringt die Werte seiner Erfahrungen und Überzeugungen in die Organisation ein
-- Eine Gruppe oder Organisation kann sich **auf gemeinsame Werte festlegen,** an welchen sich ihre Zusammenarbeit ausrichten soll
+- Jedes Mitglied einer Organisation bringt eigene Werte mit, die aus persönlichen Erfahrungen und Überzeugungen resultieren.
+- Eine Gruppe oder Organisation kann sich **auf gemeinsame Werte einigen,** an dienen sie ihre Zusammenarbeit ausrichten.
 
 * * *
 
 ## Gemeinsame Werte (Fortsetzung)
 
-- Werte bieten Anleitung in der Wahl angemessenen Handelns wo explizite Vereinbarungen fehlen
-- Gemeinsame Werte festzulegen ist eine **Strategie** zur Unterstützung der Effektivität einer Organisation: 
-    - Weniger Potential für **Missverständnisse**
-    - Gemeinsame **Ausrichtung** von Entscheidungsfindung und Handeln
-    - **Anziehung neuer Mitglieder, Partner und Kunden<0>, welche mit den Werten der Organisation übereinstimmen</li> </ul></li> 
-        
-        - Gemeinsame Werte sind eine Vereinbarung und somit Gegenstand **regelmässiger Überprüfung**</ul>
+- aus Werten kann angemessenes Handeln abgeleitet werden, auch wenn es für etwas keine explizite Vereinbarungen gibt
+- die Einigung auf gemeinsame Werte ist eine **Strategie** zur Unterstützung der Effektivität einer Organisation: 
+    - geringeres Potential für **Missverständnisse**
+    - gemeinsame **Ausrichtung** von Entscheidungen und Aktivität
+    - **Attraktion neuer Mitarbeitern, Partnern und Kunden**, die sich mit den Werten der Organisation identifizieren
+- Gemeinsame Werte sind eine Vereinbarung, und sollten daher **regelmässiger überprüft und weiterentwickelt** werden.

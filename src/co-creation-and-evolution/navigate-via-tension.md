@@ -12,7 +12,7 @@ Eine **Spannung** ist eine persönliche Erfahrung: Ein Symptom von Unstimmigkeit
 
 **Herausforderungen und Chancen** für eine Organisation können dadurch identifiziert werden, dass Mitarbeiter auf Spannungen aufmerksam werden.
 
-Spüre Spannungen nach, und beschreibe, Situation und Bedarf, um **Treiber zu entdecken**. Manchmal zeigt diese Untersuchung auch Missverständnisse auf, wodurch sich die Spannung oft auflöst.
+Spüre Spannungen nach, und beschreibe Situation und Bedarf, um **Treiber zu entdecken**. Manchmal zeigt diese Untersuchung auch Missverständnisse auf, wodurch sich die Spannung oft auflöst.
 
 Die erkannten **Organisationstreiber** werden an die zuständige Domäne zur Bearbeitung weiter gereicht.
 

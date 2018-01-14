@@ -4,9 +4,9 @@
 
 {{define:domain}}
 
-Alle Domänen befinden innerhalb der Domäne der Organisation, und können sich mit anderen Domänen überschneiden, oder auch vollständig in ihnen enthalten sein.
+Alle Domänen befinden sich innerhalb der Domäne der Organisation, und können sich mit anderen Domänen überschneiden, oder auch vollständig in ihnen enthalten sein.
 
-Domänen werden an Mitarbeiter delegiert (z.B. an eine Unit, eine Abteilung, ein Team oder eine Einzelperson), die dann - innerhalb der Grenzen des Autonomie- und Einflussbereiches dieser Domäne - dafür Verantwortung übernehmen.
+Domänen werden an Mitarbeiter delegiert (z.B. an eine Geschäftseinheit, eine Abteilung, ein Team oder eine Einzelperson), die dann – innerhalb der Grenzen des Autonomie- und Einflussbereiches dieser Domäne – die Verantwortung dafür übernehmen.
 
 * * *
 
@@ -23,7 +23,7 @@ Der letztendliche Verantwortung für eine Domäne verbleibt bei der delegierende
 
 ![right,fit](img/driver-domain/domain-primay-sub.png)
 
-Eine Domäne kann in Bezug auf einen Organisationstreiber - den so genannten **Primärtreiber** - definiert werden: über die Menge der Subtreibern, deren Beantwortung Wert für die Organisation bezogen auf den Primärtreiber schafft
+Eine Domäne kann in Bezug auf einen Organisationstreiber - den so genannten **Primärtreiber** - definiert werden: als die Menge derjenigen Subtreiber, die im Kontext der Antwort auf diesen Primärtreibers ebenfalls berücksichtigt werden müssen.
 
 - **Hauptaufgaben**: direkt vom Primärtreiber abgeleitet
 - **Einschränkungen**: bezogen auf die Organisation selbst
@@ -36,5 +36,5 @@ Eine Domäne kann in Bezug auf einen Organisationstreiber - den so genannten **P
 
 - Verantwortlichkeit bezieht sich auf für alle Vereinbarungen, einschließlich Kreise, Rollen, und der Organisation selbst
 - die primäre Verantwortlichkeit aller Mitarbeiter bezieht sich auf effektive Zusammenarbeit bei der Antwort auf Organisationstreiber
-- Einzelpersonen und Gruppen sind jeweils verantwortlich für ihre Arbeit, und für ihre eigene Weiterentwicklung, die Organisation stellt die dafür erforderliche Unterstützung bereit
+- Einzelpersonen und Gruppen sind jeweils verantwortlich für ihre Arbeit, und für ihre eigene Weiterentwicklung. Die Organisation stellt die dafür erforderliche Unterstützung bereit
 - jedes Mitglied einer Organisation ist verantwortlich dafür, seine Handlungen an den Werten der Organisation auszurichten

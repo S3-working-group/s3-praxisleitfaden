@@ -2,13 +2,13 @@
 
 ![right,fit](img/structural-patterns/open-domain.png)
 
-**Eine Möglichkeit bewusst Verantwortung für eine Domäne zu übernehmen durch Einladung statt Zuweisung.**
+**Eine Möglichkeit, die Verantwortung für eine Domäne bewusst einzuladen, statt zu zuzuweisen.**
 
 Die Delegierende der Domäne definiert
 
 - Primärtreiber, Hauptaufgaben und Rahmenbedingungen der offenen Domäne
-- wer an der Bestellung der offenen Domäne mitwirken kann
-- Einschränkungen in Bezug auf die Teilhabe der Delegierenden an den Steuerungsentscheidungen der Domäne
+- wer bei der Bestellung der offenen Domäne mitwirken kann
+- die Teilhabe der Delegierenden an den Steuerungsentscheidungen der Domäne
 
 Die Delegierende der offenen Domäne ist verantwortlich dafür, dass regelmäßige Reviews stattfinden.
 

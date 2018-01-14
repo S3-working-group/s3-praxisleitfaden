@@ -2,9 +2,9 @@
 
 ![right,fit](img/meetings/evaluate-interactions.png)
 
-**Investiere etwas Zeit in gemeinsame Reflektion am Ende jedes Meetings oder Workshops.**
+**Investiere etwas Zeit in gemeinsame Reflexion am Ende jedes Meetings oder Workshops.**
 
-Reflektiere über Interaktionen, zelebriere Erfolge und teile Verbesserungsvorschläge
+Denke nach über Interaktionen, feiere Erfolge und teile Verbesserungsvorschläge.
 
 - vor der Abschlussrunde
 - reserviere 5 Minuten für ein einstündiges Meeting, und 15 Minuten für einen Tagesworkshop
@@ -22,6 +22,6 @@ Lade alle ein, in einer Runde kurz auf einige oder alle der folgenden Punkte ein
 - Effektivität und Format
 - Moderation und Teilnahme
 - Umgang miteinander
-- Würdigungen und Erfolge ("Mir gefiel...")
-- Verbesserungsvorschläge ("ich wünschte...")
-- Wilde Ideen und radikale Vorschläge ("Was wäre, wenn…")
+- Würdigungen und Erfolge ("Mir gefiel …")
+- Verbesserungsvorschläge ("Ich wünschte …")
+- Wilde Ideen und radikale Vorschläge ("Was wäre, wenn …")

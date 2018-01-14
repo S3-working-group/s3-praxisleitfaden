@@ -4,7 +4,7 @@
 - *Kreis*: Klärung der Beziehung zwischen Kreis und Domäne
 - *Rolle*: Beschreibung überarbeitet
 - *Runden*: Beschreibung aktualisiert
-- *Offene Domänen*, *Hilfsteam* und *Offene Systeme* in die Kategorie "Organizationsentwicklung" verschoben
+- *Offene Domänen*, *Hilfsteam* und *Offene Systeme* in die Kategorie "Organisationsentwicklung" verschoben
 - mehrere Begriffe zum Glossar hinzugefügt
 
 * * *
@@ -12,12 +12,12 @@
 ## Änderungen zum 21.10.2017
 
 - Liliana David zu Autoren hinzugefügt
-- den Begriff «Framework» ersetzt durch «Praktischer Leitfaden»
+- den Begriff "Framework" ersetzt durch "Praktischer Leitfaden"
 - Reihenfolge der Muster aktualisiert
 - Index der Muster Patterns hinzugefügt 
-- Glossar mit vielen relevanten Begriffen erstellet 
+- Glossar mit vielen relevanten Begriffen erstellt 
 - Danksagungen hinzugefügt
-- verschiedene kleine Überarbeitungen in Text und Illustrationen
+- verschiedene kleine Überarbeitungen von Text und Illustrationen
 - Vorlagen für Vereinbarungen und Entwicklungsplan angepasst
 
 * * *
@@ -25,55 +25,55 @@
 ## Änderungen zum 21.10.2017 (Forts.)
 
 - Einführung: 
-    - added "what's in it for me?"
-    - added definitions for governance, self-organization, semi-autonomy, operations to introduction
-    - clarified domains and their relationship to drivers
-    - fleshed out core concepts
-    - made all principles actionable
+    - neuer Abschnitt "was habe ich davon?"
+    - Definitionen in der Einleitung für Governance, Selbstorganisation, Teilautonomie und operatives Geschäft
+    - Klärung von Domänen und ihrer Beziehung zu Treibern
+    - Kernkonzepte besser erklärt
+    - handlungsortientierte Beschreibung der Prinzipien
 
 * * *
 
 ## Änderungen zum 21.10.2017 (Forts.)
 
-- *Artful Participation*: refined description
-- *Agreement*: clarified that the concept of agreements is applicable to people in roles
-- *Clarify Domains*: refined description
-- *Circle*: updated definition, refined description
-- *Driver*: updated definition
-- *Development Plan*: refined template and description
-- *Develop Strategy*: clarified definition of strategy, refined description
-- *Double-Linked Hierarchy*: new illustration
+- *Kunstvolle Teilnahme*: Beschreibung überarbeitet
+- *Vereinbarung*: Erklärung, dass das Konzept von Vereinbarungen auch innerhalb einer Rolle angewendet werden kann
+- *Domänen klären*: Beschreibung überarbeitet
+- *Kreis*: Beschreibung überarbeitet und aktualisiert
+- *Treiber*: Definition überarbeitet
+- *Entwicklungsplan*: Beschreibung und Vorlage überarbeitet
+- *Strategie entwickeln*: Beschreibung überarbeitet, klare Definition von Strategie
+- *doppelt verbundene Hierarchie*: neue Illustration
 
 * * *
 
-## Changelog (2017-10-21 cont.)
+## Änderungen zum 21.10.2017 (Forts.)
 
-- *Evaluate Agreements*: aligned questions to peer review
-- *Governance Backlog*: updated definition
-- *Logbook*: added details about governance to personal logbook
-- *Objections*: clarified qualifying objections
-- *Peer Review*: refined description
-- *Respond to Organizational Driver*: integrated information about qualifying drivers
-- *Role*: clarified role keeper may maintain a governance backlog, introduced the term "role keeper" for a person in a role
-- *Proposal Forming*: added criteria for selecting tuners, added step for prioritizing considerations, small clarifications
-- *Resolve Objections*: updated illustration to better reflect the process
+- *Vereinbarungen prüfen*: Fragen an Peer-Review angepasst
+- *Steuerungs-Backlog*: Definition überarbeitet
+- *Logbuch*: Informationen zu Governance in persönlichen Logbüchern
+- *Einwände*: Abschnitt zur Qualifikation von Einwänden überarbeitet
+- *Peer-Review*: Beschreibung überarbeitet
+- *Auf Organisationstreiber reagieren*: Abschnitt zur Qualifikation von Treibern eingefügt
+- *Rolle*: der Inhaber einer Rolle kann ein Steuerungsbacklog führen
+- *Proposal Forming*: Beschreibung überarbeitet, Schritt zur Priorisierung der Kriterien hinzugefügt, Fragen zur Auswahl von Gestaltern hinzugefügt, 
+- *Einwände integrieren*: neue Illustration
 
 * * *
 
-## Changelog (2017-10-21 cont.)
+## Änderungen zum 21.10.2017 (Forts.)
 
-**Renamed Patterns:**
+**Umbenannte Muster**
 
-- *Backbone Organization* to *Service Organization*
-- *Effectiveness Review* to *Peer Review*
-- *Strategy* to *Develop Strategy*
-- *Domain Description* to *Clarify Domains*
-- *Describing Deliverables* to *Describe Deliverables*
+- *Backbone-Organisation* zu *Serviceorganisation*
+- *Entwicklungsgespräch* (nur auf Englisch umbenannt)
+- *Strategie* zu *Strategie entwickeln*
+- *Domänenbeschreibung* zu *Domänen klären*
+- *Leistungen definieren* (nur auf Englisch umbenannt)
 
-| added                                                           | removed                                                           |
-| --------------------------------------------------------------- | ----------------------------------------------------------------- |
-| _Describe Drivers_  
-_Open Domain_  
-_Delegate Influence_ | _Coordination Circle_  
-_Nested Domains_  
-_Qualify Driver_ |
+| hinzugefügt                                                           | entfernt                                                                        |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| _Treiber beschreiben_  
+_offene Domäne_  
+_Einfluss delegieren_ | _Koordinationskreis_  
+_Verschachtelte Domänen_  
+_Treiber qualifizieren_ |

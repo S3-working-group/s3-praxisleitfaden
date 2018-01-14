@@ -1,11 +1,11 @@
 ## Hilfsrolle
 
-**Wende das Rollen-Pattern auf externe Vertragspartner an.**
+**Wende das Muster "Rolle" auf externe Vertragspartner an.**
 
 - Kläre und beschreibe den Treiber für die Rolle
-- Erstelle eine Domänenbeschreibung
-- Führe eine Wahl zur Besetzung der Rolle durch
-- Beschränke die Vertragslaufzeit
-- Plane regelmässige Entwicklungsgespräche ein
+- beschreibe die Domäne
+- führe eine Wahl zur Besetzung der Rolle durch
+- begrenze die Laufzeit von Verträgen
+- plane regelmässige Entwicklungsgespräche ein
 
 Hilfsrollen können auch rein operativen Charakter haben. Externe Vertragspartner geben Ihren Konsent, die Verantwortung für Ihre Rolle zu übernehmen.

@@ -1,8 +1,8 @@
 ## Gastgeber(in) (Rolle)
 
-Veranstalter ist verantwortlich für Vor- und Nachbereitung von Meetings, Workshops oder andere Veranstaltungen.
+Die Gastgeberin ist verantwortlich für Vor- und Nachbereitung von Meetings, Workshops oder anderer Veranstaltungen.
 
-Die Rolle kann vorübergehend (z. B. nur für ein bestimmtes Ereignis) oder für einen definierten Zeitraum vergeben werden.
+Die Rolle kann vorübergehend (z. B. nur für eine bestimmte Veranstaltung) oder für einen definierten Zeitraum vergeben werden.
 
 * * *
 
@@ -19,4 +19,4 @@ Die Rolle kann vorübergehend (z. B. nur für ein bestimmtes Ereignis) oder für
     - Wahl eines Moderators (und bei Bedarf eines Protokollführers) sicherstellen
 - Nachverfolgung 
     - Raum aufräumen, Schlüssel zurückgeben etc.
-    - dafür sorgen, dass das Protokoll verteil wird
+    - sicherstellen, dass das Protokoll verteil wird

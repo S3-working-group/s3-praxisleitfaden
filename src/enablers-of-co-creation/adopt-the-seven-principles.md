@@ -1,4 +1,4 @@
-## Die Sieben Prinzipien leben
+## Die sieben Prinzipien leben
 
 ![inline,fit](img/framework/s3-principles-plain.png)
 
@@ -6,8 +6,8 @@
 
 ![right,fit](img/collaboration-values/values-7principles.png)
 
-## Wende die Sieben Prinzipien an (Fortsetzung)
+## Die sieben Prinzipien leben (…)
 
-- Richte die Zusammenarbeit an den Sieben Prinzipien aus
-- Die Aneignung der Sieben Prinzipien vermindert das Bedürfnis nach expliziten Vereinbarungen und lenkt die Anpassung von S3-Mustern an das betriebliche Umfeld
-- Die Werte einer Organisation müssen mit den Sieben Prinzipien von Sociocracy 3.0 übereinstimmen
+- Richte die Zusammenarbeit an den sieben Prinzipien aus.
+- Eine Organisation oder Gruppe, die die Sieben Prinzipien anwendet, benötigt weniger expliziten Vereinbarungen, und kann S3-Muster besser an ihren Kontext anpassen.
+- Die Werte einer Organisation sollten zu den Sieben Prinzipien passen.

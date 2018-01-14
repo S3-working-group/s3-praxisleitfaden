@@ -4,16 +4,16 @@
 
 Ein Governance-Moderator …
 
-- ist verantwortlich für die Sicherstellung moderierter Governance-Meetings, dass diese auf Kurs bleiben und ausgewertet werden
-- wird (üblicherweise) von einer Gruppe unter ihren Mitgliedern ausgewählt
-- macht sich mit dem Governance-Backlog vertraut
+- ist verantwortlich dafür, dass Steuerungs-Meetings moderiert werden, so dass diese auf Kurs bleiben und am Ende des Meetings ausgewertet werden
+- wird (in der Regel) von einer Gruppe selbst und aus ihren Mitgliedern ausgewählt
+- macht sich mit dem Steuerungs-Backlog vertraut
 - lädt oft Andere dazu ein, einzelne Tagesordnungspunkte zu moderieren
 
 * * *
 
 ## Governance-Moderator (Fortsetzung)
 
-Wenn S3 für Governance verwendet wird, macht sich der Moderator mit folgenden Patterns vertraut:
+Der Governance-Moderator sollte sich auch mit folgenden Patterns vertraut machen:
 
 - Runden
 - Proposal-Forming

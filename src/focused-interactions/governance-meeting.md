@@ -2,14 +2,14 @@
 
 ![right,fit](img/meetings/governance-meeting.png)
 
-Gruppen treffen sich in regelmäßigen Abständen um zu entscheiden, wie sie vorgehen, um ihre Ziele erreichen, und um inhaltliche und zeitliche und Rahmenbedingung für ihre Arbeit zu festzulegen.
+Gruppen treffen sich in regelmäßigen Abständen um zu entscheiden, wie sie vorgehen, um ihre Ziele zu erreichen, und um inhaltliche und zeitliche und Rahmenbedingung für ihre Arbeit festzulegen.
 
-Typische Merkmale eines Steuerungstreffen:
+Ein Steuerungstreffen ist meistens:
 
 - moderiert 
 - vorbereitet 
-- zeitlich beschränkt (üblicherweise zwischen 90-120 Minuten)
-- findet alle 4 Wochen statt
+- zeitlich beschränkt (i.d. R. zwischen 90-120 Minuten)
+- ... und findet alle 4 Wochen statt
 
 * * *
 

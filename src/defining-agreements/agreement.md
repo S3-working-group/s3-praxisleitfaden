@@ -5,8 +5,8 @@
 {{define:agreement}}
 
 - Vereinbarungen beziehen sich auf Treiber 
-- die Personen, die eine Vereinbarungen treffen, sind auch für diese Entscheidung verantwortlich
-- Vereinbarungen werden **regelmässig geprüft**
+- die **Verantwortung** für eine Vereinbarung liegt bei den Personen, die diese Vereinbarung getroffen haben
+- Vereinbarungen werden **regelmäßig geprüft**
 
 **Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können wie Vereinbarungen behandelt werden.
 

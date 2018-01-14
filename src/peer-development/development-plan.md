@@ -1,6 +1,6 @@
 ## Entwicklungsplan
 
-**Ein Plan, um sich effektiver um eine Domäne zu kümmern, der von Delegierenden und Beauftragten vereinbart wird. **
+**Ein Plan, um sich effektiver um eine Domäne zu kümmern, der von Delegierenden und Beauftragten vereinbart wird.**
 
 Der Entwicklungsplan kann für einen Mitarbeiter in einer Rolle oder für eine Gruppe (z.B. eine Abteilung, ein Kreis, ein Team oder eine offene Domäne) erstellt werden.
 

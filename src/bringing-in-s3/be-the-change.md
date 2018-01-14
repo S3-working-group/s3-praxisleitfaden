@@ -2,4 +2,4 @@
 
 **Führe als Vorbild.**
 
-Verhalte dich so wie du möchtest dass andere sich verhalten.
+Verhalte dich selbst so, wie du es dir von anderen wünschst.

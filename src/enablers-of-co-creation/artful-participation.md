@@ -4,13 +4,13 @@
 
 Eine **Selbstverpflichtung** zur Entwicklung effektiver Zusammenarbeit und hilfreicher Interaktionen:
 
-- proaktiv **Vereinbarungen berücksichtigen und umsetzen**, so gut es unter den aktuellen Bedingungen möglich ist
-- **Bewusustesin und Verständnis ** individueller und kollektiver Bedürfnisse entwickeln
-- die **notwendigen Fähigkeiten entwickeln**
-- **andere dabei unterstützen** 
-- wenn nötig, andere auf Hindernisse aufmerksam zu machen
+- **berücksichtige und befolge alle Vereinbarungen**, so gut es dir unter den momentanen Bedingungen möglich ist
+- entwickle **Bewusstsein und Verständnis** für individuelle und kollektive Bedürfnisse
+- entwickle die dazu **erforderlichen Fähigkeiten**
+- **unterstütze andere**, dasselbe zu tun 
+- mache andere auf Hindernisse aufmerksam, wenn nötig
 
-Kunstvolle Teilnahme kann auch bedeuten, andere zu unterbrechen, Einwände zu erheben oder Vereinbarungen zu brechen.
+Kunstvolle Teilnahme kann im Einzelfall auch bedeuten, andere zu unterbrechen, Einwände zu erheben oder Vereinbarungen zu brechen.
 
 * * *
 
@@ -26,13 +26,13 @@ Kunstvolle Teilnahme kann auch bedeuten, andere zu unterbrechen, Einwände zu er
 
 * * *
 
-### Kuntvolle Teilnahme: Selbsteinschätzung
+### Kunstvolle Teilnahme: Selbsteinschätzung
 
 - Wie kann ich mich und andere darin unterstützen, kunstvoller teilzunehmen? 
 - Welche meiner Interaktionen sind hinderlich oder ineffektiv?
 - Welche Vereinbarungen finde ich schwierig einzuhalten oder mitzugestalten? Was kann ich dagegen tun?
-- Welche Fähigkeiten könnte ich entwickeln um meine Kunstvolle Teilnahme zu unterstützen?
-- Was würde Kunstvolle Teilnahme bedeuten in Bezug auf … 
+- Welche Fähigkeiten könnte ich entwickeln um meine kunstvolle Teilnahme zu unterstützen?
+- Was würde kunstvolle Teilnahme bedeuten in Bezug auf … 
     - meine Alltagsaktivitäten?
     - meine Zusammenarbeit und Interaktion mit Anderen?
     - die Organisation? Unsere Kunden?

@@ -13,8 +13,8 @@ Im Kontext einer Vereinbarung unterstützt die klare Definition von Leistungen d
 
 Leistungen explizit zu definieren kann hilfreich sein zur Verbesserung von:
 
-- Strategie der Organisation
-- Strategie eines Kreises
-- Entwicklungspläne
-- Domänenbeschreibungen
-- jeder anderen Vereinbarung (bspw. wirtschaftliche Ziele, Prozesse, Kundenkommunikation)
+- der Strategie der Organisation
+- der Strategie eines Kreises
+- Entwicklungsplänen
+- der Beschreibung einer Domäne
+- jeder anderen Vereinbarung (z.B.. wirtschaftliche Ziele, Arbeitsprozesse, Kundenkommunikation)

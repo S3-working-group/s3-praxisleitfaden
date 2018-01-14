@@ -4,6 +4,6 @@
 
 * * *
 
-### Eine Verfahren, um Einwände aufzulösen
+### Ein Verfahren, um Einwände aufzulösen
 
 ![inline,fit](img/agreements/resolve-objections-process.png)

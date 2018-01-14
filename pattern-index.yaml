@@ -2,11 +2,11 @@
 patterns:
   - 
     gid: 5
-    name: Patterns an Kontext anpassen
+    name: Muster an Kontext anpassen
     pid: 1
   - 
     gid: 3
-    name: Die Sieben Prinzipien leben
+    name: Die sieben Prinzipien leben
     pid: 2
   - 
     gid: 3
@@ -110,7 +110,7 @@ patterns:
     pid: 5
   - 
     gid: 10
-    name: doppelt-verbundene Hierarchie
+    name: doppelt verbundene Hierarchie
     pid: 4
   - 
     gid: 1

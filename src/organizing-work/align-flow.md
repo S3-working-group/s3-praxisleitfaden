@@ -3,7 +3,7 @@
 ![right,fit](img/workflow-and-value/align-flow.png)
 
 - in einer effektiven Organisation **unterstützt der Fluss von Information und Einfluss den kontinuierlichen Wertfluss**
-- wird Alignment durch die kontinuierliche Verbesserung von Vereinbarungen erreicht und aufrechterhalten
+- Beide Flüsse können durch die kontinuierliche Verbesserung von Vereinbarungen schrittweise angeglichen werden.
 
 * * *
 

@@ -7,4 +7,4 @@ Für grössere Gruppen:
 - Moderiere einen mehrstufigen Prozess und bilde Gruppen, die Delegierte wählen
 - Finde einen virtuellen, asynchronen, zeitlich gerahmten und gestuften Prozess
 
-Erwäge, die Betroffenen auch bei Überprüfung und Weiterentwicklung der Entscheidungen miteinzubeziehen.
+Erwäge, die Betroffenen auch bei der Überprüfung und Weiterentwicklung der Entscheidungen miteinzubeziehen.

@@ -6,7 +6,7 @@ Eine effektive Organisationsstruktur:
 
 - unterstützt den Wertfluss
 - ermöglicht Zusammenarbeit
-- behandelt Abhängigkeiten und macht sie explzit
+- behandelt Abhängigkeiten und macht sie explizit
 - stellt sicher, das Information dort verfügbar ist, wo sie gebraucht wird
 - verteilt Einflussmöglichkeiten nach tatsächlichem Bedarf
 - entwickelt sich kontinuierlich, um sich an veränderte Rahmenbedingungen anzupassen
@@ -23,9 +23,9 @@ Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als
 
 ### Strukturmuster
 
-Soziokratie 3.0 beschreibt eine mehrere Mustern, um Organisationsstruktur zu entwickeln.
+Soziokratie 3.0 beschreibt verschiedene Mustern, aus denen eine Vielzahl von Organisationsstrukturen entwickelt werden kann.
 
 - Muster haben unterschiedliche Abstraktionsebenen
 - unterschiedliche Strukturmuster lösen unterschiedliche Probleme
 - Strukturmuster können nach Bedarf angepasst und kombiniert werden
-- weiter Strukturmuster werden entdeckt entdeckt und beschrieben werden
+- weiter Strukturmuster werden entdeckt und beschrieben werden

@@ -9,4 +9,4 @@
 - unterstützt die Zusammenarbeit zwischen Organisationen bzw. Abteilungen, die unterschiedlichen Ziele verfolgen, oder sich im Konflikt miteinander befinden
 - geeignet für einmalige Projekte oder fortwährende Zusammenarbeit
 
-**Anmerkung:** das Muster "Service-Organisation" auch als **Backbone-Organisation** bezeichnet.
+**Anmerkung:** das Muster "Service-Organisation" wird gelegentlich auch als **Backbone-Organisation** bezeichnet.

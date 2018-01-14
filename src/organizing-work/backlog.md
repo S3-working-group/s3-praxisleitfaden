@@ -15,7 +15,7 @@ Typische Backlogs:
 
 - **Umsetzung** 
     - **analoges Backlog**: Haftnotizen an einer Wand, oder Karteikarten mit Magneten an einem Whiteboard
-    - **digitales Backlog**: z.B. Google Sheets, Trello, Kanban Flow, Jira
+    - **digitales Backlog**: z.B. Google Sheets, Trello, Kanban Flow, Jira, Asana
 
 * * *
 

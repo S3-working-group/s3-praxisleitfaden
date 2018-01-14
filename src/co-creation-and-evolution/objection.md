@@ -17,7 +17,7 @@ Die für die betreffende Aktion oder Entscheidung Verantwortlichen sind ebenfall
 
 Das Zurückhalten von Einwänden kann die Fähigkeit von Personen, Gruppen oder der Organisation beeinträchtigen, auf Organisationstreiber zu reagieren.
 
-Die Möglichkeit, * potentielle* Einwände jederzeit einbringen zu können bedeutet, dass Entscheidungen lediglich *gut genug für den Moment und sicher genug, um sie auszuprobieren * sein müssen.
+Die Möglichkeit, *potentielle* Einwände jederzeit einbringen zu können bedeutet, dass Entscheidungen lediglich *gut genug für den Moment sein müssen, und sicher genug, um sie auszuprobieren*.
 
 * * *
 
@@ -52,7 +52,7 @@ Einige hilfreiche Fragen
 
 Ein **Bedenken** ist die *Meinung*, dass eine Vereinbarung - auch wenn sie bereits als *gut und sicher genug* angesehen wird - weiter verbessert werden **könnte**.
 
-Bedenken in der Konsensentscheidung:
+Bedenken in der Konsententscheidung:
 
 - Bedenken können Änderungen der Vereinbarung bewirken (einschliesslich Kriterien und Häufigkeit der Evaluation) 
 - Bedenken werden besprochen, wenn noch Zeit übrig ist, oder sie als wichtig eingeschätzt werden

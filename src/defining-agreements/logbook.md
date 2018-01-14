@@ -1,6 +1,6 @@
 ## Logbuch
 
-Ein Logbuch ist ein (digitales) System zur Speicherung aller für den Betrieb einer Organisation und ihrer Teams relevanten Informationen. Das Logbuch ist allen Mitgliedern einer Organisation zugänglich; bestimmte Informationen werden nur dann vertraulich behandelt, wenn dafür ein guter Grund besteht.
+Ein Logbuch ist ein (digitales) System zur Speicherung aller für den Betrieb einer Organisation und ihrer Teams relevanten Informationen. Das Logbuch ist allen Mitgliedern einer Organisation zugänglich; einzelne Informationen können vertraulich behandelt werden, wenn dafür ein guter Grund besteht.
 
 Verbreitete Plattformen für Logbücher sind Wikis (wie DokuWiki oder MediaWiki), Content-Management-Systeme (z.B. WordPress), G Suite, Evernote oder Trello.
 
@@ -10,13 +10,13 @@ Verbreitete Plattformen für Logbücher sind Wikis (wie DokuWiki oder MediaWiki)
 
 - Organisation:
     
-    - Primärere Treiber, Strategie und Werte der Organisation
-    - Organisationsstruktur (Domänen und Verbindungen)
+    - Primärtreiber, Strategie und Werte der Organisation
+    - Organisationsstruktur (Domänen und ihre Verbindungen)
     - Vereinbarungen 
 
 - Kreis:
     
-    - Kreisbeschreibung und Strategie
+    - Beschreibung und Strategie des Kreises
     - Vereinbarungen (einschließlich Beschreibung, Strategien und Entwicklungspläne der Subdomänen)
     - Rückstände und sonstige Informationen zur Kreisarbeit und -steuerung
 

@@ -2,11 +2,11 @@
 
 Lade einen Kollegen ein, dir konstruktives Feedback zu geben über:
 
-- der Art und Weise, wie Du eine Rolle ausfüllst
-- genererelles Feedback über deine Teilnahme in der Organisation, und deine Zusammenarbeit mit anderen
+- die Art und Weise, wie Du eine Rolle ausfüllst
+- generelles Feedback über deine Teilnahme in der Organisation, und deine Zusammenarbeit mit anderen
 - weitere spezielle Aspekte, die dich interessieren
 
-Bedenke
+Bedenke:
 
 - gib dem Kollegen Zeit, sich auf das Gespräch vorzubereiten
 - frage sowohl nach **Würdigungen** als auch nach **konstruktiven, handlungsorientierten Verbesserungsvorschlägen**
