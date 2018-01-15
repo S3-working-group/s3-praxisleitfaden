@@ -4,7 +4,7 @@
 
 **Delegation von Verantwortung einer Domäne an Personen.**
 
-Eine ist ein Verantwortungsbereich, der durch eine Domäne definiert und an eine Person (den **Inhaber** der Rolle) delegiert wird. Der Rolleninhaber kann innerhalb des durch die Domäne vorgegebenen Rahmens autonom entscheiden und handeln.<0>
+Eine Rolle ist ein Verantwortungsbereich, der durch eine Domäne definiert und an eine Person (den **Inhaber** der Rolle) delegiert wird. Der Rolleninhaber kann innerhalb des durch die Domäne vorgegebenen Rahmens autonom entscheiden und handeln.
 
 Der Inhaber einer Rolle entwickelt eine Strategie, wie er sich um die Domäne kümmert, und passt diese Strategie an eventuelle Einwände der Delegierenden an.
 

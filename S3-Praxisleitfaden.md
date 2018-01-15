@@ -845,7 +845,7 @@ Ein Kreis …
 
 **Delegation von Verantwortung einer Domäne an Personen.**
 
-Eine ist ein Verantwortungsbereich, der durch eine Domäne definiert und an eine Person (den **Inhaber** der Rolle) delegiert wird. Der Rolleninhaber kann innerhalb des durch die Domäne vorgegebenen Rahmens autonom entscheiden und handeln.<0>
+Eine Rolle ist ein Verantwortungsbereich, der durch eine Domäne definiert und an eine Person (den **Inhaber** der Rolle) delegiert wird. Der Rolleninhaber kann innerhalb des durch die Domäne vorgegebenen Rahmens autonom entscheiden und handeln.
 
 Der Inhaber einer Rolle entwickelt eine Strategie, wie er sich um die Domäne kümmert, und passt diese Strategie an eventuelle Einwände der Delegierenden an.
 
@@ -900,7 +900,7 @@ Repräsentanten (auch: Delegierte oder Vertreter):
 
 - vertreten die Interessen einer Gruppe in einer anderen Gruppe
 - werden für einen befristeten Zeitraum gewählt
-- nehmen als vollwertige Mitglieder an den **Steuerungsentscheidungen** des Kreises, in den sie delegiert wurden teil und können: 
+- nehmen als vollwertige Mitglieder an den **Steuerungsentscheidungen** der Gruppe, in die sie delegiert wurden teil. Dort können sie: 
     - Agendapunkte vorschlagen
     - an der Ausarbeitung von Vorschlägen mitwirken
     - (begründete) Einwände gegen Vereinbarungen oder Vorschläge erheben
@@ -1598,7 +1598,7 @@ Die Koordinatorin ist verantwortlich für die **Koordination der Arbeit einer Gr
 
 ## Organisationsstruktur
 
-Organisationsstruktur ist das momentane Gefüge von Domains und deren Verbindungen. Sie zeigt Orte der Macht, und die Kanäle, durch die Einfluss und Information fließen.
+Organisationsstruktur ist das momentane Gefüge von Domänen und deren Verbindungen. Sie zeigt Orte der Macht, und die Kanäle, durch die Einfluss und Information fließen.
 
 Eine effektive Organisationsstruktur:
 
@@ -1613,7 +1613,7 @@ Eine effektive Organisationsstruktur:
 
 ## Organisationsstruktur (…)
 
-Die Grundbausteine für Organisationsstruktur sind interdependente und verbundene Domains.
+Die Grundbausteine für Organisationsstruktur sind interdependente und verbundene Domänen.
 
 Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als komplexe adaptive Systeme oder Netzwerke, in denen mehrere funktionale Strukturen parallel existieren können).
 
@@ -1621,12 +1621,12 @@ Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als
 
 ### Strukturmuster
 
-Soziokratie 3.0 beschreibt verschiedene Mustern, aus denen eine Vielzahl von Organisationsstrukturen entwickelt werden kann.
+Soziokratie 3.0 beschreibt verschiedene Strukturmuster, aus denen eine Vielzahl unterschiedlichen von Organisationsstrukturen entwickelt werden kann.
 
 - Muster haben unterschiedliche Abstraktionsebenen
 - unterschiedliche Strukturmuster lösen unterschiedliche Probleme
 - Strukturmuster können nach Bedarf angepasst und kombiniert werden
-- weiter Strukturmuster werden entdeckt und beschrieben werden
+- weitere Strukturmuster werden entdeckt und beschrieben werden
 
 ---
 

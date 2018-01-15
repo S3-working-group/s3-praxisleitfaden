@@ -1,6 +1,6 @@
 ## Organisationsstruktur
 
-Organisationsstruktur ist das momentane Gefüge von Domains und deren Verbindungen. Sie zeigt Orte der Macht, und die Kanäle, durch die Einfluss und Information fließen.
+Organisationsstruktur ist das momentane Gefüge von Domänen und deren Verbindungen. Sie zeigt Orte der Macht, und die Kanäle, durch die Einfluss und Information fließen.
 
 Eine effektive Organisationsstruktur:
 
@@ -15,7 +15,7 @@ Eine effektive Organisationsstruktur:
 
 ## Organisationsstruktur (…)
 
-Die Grundbausteine für Organisationsstruktur sind interdependente und verbundene Domains.
+Die Grundbausteine für Organisationsstruktur sind interdependente und verbundene Domänen.
 
 Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als komplexe adaptive Systeme oder Netzwerke, in denen mehrere funktionale Strukturen parallel existieren können).
 
@@ -23,9 +23,9 @@ Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als
 
 ### Strukturmuster
 
-Soziokratie 3.0 beschreibt verschiedene Mustern, aus denen eine Vielzahl von Organisationsstrukturen entwickelt werden kann.
+Soziokratie 3.0 beschreibt verschiedene Strukturmuster, aus denen eine Vielzahl unterschiedlichen von Organisationsstrukturen entwickelt werden kann.
 
 - Muster haben unterschiedliche Abstraktionsebenen
 - unterschiedliche Strukturmuster lösen unterschiedliche Probleme
 - Strukturmuster können nach Bedarf angepasst und kombiniert werden
-- weiter Strukturmuster werden entdeckt und beschrieben werden
+- weitere Strukturmuster werden entdeckt und beschrieben werden
