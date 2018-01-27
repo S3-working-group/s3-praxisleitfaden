@@ -4,8 +4,8 @@ Eine **Leistung** wird als Ergebnis einer Vereinbarung in Reaktion auf einen Tre
 
 Im Kontext einer Vereinbarung unterstützt die klare Definition von Leistungen das gemeinsame Verständnis:
 
-- Beschreibe genügend detailliert
-- Beziehe Dich auf andere Dokumente wo hilfreich oder notwendig
+- beschreibe ausreichend detailliert
+- beziehe dich auf andere Dokumente, wo hilfreich oder notwendig
 
 * * *
 

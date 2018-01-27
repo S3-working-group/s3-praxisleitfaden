@@ -2,10 +2,10 @@
 
 {{define:objection}}
 
-Einwände enthalten Informationen, die darauf hindeuten:
+Einwände enthalten Informationen über Vorschläge, Entscheidungen, bestehende Vereinbarungen oder Massnahmen, die darauf hindeuten, 
 
-- dass sicher (oder sehr wahrscheinlich) Schaden entstehen wird (der Vorschlag ist nicht sicher genug, um ihn auszuprobieren)
-- dass man Vorschläge, Entscheidungen, bestehende Vereinbarungen oder Massnahmen signifikant verbessern kann
+- dass (zumindest sehr wahrscheinlich) Schaden entstehen wird, sie sind also nicht sicher genug, um sie auszuprobieren
+- wie man sie signifikant verbessern kann 
 
 * * *
 

@@ -8,7 +8,7 @@ Ein Steuerungstreffen ist meistens:
 
 - moderiert 
 - vorbereitet 
-- zeitlich beschränkt (i.d. R. zwischen 90-120 Minuten)
+- zeitlich beschränkt (i.d. R. zwischen 90 und 120 Minuten)
 - ... und findet alle 4 Wochen statt
 
 * * *
@@ -22,7 +22,7 @@ Ablauf eines typischen Steuerungstreffen:
     - Konsent zum letzten Protokoll, Datum des nächsten Treffens etc.
     - Last-Minute-Agendapunkte, und Konsent zur Agenda
 - Agendapunkte abarbeiten 
-- Treffen evaluieren: Reflektion der Interaktionen, Erfolge zelebrieren, Verbesserungsvorschläge überlegen
+- Treffen evaluieren: Reflexion der Interaktionen, Erfolge zelebrieren, Verbesserungsvorschläge überlegen
 - Abschluss
 
 * * *

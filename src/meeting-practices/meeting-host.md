@@ -10,13 +10,13 @@ Die Rolle kann vorübergehend (z. B. nur für eine bestimmte Veranstaltung) oder
 
 - Vorbereitung 
     - Ziele und gewünschte Ergebnisse identifizieren
-    - Vorbereitung und Verteilung von Tagesordnung und Zeitplan
+    - Tagesordnung und Zeitplan vorbereiten und verteilen
     - erforderliche Zeit schätzen
     - Teilnehmer aussuchen und einladen
     - Termin vereinbaren
     - Veranstaltungsort buchen (und bei Bedarf Anreise planen)
     - Raum vorbereiten, notwendige Materialien und Informationen bereitstellen
     - Wahl eines Moderators (und bei Bedarf eines Protokollführers) sicherstellen
-- Nachverfolgung 
+- Nachbereitung 
     - Raum aufräumen, Schlüssel zurückgeben etc.
     - sicherstellen, dass das Protokoll verteil wird

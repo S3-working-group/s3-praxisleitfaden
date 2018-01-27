@@ -8,7 +8,7 @@ Eine einfache Möglichkeit, Domänen zu klären ist eine **Domänenbeschreibung*
 
 - Primärtreiber
 - Kernaufgaben
-- Grenzen
+- Einschränkungen
 - Bewertungskriterien für Entwicklungsgespräche
 - Amtszeit (für Rollen)
 - (vorherige Versionen der Domänenbeschreibung)

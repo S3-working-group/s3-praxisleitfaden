@@ -6,7 +6,7 @@ Kleine oder grosse Gruppen identifizieren und priorisieren Treiber, um in selbst
 
 * * *
 
-## Driver Mapping (Fortsetzung)
+## Driver Mapping (…)
 
 ![inline,fit](img/facilitation-guides/driver-mapping-fg-print.png)
 

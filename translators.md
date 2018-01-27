@@ -11,3 +11,5 @@
 - Dagmar Hebenstreit
 - Torsten Kukuk
 - Sven Latzel
+- Ioana Voica
+- Kerstin Wilde

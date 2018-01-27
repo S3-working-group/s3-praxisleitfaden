@@ -11,7 +11,7 @@
 
 * * *
 
-## Gemeinsame Werte (Fortsetzung)
+## Gemeinsame Werte (…)
 
 - aus Werten kann angemessenes Handeln abgeleitet werden, auch wenn es für etwas keine explizite Vereinbarungen gibt
 - die Einigung auf gemeinsame Werte ist eine **Strategie** zur Unterstützung der Effektivität einer Organisation: 

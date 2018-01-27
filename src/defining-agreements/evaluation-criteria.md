@@ -4,5 +4,5 @@
 
 Klar definierte Evaluationskriterien können helfen, ein gemeinsames Verständnis dafür zu entwickeln, ob eine Vereinbarung die erwünschten Ergebnisse gebracht hat.
 
-- Wähle **einfache und eindeutige** Kriterien und dokumentiere sie (um Diskussionen bei der Überprüfung zu vermeiden)
-- Definiere **handlungsorientierte Metriken** um Ergebnisse laufend verfolgen und Abweichungen von beabsichtigten Ergebnissen erkennen zu können
+- Wähle **einfache und eindeutige** Kriterien und dokumentiere sie (um Diskussionen bei der Überprüfung zu vermeiden).
+- Definiere **handlungsorientierte Metriken**, um Ergebnisse laufend verfolgen und Abweichungen von beabsichtigten Ergebnissen erkennen zu können.

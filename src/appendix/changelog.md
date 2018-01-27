@@ -22,18 +22,18 @@
 
 * * *
 
-## Änderungen zum 21.10.2017 (Forts.)
+## Änderungen zum 21.10.2017 (…)
 
 - Einführung: 
     - neuer Abschnitt "was habe ich davon?"
     - Definitionen in der Einleitung für Governance, Selbstorganisation, Teilautonomie und operatives Geschäft
     - Klärung von Domänen und ihrer Beziehung zu Treibern
     - Kernkonzepte besser erklärt
-    - handlungsortientierte Beschreibung der Prinzipien
+    - handlungsorientierte Beschreibung der Prinzipien
 
 * * *
 
-## Änderungen zum 21.10.2017 (Forts.)
+## Änderungen zum 21.10.2017 (…)
 
 - *Kunstvolle Teilnahme*: Beschreibung überarbeitet
 - *Vereinbarung*: Erklärung, dass das Konzept von Vereinbarungen auch innerhalb einer Rolle angewendet werden kann
@@ -46,7 +46,7 @@
 
 * * *
 
-## Änderungen zum 21.10.2017 (Forts.)
+## Änderungen zum 21.10.2017 (…)
 
 - *Vereinbarungen prüfen*: Fragen an Peer-Review angepasst
 - *Steuerungs-Backlog*: Definition überarbeitet
@@ -60,7 +60,7 @@
 
 * * *
 
-## Änderungen zum 21.10.2017 (Forts.)
+## Änderungen zum 21.10.2017 (…)
 
 **Umbenannte Muster**
 
@@ -72,8 +72,4 @@
 
 | hinzugefügt                                                           | entfernt                                                                        |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| _Treiber beschreiben_  
-_offene Domäne_  
-_Einfluss delegieren_ | _Koordinationskreis_  
-_Verschachtelte Domänen_  
-_Treiber qualifizieren_ |
+| _Treiber beschreiben_<br/>_offene Domäne_<br/>_Einfluss delegieren_ | _Koordinationskreis_ <br/>_Verschachtelte Domänen_<br/>_Treiber qualifizieren_ |

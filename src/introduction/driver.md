@@ -15,7 +15,7 @@ Ein Treiber …
 
 {{define:waste}}
 
-Über die Konzepte von Wert und Verschwendung können Organisationen, die Muster aus S3 verwenden, auch viele Praktiken und Ideen aus den Bereichen der**Lean Production** und der **Lean Softwareentwicklung** nutzen, beispielsweise:
+Über die Konzepte von Wert und Verschwendung können Organisationen, die Muster aus S3 verwenden, auch viele Praktiken und Ideen aus den Bereichen der **Lean Production** und der **Lean Softwareentwicklung** nutzen, beispielsweise:
 
 - Wertstromanalyse
 - verschiedene Strategien zur Vermeidung von Verschwendung

@@ -2,7 +2,7 @@
 
 ![right,fit](img/structural-patterns/helping-team.png)
 
-Eine Gruppe, die von einer Delegierten beauftragt wird, Anforderungen innerhalb festgelegter Rahmenbedingungen abzuarbeiten.
+Eine Gruppe, die von einer Delegierenden beauftragt wird, Anforderungen innerhalb festgelegter Rahmenbedingungen abzuarbeiten.
 
 Ein Hilfsteam:
 

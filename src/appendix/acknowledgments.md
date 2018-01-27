@@ -10,7 +10,7 @@ Schlussendlich gebührt unser Dank unseren zahlreichen Kollegen und Kunden - sow
 
 * * *
 
-## Danksagung (Forts.)
+## Danksagung (…)
 
 Folgenden Personen wollen wir besonders danken für ihren Beitrag zu Soziokratie 3.0, oder für ihre Arbeit, die S3 wesentlich beeinflusst hat:
 

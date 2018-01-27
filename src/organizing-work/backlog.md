@@ -25,7 +25,7 @@ Jedes Element in einem (priorisierten) Backlog hat:
 
 - eine **kurze Beschreibung**
 - eine **eindeutige Referenznummer** (oder ein Link) für jedes Element 
-- (eine **Positionsnummer** oder eine andere Form der Reihenfolge)
+- (eine **Priorität** oder ein anderes Merkmal, das die Reihenfolge anzeigt)
 - **Abhängigkeiten** zu anderen Aufgaben oder Projekten
 - **Fälligkeitsdatum** (falls erforderlich)
 - (optional) ein Maß für **Wert** 

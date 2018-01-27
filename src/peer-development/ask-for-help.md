@@ -1,6 +1,6 @@
 ## Um Hilfe bitten
 
-**Ein einfaches Protokoll, das Lernen, die Vermittlung von Fähigkeiten und den Aufbau von Beziehungen ermöglicht, und dabei die Autonomie des Einzelnen respektiert.**
+**Ein einfaches Protokoll, das Lernen, die Vermittlung von Fähigkeiten und den Aufbau von Beziehungen unterstützt, und dabei die Autonomie des Einzelnen respektiert.**
 
 Frage einen Kollegen, "*Wärest Du bereit, mir mit … zu helfen*?" Die gefragte Person antwortet nur mit einem einfachen "*ja*" or "*nein*".
 

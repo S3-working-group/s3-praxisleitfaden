@@ -2,10 +2,10 @@
 
 **Halte regelmäßige Treffen (typischerweise wöchentlich), um Bericht zu erstatten und Arbeitsaufgaben zu koordinieren.**
 
-- Moderiere das Treffen, und bevorzuge Runden anstatt Diskussionen,
-- Falls möglich, erstelle vor dem Treffen eine Agenda 
-    - Erwähne notwendige Vorbereitung seitens der Teilnehmer
-    - Weitere Punkte können im Verlauf der Berichterstattung aufkommen
+- sorge für Moderation, und bevorzuge Runden (anstatt Diskussionen)
+- erstelle die Agenda möglichst vor dem Meeting 
+    - stelle Informationen bereit, damit sich die Teilnehmer vorbereiten können
+    - aus den Berichten können sich während des Meetings neue Agendapunkte ergeben
 
 * * *
 
@@ -17,6 +17,6 @@
     - Kreismetriken (falls vorhanden)
     - Projekte und Aufgaben
 - Agendapunkte 
-    - Informationen mitteilen
-    - Aufgaben oder Projekte erfassen oder aktualisieren
-    - Neue oder aktualisierte Vereinbarungen vorschlagen
+    - Informationen weitergeben
+    - bestehende Aufgaben oder Projekte aktualisieren, oder neue erfassen
+    - neue Vereinbarungen treffen oder bestehende aktualisieren

@@ -9,7 +9,7 @@ Beim Eingehen formeller oder informeller Vereinbarungen mit Anderen:
 
 * * *
 
-## Verantwortung und Verträge (Fortsetzung)
+## Verantwortung und Verträge (…)
 
 ![right,fit](img/circle/enter-leave-circle.png)
 

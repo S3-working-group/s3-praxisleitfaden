@@ -12,7 +12,7 @@ Eine Rolle ist ein einfacher Weg für eine Gruppe, um wiederkehrende Aufgaben od
 
 * * *
 
-## Rolle (Forts.)
+## Rolle (…)
 
 - eine Person kann mehrere Rollen innehaben, und eine Rolle kann von mehreren Personen ausgefüllt werden
 - Personen die eine Rolle inne haben, werden per Konsent und für einen festgelegten Zeitraum gewählt

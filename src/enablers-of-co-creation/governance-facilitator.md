@@ -11,7 +11,7 @@ Ein Governance-Moderator …
 
 * * *
 
-## Governance-Moderator (Fortsetzung)
+## Governance-Moderator (…)
 
 Der Governance-Moderator sollte sich auch mit folgenden Patterns vertraut machen:
 

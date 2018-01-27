@@ -1,8 +1,8 @@
-## laufende Arbeit begrenzen
+## Laufende Arbeit begrenzen
 
 **Begrenze die Anzahl an Arbeitsaufgaben für jeden Schritt deiner Arbeitsprozesse**
 
-laufende Arbeit beinhaltet
+Laufende Arbeit beinhaltet
 
 - die Anzahl der Elemente im Backlog
 - gleichzeitige Projekte oder Aufgaben für Gruppen oder Personen

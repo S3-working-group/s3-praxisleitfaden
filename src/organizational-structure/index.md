@@ -15,7 +15,7 @@ Eine effektive Organisationsstruktur:
 
 ## Organisationsstruktur (…)
 
-Die Grundbausteine für Organisationsstruktur sind interdependente und verbundene Domänen.
+Die Grundbausteine für Organisationsstruktur sind voneinander abhängige und verbundene Domänen.
 
 Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als komplexe adaptive Systeme oder Netzwerke, in denen mehrere funktionale Strukturen parallel existieren können).
 

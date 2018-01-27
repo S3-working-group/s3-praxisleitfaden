@@ -4,7 +4,7 @@
 
 ![right,fit](img/process/adapt-pattern-to-context.png)
 
-- stelle bei der Apassung eines Patterns sicher, dass jeder Betroffene 
+- stelle bei der Anpassung eines Patterns sicher, dass jeder Betroffene 
     - versteht warum es notwendig ist, das Pattern zu verändern
     - bei der Anpassung einbezogen wird oder zumindest repräsentiert ist
 - nutze die sieben Prinzipien als Anhaltspunkte für die Anpassung
