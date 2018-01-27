@@ -12,7 +12,7 @@ terms:
   agreement:
     name: Vereinbarung
     definition: Eine **Vereinbarung** ist eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.
-    glossary: Eine (gemeinsam) beschlossene Richtline, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.
+    glossary: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.
   alignment:
     name: gemeinsame Ausrichtung
     glossary: Der Prozess, die Aktivitäten aller Teile einer Organisation auf die gemeinsamen Ziele hin auszurichten.
@@ -116,7 +116,7 @@ terms:
     definition: Ein **Muster** ist eine Vorgehensweise, um einer bestimmten Herausforderung erfolgreich zu begegnen.
     glossary: Eine Vorgehensweise, um einer bestimmten Herausforderung erfolgreich zu begegnen.
   primary-driver:
-    name: Primärteiber
+    name: Primärtreiber
     definition: ""
     glossary: Der Treiber, der eine Domäne begründet, wird als Primärtreiber dieser Domäne bezeichnet.
   principle:
@@ -126,16 +126,16 @@ terms:
   role:
     name: Rolle
     definition: ""
-    glossary: Eine Rolle ist ein Verantworungsbereich, der über eine Domäne definiert und an eine Person übertragen wird.
+    glossary: Eine Rolle ist ein Verantwortungsbereich, der über eine Domäne definiert und an eine Person übertragen wird.
   scm:
     name: SKM
-    glossary: (die soziokratische Kreisorganisationsmethode) Eine egalitäre Governace-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
+    glossary: (die soziokratische Kreisorganisationsmethode) Eine egalitäre Governance-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
   self-governance:
     name: Selbststeuerung
     definition: ""
     glossary: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
   self-organization:
-    name: Selbstorgansation
+    name: Selbstorganisation
     definition: ""
     glossary: Menschen, die ihre Arbeit - innerhalb der durch Governance festgelegten Grenzen - selbst organisieren.
   semi-autonomy:

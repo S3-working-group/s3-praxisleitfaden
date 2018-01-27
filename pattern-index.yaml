@@ -70,7 +70,7 @@ patterns:
     pid: 5
   - 
     gid: 9
-    name: Koordinatior(in)
+    name: Koordinator(in)
     pid: 7
   - 
     gid: 5
