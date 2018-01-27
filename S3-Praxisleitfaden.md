@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (de-v2018-01-14-rc4) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-16-de-0.06) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -122,7 +122,7 @@ _**Wert** ist die Bedeutung oder der Nutzen von etwas in Bezug  auf einen bestim
 
 _**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht notwenig ist oder ihr sogar im Wege steht._
 
-Über die Konzepte von Wert und Verschwendung können Organisationen, die Muster aus S3 verwenden, auch viele Praktiken und Ideen aus den Bereichen der**Lean Production** und der **Lean Softwareentwicklung** nutzen, beispielsweise:
+Über die Konzepte von Wert und Verschwendung können Organisationen, die Muster aus S3 verwenden, auch viele Praktiken und Ideen aus den Bereichen der **Lean Production** und der **Lean Softwareentwicklung** nutzen, beispielsweise:
 
 - Wertstromanalyse
 - verschiedene Strategien zur Vermeidung von Verschwendung
@@ -144,7 +144,7 @@ Domänen werden an Mitarbeiter delegiert (z.B. an eine Geschäftseinheit, eine A
 
 ## Domänen delegieren
 
-Der letztendliche Verantwortung für eine Domäne verbleibt bei der delegierenden Person. Diese bestimmt:
+Wer eine Domäne delegiert (die *Delegierende*) bleibt weiterhin verantwortlich für diese Domäne, und definiert oft:
 
 - **Kernaufgaben** (die wesentlichen delegierten Arbeitsaufgaben und Entscheidungen)
 - **Grenzen von Autonomie und Einfluss**, normalerweise in Bezug auf die Organisation selbst (z.B. Budget, Ressourcen, Delegationsstufe, Reporting)
@@ -155,7 +155,7 @@ Der letztendliche Verantwortung für eine Domäne verbleibt bei der delegierende
 
 ![right,fit](img/driver-domain/domain-primay-sub.png)
 
-Eine Domäne kann in Bezug auf einen Organisationstreiber - den so genannten **Primärtreiber** - definiert werden: als die Menge derjenigen Subtreiber, die im Kontext der Antwort auf diesen Primärtreibers ebenfalls berücksichtigt werden müssen.
+Eine Domäne kann in Bezug auf einen Organisationstreiber - den so genannten **Primärtreiber** - definiert werden: die Domäne ist die Menge derjenigen Subtreiber, die im Kontext der Antwort auf diesen Primärtreibers ebenfalls berücksichtigt werden müssen.
 
 - **Hauptaufgaben**: direkt vom Primärtreiber abgeleitet
 - **Einschränkungen**: bezogen auf die Organisation selbst
@@ -166,7 +166,7 @@ Eine Domäne kann in Bezug auf einen Organisationstreiber - den so genannten **P
 
 ![right,fit](img/driver-domain/nested-domains.png)
 
-- Verantwortlichkeit bezieht sich auf für alle Vereinbarungen, einschließlich Kreise, Rollen, und der Organisation selbst
+- Verantwortlichkeit bezieht sich auf alle Vereinbarungen, einschließlich Kreise, Rollen, und der Organisation selbst
 - die primäre Verantwortlichkeit aller Mitarbeiter bezieht sich auf effektive Zusammenarbeit bei der Antwort auf Organisationstreiber
 - Einzelpersonen und Gruppen sind jeweils verantwortlich für ihre Arbeit, und für ihre eigene Weiterentwicklung. Die Organisation stellt die dafür erforderliche Unterstützung bereit
 - jedes Mitglied einer Organisation ist verantwortlich dafür, seine Handlungen an den Werten der Organisation auszurichten
@@ -318,10 +318,10 @@ Ein Treiber kann - je nach Standpunkt - als Problem oder auch als Chance beschri
 
 _Ein **Einwand** ist ein Grund, warum ein Vorschlag, eine Entscheidung oder eine Handlung einer effektiv(er)en Antwort auf einen Treiber im Weg steht._
 
-Einwände enthalten Informationen, die darauf hindeuten:
+Einwände enthalten Informationen über Vorschläge, Entscheidungen, bestehende Vereinbarungen oder Massnahmen, die darauf hindeuten, 
 
-- dass sicher (oder sehr wahrscheinlich) Schaden entstehen wird (der Vorschlag ist nicht sicher genug, um ihn auszuprobieren)
-- dass man Vorschläge, Entscheidungen, bestehende Vereinbarungen oder Massnahmen signifikant verbessern kann
+- dass (zumindest sehr wahrscheinlich) Schaden entstehen wird, sie sind also nicht sicher genug, um sie auszuprobieren
+- wie man sie signifikant verbessern kann 
 
 * * *
 
@@ -507,7 +507,7 @@ Kleine oder grosse Gruppen identifizieren und priorisieren Treiber, um in selbst
 
 * * *
 
-## Driver Mapping (Fortsetzung)
+## Driver Mapping (…)
 
 ![inline,fit](img/facilitation-guides/driver-mapping-fg-print.png)
 
@@ -528,7 +528,7 @@ Kleine oder grosse Gruppen identifizieren und priorisieren Treiber, um in selbst
 
 ## Pattern 2.1: Um Hilfe bitten
 
-**Ein einfaches Protokoll, das Lernen, die Vermittlung von Fähigkeiten und den Aufbau von Beziehungen ermöglicht, und dabei die Autonomie des Einzelnen respektiert.**
+**Ein einfaches Protokoll, das Lernen, die Vermittlung von Fähigkeiten und den Aufbau von Beziehungen unterstützt, und dabei die Autonomie des Einzelnen respektiert.**
 
 Frage einen Kollegen, "*Wärest Du bereit, mir mit … zu helfen*?" Die gefragte Person antwortet nur mit einem einfachen "*ja*" or "*nein*".
 
@@ -671,7 +671,7 @@ Kunstvolle Teilnahme kann im Einzelfall auch bedeuten, andere zu unterbrechen, E
 
 * * *
 
-## Gemeinsame Werte (Fortsetzung)
+## Gemeinsame Werte (…)
 
 - aus Werten kann angemessenes Handeln abgeleitet werden, auch wenn es für etwas keine explizite Vereinbarungen gibt
 - die Einigung auf gemeinsame Werte ist eine **Strategie** zur Unterstützung der Effektivität einer Organisation: 
@@ -695,7 +695,7 @@ Ein Governance-Moderator …
 
 * * *
 
-## Governance-Moderator (Fortsetzung)
+## Governance-Moderator (…)
 
 Der Governance-Moderator sollte sich auch mit folgenden Patterns vertraut machen:
 
@@ -731,7 +731,7 @@ Beim Eingehen formeller oder informeller Vereinbarungen mit Anderen:
 
 * * *
 
-## Verantwortung und Verträge (Fortsetzung)
+## Verantwortung und Verträge (…)
 
 ![right,fit](img/circle/enter-leave-circle.png)
 
@@ -853,7 +853,7 @@ Eine Rolle ist ein einfacher Weg für eine Gruppe, um wiederkehrende Aufgaben od
 
 * * *
 
-## Rolle (Forts.)
+## Rolle (…)
 
 - eine Person kann mehrere Rollen innehaben, und eine Rolle kann von mehreren Personen ausgefüllt werden
 - Personen die eine Rolle inne haben, werden per Konsent und für einen festgelegten Zeitraum gewählt
@@ -887,7 +887,7 @@ Eine Gruppe wählt eines seiner Mitglieder, um ihre Interessen in den Steuerungs
 
 **Ermögliche *bidirektionalen* Fluss von Information und Einfluss zwischen zwei Gruppen.**
 
-Zwei voneinander abhängige Gruppen wählen jeweils eines ihrer Mitglieder, das die Interessen seiner Gruppe in den Steuerungsentscheidungen der jeweils anderen Gruppe vetritt.
+Zwei voneinander abhängige Gruppen wählen jeweils eines ihrer Mitglieder, das die Interessen seiner Gruppe in den Steuerungsentscheidungen der jeweils anderen Gruppe vertritt.
 
 - Unterstützt Gleichstellung über Gruppengrenzen hinweg
 - Kann in hierarchischen Strukturen helfen, wertvolle Informationen ans Licht zu bringen
@@ -911,7 +911,7 @@ Repräsentanten (auch: Delegierte oder Vertreter):
 
 ![right,fit](img/structural-patterns/helping-team.png)
 
-Eine Gruppe, die von einer Delegierten beauftragt wird, Anforderungen innerhalb festgelegter Rahmenbedingungen abzuarbeiten.
+Eine Gruppe, die von einer Delegierenden beauftragt wird, Anforderungen innerhalb festgelegter Rahmenbedingungen abzuarbeiten.
 
 Ein Hilfsteam:
 
@@ -974,7 +974,7 @@ Wenn eine Organisation anerkennt, dass sie und ihr Umfeld voneinander abhängig 
 
 ![right,fit](img/process/adapt-pattern-to-context.png)
 
-- stelle bei der Apassung eines Patterns sicher, dass jeder Betroffene 
+- stelle bei der Anpassung eines Patterns sicher, dass jeder Betroffene 
     - versteht warum es notwendig ist, das Pattern zu verändern
     - bei der Anpassung einbezogen wird oder zumindest repräsentiert ist
 - nutze die sieben Prinzipien als Anhaltspunkte für die Anpassung
@@ -1009,9 +1009,9 @@ Verhalte dich selbst so, wie du es dir von anderen wünschst.
 
 **Ein Ansatz für einzelne Personen, um Wandel auszulösen und zu begleiten.**
 
-- Sei der Wandel, den Du sehen möchtest
+- Verhalte dich selbst so, wie Du es Dir auch von anderen wünschst.
 - Verwende S3-Pattern und passe sie an, wann immer das nützlich erscheint
-- Erzähle darüber, wie und warum Du S3-Pattern verwendest, und erkläre Ergebnisse, Erfolge und Scheitern
+- Erzähle darüber, wie und warum Du S3-Muster verwendest, und erkläre Ergebnisse, Erfolge und Scheitern
 - Lade andere dazu ein, mit Dir zu experimentieren
 
 ---
@@ -1124,7 +1124,7 @@ Eine einfache Möglichkeit, Domänen zu klären ist eine **Domänenbeschreibung*
 
 - Primärtreiber
 - Kernaufgaben
-- Grenzen
+- Einschränkungen
 - Bewertungskriterien für Entwicklungsgespräche
 - Amtszeit (für Rollen)
 - (vorherige Versionen der Domänenbeschreibung)
@@ -1154,8 +1154,8 @@ Eine **Leistung** wird als Ergebnis einer Vereinbarung in Reaktion auf einen Tre
 
 Im Kontext einer Vereinbarung unterstützt die klare Definition von Leistungen das gemeinsame Verständnis:
 
-- Beschreibe genügend detailliert
-- Beziehe Dich auf andere Dokumente wo hilfreich oder notwendig
+- beschreibe ausreichend detailliert
+- beziehe dich auf andere Dokumente, wo hilfreich oder notwendig
 
 * * *
 
@@ -1177,8 +1177,8 @@ Leistungen explizit zu definieren kann hilfreich sein zur Verbesserung von:
 
 Klar definierte Evaluationskriterien können helfen, ein gemeinsames Verständnis dafür zu entwickeln, ob eine Vereinbarung die erwünschten Ergebnisse gebracht hat.
 
-- Wähle **einfache und eindeutige** Kriterien und dokumentiere sie (um Diskussionen bei der Überprüfung zu vermeiden)
-- Definiere **handlungsorientierte Metriken** um Ergebnisse laufend verfolgen und Abweichungen von beabsichtigten Ergebnissen erkennen zu können
+- Wähle **einfache und eindeutige** Kriterien und dokumentiere sie (um Diskussionen bei der Überprüfung zu vermeiden).
+- Definiere **handlungsorientierte Metriken**, um Ergebnisse laufend verfolgen und Abweichungen von beabsichtigten Ergebnissen erkennen zu können.
 
 ---
 
@@ -1219,11 +1219,11 @@ Verbreitete Plattformen für Logbücher sind Wikis (wie DokuWiki oder MediaWiki)
 
 Der Logbuchführer ist verantwortlich für die Pflege des Logbuchs des Kreises:
 
-- Aufzeichnung von Details zu Vereinbarungen, Domänenbeschreibungen, Wahlen, Evalutionstermine, Sitzungsprotokolle etc.
-- Organisation relevanter Informationen, und Verbesserung des Logbuch-Systems
-- das Logbuch auf aktuellem Stand halten
-- Zugang der Kreismitglieder (und der Gesamtorganisation, je nach Vereinbarung) zum Logbuch sicherstellen
-- alle technischen Aspekte der Logbuchführung betreuen
+- Dokumentation von relevanten Details zu Vereinbarungen, Domänenbeschreibungen, Wahlen, Evalutionsterminen, Sitzungsprotokollen etc.
+- Organisation der Information, und Verbesserung des Logbuch-Systems
+- Aktualisierung des Logbuchs
+- Sicherstellung des Zugangs der Kreismitglieder (und der Gesamtorganisation, je nach Vereinbarung) zum Logbuch
+- Betreuung aller technischen Aspekte der Logbuchführung
 
 ---
 
@@ -1244,7 +1244,7 @@ Ein Steuerungstreffen ist meistens:
 
 - moderiert 
 - vorbereitet 
-- zeitlich beschränkt (i.d. R. zwischen 90-120 Minuten)
+- zeitlich beschränkt (i.d. R. zwischen 90 und 120 Minuten)
 - ... und findet alle 4 Wochen statt
 
 * * *
@@ -1258,7 +1258,7 @@ Ablauf eines typischen Steuerungstreffen:
     - Konsent zum letzten Protokoll, Datum des nächsten Treffens etc.
     - Last-Minute-Agendapunkte, und Konsent zur Agenda
 - Agendapunkte abarbeiten 
-- Treffen evaluieren: Reflektion der Interaktionen, Erfolge zelebrieren, Verbesserungsvorschläge überlegen
+- Treffen evaluieren: Reflexion der Interaktionen, Erfolge zelebrieren, Verbesserungsvorschläge überlegen
 - Abschluss
 
 * * *
@@ -1313,7 +1313,7 @@ Die Website [plans-for-retrospectives.com](http://www.plans-for-retrospectives.c
 
 **Ein tägliches Meeting um Arbeitsaufgaben zu koordinieren, Produktivität und Effektivität zu erhöhen, und gemeinsames Lernen zu ermöglichen.**
 
-- feste Time-Box (üblicherweise 15 min.)
+- feste Timebox (üblicherweise 15 min.)
 - findet jeden Tag zur selben Zeit und am selben Ort statt
 - die Gruppe versammelt sich um das Taskboard (oder ein anderes visuelles Projektmanagement-Werkzeug) 
     - Koordination der Arbeit für den Tag
@@ -1337,10 +1337,10 @@ Gruppen halten in regelmäßigen Abständen (1-4 Wochen) zeitlich begrenzte Meet
 
 **Halte regelmäßige Treffen (typischerweise wöchentlich), um Bericht zu erstatten und Arbeitsaufgaben zu koordinieren.**
 
-- Moderiere das Treffen, und bevorzuge Runden anstatt Diskussionen,
-- Falls möglich, erstelle vor dem Treffen eine Agenda 
-    - Erwähne notwendige Vorbereitung seitens der Teilnehmer
-    - Weitere Punkte können im Verlauf der Berichterstattung aufkommen
+- sorge für Moderation, und bevorzuge Runden (anstatt Diskussionen)
+- erstelle die Agenda möglichst vor dem Meeting 
+    - stelle Informationen bereit, damit sich die Teilnehmer vorbereiten können
+    - aus den Berichten können sich während des Meetings neue Agendapunkte ergeben
 
 * * *
 
@@ -1352,9 +1352,9 @@ Gruppen halten in regelmäßigen Abständen (1-4 Wochen) zeitlich begrenzte Meet
     - Kreismetriken (falls vorhanden)
     - Projekte und Aufgaben
 - Agendapunkte 
-    - Informationen mitteilen
-    - Aufgaben oder Projekte erfassen oder aktualisieren
-    - Neue oder aktualisierte Vereinbarungen vorschlagen
+    - Informationen weitergeben
+    - bestehende Aufgaben oder Projekte aktualisieren, oder neue erfassen
+    - neue Vereinbarungen treffen oder bestehende aktualisieren
 
 ---
 
@@ -1374,7 +1374,7 @@ Gruppen halten in regelmäßigen Abständen (1-4 Wochen) zeitlich begrenzte Meet
 - Gib jedem im Kreis der Reihe nach die Gelegenheit, zu sprechen.
 - Beginne jede Runde mit einer anderen Person, und ändere die Richtung (im oder gegen den Uhrzeigersinn), um den ersten und letzten Beitrag, sowie die Reihenfolge der Teilnehmer zu variieren.
 
-Erfahrene Gruppen entscheiden sich auch manchmal dafür, bestimmte Runden in S3-Gruppenprozessen durch andere Formate zu ersetzen.
+Erfahrene Gruppen entscheiden sich manchmal dafür, bestimmte Runden in S3-Gruppenprozessen durch andere Formate zu ersetzen.
 
 ---
 
@@ -1386,7 +1386,7 @@ Bestimme für jedes Meeting einen Moderator. Auch ein unerfahrener Moderator kan
 - wähle einen Moderator, der … 
     - für jedes Thema eine passende Aktivität moderiert
     - einen sicheren Rahmen schafft und auf die Zeit achtet
-    - am Schluß jedes Meetings eine kurze Evaluation durchführt
+    - am Ende jedes Meetings eine kurze Evaluation durchführt
 
 ---
 
@@ -1432,14 +1432,14 @@ Die Rolle kann vorübergehend (z. B. nur für eine bestimmte Veranstaltung) oder
 
 - Vorbereitung 
     - Ziele und gewünschte Ergebnisse identifizieren
-    - Vorbereitung und Verteilung von Tagesordnung und Zeitplan
+    - Tagesordnung und Zeitplan vorbereiten und verteilen
     - erforderliche Zeit schätzen
     - Teilnehmer aussuchen und einladen
     - Termin vereinbaren
     - Veranstaltungsort buchen (und bei Bedarf Anreise planen)
     - Raum vorbereiten, notwendige Materialien und Informationen bereitstellen
     - Wahl eines Moderators (und bei Bedarf eines Protokollführers) sicherstellen
-- Nachverfolgung 
+- Nachbereitung 
     - Raum aufräumen, Schlüssel zurückgeben etc.
     - sicherstellen, dass das Protokoll verteil wird
 
@@ -1491,7 +1491,7 @@ Jedes Element in einem (priorisierten) Backlog hat:
 
 - eine **kurze Beschreibung**
 - eine **eindeutige Referenznummer** (oder ein Link) für jedes Element 
-- (eine **Positionsnummer** oder eine andere Form der Reihenfolge)
+- (eine **Priorität** oder ein anderes Merkmal, das die Reihenfolge anzeigt)
 - **Abhängigkeiten** zu anderen Aufgaben oder Projekten
 - **Fälligkeitsdatum** (falls erforderlich)
 - (optional) ein Maß für **Wert** 
@@ -1501,9 +1501,9 @@ Jedes Element in einem (priorisierten) Backlog hat:
 
 ## Pattern 9.2: Backlogs priorisieren
 
-Ordne **alle unerledigten Arbeitsaufgaben** so, dass die wichtigsten zuerst kommen:
+Ordne **alle unerledigten Aufgaben** so, dass die wichtigsten zuerst kommen:
 
-- Arbeitsaufgaben werden von oben gezogen, wann immer Kapazität frei ist
+- Aufgaben werden von oben gezogen, sobald Kapazität frei wird
 - keine zwei Elemente können dieselbe Wichtigkeit haben, d.h. es ist notwendig, sich auf Prioritäten zu einigen und harte Entscheidungen zu treffen
 - **Vorteile** 
     - der Fokus liegt immer auf den momentan wichtigsten Aufgaben
@@ -1543,15 +1543,15 @@ Transparenz bzgl. des Status aller Arbeitsaufgaben, die anstehen, in Arbeit sind
 
 - Mitarbeiter holen sich neue Arbeit, wenn sie Kapazität haben (anstatt dass ihnen Arbeit zugeteilt wird)
 - priorisiere vorhandene Arbeitsaufgaben, so dass sichergestellt ist, dass die wichtigsten Aufgaben zuerst abgearbeitet werden
-- verhindert die Überlastung des Systems, vor allem, wenn auch die laufenden Arbeitsaufgaben für jeden Mitarbeiter beschränkt wird
+- Pull-Systeme verhindert die Überlastung des Systems (dieser Effekt wird noch verstärkt, wenn man zusätzlich auch Zahl der gleichzeitigen Arbeitsaufgaben für pro Mitarbeiter beschränkt)
 
 ---
 
-## Pattern 9.5: laufende Arbeit begrenzen
+## Pattern 9.5: Laufende Arbeit begrenzen
 
 **Begrenze die Anzahl an Arbeitsaufgaben für jeden Schritt deiner Arbeitsprozesse**
 
-laufende Arbeit beinhaltet
+Laufende Arbeit beinhaltet
 
 - die Anzahl der Elemente im Backlog
 - gleichzeitige Projekte oder Aufgaben für Gruppen oder Personen
@@ -1565,17 +1565,17 @@ Wenn eine Aktion eine vereinbarten Grenze überschreiten würde, muss dies zuers
 
 ![right,fit](img/workflow-and-value/align-flow.png)
 
-- in einer effektiven Organisation **unterstützt der Fluss von Information und Einfluss den kontinuierlichen Wertfluss**
+- In einer effektiven Organisation **unterstützt der Fluss von Information und Einfluss den kontinuierlichen Wertfluss**.
 - Beide Flüsse können durch die kontinuierliche Verbesserung von Vereinbarungen schrittweise angeglichen werden.
 
 * * *
 
 ### Wertfluss
 
-- der Wertfluss durch die Organisation wird durch (explizite und implizite) Vereinbarungen und Annahmen geleitet
-- (noch) unfertige Arbeit wird als Verschwendung betrachtet, weil sie Ressourcen bindet, aber noch kein Wert geschaffen wurde
-- kontinuierlicher Wertfluss verringert das Potenzial für die Akkumulation von Verschwendung 
-    - zudem schafft er schnellere Rückmeldung und verstärkt dadurch das Lernpotenzial
+- Der Wertfluss durch die Organisation wird durch (explizite und implizite) Vereinbarungen und Annahmen geleitet.
+- Noch unfertige Arbeit wird als Verschwendung betrachtet, weil sie Ressourcen bindet, aber noch kein Wert geschaffen wurde.
+- Kontinuierlicher Wertfluss sorgt dafür, dass sich weniger Verschwendung ansammeln kann. 
+    - Zudem schafft er schnellere Rückmeldung und verstärkt dadurch das Lernpotenzial.
 
 ---
 
@@ -1613,7 +1613,7 @@ Eine effektive Organisationsstruktur:
 
 ## Organisationsstruktur (…)
 
-Die Grundbausteine für Organisationsstruktur sind interdependente und verbundene Domänen.
+Die Grundbausteine für Organisationsstruktur sind voneinander abhängige und verbundene Domänen.
 
 Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als komplexe adaptive Systeme oder Netzwerke, in denen mehrere funktionale Strukturen parallel existieren können).
 
@@ -1636,7 +1636,7 @@ Soziokratie 3.0 beschreibt verschiedene Strukturmuster, aus denen eine Vielzahl 
 
 **Lagere Dienstleistungen aus, die von zwei oder mehr Domänen benötigt werden.**
 
-Ein Servicekreis wird von Mitgliedern der Domänen besetzt, denen er dient, bei Bedarf können auch zusätzliche Personen hinzugezogen werden.
+Ein Servicekreis wird von Mitgliedern der Domänen besetzt, denen er dient; bei Bedarf können auch zusätzliche Personen hinzugezogen werden.
 
 ---
 
@@ -1740,18 +1740,18 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 * * *
 
-## Änderungen zum 21.10.2017 (Forts.)
+## Änderungen zum 21.10.2017 (…)
 
 - Einführung: 
     - neuer Abschnitt "was habe ich davon?"
     - Definitionen in der Einleitung für Governance, Selbstorganisation, Teilautonomie und operatives Geschäft
     - Klärung von Domänen und ihrer Beziehung zu Treibern
     - Kernkonzepte besser erklärt
-    - handlungsortientierte Beschreibung der Prinzipien
+    - handlungsorientierte Beschreibung der Prinzipien
 
 * * *
 
-## Änderungen zum 21.10.2017 (Forts.)
+## Änderungen zum 21.10.2017 (…)
 
 - *Kunstvolle Teilnahme*: Beschreibung überarbeitet
 - *Vereinbarung*: Erklärung, dass das Konzept von Vereinbarungen auch innerhalb einer Rolle angewendet werden kann
@@ -1764,7 +1764,7 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 * * *
 
-## Änderungen zum 21.10.2017 (Forts.)
+## Änderungen zum 21.10.2017 (…)
 
 - *Vereinbarungen prüfen*: Fragen an Peer-Review angepasst
 - *Steuerungs-Backlog*: Definition überarbeitet
@@ -1778,7 +1778,7 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 * * *
 
-## Änderungen zum 21.10.2017 (Forts.)
+## Änderungen zum 21.10.2017 (…)
 
 **Umbenannte Muster**
 
@@ -1790,11 +1790,8 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 | hinzugefügt                                                           | entfernt                                                                        |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| _Treiber beschreiben_  
-_offene Domäne_  
-_Einfluss delegieren_ | _Koordinationskreis_  
-_Verschachtelte Domänen_  
-_Treiber qualifizieren_ |
+| _Treiber beschreiben_<br/>_offene Domäne_<br/>_Einfluss delegieren_ | _Koordinationskreis_ <br/>_Verschachtelte Domänen_<br/>_Treiber qualifizieren_ |
+
 
 ---
 
@@ -1832,7 +1829,7 @@ Schlussendlich gebührt unser Dank unseren zahlreichen Kollegen und Kunden - sow
 
 * * *
 
-## Danksagung (Forts.)
+## Danksagung (…)
 
 Folgenden Personen wollen wir besonders danken für ihren Beitrag zu Soziokratie 3.0, oder für ihre Arbeit, die S3 wesentlich beeinflusst hat:
 
@@ -1912,11 +1909,11 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Operatives Geschäft**: Das Abarbeiten aller anfallenden Arbeiten, innerhalb des durch Governance und Koordination gesetzten Rahmens.
 **Organisation**: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.
 **Organisationstreiber**: Ein Treiber, der in (direktem oder indirektem) Zusammenhang zum Primärtreiber einer Organisation steht.
-**Primärteiber**: Der Treiber, der eine Domäne begründet, wird als Primärtreiber dieser Domäne bezeichnet.
+**Primärtreiber**: Der Treiber, der eine Domäne begründet, wird als Primärtreiber dieser Domäne bezeichnet.
 **Prinzip**: Eine Gesetzmäßigkeit, die einer Sache zugrunde liegt, oder ein Grundsatz für   Denken und Handeln.
-**Rolle**: Eine Rolle ist ein Verantworungsbereich, der über eine Domäne definiert und an eine Person übertragen wird.
-**SKM**: (die soziokratische Kreisorganisationsmethode) Eine egalitäre Governace-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
-**Selbstorgansation**: Menschen, die ihre Arbeit - innerhalb der durch Governance festgelegten Grenzen - selbst organisieren.
+**Rolle**: Eine Rolle ist ein Verantwortungsbereich, der über eine Domäne definiert und an eine Person übertragen wird.
+**SKM**: (die soziokratische Kreisorganisationsmethode) Eine egalitäre Governance-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
+**Selbstorganisation**: Menschen, die ihre Arbeit - innerhalb der durch Governance festgelegten Grenzen - selbst organisieren.
 **Selbststeuerung**: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
 **Soziokratie**: Die Geisteshaltung, dass die von einer Entscheidung betroffenen Menschen diese Entscheidung beeinflussen können, wenn sie gute Gründe dafür haben.
 
@@ -1937,7 +1934,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Transparenz**: Mache alle Informationen für jeden in der Organisation zugänglich, es sei denn, es gibt einen wichtigen Grund für Vertraulichkeit.
 **Treiber**: Das Motiv einer Person oder Gruppe, in einer bestimmten Situation zu handeln.
 **Verantwortung**: Handle, wenn es erforderlich ist; befolge, was Du vereinbart hast und behalte die gesamte Organisation im Blick.
-**Vereinbarung**: Eine (gemeinsam) beschlossene Richtline, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.
+**Vereinbarung**: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.
 **Verschwendung**: Alles, was für die effektive Antwort auf einen Treiber nicht notwenig ist oder ihr sogar im Wege steht.
 **Wert**: Die Bedeutung oder der Nutzen von etwas in Bezug  auf einen bestimmten Treiber. Auch: ein wichtiges Prinzip für das Verhalten einer Person, oder in einer Gruppe (meist im Plural verwendet, Werte, oder Unternehmenswerte).
 **Werte**: Eine Sammlung wichtiger Prinzipien für das Verhalten einer Person, oder in einer Gruppe. Nicht zu verwechseln mit dem Begriff "Wert" (Singular) in Zusammenhang mit Treibern.
@@ -1950,7 +1947,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 Patterns  | Patterns (cont.)
 --- | ---
-Als Beispiel dienen - 5.3<br\>Angestrebtes Ergebnis - 6.4<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Daily Standup - 7.3<br\>Delegiertenkreis - 10.2<br\>die Betroffenen entscheiden - 1.8<br\>Die sieben Prinzipien leben - 3.2<br\>Domänen klären - 6.3<br\>doppelt verbundene Hierarchie - 10.4<br\>Doppelte Verbindung - 4.5<br\>Driver Mapping - 1.11<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6<br\>Entwicklungsgespräch - 2.3<br\>Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6 | Fluss angleichen - 9.6<br\>Fraktal-Organisation - 10.6<br\>Gastgeber(in) - 8.4<br\>Gehaltstransparenz - 3.7<br\>Gemeinsame Werte - 3.3<br\>Governance-Moderator - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsent-Entscheidung - 1.4<br\>kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinatior(in) - 9.7<br\>Kreis - 4.2<br\>Kunstvolle Teilnahme - 3.1<br\>laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7<br\>Logbuchführer - 6.8<br\>Meetings evaluieren - 8.3<br\>Meetings moderieren - 8.2
+Als Beispiel dienen - 5.3<br\>Angestrebtes Ergebnis - 6.4<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Daily Standup - 7.3<br\>Delegiertenkreis - 10.2<br\>die Betroffenen entscheiden - 1.8<br\>Die sieben Prinzipien leben - 3.2<br\>Domänen klären - 6.3<br\>doppelt verbundene Hierarchie - 10.4<br\>Doppelte Verbindung - 4.5<br\>Driver Mapping - 1.11<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6<br\>Entwicklungsgespräch - 2.3<br\>Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6 | Fluss angleichen - 9.6<br\>Fraktal-Organisation - 10.6<br\>Gastgeber(in) - 8.4<br\>Gehaltstransparenz - 3.7<br\>Gemeinsame Werte - 3.3<br\>Governance-Moderator - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsent-Entscheidung - 1.4<br\>kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinator(in) - 9.7<br\>Kreis - 4.2<br\>Kunstvolle Teilnahme - 3.1<br\>laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7<br\>Logbuchführer - 6.8<br\>Meetings evaluieren - 8.3<br\>Meetings moderieren - 8.2
 
 
 ---
