@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-16-de-0.06) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-16-de-0.07) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -71,9 +71,9 @@ Im Anhang findest Du ein Glossar, das kurze Erklärungen dieser und weiterer Beg
 
 _Ein **Muster** ist eine Vorgehensweise, um einer bestimmten Herausforderung erfolgreich zu begegnen._
 
-- Die Muster in S3 entstehen durch die Beobachtung vieler Organisationen bei der Lösung ihrer Probleme und dem Umgang mit ihren Herausforderungen
-- die Muster können an den jeweiligen Kontext angepasst und dann weiterentwickelt werden
-- die Muster sind thematisch in 10 Kategorien geordnet
+- Die Muster in S3 entstehen durch die Beobachtung vieler Organisationen bei der Lösung ihrer Probleme und dem Umgang mit ihren Herausforderungen.
+- Die Muster können an den jeweiligen Kontext angepasst und dann weiterentwickelt werden.
+- Die Muster sind thematisch in 10 Kategorien geordnet.
 
 ---
 
@@ -581,11 +581,11 @@ Verbesserungsvorschläge können sich auf persönliche Entwicklung, Zusammenarbe
 
 **Ein Plan, um sich effektiver um eine Domäne zu kümmern, der von Delegierenden und Beauftragten vereinbart wird.**
 
-Der Entwicklungsplan kann für einen Mitarbeiter in einer Rolle oder für eine Gruppe (z.B. eine Abteilung, ein Kreis, ein Team oder eine offene Domäne) erstellt werden.
+Der Entwicklungsplan kann für einen Mitarbeiter in einer Rolle oder für eine Gruppe (z.B. eine Abteilung, einen Kreis, ein Team oder eine offene Domäne) erstellt werden.
 
 Die Entwicklung kann sich auf eine Klarstellung von Treiber oder Domäne beziehen, auf eine Anpassung der Strategie, auf neue oder veränderte Vereinbarung, und auf konkrete Aufgaben für die Beauftragten oder auch für die Delegierenden.
 
-Der Vorschlag für einen Entwicklungsplan wird, zusammen mit Empfehlungen für die Anpassung der Domäne, den Delegierenden vorgelegt, damit diese Einwände und Bedenken anmelden können.
+Der Entwicklungsplan (inklusive aller zugehörigen Empfehlungen zu Änderungen der Beschreibungen von Domänen oder Treibern) erfordert Konsent von Delegierenden und Beauftragten.
 
 * * *
 
@@ -712,11 +712,11 @@ Der Governance-Moderator sollte sich auch mit folgenden Patterns vertraut machen
 ## Pattern 3.5: Vereinbarungen brechen
 
 - Ist manchmal **notwendig** …
-- … kann die Gemeinschaft aber **teuer** zu stehen kommen
-- Sei verantwortungsvoll! 
-    - **Räume** entstandene Unordnung auf
+- … kann allerdings auch die **Gemeinschaft belasten**
+- Übernimm die Verantwortung: 
+    - **Beseitige** die entstandenen Störungen
     - **Kläre die Situation** bei nächster Gelegenheit mit Betroffenen und Zuständigen
-    - **Veranlasse Änderungen**, anstatt dieselbe Vereinbarung wiederholt zu brechen
+    - **Initiiere Änderungen**, anstatt dieselbe Vereinbarung wiederholt zu brechen
 
 ---
 
@@ -746,19 +746,19 @@ Pflege Selbstverantwortung zum Schutz der Organisationskultur und helfe neuen Mi
 
 ## Pattern 3.7: Gehaltstransparenz
 
-- Transparente Gehälter müssen gerecht sein
-- Gerechtigkeit hat mehrere orthogonale Dimensionen 
-- Die Wahrnehmung von Gerechtigkeit hängt vom spezifischen organisatorischen Kontext ab
+- transparente Gehälter müssen gerecht sein
+- Gerechtigkeit hat mehrere voneinander unabhängige Dimensionen 
+- die Wahrnehmung von Gerechtigkeit hängt vom spezifischen organisatorischen Kontext ab
 - Mitglieder und relevante Anspruchsgruppen (z.B. Investoren) sollten dabei berücksichtigt werden
-- Eine Gehaltsformel erstellen 
-    - Fester Anteil: Sicherstellung des Lebensunterhalts
-    - Variabler Anteil: Gerechte Aufteilung von Gewinnen und Verlusten
-- Vergütung für sich ändernde Rollen berücksichtigen
-- Strategie für Übergang zu neuen Verträgen und Kompensations-Vereinbarungen planen
+- entwickle eine Gehaltsformel: 
+    - fester Anteil: soll den Lebensunterhalt sicherstellen
+    - variabler Anteil: gerechte Verteilung von Gewinn und Verlust
+- berücksichtige Vergütung für sich ändernde Rollen
+- entwickle eine Strategie für den Übergang zu den neuen Verträgen und Kompensationsvereinbarungen
 
 * * *
 
-### Zwei Arten, Gehälter transparent zu machen
+### Zwei Möglichkeiten, um Gehälter offenzulegen
 
 ![inline,fit](img/process/opening-salaries.png)
 
@@ -782,13 +782,13 @@ Hilfsrollen können auch rein operativen Charakter haben. Externe Vertragspartne
 
 Verankere S3-Prinzipien und Pattern in Deinen Statuten, um **Rechtssicherheit** und **Organisationskultur** zu sichern
 
-Möglichkeiten:
+Bedenke:
 
-- Konsent und Äquivalenz in der Entscheidungsfindung
-- Wahlverfahren für Führungsrollen
+- Konsent und Gleichstellung in der Entscheidungsfindung
+- das Auswahlverfahren für Führungsrollen
 - Organisationsstruktur, Werte und Prinzipien
 - Einfluss von Inhabern oder Aktionären
-- Verteilung von Gewinnen und Verlusten
+- Verteilung von Gewinn und Verlust
 
 ---
 
@@ -847,7 +847,7 @@ Ein Kreis …
 
 Eine Rolle ist ein Verantwortungsbereich, der durch eine Domäne definiert und an eine Person (den **Inhaber** der Rolle) delegiert wird. Der Rolleninhaber kann innerhalb des durch die Domäne vorgegebenen Rahmens autonom entscheiden und handeln.
 
-Der Inhaber einer Rolle entwickelt eine Strategie, wie er sich um die Domäne kümmert, und passt diese Strategie an eventuelle Einwände der Delegierenden an.
+Der Inhaber einer Rolle schlägt eine Strategie zur Wertschöpfung in seiner Domäne vor, und entwickelt diese gemeinsam mit der Delegierenden.
 
 Eine Rolle ist ein einfacher Weg für eine Gruppe, um wiederkehrende Aufgaben oder einen bestimmten Arbeitsbereich an eines ihrer Mitglieder zu delegieren.
 
@@ -861,7 +861,7 @@ Eine Rolle ist ein einfacher Weg für eine Gruppe, um wiederkehrende Aufgaben od
 
 Der Inhaber einer Rolle kann ein Logbuch und ein Steuerungs-Backlog führen, um sein System zur Wertschöpfung zu entwickeln. 
 
-**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können wie Vereinbarungen behandelt werden.
+**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können genauso wie Vereinbarungen behandelt und entwickelt werden.
 
 * * *
 
@@ -1396,7 +1396,7 @@ Bestimme für jedes Meeting einen Moderator. Auch ein unerfahrener Moderator kan
 
 **Investiere etwas Zeit in gemeinsame Reflexion am Ende jedes Meetings oder Workshops.**
 
-Denke nach über Interaktionen, feiere Erfolge und teile Verbesserungsvorschläge.
+Gemeinsam über Interaktionen nachdenken, Erfolge feiern und Verbesserungsvorschläge machen.
 
 - vor der Abschlussrunde
 - reserviere 5 Minuten für ein einstündiges Meeting, und 15 Minuten für einen Tagesworkshop
@@ -1716,6 +1716,17 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 ---
 
+# Änderungsprotokoll 
+
+## Änderungen zu. 16.11.2017
+
+- kleine Korrekturen
+- Glossareinträge für *Kreis* und *Rolle* an Beschreibung der Muster angepasst
+- *Entwicklungsplan*: Zuständigkeiten genauer erklärt
+- *Rolle*: Entwicklung der Strategie genauer erklärt
+
+* * *
+
 ## Änderungen zum 10.11.2017
 
 - verschiedene Klarstellungen und Korrekturen
@@ -1790,8 +1801,11 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 | hinzugefügt                                                           | entfernt                                                                        |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| _Treiber beschreiben_<br/>_offene Domäne_<br/>_Einfluss delegieren_ | _Koordinationskreis_ <br/>_Verschachtelte Domänen_<br/>_Treiber qualifizieren_ |
-
+| _Treiber beschreiben_  
+_offene Domäne_  
+_Einfluss delegieren_ | _Koordinationskreis_  
+_Verschachtelte Domänen_  
+_Treiber qualifizieren_ |
 
 ---
 
@@ -1799,7 +1813,7 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 ![fit](img/framework/logo.png)
 
-**Neueste Version dieses Leitfadens**: <http://sociocracy30.org/guide/>
+**Neueste Version dieses Praxisleitfadens**: <http://sociocracy30.org/guide/>
 
 **S3 Webseite**: <http://sociocracy30.org>
 
@@ -1891,7 +1905,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Gleichstellung**: Beziehe Menschen in die sie betreffenden Entscheidungen und deren Entwicklung ein.
 **Governance**: Fortwährend entscheiden, was zu tun ist, um Ziele zu erreichen, und Richtlinien dafür festlegen, wie und wann Dinge getan werden.
 **Kernaufgaben**: Die für eine bestimmte Domäne wesentlichen Arbeitsaufgaben und Entscheidungen.
-**Komplexität**: Eine Umgebung, in dem die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen kann, aus denen man Muster ableiten kann. [nach: D. Snowden und M. Boone]
+**Komplexität**: Eine Umgebung, in der die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen kann. [nach: D. Snowden und M. Boone]
 
 
 ---
@@ -1911,7 +1925,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Organisationstreiber**: Ein Treiber, der in (direktem oder indirektem) Zusammenhang zum Primärtreiber einer Organisation steht.
 **Primärtreiber**: Der Treiber, der eine Domäne begründet, wird als Primärtreiber dieser Domäne bezeichnet.
 **Prinzip**: Eine Gesetzmäßigkeit, die einer Sache zugrunde liegt, oder ein Grundsatz für   Denken und Handeln.
-**Rolle**: Eine Rolle ist ein Verantwortungsbereich, der über eine Domäne definiert und an eine Person übertragen wird.
+**Rolle**: Ein Verantwortungsbereich, der über eine Domäne definiert und an eine Person übertragen wird.
 **SKM**: (die soziokratische Kreisorganisationsmethode) Eine egalitäre Governance-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
 **Selbstorganisation**: Menschen, die ihre Arbeit - innerhalb der durch Governance festgelegten Grenzen - selbst organisieren.
 **Selbststeuerung**: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
@@ -1947,7 +1961,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 Patterns  | Patterns (cont.)
 --- | ---
-Als Beispiel dienen - 5.3<br\>Angestrebtes Ergebnis - 6.4<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Daily Standup - 7.3<br\>Delegiertenkreis - 10.2<br\>die Betroffenen entscheiden - 1.8<br\>Die sieben Prinzipien leben - 3.2<br\>Domänen klären - 6.3<br\>doppelt verbundene Hierarchie - 10.4<br\>Doppelte Verbindung - 4.5<br\>Driver Mapping - 1.11<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6<br\>Entwicklungsgespräch - 2.3<br\>Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6 | Fluss angleichen - 9.6<br\>Fraktal-Organisation - 10.6<br\>Gastgeber(in) - 8.4<br\>Gehaltstransparenz - 3.7<br\>Gemeinsame Werte - 3.3<br\>Governance-Moderator - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsent-Entscheidung - 1.4<br\>kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinator(in) - 9.7<br\>Kreis - 4.2<br\>Kunstvolle Teilnahme - 3.1<br\>laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7<br\>Logbuchführer - 6.8<br\>Meetings evaluieren - 8.3<br\>Meetings moderieren - 8.2
+Als Beispiel dienen - 5.3<br\>Angestrebtes Ergebnis - 6.4<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Daily Standup - 7.3<br\>Delegiertenkreis - 10.2<br\>Die Betroffenen entscheiden - 1.8<br\>Die sieben Prinzipien leben - 3.2<br\>Domänen klären - 6.3<br\>Doppelt verbundene Hierarchie - 10.4<br\>doppelte Verbindung - 4.5<br\>Driver Mapping - 1.11<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6<br\>Entwicklungsgespräch - 2.3<br\>Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6 | Fluss angleichen - 9.6<br\>Fraktalorganisation - 10.6<br\>Gastgeber(in) - 8.4<br\>Gemeinsame Werte - 3.3<br\>Governance-Moderator - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsententscheidung - 1.4<br\>kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinator(in) - 9.7<br\>Kreis - 4.2<br\>Kunstvolle Teilnahme - 3.1<br\>laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7<br\>Logbuchführer - 6.8<br\>Meetings evaluieren - 8.3<br\>Meetings moderieren - 8.2<br\>Muster an Kontext anpassen - 5.1
 
 
 ---
@@ -1955,4 +1969,4 @@ Als Beispiel dienen - 5.3<br\>Angestrebtes Ergebnis - 6.4<br\>Arbeit visualisier
 
 Patterns (cont.) | Patterns (cont.)
 --- | ---
-Muster an Kontext anpassen - 5.1<br\>Navigiere nach Spannung - 1.2<br\>Offene Domäne - 4.8<br\>offene Systeme - 4.9<br\>Peer-Feedback - 2.2<br\>Pfirsichorganisation - 10.3<br\>Planungs- und Review-Meetings - 7.4<br\>Proposal Forming - 1.9<br\>Pull-System für Organisationsentwicklung schaffen - 5.2<br\>Reagiere auf Organisationstreiber - 1.1<br\>Repräsentant - 4.6<br\>Retrospektive - 7.2<br\>Rolle - 4.3<br\>Runden - 8.1<br\>S3 per Open-Space - 5.5<br\>Service-Organisation - 10.5<br\>Servicekreis - 10.1<br\>Statuten - 3.9<br\>Steuerungs-Backlog - 8.5<br\>Steuerungs-Meeting - 7.1 | Strategie entwickeln - 6.2<br\>Treiber beschreiben - 1.3<br\>Um Hilfe bitten - 2.1<br\>Verantwortung und Verträge - 3.6<br\>Verbindungen - 4.4<br\>Vereinbarung - 6.1<br\>Vereinbarungen brechen - 3.5<br\>Vereinbarungen prüfen - 1.7<br\>Wahl - 1.10<br\>Zu Veränderung einladen - 5.4
+Navigiere nach Spannung - 1.2<br\>Offene Domäne - 4.8<br\>Offene Systeme - 4.9<br\>Peer-Feedback - 2.2<br\>Pfirsichorganisation - 10.3<br\>Planungs- und Review-Meetings - 7.4<br\>Proposal Forming - 1.9<br\>Pull-System für Organisationsentwicklung schaffen - 5.2<br\>Reagiere auf Organisationstreiber - 1.1<br\>Repräsentant - 4.6<br\>Retrospektive - 7.2<br\>Rolle - 4.3<br\>Runden - 8.1<br\>S3 per Open-Space - 5.5<br\>Service-Organisation - 10.5<br\>Servicekreis - 10.1<br\>Statuten - 3.9<br\>Steuerungs-Backlog - 8.5<br\>Steuerungs-Meeting - 7.1<br\>Strategie entwickeln - 6.2 | Transparentes Gehalt - 3.7<br\>Treiber beschreiben - 1.3<br\>Um Hilfe bitten - 2.1<br\>Verantwortung und Verträge - 3.6<br\>Verbindungen - 4.4<br\>Vereinbarung - 6.1<br\>Vereinbarungen brechen - 3.5<br\>Vereinbarungen überprüfen - 1.7<br\>Veränderung einladen - 5.4<br\>Wahl - 1.10
