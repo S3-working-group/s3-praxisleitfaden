@@ -1,7 +1,7 @@
 title: Soziokratie 3.0 Praxisleitfaden
 email: bernhard.bockelbrink@gmail.com
 description:
-  The official description of Sociocracy 3.0: Alle Muster, die sieben Prinzipien und alle wichtigen Konzepte in Soziokratie 3.0, von Bernhard Bockelbrink, James Priest und Liliana David.
+  "Die offizielle Dokumentation zu Soziokratie 3.0: Alle Muster, die sieben Prinzipien und alle wichtigen Konzepte in Soziokratie 3.0, von Bernhard Bockelbrink, James Priest und Liliana David."
 baseurl: ""
 url: "http://s3-working-group.github.io"
 twitter_username: sociocracy30
@@ -23,8 +23,9 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-exclude:
+exclude: [
   _export
   _python
   _templates
+]
 
