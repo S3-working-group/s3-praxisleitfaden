@@ -2,7 +2,7 @@
 
 ![fit](img/framework/logo.png)
 
-**Neueste Version dieses Leitfadens**: <http://sociocracy30.org/guide/>
+**Neueste Version dieses Praxisleitfadens**: <http://sociocracy30.org/guide/>
 
 **S3 Webseite**: <http://sociocracy30.org>
 

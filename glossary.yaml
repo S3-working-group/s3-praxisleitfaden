@@ -29,7 +29,7 @@ terms:
     glossary: Eine teilautonome und selbststeuernde Gruppe gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
   complexity:
     name: Komplexität
-    glossary: 'Eine Umgebung, in dem die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen kann, aus denen man Muster ableiten kann. [nach: D. Snowden und M. Boone]'
+    glossary: 'Eine Umgebung, in der die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen kann. [nach: D. Snowden und M. Boone]'
   concern:
     name: Bedenken
     definition: ""
@@ -126,7 +126,7 @@ terms:
   role:
     name: Rolle
     definition: ""
-    glossary: Eine Rolle ist ein Verantwortungsbereich, der über eine Domäne definiert und an eine Person übertragen wird.
+    glossary: Ein Verantwortungsbereich, der über eine Domäne definiert und an eine Person übertragen wird.
   scm:
     name: SKM
     glossary: (die soziokratische Kreisorganisationsmethode) Eine egalitäre Governance-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.

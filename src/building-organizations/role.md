@@ -6,7 +6,7 @@
 
 Eine Rolle ist ein Verantwortungsbereich, der durch eine Domäne definiert und an eine Person (den **Inhaber** der Rolle) delegiert wird. Der Rolleninhaber kann innerhalb des durch die Domäne vorgegebenen Rahmens autonom entscheiden und handeln.
 
-Der Inhaber einer Rolle entwickelt eine Strategie, wie er sich um die Domäne kümmert, und passt diese Strategie an eventuelle Einwände der Delegierenden an.
+Der Inhaber einer Rolle schlägt eine Strategie zur Wertschöpfung in seiner Domäne vor, und entwickelt diese gemeinsam mit der Delegierenden.
 
 Eine Rolle ist ein einfacher Weg für eine Gruppe, um wiederkehrende Aufgaben oder einen bestimmten Arbeitsbereich an eines ihrer Mitglieder zu delegieren.
 
@@ -20,7 +20,7 @@ Eine Rolle ist ein einfacher Weg für eine Gruppe, um wiederkehrende Aufgaben od
 
 Der Inhaber einer Rolle kann ein Logbuch und ein Steuerungs-Backlog führen, um sein System zur Wertschöpfung zu entwickeln. 
 
-**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können wie Vereinbarungen behandelt werden.
+**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können genauso wie Vereinbarungen behandelt und entwickelt werden.
 
 * * *
 

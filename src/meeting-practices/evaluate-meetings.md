@@ -4,7 +4,7 @@
 
 **Investiere etwas Zeit in gemeinsame Reflexion am Ende jedes Meetings oder Workshops.**
 
-Denke nach über Interaktionen, feiere Erfolge und teile Verbesserungsvorschläge.
+Gemeinsam über Interaktionen nachdenken, Erfolge feiern und Verbesserungsvorschläge machen.
 
 - vor der Abschlussrunde
 - reserviere 5 Minuten für ein einstündiges Meeting, und 15 Minuten für einen Tagesworkshop

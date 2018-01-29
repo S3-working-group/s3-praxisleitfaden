@@ -1,17 +1,17 @@
 ## Gehaltstransparenz
 
-- Transparente Gehälter müssen gerecht sein
-- Gerechtigkeit hat mehrere orthogonale Dimensionen 
-- Die Wahrnehmung von Gerechtigkeit hängt vom spezifischen organisatorischen Kontext ab
+- transparente Gehälter müssen gerecht sein
+- Gerechtigkeit hat mehrere voneinander unabhängige Dimensionen 
+- die Wahrnehmung von Gerechtigkeit hängt vom spezifischen organisatorischen Kontext ab
 - Mitglieder und relevante Anspruchsgruppen (z.B. Investoren) sollten dabei berücksichtigt werden
-- Eine Gehaltsformel erstellen 
-    - Fester Anteil: Sicherstellung des Lebensunterhalts
-    - Variabler Anteil: Gerechte Aufteilung von Gewinnen und Verlusten
-- Vergütung für sich ändernde Rollen berücksichtigen
-- Strategie für Übergang zu neuen Verträgen und Kompensations-Vereinbarungen planen
+- entwickle eine Gehaltsformel: 
+    - fester Anteil: soll den Lebensunterhalt sicherstellen
+    - variabler Anteil: gerechte Verteilung von Gewinn und Verlust
+- berücksichtige Vergütung für sich ändernde Rollen
+- entwickle eine Strategie für den Übergang zu den neuen Verträgen und Kompensationsvereinbarungen
 
 * * *
 
-### Zwei Arten, Gehälter transparent zu machen
+### Zwei Möglichkeiten, um Gehälter offenzulegen
 
 ![inline,fit](img/process/opening-salaries.png)

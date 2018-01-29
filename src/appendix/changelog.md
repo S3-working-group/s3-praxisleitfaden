@@ -1,3 +1,14 @@
+# Änderungsprotokoll 
+
+## Änderungen zu. 16.11.2017
+
+- kleine Korrekturen
+- Glossareinträge für *Kreis* und *Rolle* an Beschreibung der Muster angepasst
+- *Entwicklungsplan*: Zuständigkeiten genauer erklärt
+- *Rolle*: Entwicklung der Strategie genauer erklärt
+
+* * *
+
 ## Änderungen zum 10.11.2017
 
 - verschiedene Klarstellungen und Korrekturen
@@ -72,4 +83,8 @@
 
 | hinzugefügt                                                           | entfernt                                                                        |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| _Treiber beschreiben_<br/>_offene Domäne_<br/>_Einfluss delegieren_ | _Koordinationskreis_ <br/>_Verschachtelte Domänen_<br/>_Treiber qualifizieren_ |
+| _Treiber beschreiben_  
+_offene Domäne_  
+_Einfluss delegieren_ | _Koordinationskreis_  
+_Verschachtelte Domänen_  
+_Treiber qualifizieren_ |
