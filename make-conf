@@ -1,0 +1,3 @@
+
+TARGETFILE=S3-Praxisleitfaden
+SECTIONPREFIX=" Muster %(chapter)s.%(section)s:"
