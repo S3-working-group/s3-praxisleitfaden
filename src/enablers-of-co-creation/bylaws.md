@@ -7,5 +7,5 @@ Bedenke:
 - Konsent und Gleichstellung in der Entscheidungsfindung
 - das Auswahlverfahren für Führungsrollen
 - Organisationsstruktur, Werte und Prinzipien
-- Einfluss von Inhabern oder Aktionären
+- Einfluss von Eigentümern oder Aktionären
 - Verteilung von Gewinn und Verlust

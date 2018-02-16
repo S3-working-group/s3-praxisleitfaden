@@ -15,7 +15,7 @@ Domänen werden an Mitarbeiter delegiert (z.B. an eine Geschäftseinheit, eine A
 Wer eine Domäne delegiert (die *Delegierende*) bleibt weiterhin verantwortlich für diese Domäne, und definiert oft:
 
 - **Kernaufgaben** (die wesentlichen delegierten Arbeitsaufgaben und Entscheidungen)
-- **Grenzen von Autonomie und Einfluss**, normalerweise in Bezug auf die Organisation selbst (z.B. Budget, Ressourcen, Delegationsstufe, Reporting)
+- **Einschränkungen von Autonomie und Einfluss**, normalerweise in Bezug auf die Organisation selbst (z.B. Budget, Ressourcen, Delegationsstufe, Reporting)
 
 * * *
 
@@ -23,10 +23,10 @@ Wer eine Domäne delegiert (die *Delegierende*) bleibt weiterhin verantwortlich 
 
 ![right,fit](img/driver-domain/domain-primay-sub.png)
 
-Eine Domäne kann in Bezug auf einen Organisationstreiber - den so genannten **Primärtreiber** - definiert werden: die Domäne ist die Menge derjenigen Subtreiber, die im Kontext der Antwort auf diesen Primärtreibers ebenfalls berücksichtigt werden müssen.
+Eine Domäne kann auch in Bezug auf einen Organisationstreiber - den so genannten **Primärtreiber** der Domäne - definiert werden: die Domäne ist die Menge derjenigen Subtreiber, die im Kontext der Antwort auf diesen Primärtreibers ebenfalls berücksichtigt werden müssen. Dazu gehören:
 
-- **Hauptaufgaben**: direkt vom Primärtreiber abgeleitet
-- **Einschränkungen**: bezogen auf die Organisation selbst
+- **Kernaufgaben**: Treiber, die direkt vom Primärtreiber abgeleitet werden können
+- **Einschränkungen**: Treiber, die sich auf die Organisation selbst beziehen
 
 * * *
 

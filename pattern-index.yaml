@@ -113,7 +113,7 @@ patterns:
     pid: 4
   - 
     gid: 5
-    name: kontinuierliche Verbesserung des Arbeitsablaufs
+    name: Kontinuierliche Verbesserung des Arbeitsablaufs
     path: continuous-improvement-of-work-process.md
     pid: 6
   - 
@@ -173,7 +173,7 @@ patterns:
     pid: 4
   - 
     gid: 4
-    name: doppelte Verbindung
+    name: Doppelte Verbindung
     path: double-linking.md
     pid: 5
   - 
@@ -243,7 +243,7 @@ patterns:
     pid: 4
   - 
     gid: 9
-    name: laufende Arbeit begrenzen
+    name: Laufende Arbeit begrenzen
     path: limit-work-in-progress.md
     pid: 5
   - 

@@ -3,8 +3,8 @@
 **Halte regelmäßige Treffen (typischerweise wöchentlich), um Bericht zu erstatten und Arbeitsaufgaben zu koordinieren.**
 
 - sorge für Moderation, und bevorzuge Runden (anstatt Diskussionen)
-- erstelle die Agenda möglichst vor dem Meeting 
-    - stelle Informationen bereit, damit sich die Teilnehmer vorbereiten können
+- erstelle die Agenda möglichst vor dem Meeting: 
+    - stelle alle Informationen bereit, die die Teilnehmer zur Vorbereitung benötigen
     - aus den Berichten können sich während des Meetings neue Agendapunkte ergeben
 
 * * *
@@ -13,10 +13,10 @@
 
 ![right,fit](img/meetings/coordination-meeting.png)
 
-- Statusberichte 
+- Statusberichte: 
     - Kreismetriken (falls vorhanden)
     - Projekte und Aufgaben
 - Agendapunkte 
     - Informationen weitergeben
-    - bestehende Aufgaben oder Projekte aktualisieren, oder neue erfassen
+    - Aufgaben und Projekte aktualisieren oder erfassen
     - neue Vereinbarungen treffen oder bestehende aktualisieren

@@ -8,4 +8,4 @@
 - begrenze die Laufzeit von Verträgen
 - plane regelmässige Entwicklungsgespräche ein
 
-Hilfsrollen können auch rein operativen Charakter haben. Externe Vertragspartner geben Ihren Konsent, die Verantwortung für Ihre Rolle zu übernehmen.
+Hilfsrollen können auch rein operativen Charakter haben. Externe Vertragspartner geben Konsent, die Verantwortung für ihre Rolle zu übernehmen.

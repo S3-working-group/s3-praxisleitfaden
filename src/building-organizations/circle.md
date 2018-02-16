@@ -15,7 +15,7 @@ Ein Kreis …
 ## Kreis (…)
 
 - **teilautonom** 
-    - ein Kreis agiert innerhalb der Grenzen seiner Domäne
+    - ein Kreis ist innerhalb der Grenzen seiner Domäne autonom
     - jeder Kreis kann selbstständig Wert schaffen
 - **selbstverwaltet**: 
     - ein Kreis entscheidet fortwährend, wie er in seiner Domäne Wert schöpft, und definiert inhaltliche und zeitliche Rahmenbedingungen für die zu erledigende Arbeit

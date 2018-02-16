@@ -5,7 +5,7 @@
 - führe für ein Team das Konsent-Prinzip und das Muster *Navigiere nach Spannung* ein, so dass das Team seine Arbeitsabläufe selbst verbessern kann
 - erwäge die Wahl eines Moderators und die Einigung auf gemeinsame Werte
 - initiiere kontinuierliche Verbesserung (z.B. per Kanban)
-- Teammitglieder führen nach Bedarf selbst weiter S3 Patterns ein
+- Teammitglieder führen nach Bedarf selbst weite S3-Muster ein
 - erweitere schrittweise den Bereich des Experiments (z.B. auf weitere Teams)
 - suche bewusst nach Hindernissen, um diese aufzulösen 
 

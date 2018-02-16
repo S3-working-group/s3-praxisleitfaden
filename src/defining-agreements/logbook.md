@@ -16,9 +16,9 @@ Verbreitete Plattformen für Logbücher sind Wikis (wie DokuWiki oder MediaWiki)
 
 - Kreis:
     
-    - Beschreibung und Strategie des Kreises
+    - Beschreibung des Kreises, Strategie
     - Vereinbarungen (einschließlich Beschreibung, Strategien und Entwicklungspläne der Subdomänen)
-    - Rückstände und sonstige Informationen zur Kreisarbeit und -steuerung
+    - Backlogs und weitere Informationen zu Arbeit und Steuerung des Kreises
 
 * * *
 

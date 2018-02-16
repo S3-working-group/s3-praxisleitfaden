@@ -17,5 +17,5 @@
 - die Einigung auf gemeinsame Werte ist eine **Strategie** zur Unterstützung der Effektivität einer Organisation: 
     - geringeres Potential für **Missverständnisse**
     - gemeinsame **Ausrichtung** von Entscheidungen und Aktivität
-    - **Attraktion neuer Mitarbeitern, Partnern und Kunden**, die sich mit den Werten der Organisation identifizieren
+    - **Attraktion neuer Mitarbeiter, Partner und Kunden**, die sich mit den Werten der Organisation identifizieren
 - Gemeinsame Werte sind eine Vereinbarung, und sollten daher **regelmässiger überprüft und weiterentwickelt** werden.
