@@ -8,7 +8,7 @@ title: "Treiber beschreiben"
 Eine einfache Methode, einen Treiber zu beschreiben ist:
 
 - eine kurze Beschreibung der Situation (Beobachtungen) 
-- eine Beschreibung des Bedarfs (Defizit) der aus Sicht der Organisation aus dieser Situation heraus entsteht 
+- eine Beschreibung des Bedarfs (Defizit), der aus Sicht der Organisation aus dieser Situation heraus entsteht 
 
 Bei Uneinigkeit über den Bedarf ist es oft hilfreich, spezifische Lösungsstrategien in der Treiberformulierung zu vermeiden.
 
@@ -19,7 +19,7 @@ Bei Uneinigkeit über den Bedarf ist es oft hilfreich, spezifische Lösungsstrat
 
 Die **Beschreibung eines Treibers** enthält gerade genug Informationen, um die Notwendigkeit einer Aktion oder einer Entscheidung zu kommunizieren. Weitere Details zum Treiber können in einem Anhang dokumentiert werden.
 
-Ein Treiber kann - je nach Standpunkt - als Problem oder auch als Chance beschrieben werden.
+Ein Treiber kann – je nach Standpunkt – als Problem oder auch als Chance beschrieben werden.
 
-[&#9664; Navigiere nach Spannung](navigate-via-tension.html) | [&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html) | [&#9654; Konsententscheidung](consent-decision-making.html)
+[&#9654; Konsententscheidung](consent-decision-making.html)<br/>[&#9664; Navigiere nach Spannung](navigate-via-tension.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

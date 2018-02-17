@@ -15,5 +15,5 @@ title: "Mitgestaltung und Evolution"
 - [Driver Mapping](driver-mapping.html)
 
 
-[&#9664; Fraktalorganisation](fractal-organization.html) | [&#9654; Reagiere auf Organisationstreiber](respond-to-organizational-drivers.html)
+[&#9654; Reagiere auf Organisationstreiber](respond-to-organizational-drivers.html)<br/>[&#9664; Fraktalorganisation](fractal-organization.html)
 

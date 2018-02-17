@@ -9,5 +9,5 @@ title: "Fokussierte Interaktionen"
 - [Koordinationsmeeting](coordination-meeting.html)
 
 
-[&#9664; Logbuchführer](logbook-keeper.html) | [&#9654; Steuerungs-Meeting](governance-meeting.html)
+[&#9654; Steuerungs-Meeting](governance-meeting.html)<br/>[&#9664; Logbuchführer](logbook-keeper.html)
 

@@ -13,5 +13,5 @@ title: "Mitgestaltung ermöglichen"
 - [Statuten](bylaws.html)
 
 
-[&#9664; Entwicklungsplan](development-plan.html) | [&#9654; Kunstvolle Teilnahme](artful-participation.html)
+[&#9654; Kunstvolle Teilnahme](artful-participation.html)<br/>[&#9664; Entwicklungsplan](development-plan.html)
 

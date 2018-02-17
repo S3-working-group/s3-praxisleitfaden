@@ -1,7 +1,6 @@
 ---
-title: "Introduction"
+title: Einführung
 ---
-
 # Soziokratie 3.0 - Ein Leitfaden zur Evolution agiler und resilienter Organisationen
 
 ### Effektive Zusammenarbeit in Organisationen beliebiger Größe
@@ -19,7 +18,7 @@ S3 unterstützt Dich dabei, herauszufinden, wie Du am besten Deine Ziele erreich
 
 - Beginne dort, wo der Bedarf am größten ist, und wähle ein oder mehrere Muster für ein Experiment. **Bestimme selbst die passende Geschwindigkeit** und entwickle die erforderlichen Fähigkeiten unterwegs.
 
-- Du wirst für **jede beliebige Position in der Organisation** Muster finden, die Dir weiterhelfen können.
+- **Unabhängig von Deiner Position in der Organisation** wirst Du Muster finden, die Dir weiterhelfen können.
 
 
 ## Inhalt
@@ -32,7 +31,7 @@ S3 unterstützt Dich dabei, herauszufinden, wie Du am besten Deine Ziele erreich
 ![inline,fit](img/context/history.png)
 ## Grundlegende Konzepte
 
-Bevor Du in die Muster eintauchst, solltest Du Dich einigen zentralen Konzepten hinter S3 vertraut machen:
+Bevor Du in die Muster eintauchst, solltest Du Dich mit einigen Konzepten vertraut machen, die das Verständnis von S3 erleichtern:
 
 - Was ist ein Muster?
 - Die sieben Prinzipien
@@ -47,7 +46,7 @@ Im Anhang findest Du ein Glossar, das kurze Erklärungen dieser und weiterer Beg
 
 _Ein **Muster** ist eine Vorgehensweise, um einer bestimmten Herausforderung erfolgreich zu begegnen._
 
-- Die Muster in S3 entstehen durch die Beobachtung vieler Organisationen bei der Lösung ihrer Probleme und dem Umgang mit ihren Herausforderungen.
+- Die Muster in S3 werden durch die Beobachtung vieler Organisationen bei der Lösung ihrer Probleme und dem Umgang mit ihren Herausforderungen entdeckt.
 - Die Muster können an den jeweiligen Kontext angepasst und dann weiterentwickelt werden.
 - Die Muster sind thematisch in 10 Kategorien geordnet.
 ## Alle Muster basieren auf den sieben Prinzipien
@@ -64,7 +63,6 @@ _Ein **Muster** ist eine Vorgehensweise, um einer bestimmten Herausforderung erf
 **Empirismus:** *Überprüfe alle Annahmen durch Experimente, achte auf kontinuierliche Revision und Falsifizierbarkeit.*
 
 
-## Die Sieben Prinzipien (…)
 
 **Kontinuierliche Verbesserung:** *Bevorzuge inkrementelle Veränderung, um stetiges empirisches Lernen zu ermöglichen.*
 
@@ -110,17 +108,17 @@ Domänen werden an Mitarbeiter delegiert (z.B. an eine Geschäftseinheit, eine A
 Wer eine Domäne delegiert (die *Delegierende*) bleibt weiterhin verantwortlich für diese Domäne, und definiert oft:
 
 - **Kernaufgaben** (die wesentlichen delegierten Arbeitsaufgaben und Entscheidungen)
-- **Grenzen von Autonomie und Einfluss**, normalerweise in Bezug auf die Organisation selbst (z.B. Budget, Ressourcen, Delegationsstufe, Reporting)
+- **Einschränkungen von Autonomie und Einfluss**, normalerweise in Bezug auf die Organisation selbst (z.B. Budget, Ressourcen, Delegationsstufe, Reporting)
 
 
 ## Treiber und Domänen
 
 ![right,fit](img/driver-domain/domain-primay-sub.png)
 
-Eine Domäne kann in Bezug auf einen Organisationstreiber - den so genannten **Primärtreiber** - definiert werden: die Domäne ist die Menge derjenigen Subtreiber, die im Kontext der Antwort auf diesen Primärtreibers ebenfalls berücksichtigt werden müssen.
+Eine Domäne kann auch in Bezug auf einen Organisationstreiber - den so genannten **Primärtreiber** der Domäne - definiert werden: die Domäne ist die Menge derjenigen Subtreiber, die im Kontext der Antwort auf diesen Primärtreibers ebenfalls berücksichtigt werden müssen. Dazu gehören:
 
-- **Hauptaufgaben**: direkt vom Primärtreiber abgeleitet
-- **Einschränkungen**: bezogen auf die Organisation selbst
+- **Kernaufgaben**: Treiber, die direkt vom Primärtreiber abgeleitet werden können
+- **Einschränkungen**: Treiber, die sich auf die Organisation selbst beziehen
 
 
 ## Domänen und Verantwortlichkeit
@@ -156,3 +154,7 @@ Damit eine Organisation dazulernen kann und sich kontinuierlich verbessert, soll
 - nein: operatives Geschäft 
     - im Rahmen einer existierenden Vereinbarung (die Verantwortlichen können handeln)
     - muss erledigt werden
+
+
+[&#9654; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+

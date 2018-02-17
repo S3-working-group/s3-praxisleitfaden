@@ -9,5 +9,5 @@ Die Koordinatorin ist verantwortlich für die **Koordination der Arbeit einer Gr
 - mehrere Koordinatorinnen können zusammenarbeiten, um Arbeit über mehrere Domänen hinweg zu koordinieren
 - anstatt eine Koordinatorin zu wählen, kann sich eine Gruppe auch selbst organisieren
 
-[&#9664; Fluss angleichen](align-flow.html) | [&#9650; Arbeitsorganisation](organizing-work.html) | [&#9654; S3 einführen](bringing-in-s3.html)
+[&#9654; S3 einführen](bringing-in-s3.html)<br/>[&#9664; Fluss angleichen](align-flow.html)<br/>[&#9650; Arbeitsorganisation](organizing-work.html)
 

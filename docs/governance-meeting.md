@@ -15,7 +15,6 @@ Ein Steuerungstreffen ist meistens:
 - ... und findet alle 4 Wochen statt
 
 
-## Steuerungs-Meeting (…)
 
 Ablauf eines typischen Steuerungstreffen:
 
@@ -28,7 +27,6 @@ Ablauf eines typischen Steuerungstreffen:
 - Abschluss
 
 
-## Steuerungs-Meeting (…)
 
 Typische Agendapunkte:
 
@@ -41,5 +39,5 @@ Typische Agendapunkte:
     - existierende Rollen und Teams evaluieren
     - Personen in Rollen wählen
 
-[&#9650; Fokussierte Interaktionen](focused-interactions.html) | [&#9654; Retrospektive](retrospective.html)
+[&#9654; Retrospektive](retrospective.html)<br/>[&#9650; Fokussierte Interaktionen](focused-interactions.html)
 

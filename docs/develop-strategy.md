@@ -13,11 +13,10 @@ _Eine **Strategie** ist der Ansatz, wie Mitarbeiter planen, in einer bestimmten 
 - die Strategie ist eine Vereinbarung zwischen Delegierender und Domänenverantworliche(n), die regelmäßig geprüft und angepasst werden sollte
 
 
-## Strategie entwickeln (…)
 
 ### Strategien werden durch Experimente umgesetzt und mit den gewonnenen Erkenntnissen iterativ verfeinert.
 
 ![right,fit](img/evolution/domain-driver-strategy-exeriments.png)
 
-[&#9664; Vereinbarung](agreement.html) | [&#9650; Klare Vereinbarungen](defining-agreements.html) | [&#9654; Domänen klären](clarify-domains.html)
+[&#9654; Domänen klären](clarify-domains.html)<br/>[&#9664; Vereinbarung](agreement.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
 

@@ -11,7 +11,7 @@ title: "Hilfsrolle"
 - begrenze die Laufzeit von Verträgen
 - plane regelmässige Entwicklungsgespräche ein
 
-Hilfsrollen können auch rein operativen Charakter haben. Externe Vertragspartner geben Ihren Konsent, die Verantwortung für Ihre Rolle zu übernehmen.
+Hilfsrollen können auch rein operativen Charakter haben. Externe Vertragspartner geben Konsent, die Verantwortung für ihre Rolle zu übernehmen.
 
-[&#9664; Transparentes Gehalt](transparent-salary.html) | [&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html) | [&#9654; Statuten](bylaws.html)
+[&#9654; Statuten](bylaws.html)<br/>[&#9664; Transparentes Gehalt](transparent-salary.html)<br/>[&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html)
 

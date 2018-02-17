@@ -26,5 +26,5 @@ Transparenz bzgl. des Status aller Arbeitsaufgaben, die anstehen, in Arbeit sind
 - Vereinbarungen und Erwartungen zum Arbeitsablauf (z.B. Definition of Done, Policies, Qualitätsstandards)
 - nutze Farben, Symbole, Highlights etc.
 
-[&#9664; Backlogs priorisieren](prioritize-backlogs.html) | [&#9650; Arbeitsorganisation](organizing-work.html) | [&#9654; Arbeiten nach Pull-System](pull-system-for-work.html)
+[&#9654; Arbeiten nach Pull-System](pull-system-for-work.html)<br/>[&#9664; Backlogs priorisieren](prioritize-backlogs.html)<br/>[&#9650; Arbeitsorganisation](organizing-work.html)
 

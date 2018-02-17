@@ -12,5 +12,5 @@ Repräsentanten (auch: Delegierte oder Vertreter):
     - an der Ausarbeitung von Vorschlägen mitwirken
     - (begründete) Einwände gegen Vereinbarungen oder Vorschläge erheben
 
-[&#9664; doppelte Verbindung](double-linking.html) | [&#9650; Organisationsentwicklung](building-organizations.html) | [&#9654; Hilfsteam](helping-team.html)
+[&#9654; Hilfsteam](helping-team.html)<br/>[&#9664; Doppelte Verbindung](double-linking.html)<br/>[&#9650; Organisationsentwicklung](building-organizations.html)
 

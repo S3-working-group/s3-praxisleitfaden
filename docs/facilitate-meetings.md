@@ -11,5 +11,5 @@ Bestimme für jedes Meeting einen Moderator. Auch ein unerfahrener Moderator kan
     - einen sicheren Rahmen schafft und auf die Zeit achtet
     - am Ende jedes Meetings eine kurze Evaluation durchführt
 
-[&#9664; Runden](rounds.html) | [&#9650; Effektive Meetings](meeting-practices.html) | [&#9654; Meetings evaluieren](evaluate-meetings.html)
+[&#9654; Meetings evaluieren](evaluate-meetings.html)<br/>[&#9664; Runden](rounds.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
 

@@ -12,5 +12,5 @@ Wertschöpfung in komplexen und kompetitiven Umgebungen durch **Dezentralisierun
 - die Peripherie verwaltet die Finanzen und steuert die Organisation
 - verbinde Domänen so, dass Abhängigkeiten über den Fluss von Informations und Einfluss abgebildet werden
 
-[&#9664; Delegiertenkreis](delegate-circle.html) | [&#9650; Organisationsstruktur](organizational-structure.html) | [&#9654; Doppelt verbundene Hierarchie](double-linked-hierarchy.html)
+[&#9654; Doppelt verbundene Hierarchie](double-linked-hierarchy.html)<br/>[&#9664; Delegiertenkreis](delegate-circle.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
 

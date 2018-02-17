@@ -33,7 +33,6 @@ title: "Änderungsprotokoll "
 - Vorlagen für Vereinbarungen und Entwicklungsplan angepasst
 
 
-## Änderungen zum 21.10.2017 (…)
 
 - Einführung: 
     - neuer Abschnitt "was habe ich davon?"
@@ -43,7 +42,6 @@ title: "Änderungsprotokoll "
     - handlungsorientierte Beschreibung der Prinzipien
 
 
-## Änderungen zum 21.10.2017 (…)
 
 - *Kunstvolle Teilnahme*: Beschreibung überarbeitet
 - *Vereinbarung*: Erklärung, dass das Konzept von Vereinbarungen auch innerhalb einer Rolle angewendet werden kann
@@ -55,7 +53,6 @@ title: "Änderungsprotokoll "
 - *doppelt verbundene Hierarchie*: neue Illustration
 
 
-## Änderungen zum 21.10.2017 (…)
 
 - *Vereinbarungen prüfen*: Fragen an Peer-Review angepasst
 - *Steuerungs-Backlog*: Definition überarbeitet
@@ -68,7 +65,6 @@ title: "Änderungsprotokoll "
 - *Einwände integrieren*: neue Illustration
 
 
-## Änderungen zum 21.10.2017 (…)
 
 **Umbenannte Muster**
 

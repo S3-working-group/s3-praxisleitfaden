@@ -15,5 +15,5 @@ Korrigiere Rahmenbedingungen schrittweise, berücksichtige dabei Fähigkeit, Zuv
 
 Dezentralisiere so weit wie möglich, behalte so viel Einfluss wie nötig.
 
-[&#9650; Organisationsentwicklung](building-organizations.html) | [&#9654; Kreis](circle.html)
+[&#9654; Kreis](circle.html)<br/>[&#9650; Organisationsentwicklung](building-organizations.html)
 

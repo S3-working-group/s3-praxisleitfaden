@@ -7,7 +7,7 @@ title: "Verbindungen"
 
 **Ermögliche den Fluss von Information und Einfluss zwischen zwei Gruppen.**
 
-Eine Gruppe wählt eines seiner Mitglieder, um ihre Interessen in den Steuerungsentscheidungen einer anderen Gruppe zu vertreten.
+Eine Gruppe bestimmt eines ihrer Mitglieder, um ihre Interessen in den Steuerungsentscheidungen einer anderen Gruppe zu vertreten.
 
-[&#9664; Rolle](role.html) | [&#9650; Organisationsentwicklung](building-organizations.html) | [&#9654; doppelte Verbindung](double-linking.html)
+[&#9654; Doppelte Verbindung](double-linking.html)<br/>[&#9664; Rolle](role.html)<br/>[&#9650; Organisationsentwicklung](building-organizations.html)
 

@@ -13,5 +13,5 @@ Jeder Kreis wählt ein oder mehrere Mitglieder als Vertreter in den Delegiertenk
 
 Delegiertenkreise steuern eine Organisation nach dem Wertfluss, und ermöglichen die Integration einer Vielfalt an Perspektiven in Steuerungsentscheidungen.
 
-[&#9664; Servicekreis](service-circle.html) | [&#9650; Organisationsstruktur](organizational-structure.html) | [&#9654; Pfirsichorganisation](peach-organization.html)
+[&#9654; Pfirsichorganisation](peach-organization.html)<br/>[&#9664; Servicekreis](service-circle.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
 

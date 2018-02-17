@@ -11,5 +11,5 @@ Frage einen Kollegen, "*Wärest Du bereit, mir mit … zu helfen*?" Die gefragte
 - erscheint der gefragten Person die Bitte unklar, bittet sie um weitere Informationen
 - wenn Du eine Bitte um Hilfe annimmst, unterstütze deinen Kollegen, so gut es dir in dieser Situation möglich ist
 
-[&#9650; Gemeinsame Entwicklung](peer-development.html) | [&#9654; Peer-Feedback](peer-feedback.html)
+[&#9654; Peer-Feedback](peer-feedback.html)<br/>[&#9650; Gemeinsame Entwicklung](peer-development.html)
 

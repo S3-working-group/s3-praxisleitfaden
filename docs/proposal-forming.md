@@ -31,9 +31,9 @@ Proposal forming kann auch von Einzelpersonen angewendet werden.
 
 - Wer sollte dabei sein?
 - Wer will dabei sein?
-- Wer könnte noch einen wertvollen Beitrag leisten?
+- Wer könnte sonst noch einen wertvollen Beitrag leisten?
 - Berücksichtige Expertise, besondere Perspektiven und Inspiration.
 - Gibt es Einwände gegen diese Gestalter?
 
-[&#9664; Die Betroffenen entscheiden](those-affected-decide.html) | [&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html) | [&#9654; Wahl](role-selection.html)
+[&#9654; Wahl](role-selection.html)<br/>[&#9664; Die Betroffenen entscheiden](those-affected-decide.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

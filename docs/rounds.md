@@ -12,5 +12,5 @@ title: "Runden"
 
 Erfahrene Gruppen entscheiden sich manchmal dafür, bestimmte Runden in S3-Gruppenprozessen durch andere Formate zu ersetzen.
 
-[&#9650; Effektive Meetings](meeting-practices.html) | [&#9654; Meetings moderieren](facilitate-meetings.html)
+[&#9654; Meetings moderieren](facilitate-meetings.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
 

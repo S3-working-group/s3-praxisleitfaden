@@ -7,8 +7,8 @@ title: "S3 einführen"
 - [Als Beispiel dienen](be-the-change.html)
 - [Veränderung einladen](invite-change.html)
 - [S3 per Open-Space](open-s3-adoption.html)
-- [kontinuierliche Verbesserung des Arbeitsablaufs](continuous-improvement-of-work-process.html)
+- [Kontinuierliche Verbesserung des Arbeitsablaufs](continuous-improvement-of-work-process.html)
 
 
-[&#9664; Offene Systeme](open-systems.html) | [&#9654; Muster an Kontext anpassen](adapt-patterns-to-context.html)
+[&#9654; Muster an Kontext anpassen](adapt-patterns-to-context.html)<br/>[&#9664; Offene Systeme](open-systems.html)
 

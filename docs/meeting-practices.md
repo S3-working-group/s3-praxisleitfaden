@@ -9,5 +9,5 @@ title: "Effektive Meetings"
 - [Steuerungs-Backlog](governance-backlog.html)
 
 
-[&#9664; Koordinationsmeeting](coordination-meeting.html) | [&#9654; Runden](rounds.html)
+[&#9654; Runden](rounds.html)<br/>[&#9664; Koordinationsmeeting](coordination-meeting.html)
 

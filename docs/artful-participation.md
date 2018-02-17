@@ -39,5 +39,5 @@ Kunstvolle Teilnahme kann im Einzelfall auch bedeuten, andere zu unterbrechen, E
     - die Organisation? Unsere Kunden?
     - das weitere Umfeld?
 
-[&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html) | [&#9654; Die sieben Prinzipien leben](adopt-the-seven-principles.html)
+[&#9654; Die sieben Prinzipien leben](adopt-the-seven-principles.html)<br/>[&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html)
 
