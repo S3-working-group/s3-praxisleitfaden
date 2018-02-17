@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-16-de-0.07) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-16-de-1.0) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -33,7 +33,7 @@ S3 unterstützt Dich dabei, herauszufinden, wie Du am besten Deine Ziele erreich
 
 - Beginne dort, wo der Bedarf am größten ist, und wähle ein oder mehrere Muster für ein Experiment. **Bestimme selbst die passende Geschwindigkeit** und entwickle die erforderlichen Fähigkeiten unterwegs.
 
-- Du wirst für **jede beliebige Position in der Organisation** Muster finden, die Dir weiterhelfen können.
+- **Unabhängig von Deiner Position in der Organisation** wirst Du Muster finden, die Dir weiterhelfen können.
 
 * * *
 
@@ -53,7 +53,7 @@ S3 unterstützt Dich dabei, herauszufinden, wie Du am besten Deine Ziele erreich
 
 ## Grundlegende Konzepte
 
-Bevor Du in die Muster eintauchst, solltest Du Dich einigen zentralen Konzepten hinter S3 vertraut machen:
+Bevor Du in die Muster eintauchst, solltest Du Dich mit einigen Konzepten vertraut machen, die das Verständnis von S3 erleichtern:
 
 - Was ist ein Muster?
 - Die sieben Prinzipien
@@ -71,7 +71,7 @@ Im Anhang findest Du ein Glossar, das kurze Erklärungen dieser und weiterer Beg
 
 _Ein **Muster** ist eine Vorgehensweise, um einer bestimmten Herausforderung erfolgreich zu begegnen._
 
-- Die Muster in S3 entstehen durch die Beobachtung vieler Organisationen bei der Lösung ihrer Probleme und dem Umgang mit ihren Herausforderungen.
+- Die Muster in S3 werden durch die Beobachtung vieler Organisationen bei der Lösung ihrer Probleme und dem Umgang mit ihren Herausforderungen entdeckt.
 - Die Muster können an den jeweiligen Kontext angepasst und dann weiterentwickelt werden.
 - Die Muster sind thematisch in 10 Kategorien geordnet.
 
@@ -147,7 +147,7 @@ Domänen werden an Mitarbeiter delegiert (z.B. an eine Geschäftseinheit, eine A
 Wer eine Domäne delegiert (die *Delegierende*) bleibt weiterhin verantwortlich für diese Domäne, und definiert oft:
 
 - **Kernaufgaben** (die wesentlichen delegierten Arbeitsaufgaben und Entscheidungen)
-- **Grenzen von Autonomie und Einfluss**, normalerweise in Bezug auf die Organisation selbst (z.B. Budget, Ressourcen, Delegationsstufe, Reporting)
+- **Einschränkungen von Autonomie und Einfluss**, normalerweise in Bezug auf die Organisation selbst (z.B. Budget, Ressourcen, Delegationsstufe, Reporting)
 
 * * *
 
@@ -155,10 +155,10 @@ Wer eine Domäne delegiert (die *Delegierende*) bleibt weiterhin verantwortlich 
 
 ![right,fit](img/driver-domain/domain-primay-sub.png)
 
-Eine Domäne kann in Bezug auf einen Organisationstreiber - den so genannten **Primärtreiber** - definiert werden: die Domäne ist die Menge derjenigen Subtreiber, die im Kontext der Antwort auf diesen Primärtreibers ebenfalls berücksichtigt werden müssen.
+Eine Domäne kann auch in Bezug auf einen Organisationstreiber - den so genannten **Primärtreiber** der Domäne - definiert werden: die Domäne ist die Menge derjenigen Subtreiber, die im Kontext der Antwort auf diesen Primärtreibers ebenfalls berücksichtigt werden müssen. Dazu gehören:
 
-- **Hauptaufgaben**: direkt vom Primärtreiber abgeleitet
-- **Einschränkungen**: bezogen auf die Organisation selbst
+- **Kernaufgaben**: Treiber, die direkt vom Primärtreiber abgeleitet werden können
+- **Einschränkungen**: Treiber, die sich auf die Organisation selbst beziehen
 
 * * *
 
@@ -209,26 +209,26 @@ Damit eine Organisation dazulernen kann und sich kontinuierlich verbessert, soll
 
 ---
 
-## Pattern 1.1: Auf Organisationstreiber reagieren
+##  Muster 1.1: Auf Organisationstreiber reagieren
 
 ![right,fit](img/driver-domain/driver-response-full.png)
 
-*Kläre, was geschieht und was der Bedarf der Organisation ist, und handle entsprechend.*
+*Kläre, was geschieht und was der Bedarf der Organisation ist. Reagiere entsprechend.*
 
-Antworten auf Treiber:
+Reaktionen auf Treiber:
 
 - Aktion
 - Entscheidung (inkl. Delegation an Rollen, Kreise, Hilfsteams oder offene Domänen)
 
 * * *
 
-### Qualifiziere Organisationstreiber
+### Organisationstreiber erkennen
 
-Treiber, die in (direktem oder indirektem) Zusammenhang zum Primärtreiber der Organisation stehen, betrachtet man als **Organisationstreiber**. Andere Treiber fallen nicht in die Verantwortung (Domäne) der Organisation.
+Treiber, die in (direktem oder indirektem) Zusammenhang zum Primärtreiber der Organisation stehen, bezeichnet man als **Organisationstreiber**. Andere Treiber fallen nicht in die Verantwortung (Domäne) der Organisation.
 
-Eine einfache Möglichkeit, um organisatorische Treiber zu qualifizieren, ist die Frage:
+Eine einfache Möglichkeit, zu erkennen, ob es sich um einen Organisationtreiber handelt, ist die Frage:
 
-*Würde eine Antwort auf diesen Treiber den Wertfluss bezogen auf einen bekannten Organisationstreiber verbessern? Kurz: Kann uns das helfen bzw. schaden?*
+*Würde eine Antwort auf diesen Treiber den Wertfluss bezogen auf einen bestehenden Organisationstreiber verbessern? Kurz: Kann uns das helfen bzw. schaden?*
 
 * * *
 
@@ -236,7 +236,7 @@ Eine einfache Möglichkeit, um organisatorische Treiber zu qualifizieren, ist di
 
 ![right,fit](img/evolution/kaizen.png)
 
-Die Antwort auf einen Treiber ist üblicherweise ein Experiment, das über über längere Zeit in einem Lernprozess weiterentwickelt wird.
+Die Antwort auf einen Treiber ist üblicherweise ein Experiment, das über längere Zeit in einem Lernprozess weiterentwickelt wird.
 
 - Ist die Beschreibung der Situation immer noch zutreffend?
 - Verbinden wir mit dieser Situation immer noch den gleichen Bedarf?
@@ -245,7 +245,7 @@ Die Antwort auf einen Treiber ist üblicherweise ein Experiment, das über über
 
 ---
 
-## Pattern 1.2: Navigiere nach Spannung
+##  Muster 1.2: Navigiere nach Spannung
 
 **Erkenne und beantworte Organisationstreiber.**
 
@@ -259,7 +259,7 @@ Eine **Spannung** ist eine persönliche Erfahrung: Ein Symptom von Unstimmigkeit
 
 **Herausforderungen und Chancen** für eine Organisation können dadurch identifiziert werden, dass Mitarbeiter auf Spannungen aufmerksam werden.
 
-Spüre Spannungen nach, und beschreibe Situation und Bedarf, um **Treiber zu entdecken**. Manchmal zeigt diese Untersuchung auch Missverständnisse auf, wodurch sich die Spannung oft auflöst.
+Spüre Spannungen nach, und beschreibe Situation und Bedarf der Organisation, um **Treiber zu entdecken**. Manchmal zeigt diese Untersuchung auch Missverständnisse auf, wodurch sich die Spannung oft auflöst.
 
 Die erkannten **Organisationstreiber** werden an die zuständige Domäne zur Bearbeitung weiter gereicht.
 
@@ -271,14 +271,14 @@ Die erkannten **Organisationstreiber** werden an die zuständige Domäne zur Bea
 
 ---
 
-## Pattern 1.3: Treiber beschreiben
+##  Muster 1.3: Treiber beschreiben
 
 **Beschreibe Treiber, um sie zu verstehen, zu kommunizieren und sie im Gedächtnis zu behalten.**
 
 Eine einfache Methode, einen Treiber zu beschreiben ist:
 
 - eine kurze Beschreibung der Situation (Beobachtungen) 
-- eine Beschreibung des Bedarfs (Defizit) der aus Sicht der Organisation aus dieser Situation heraus entsteht 
+- eine Beschreibung des Bedarfs (Defizit), der aus Sicht der Organisation aus dieser Situation heraus entsteht 
 
 Bei Uneinigkeit über den Bedarf ist es oft hilfreich, spezifische Lösungsstrategien in der Treiberformulierung zu vermeiden.
 
@@ -290,11 +290,11 @@ Bei Uneinigkeit über den Bedarf ist es oft hilfreich, spezifische Lösungsstrat
 
 Die **Beschreibung eines Treibers** enthält gerade genug Informationen, um die Notwendigkeit einer Aktion oder einer Entscheidung zu kommunizieren. Weitere Details zum Treiber können in einem Anhang dokumentiert werden.
 
-Ein Treiber kann - je nach Standpunkt - als Problem oder auch als Chance beschrieben werden.
+Ein Treiber kann – je nach Standpunkt – als Problem oder auch als Chance beschrieben werden.
 
 ---
 
-## Pattern 1.4: Konsent-Entscheidung
+##  Muster 1.4: Konsent-Entscheidung
 
 ![right,fit](img/agreements/cdm-condensed.png)
 
@@ -314,20 +314,20 @@ Ein Treiber kann - je nach Standpunkt - als Problem oder auch als Chance beschri
 
 ---
 
-## Pattern 1.5: Einwand
+##  Muster 1.5: Einwand
 
 _Ein **Einwand** ist ein Grund, warum ein Vorschlag, eine Entscheidung oder eine Handlung einer effektiv(er)en Antwort auf einen Treiber im Weg steht._
 
 Einwände enthalten Informationen über Vorschläge, Entscheidungen, bestehende Vereinbarungen oder Massnahmen, die darauf hindeuten, 
 
-- dass (zumindest sehr wahrscheinlich) Schaden entstehen wird, sie sind also nicht sicher genug, um sie auszuprobieren
+- dass (zumindest sehr wahrscheinlich) Schaden entstehen wird, diese also nicht sicher genug sind, um sie auszuprobieren
 - wie man sie signifikant verbessern kann 
 
 * * *
 
 ### Einwände qualifizieren
 
-Es liegt in der Verantwortung des Einzelnen, mögliche Einwände zu erklären.
+Es liegt in der Verantwortung des Einzelnen, mögliche Einwände zu einzubringen.
 
 Die für die betreffende Aktion oder Entscheidung Verantwortlichen sind ebenfalls verantwortlich dafür, *Argumente zu bedenken und qualifizierte Einwände zu berücksichtigen*.
 
@@ -357,20 +357,20 @@ Einige hilfreiche Fragen
 - Inwiefern bezieht ich dieses Argument auf diesen Vorschlag bzw. diese Vereinbarung?
 - Zeigt dieser Einwand auf, wie eine (vorgeschlagene oder bestehende) **Aktivität oder Vereinbarung …**: 
     - die Reaktion auf einen Organisationstreiber beeinträchtigt?
-    - aktuell verbessert werden kann?
+    - hier und jetzt verbessert werden kann?
     - dem Beitrag eines Beteiligten im Weg steht?
     - im Widerspruch zu den Werten der Organisation steht?
-    - als nicht ‘sicher genug’ anzusehen ist?
+    - nicht als ‘sicher genug’ angesehen werden kann?
 
 * * *
 
 ### Bedenken
 
-Ein **Bedenken** ist die *Meinung*, dass eine Vereinbarung - auch wenn sie bereits als *gut und sicher genug* angesehen wird - weiter verbessert werden **könnte**.
+Ein **Bedenken** ist die *Meinung*, dass eine Maßnahme, selbst wenn *keine Einwände mehr dagegen vorliegen*, trotzdem noch eine effektive(re) Antwort auf einen Organisationstreiber behindern **könnte**.
 
 Bedenken in der Konsententscheidung:
 
-- Bedenken können Änderungen der Vereinbarung bewirken (einschliesslich Kriterien und Häufigkeit der Evaluation) 
+- Bedenken können Wege aufzeigen, wie Vereinbarung verbessert werden können (einschliesslich Evaluationskriterien und -zeitpunkt) 
 - Bedenken werden besprochen, wenn noch Zeit übrig ist, oder sie als wichtig eingeschätzt werden
 - Bedenken werden protokolliert
 
@@ -378,7 +378,7 @@ Bei Unsicherheit darüber, ob ein Vorschlag sicher genug ist, können Bedenken a
 
 ---
 
-## Pattern 1.6: Einwände integrieren
+##  Muster 1.6: Einwände integrieren
 
 ![inline,fit](img/agreements/resolve-objections.png)
 
@@ -390,9 +390,9 @@ Bei Unsicherheit darüber, ob ein Vorschlag sicher genug ist, können Bedenken a
 
 ---
 
-## Pattern 1.7: Vereinbarungen prüfen
+##  Muster 1.7: Vereinbarungen prüfen
 
-Die regelmässige Überprüfung aller Vereinbarungen ist essentiell für lernende Organisation, um ihr Regelwerk fortwährend weiterzuentwickeln und Verschwendung durch obsolet gewordene Vereinbarungen zu reduzieren:
+Die regelmässige Überprüfung aller Vereinbarungen ist essentiell für lernende Organisationen, um ihr Regelwerk fortwährend weiterzuentwickeln und Verschwendung durch obsolet gewordene Vereinbarungen zu reduzieren:
 
 - Anpassung an sich verändernde Rahmenbedingungen
 - Gelerntes integrieren 
@@ -427,11 +427,11 @@ Die regelmässige Überprüfung aller Vereinbarungen ist essentiell für lernend
 - Für manche Vereinbarungen ist es effektiver, einen gesonderten Termin für die Überprüfung zu vereinbaren. 
 - Die Häufigkeit der Überprüfung wird nach Bedarf angepasst.
 - Falls nötig, kann auch früher überprüft werden.
-- Elemente dieses Prozesses können auch bei der Prüfung der Entscheidungen von Einzelpersonen angewendet werden.
+- Elemente dieses Prozesses können auch von Einzelpersonen bei der Prüfung ihrer Entscheidungen angewendet werden.
 
 ---
 
-## Pattern 1.8: die Betroffenen entscheiden
+##  Muster 1.8: die Betroffenen entscheiden
 
 Involviere alle, die von einer Entscheidung betroffen sein werden, um Gleichstellung und Verantwortlichkeit sicher zu stellen. Vervollständige die Informationen, die zu dem Thema verfügbar sind.
 
@@ -444,7 +444,7 @@ Erwäge, die Betroffenen auch bei der Überprüfung und Weiterentwicklung der En
 
 ---
 
-## Pattern 1.9: Proposal Forming
+##  Muster 1.9: Proposal Forming
 
 ![right,fit](img/agreements/proposal-forming-medium.png)
 
@@ -476,13 +476,13 @@ Proposal forming kann auch von Einzelpersonen angewendet werden.
 
 - Wer sollte dabei sein?
 - Wer will dabei sein?
-- Wer könnte noch einen wertvollen Beitrag leisten?
+- Wer könnte sonst noch einen wertvollen Beitrag leisten?
 - Berücksichtige Expertise, besondere Perspektiven und Inspiration.
 - Gibt es Einwände gegen diese Gestalter?
 
 ---
 
-## Pattern 1.10: Wahl
+##  Muster 1.10: Wahl
 
 ![right,fit](img/agreements/selection.png)
 
@@ -499,7 +499,7 @@ Einwände gegen eine Nominierung können auf verschiedene Arten aufgelöst werde
 
 ---
 
-## Pattern 1.11: Driver Mapping
+##  Muster 1.11: Driver Mapping
 
 Ein Workshop-Format um einer komplexen Situation effektiv zu begegnen: Unternehmensgründung, Projektbeginn, Umgang mit Hindernissen oder Chancen, oder die Ausrichtung der Organisationsstruktur am Wertfluss.
 
@@ -526,7 +526,7 @@ Kleine oder grosse Gruppen identifizieren und priorisieren Treiber, um in selbst
 
 ---
 
-## Pattern 2.1: Um Hilfe bitten
+##  Muster 2.1: Um Hilfe bitten
 
 **Ein einfaches Protokoll, das Lernen, die Vermittlung von Fähigkeiten und den Aufbau von Beziehungen unterstützt, und dabei die Autonomie des Einzelnen respektiert.**
 
@@ -538,7 +538,7 @@ Frage einen Kollegen, "*Wärest Du bereit, mir mit … zu helfen*?" Die gefragte
 
 ---
 
-## Pattern 2.2: Peer-Feedback
+##  Muster 2.2: Peer-Feedback
 
 Lade einen Kollegen ein, dir konstruktives Feedback zu geben über:
 
@@ -555,7 +555,7 @@ Bedenke:
 
 ---
 
-## Pattern 2.3: Entwicklungsgespräch
+##  Muster 2.3: Entwicklungsgespräch
 
 ![right,fit](img/process/peer-review.png)
 
@@ -577,7 +577,7 @@ Verbesserungsvorschläge können sich auf persönliche Entwicklung, Zusammenarbe
 
 ---
 
-## Pattern 2.4: Entwicklungsplan
+##  Muster 2.4: Entwicklungsplan
 
 **Ein Plan, um sich effektiver um eine Domäne zu kümmern, der von Delegierenden und Beauftragten vereinbart wird.**
 
@@ -600,7 +600,7 @@ Der Entwicklungsplan (inklusive aller zugehörigen Empfehlungen zu Änderungen d
 
 ---
 
-## Pattern 3.1: Kunstvolle Teilnahme
+##  Muster 3.1: Kunstvolle Teilnahme
 
 ![right,fit](img/collaboration-values/artful-participation.png)
 
@@ -642,7 +642,7 @@ Kunstvolle Teilnahme kann im Einzelfall auch bedeuten, andere zu unterbrechen, E
 
 ---
 
-## Pattern 3.2: Die sieben Prinzipien leben
+##  Muster 3.2: Die sieben Prinzipien leben
 
 ![inline,fit](img/framework/s3-principles-plain.png)
 
@@ -658,7 +658,7 @@ Kunstvolle Teilnahme kann im Einzelfall auch bedeuten, andere zu unterbrechen, E
 
 ---
 
-## Pattern 3.3: Gemeinsame Werte
+##  Muster 3.3: Gemeinsame Werte
 
 ![right,fit](img/collaboration-values/chosen-values.png)
 
@@ -677,12 +677,12 @@ Kunstvolle Teilnahme kann im Einzelfall auch bedeuten, andere zu unterbrechen, E
 - die Einigung auf gemeinsame Werte ist eine **Strategie** zur Unterstützung der Effektivität einer Organisation: 
     - geringeres Potential für **Missverständnisse**
     - gemeinsame **Ausrichtung** von Entscheidungen und Aktivität
-    - **Attraktion neuer Mitarbeitern, Partnern und Kunden**, die sich mit den Werten der Organisation identifizieren
+    - **Attraktion neuer Mitarbeiter, Partner und Kunden**, die sich mit den Werten der Organisation identifizieren
 - Gemeinsame Werte sind eine Vereinbarung, und sollten daher **regelmässiger überprüft und weiterentwickelt** werden.
 
 ---
 
-## Pattern 3.4: Governance-Moderator (Rolle)
+##  Muster 3.4: Governance-Moderator (Rolle)
 
 ![right,fit](img/circle/facilitator.png)
 
@@ -700,7 +700,7 @@ Ein Governance-Moderator …
 Der Governance-Moderator sollte sich auch mit folgenden Patterns vertraut machen:
 
 - Runden
-- Proposal-Forming
+- Proposal Forming
 - Konsententscheidung
 - Rollenbesetzung
 - Meetings evaluieren
@@ -709,7 +709,7 @@ Der Governance-Moderator sollte sich auch mit folgenden Patterns vertraut machen
 
 ---
 
-## Pattern 3.5: Vereinbarungen brechen
+##  Muster 3.5: Vereinbarungen brechen
 
 - Ist manchmal **notwendig** …
 - … kann allerdings auch die **Gemeinschaft belasten**
@@ -720,12 +720,12 @@ Der Governance-Moderator sollte sich auch mit folgenden Patterns vertraut machen
 
 ---
 
-## Pattern 3.6: Verantwortung und Verträge
+##  Muster 3.6: Verantwortung und Verträge
 
-Beim Eingehen formeller oder informeller Vereinbarungen mit Anderen:
+Wenn Du formelle oder informelle Vereinbarungen mit Anderen eingehst:
 
-- Sicherstellen, dass alle Seiten die Erwartungen kennen und beabsichtigen, die Vereinbarung einzuhalten
-- Vereinbarungen treffen, die für alle Beteiligten vorteilhaft und realistisch einhaltbar sind
+- Stelle sicher, dass alle Parteien die an sie gestellten Erwartungen kennen und auch beabsichtigen, die Vereinbarung einzuhalten.
+- Verifiziere, dass die Vereinbarung für alle Parteien vorteilhaft ist, und die Erwartungen realistisch sind.
 
 Übernimm die Verantwortung, wenn Du Vereinbarungen brichst.
 
@@ -735,16 +735,16 @@ Beim Eingehen formeller oder informeller Vereinbarungen mit Anderen:
 
 ![right,fit](img/circle/enter-leave-circle.png)
 
-Pflege Selbstverantwortung zum Schutz der Organisationskultur und helfe neuen Mitgliedern, sich darin einzufinden:
+Um die Organisationskultur zu erhalten, fördere Selbstverantwortung und ermögliche neuen Mitgliedern einen möglichst reibungslosen Start:
 
-- Lege Erwartungen an neue Mitglieder fest (sowohl kulturelles Zusammenpassen als auch erforderliche Fähigkeiten)
-- Der Vertrag muss die Organisationskultur ebenso wie die gesetzlichen Anforderungen berücksichtigen
-- Erwäge eine Probezeit
-- Kläre die Abläufe bei Vertragsverletzungen im Voraus
+- Kläre Erwartungen an neue Mitglieder in Bezug auf erforderliche Fähigkeiten und kulturelle Übereinstimmung.
+- Gestalte Verträge so, dass sie die gesetzlichen Anforderungen erfüllen und zur Organisationskultur passen.
+- Erwäge eine Probezeit.
+- Kläre die Abläufe bei Vertragsverletzungen im Voraus.
 
 ---
 
-## Pattern 3.7: Gehaltstransparenz
+##  Muster 3.7: Gehaltstransparenz
 
 - transparente Gehälter müssen gerecht sein
 - Gerechtigkeit hat mehrere voneinander unabhängige Dimensionen 
@@ -764,7 +764,7 @@ Pflege Selbstverantwortung zum Schutz der Organisationskultur und helfe neuen Mi
 
 ---
 
-## Pattern 3.8: Hilfsrolle
+##  Muster 3.8: Hilfsrolle
 
 **Wende das Muster "Rolle" auf externe Vertragspartner an.**
 
@@ -774,11 +774,11 @@ Pflege Selbstverantwortung zum Schutz der Organisationskultur und helfe neuen Mi
 - begrenze die Laufzeit von Verträgen
 - plane regelmässige Entwicklungsgespräche ein
 
-Hilfsrollen können auch rein operativen Charakter haben. Externe Vertragspartner geben Ihren Konsent, die Verantwortung für Ihre Rolle zu übernehmen.
+Hilfsrollen können auch rein operativen Charakter haben. Externe Vertragspartner geben Konsent, die Verantwortung für ihre Rolle zu übernehmen.
 
 ---
 
-## Pattern 3.9: Statuten
+##  Muster 3.9: Statuten
 
 Verankere S3-Prinzipien und Pattern in Deinen Statuten, um **Rechtssicherheit** und **Organisationskultur** zu sichern
 
@@ -787,7 +787,7 @@ Bedenke:
 - Konsent und Gleichstellung in der Entscheidungsfindung
 - das Auswahlverfahren für Führungsrollen
 - Organisationsstruktur, Werte und Prinzipien
-- Einfluss von Inhabern oder Aktionären
+- Einfluss von Eigentümern oder Aktionären
 - Verteilung von Gewinn und Verlust
 
 ---
@@ -799,7 +799,7 @@ Bedenke:
 
 ---
 
-## Pattern 4.1: Einfluss delegieren
+##  Muster 4.1: Einfluss delegieren
 
 Dezentralisiere Macht in klar definierten Grenzen. Befähige Mitarbeiter, bei der Reaktion auf Organisationstreiber selbst zu entscheiden und zu handeln.
 
@@ -815,7 +815,7 @@ Dezentralisiere so weit wie möglich, behalte so viel Einfluss wie nötig.
 
 ---
 
-## Pattern 4.2: Kreis
+##  Muster 4.2: Kreis
 
 ![right,fit](img/circle/circle.png)
 
@@ -832,14 +832,14 @@ Ein Kreis …
 ## Kreis (…)
 
 - **teilautonom** 
-    - ein Kreis agiert innerhalb der Grenzen seiner Domäne
+    - ein Kreis ist innerhalb der Grenzen seiner Domäne autonom
     - jeder Kreis kann selbstständig Wert schaffen
 - **selbstverwaltet**: 
     - ein Kreis entscheidet fortwährend, wie er in seiner Domäne Wert schöpft, und definiert inhaltliche und zeitliche Rahmenbedingungen für die zu erledigende Arbeit
 
 ---
 
-## Pattern 4.3: Rolle
+##  Muster 4.3: Rolle
 
 ![right,fit](img/illustrations/roles.png)
 
@@ -871,17 +871,17 @@ Der Inhaber einer Rolle kann ein Logbuch und ein Steuerungs-Backlog führen, um 
 
 ---
 
-## Pattern 4.4: Verbindungen
+##  Muster 4.4: Verbindungen
 
 ![right,fit](img/structural-patterns/link.png)
 
 **Ermögliche den Fluss von Information und Einfluss zwischen zwei Gruppen.**
 
-Eine Gruppe wählt eines seiner Mitglieder, um ihre Interessen in den Steuerungsentscheidungen einer anderen Gruppe zu vertreten.
+Eine Gruppe bestimmt eines ihrer Mitglieder, um ihre Interessen in den Steuerungsentscheidungen einer anderen Gruppe zu vertreten.
 
 ---
 
-## Pattern 4.5: Doppelte Verbindung
+##  Muster 4.5: Doppelte Verbindung
 
 ![right,fit](img/structural-patterns/double-link.png)
 
@@ -889,12 +889,12 @@ Eine Gruppe wählt eines seiner Mitglieder, um ihre Interessen in den Steuerungs
 
 Zwei voneinander abhängige Gruppen wählen jeweils eines ihrer Mitglieder, das die Interessen seiner Gruppe in den Steuerungsentscheidungen der jeweils anderen Gruppe vertritt.
 
-- Unterstützt Gleichstellung über Gruppengrenzen hinweg
-- Kann in hierarchischen Strukturen helfen, wertvolle Informationen ans Licht zu bringen
+- Die doppelte Verbindung unterstützt Gleichstellung über Gruppengrenzen hinweg.
+- In hierarchischen Strukturen kann die doppelte Verbindung helfen, wertvolle Informationen ans Licht zu bringen.
 
 ---
 
-## Pattern 4.6: Repräsentant (Rolle)
+##  Muster 4.6: Repräsentant (Rolle)
 
 Repräsentanten (auch: Delegierte oder Vertreter):
 
@@ -907,15 +907,15 @@ Repräsentanten (auch: Delegierte oder Vertreter):
 
 ---
 
-## Pattern 4.7: Hilfsteam
+##  Muster 4.7: Hilfsteam
 
 ![right,fit](img/structural-patterns/helping-team.png)
 
-Eine Gruppe, die von einer Delegierenden beauftragt wird, Anforderungen innerhalb festgelegter Rahmenbedingungen abzuarbeiten.
+Eine Gruppe, die von einer Delegierenden beauftragt wird, konkrete Anforderungen innerhalb festgelegter Rahmenbedingungen abzuarbeiten.
 
 Ein Hilfsteam:
 
-- dient der Delegierenden, um die deren Kapazität zu erhöhen
+- dient der Delegierenden, um ihre Kapazität zu erhöhen
 - kann selbstorganisiert sein oder durch einen Koordinator gesteuert werden, der in der Regel von der Delegierenden bestimmt wird
 - wird von der Delegierenden geführt
 - profitiert von einer klar definierten Domäne
@@ -923,12 +923,12 @@ Ein Hilfsteam:
 Mitglieder eines Hilfsteams:
 
 - können Einwände gegen diejenigen Entscheidungen der Delegierenden erheben, die sie direkt betreffen
-- können Themen in das Steuerungs-Backlog der Delegierenden machen
-- werden in machen Fällen von der Delegierenden aufgefordert, einen Repräsentanten in das Steuerungsmeeting der Delegierenden zu entsenden
+- können Themen zum Steuerungs-Backlog der Delegierenden hinzufügen
+- werden in machen Fällen von der Delegierenden aufgefordert, Repräsentanten in das Steuerungsmeeting der Delegierenden zu entsenden
 
 ---
 
-## Pattern 4.8: Offene Domäne
+##  Muster 4.8: Offene Domäne
 
 ![right,fit](img/structural-patterns/open-domain.png)
 
@@ -937,27 +937,27 @@ Mitglieder eines Hilfsteams:
 Die Delegierende der Domäne definiert
 
 - Primärtreiber, Hauptaufgaben und Rahmenbedingungen der offenen Domäne
-- wer bei der Bestellung der offenen Domäne mitwirken kann
+- wer in der offenen Domäne mitwirken kann
 - die Teilhabe der Delegierenden an den Steuerungsentscheidungen der Domäne
 
 Die Delegierende der offenen Domäne ist verantwortlich dafür, dass regelmäßige Reviews stattfinden.
 
-Abhängig von den von der Delegierenden gesetzten Rahmenbedingungen, beteiligen sich die Mitwirkenden an Arbeit, Koordination und/oder Steuerung der offenen Domäne.
+Die Rahmenbedingungen, die von der Delegierenden festgelegt wurden, bestimmen, inwieweit sich die Mitwirkenden zusätzlich zu den operativen Aufgaben auch den Steuerungsaufgaben der offenen Domäne beteiligt sind.
 
 ---
 
-## Pattern 4.9: offene Systeme
+##  Muster 4.9: offene Systeme
 
 Eine Organisation kann davon profitieren, sich bewusst mit Außenstehenden auszutauschen und von ihnen zu lernen.
 
-Wenn eine Organisation anerkennt, dass sie und ihr Umfeld voneinander abhängig sind, kann sie bewusst **externes Wissen, Kompetenz und Einfluss<0> einladen, um sie bei Entscheidungen und gemeinsamem Lernen zu unterstützen.</p> 
+Wenn eine Organisation anerkennt, dass sie und ihr Umfeld voneinander abhängig sind, kann sie bewusst **externes Wissen, Kompetenz und Einfluss** einladen, um sie bei Entscheidungen und gemeinsamem Lernen zu unterstützen.
 
 * * *
 
 ## Offene Systeme (…)
 
 - **Externe Experten** können neue Perspektiven, Wissen und Fähigkeiten einbringen
-- **Vertreter von betroffenen Parteien** können zu Verständnis und Entscheidungsfindung beitragen, so gemeinsame Ziele bessere erreicht werden können (siehe Muster: "Die Betroffenen entscheiden")
+- **Vertreter betroffener Parteien** können zu Verständnis und Entscheidungsfindung beitragen, so dass gemeinsame Ziele bessern erreicht werden können (siehe Muster: "Die Betroffenen entscheiden")
 
 ---
 
@@ -968,14 +968,14 @@ Wenn eine Organisation anerkennt, dass sie und ihr Umfeld voneinander abhängig 
 
 ---
 
-## Pattern 5.1: Muster an Kontext anpassen
+##  Muster 5.1: Muster an Kontext anpassen
 
 **Verändere und entwickle S3 Muster, so dass sie zu Deinem speziellen Kontext passen.**
 
 ![right,fit](img/process/adapt-pattern-to-context.png)
 
-- stelle bei der Anpassung eines Patterns sicher, dass jeder Betroffene 
-    - versteht warum es notwendig ist, das Pattern zu verändern
+- stelle bei der Anpassung eines Musters sicher, dass alle Betroffenen 
+    - versteht warum es notwendig ist, das Muster zu verändern
     - bei der Anpassung einbezogen wird oder zumindest repräsentiert ist
 - nutze die sieben Prinzipien als Anhaltspunkte für die Anpassung
 - experimentiere mit jeder Veränderung lange genug, um Vorteile und mögliche Fallstricke herauszufinden
@@ -983,7 +983,7 @@ Wenn eine Organisation anerkennt, dass sie und ihr Umfeld voneinander abhängig 
 
 ---
 
-## Pattern 5.2: Ein Pull-System für Organisationsentwicklung schaffen
+##  Muster 5.2: Ein Pull-System für Organisationsentwicklung schaffen
 
 **Gestalte eine Umgebung, die Mitglieder der Organisation dazu einlädt und befähigt, den Wandel selbst voran zu treiben.**
 
@@ -997,26 +997,26 @@ Veränderungen die Wert schaffen:
 
 ---
 
-## Pattern 5.3: Als Beispiel dienen
+##  Muster 5.3: Als Beispiel dienen
 
 **Führe als Vorbild.**
 
-Verhalte dich selbst so, wie du es dir von anderen wünschst.
+Verhalte Dich selbst so, wie Du es Dir von anderen wünschst.
 
 ---
 
-## Pattern 5.4: Zu Veränderung einladen
+##  Muster 5.4: Zu Veränderung einladen
 
 **Ein Ansatz für einzelne Personen, um Wandel auszulösen und zu begleiten.**
 
 - Verhalte dich selbst so, wie Du es Dir auch von anderen wünschst.
-- Verwende S3-Pattern und passe sie an, wann immer das nützlich erscheint
+- Verwende S3-Muster und passe sie an, wann immer das nützlich erscheint
 - Erzähle darüber, wie und warum Du S3-Muster verwendest, und erkläre Ergebnisse, Erfolge und Scheitern
-- Lade andere dazu ein, mit Dir zu experimentieren
+- Lade dazu ein, mit Dir zu experimentieren
 
 ---
 
-## Pattern 5.5: S3 per Open-Space
+##  Muster 5.5: S3 per Open-Space
 
 **Lade alle Mitarbeiter ein, Experimente zur Entwicklung der Organisation zu überlegen und durchzuführen.**
 
@@ -1029,14 +1029,14 @@ Verhalte dich selbst so, wie du es dir von anderen wünschst.
 
 ---
 
-## Pattern 5.6: Ständige Verbesserung des Arbeitsablaufes mit S3
+##  Muster 5.6: Ständige Verbesserung des Arbeitsablaufes mit S3
 
 **Entdecke Treiber und etabliere ein metrik-basiertes Pull-System für Veränderungen in der Organisation.**
 
 - führe für ein Team das Konsent-Prinzip und das Muster *Navigiere nach Spannung* ein, so dass das Team seine Arbeitsabläufe selbst verbessern kann
 - erwäge die Wahl eines Moderators und die Einigung auf gemeinsame Werte
 - initiiere kontinuierliche Verbesserung (z.B. per Kanban)
-- Teammitglieder führen nach Bedarf selbst weiter S3 Patterns ein
+- Teammitglieder führen nach Bedarf selbst weite S3-Muster ein
 - erweitere schrittweise den Bereich des Experiments (z.B. auf weitere Teams)
 - suche bewusst nach Hindernissen, um diese aufzulösen 
 
@@ -1073,7 +1073,7 @@ Verhalte dich selbst so, wie du es dir von anderen wünschst.
 
 ---
 
-## Pattern 6.1: Vereinbarung
+##  Muster 6.1: Vereinbarung
 
 ![right,fit](img/evolution/driver-agreement-improvement.png)
 
@@ -1093,7 +1093,7 @@ _Eine **Vereinbarung** ist eine (gemeinsam) beschlossene Richtlinie, oder ein Pr
 
 ---
 
-## Pattern 6.2: Strategie entwickeln
+##  Muster 6.2: Strategie entwickeln
 
 ![right,fit](img/driver-domain/driver-strategy-agreements-domain.png)
 
@@ -1114,7 +1114,7 @@ _Eine **Strategie** ist der Ansatz, wie Mitarbeiter planen, in einer bestimmten 
 
 ---
 
-## Pattern 6.3: Domänen klären
+##  Muster 6.3: Domänen klären
 
 ![right,fit](img/templates/domain-description-template.png)
 
@@ -1139,7 +1139,7 @@ Je nach Bedarf kann man in einer Organisation zuerst existierende Domänen klär
 
 ---
 
-## Pattern 6.4: Angestrebtes Ergebnis
+##  Muster 6.4: Angestrebtes Ergebnis
 
 ![right,fit](img/templates/outcome-and-criteria.png)
 
@@ -1148,7 +1148,7 @@ Je nach Bedarf kann man in einer Organisation zuerst existierende Domänen klär
 
 ---
 
-## Pattern 6.5: Leistungen definieren
+##  Muster 6.5: Leistungen definieren
 
 Eine **Leistung** wird als Ergebnis einer Vereinbarung in Reaktion auf einen Treiber angeboten. Leistungen umfassen Produkte, Materialien, Dienstleistungen, Erfahrungen und Transformationen.
 
@@ -1161,17 +1161,17 @@ Im Kontext einer Vereinbarung unterstützt die klare Definition von Leistungen d
 
 ## Leistungen definieren (…)
 
-Leistungen explizit zu definieren kann hilfreich sein zur Verbesserung von:
+Leistungen explizit zu definieren kann hilfreich sein zur Weiterentwicklung:
 
 - der Strategie der Organisation
 - der Strategie eines Kreises
-- Entwicklungsplänen
+- eines Entwicklungsplans für einerRolle oder einen Kreises
 - der Beschreibung einer Domäne
-- jeder anderen Vereinbarung (z.B.. wirtschaftliche Ziele, Arbeitsprozesse, Kundenkommunikation)
+- jeder anderen Vereinbarung (z.B. wirtschaftliche Ziele, Arbeitsprozesse, Kundenkommunikation)
 
 ---
 
-## Pattern 6.6: Evaluationskriterien
+##  Muster 6.6: Evaluationskriterien
 
 ![right,fit](img/templates/outcome-and-criteria.png)
 
@@ -1182,7 +1182,7 @@ Klar definierte Evaluationskriterien können helfen, ein gemeinsames Verständni
 
 ---
 
-## Pattern 6.7: Logbuch
+##  Muster 6.7: Logbuch
 
 Ein Logbuch ist ein (digitales) System zur Speicherung aller für den Betrieb einer Organisation und ihrer Teams relevanten Informationen. Das Logbuch ist allen Mitgliedern einer Organisation zugänglich; einzelne Informationen können vertraulich behandelt werden, wenn dafür ein guter Grund besteht.
 
@@ -1200,9 +1200,9 @@ Verbreitete Plattformen für Logbücher sind Wikis (wie DokuWiki oder MediaWiki)
 
 - Kreis:
     
-    - Beschreibung und Strategie des Kreises
+    - Beschreibung des Kreises, Strategie
     - Vereinbarungen (einschließlich Beschreibung, Strategien und Entwicklungspläne der Subdomänen)
-    - Rückstände und sonstige Informationen zur Kreisarbeit und -steuerung
+    - Backlogs und weitere Informationen zu Arbeit und Steuerung des Kreises
 
 * * *
 
@@ -1215,7 +1215,7 @@ Verbreitete Plattformen für Logbücher sind Wikis (wie DokuWiki oder MediaWiki)
 
 ---
 
-## Pattern 6.8: Logbuchführer (Rolle)
+##  Muster 6.8: Logbuchführer (Rolle)
 
 Der Logbuchführer ist verantwortlich für die Pflege des Logbuchs des Kreises:
 
@@ -1234,7 +1234,7 @@ Der Logbuchführer ist verantwortlich für die Pflege des Logbuchs des Kreises:
 
 ---
 
-## Pattern 7.1: Steuerungs-Meeting
+##  Muster 7.1: Steuerungs-Meeting
 
 ![right,fit](img/meetings/governance-meeting.png)
 
@@ -1278,7 +1278,7 @@ Typische Agendapunkte:
 
 ---
 
-## Pattern 7.2: Retrospektive
+##  Muster 7.2: Retrospektive
 
 Kontinuierliche Verbesserung der Arbeitsabläufe durch Reflexion und Lernen aus der Vergangenheit
 
@@ -1307,7 +1307,7 @@ Die Website [plans-for-retrospectives.com](http://www.plans-for-retrospectives.c
 
 ---
 
-## Pattern 7.3: Daily Standup
+##  Muster 7.3: Daily Standup
 
 ![right,fit](img/meetings/planning-review-standup.png)
 
@@ -1322,24 +1322,24 @@ Die Website [plans-for-retrospectives.com](http://www.plans-for-retrospectives.c
 
 ---
 
-## Pattern 7.4: Planungs- und Review-Meetings
+##  Muster 7.4: Planungs- und Review-Meetings
 
 ![right,fit](img/meetings/planning-review.png)
 
 Gruppen halten in regelmäßigen Abständen (1-4 Wochen) zeitlich begrenzte Meetings, um Iterationen zu planen und zu evaluieren
 
-- Im Planungsmeeting werden die Arbeitspakete für die nächste Iteration ausgewählt und geschätzt
-- Im Review werden die abgeschlossenen Arbeitspakete besprochen, um erforderliche Nachbesserungen und Änderungen für die nächste Iteration zu identifizieren
+- Im Planungsmeeting werden die Arbeitspakete für die nächste Iteration ausgewählt und dabei, soweit erforderlich, Zeitschätzungen durchgeführt.
+- Im Review werden die abgeschlossenen Arbeitspakete besprochen, um erforderliche Nachbesserungen und Änderungen für die nächste Iteration zu identifizieren.
 
 ---
 
-## Pattern 7.5: Koordinationsmeeting
+##  Muster 7.5: Koordinationsmeeting
 
 **Halte regelmäßige Treffen (typischerweise wöchentlich), um Bericht zu erstatten und Arbeitsaufgaben zu koordinieren.**
 
 - sorge für Moderation, und bevorzuge Runden (anstatt Diskussionen)
-- erstelle die Agenda möglichst vor dem Meeting 
-    - stelle Informationen bereit, damit sich die Teilnehmer vorbereiten können
+- erstelle die Agenda möglichst vor dem Meeting: 
+    - stelle alle Informationen bereit, die die Teilnehmer zur Vorbereitung benötigen
     - aus den Berichten können sich während des Meetings neue Agendapunkte ergeben
 
 * * *
@@ -1348,12 +1348,12 @@ Gruppen halten in regelmäßigen Abständen (1-4 Wochen) zeitlich begrenzte Meet
 
 ![right,fit](img/meetings/coordination-meeting.png)
 
-- Statusberichte 
+- Statusberichte: 
     - Kreismetriken (falls vorhanden)
     - Projekte und Aufgaben
 - Agendapunkte 
     - Informationen weitergeben
-    - bestehende Aufgaben oder Projekte aktualisieren, oder neue erfassen
+    - Aufgaben und Projekte aktualisieren oder erfassen
     - neue Vereinbarungen treffen oder bestehende aktualisieren
 
 ---
@@ -1365,7 +1365,7 @@ Gruppen halten in regelmäßigen Abständen (1-4 Wochen) zeitlich begrenzte Meet
 
 ---
 
-## Pattern 8.1: Runden
+##  Muster 8.1: Runden
 
 ![right,fit](img/circle/rounds.png)
 
@@ -1378,7 +1378,7 @@ Erfahrene Gruppen entscheiden sich manchmal dafür, bestimmte Runden in S3-Grupp
 
 ---
 
-## Pattern 8.2: Meetings moderieren
+##  Muster 8.2: Meetings moderieren
 
 Bestimme für jedes Meeting einen Moderator. Auch ein unerfahrener Moderator kann der Gruppe helfen, sich auf das Thema zu fokussieren. 
 
@@ -1390,7 +1390,7 @@ Bestimme für jedes Meeting einen Moderator. Auch ein unerfahrener Moderator kan
 
 ---
 
-## Pattern 8.3: Meetings evaluieren
+##  Muster 8.3: Meetings evaluieren
 
 ![right,fit](img/meetings/evaluate-interactions.png)
 
@@ -1420,7 +1420,7 @@ Lade alle ein, in einer Runde kurz auf einige oder alle der folgenden Punkte ein
 
 ---
 
-## Pattern 8.4: Gastgeber(in) (Rolle)
+##  Muster 8.4: Gastgeber(in) (Rolle)
 
 Die Gastgeberin ist verantwortlich für Vor- und Nachbereitung von Meetings, Workshops oder anderer Veranstaltungen.
 
@@ -1445,7 +1445,7 @@ Die Rolle kann vorübergehend (z. B. nur für eine bestimmte Veranstaltung) oder
 
 ---
 
-## Pattern 8.5: Steuerungs-Backlog
+##  Muster 8.5: Steuerungs-Backlog
 
 _Ein **Steuerungs-Backlog** ist eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen._
 
@@ -1464,7 +1464,7 @@ _Ein **Steuerungs-Backlog** ist eine sichtbare, priorisierte Liste von Themen (T
 
 ---
 
-## Pattern 9.1: Backlog
+##  Muster 9.1: Backlog
 
 _Ein **Backlog** (Aufgabenliste) ist eine sichtbare Liste aus (meist priorisierten)  Aufgaben, die noch abgearbeitet werden müssen._
 
@@ -1499,7 +1499,7 @@ Jedes Element in einem (priorisierten) Backlog hat:
 
 ---
 
-## Pattern 9.2: Backlogs priorisieren
+##  Muster 9.2: Backlogs priorisieren
 
 Ordne **alle unerledigten Aufgaben** so, dass die wichtigsten zuerst kommen:
 
@@ -1511,7 +1511,7 @@ Ordne **alle unerledigten Aufgaben** so, dass die wichtigsten zuerst kommen:
 
 ---
 
-## Pattern 9.3: Arbeit visualisieren
+##  Muster 9.3: Arbeit visualisieren
 
 ![right,fit](img/workflow-and-value/simple-process.png)
 
@@ -1539,15 +1539,15 @@ Transparenz bzgl. des Status aller Arbeitsaufgaben, die anstehen, in Arbeit sind
 
 ---
 
-## Pattern 9.4: Arbeiten nach Pull-System
+##  Muster 9.4: Arbeiten nach Pull-System
 
 - Mitarbeiter holen sich neue Arbeit, wenn sie Kapazität haben (anstatt dass ihnen Arbeit zugeteilt wird)
 - priorisiere vorhandene Arbeitsaufgaben, so dass sichergestellt ist, dass die wichtigsten Aufgaben zuerst abgearbeitet werden
-- Pull-Systeme verhindert die Überlastung des Systems (dieser Effekt wird noch verstärkt, wenn man zusätzlich auch Zahl der gleichzeitigen Arbeitsaufgaben für pro Mitarbeiter beschränkt)
+- Pull-Systeme verhindert die Überlastung des Systems (dieser Effekt wird noch verstärkt, wenn man zusätzlich auch Zahl der gleichzeitigen Arbeitsaufgaben pro Mitarbeiter beschränkt)
 
 ---
 
-## Pattern 9.5: Laufende Arbeit begrenzen
+##  Muster 9.5: Laufende Arbeit begrenzen
 
 **Begrenze die Anzahl an Arbeitsaufgaben für jeden Schritt deiner Arbeitsprozesse**
 
@@ -1561,7 +1561,7 @@ Wenn eine Aktion eine vereinbarten Grenze überschreiten würde, muss dies zuers
 
 ---
 
-## Pattern 9.6: Fluss angleichen
+##  Muster 9.6: Fluss angleichen
 
 ![right,fit](img/workflow-and-value/align-flow.png)
 
@@ -1579,7 +1579,7 @@ Wenn eine Aktion eine vereinbarten Grenze überschreiten würde, muss dies zuers
 
 ---
 
-## Pattern 9.7: Koordinator(in)
+##  Muster 9.7: Koordinator(in)
 
 Die Koordinatorin ist verantwortlich für die **Koordination der Arbeit einer Gruppe** und wird **für einen festgelegten Zeitraum gewählt**
 
@@ -1598,7 +1598,7 @@ Die Koordinatorin ist verantwortlich für die **Koordination der Arbeit einer Gr
 
 ## Organisationsstruktur
 
-Organisationsstruktur ist das momentane Gefüge von Domänen und deren Verbindungen. Sie zeigt Orte der Macht, und die Kanäle, durch die Einfluss und Information fließen.
+Organisationsstruktur ist das momentane Gefüge von Domänen und deren Verbindungen. Sie zeigt Entscheidungskompetenzen und die Kanäle, durch die Einfluss und Information fließen.
 
 Eine effektive Organisationsstruktur:
 
@@ -1621,7 +1621,7 @@ Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als
 
 ### Strukturmuster
 
-Soziokratie 3.0 beschreibt verschiedene Strukturmuster, aus denen eine Vielzahl unterschiedlichen von Organisationsstrukturen entwickelt werden kann.
+Soziokratie 3.0 beschreibt verschiedene Strukturmuster, aus denen eine große Vielfalt von unterschiedlichen Organisationsstrukturen entwickelt werden kann.
 
 - Muster haben unterschiedliche Abstraktionsebenen
 - unterschiedliche Strukturmuster lösen unterschiedliche Probleme
@@ -1630,7 +1630,7 @@ Soziokratie 3.0 beschreibt verschiedene Strukturmuster, aus denen eine Vielzahl 
 
 ---
 
-## Pattern 10.1: Servicekreis
+##  Muster 10.1: Servicekreis
 
 ![right,fit](img/structural-patterns/service-circle.png)
 
@@ -1640,7 +1640,7 @@ Ein Servicekreis wird von Mitgliedern der Domänen besetzt, denen er dient; bei 
 
 ---
 
-## Pattern 10.2: Delegiertenkreis
+##  Muster 10.2: Delegiertenkreis
 
 ![right,fit](img/structural-patterns/delegate-circle.png)
 
@@ -1654,7 +1654,7 @@ Delegiertenkreise steuern eine Organisation nach dem Wertfluss, und ermöglichen
 
 ---
 
-## Pattern 10.3: Pfirsichorganisation
+##  Muster 10.3: Pfirsichorganisation
 
 ![right,fit](img/structural-patterns/peach-organization.png)
 
@@ -1667,7 +1667,7 @@ Wertschöpfung in komplexen und kompetitiven Umgebungen durch **Dezentralisierun
 
 ---
 
-## Pattern 10.4: doppelt verbundene Hierarchie
+##  Muster 10.4: doppelt verbundene Hierarchie
 
 ![right,fit](img/structural-patterns/double-linked-hierarchy.png)
 
@@ -1679,14 +1679,14 @@ Wertschöpfung in komplexen und kompetitiven Umgebungen durch **Dezentralisierun
 
 ---
 
-## Pattern 10.5: Service-Organisation
+##  Muster 10.5: Service-Organisation
 
 ![right,fit](img/structural-patterns/service-organization-text.png)
 
 **Zusammenarbeit mehrerer Stakeholder, und Ausrichtung auf ein gemeinsames Ziel (bzw. Treiber).**
 
 - verbessert die Gleichstellung der beteiligten Organisationen
-- ermöglicht die gemeinsame Ausrichtung über Abteilungs- und Organisationsgrenzen hinweg
+- ermöglicht gemeinsame Ausrichtung über Abteilungs- und Organisationsgrenzen hinweg
 - unterstützt die Zusammenarbeit zwischen Organisationen bzw. Abteilungen, die unterschiedlichen Ziele verfolgen, oder sich im Konflikt miteinander befinden
 - geeignet für einmalige Projekte oder fortwährende Zusammenarbeit
 
@@ -1694,7 +1694,7 @@ Wertschöpfung in komplexen und kompetitiven Umgebungen durch **Dezentralisierun
 
 ---
 
-## Pattern 10.6: Fraktal-Organisation
+##  Muster 10.6: Fraktal-Organisation
 
 ![right,fit](img/structural-patterns/fractal-organization.png)
 
@@ -1831,7 +1831,7 @@ Die aktuellste Fassung dieses Praxisleitfadens ist verfügbar unter <http://soci
 
 ---
 
-## Danksagungen
+## Danksagung
 
 Soziokratie 3.0 ist das Ergebnis von über Generationen gesammelter Weisheit und Erfahrungen. Allen Mitwirkenden gemein ist das Streben danach, neue Wege zu harmonischer, bewusster und effektiver Zusammenarbeit zu entwickeln.
 
@@ -1959,14 +1959,14 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 ---
 
 
-Patterns  | Patterns (cont.)
+Muster  | Muster (…)
 --- | ---
-Als Beispiel dienen - 5.3<br\>Angestrebtes Ergebnis - 6.4<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Daily Standup - 7.3<br\>Delegiertenkreis - 10.2<br\>Die Betroffenen entscheiden - 1.8<br\>Die sieben Prinzipien leben - 3.2<br\>Domänen klären - 6.3<br\>Doppelt verbundene Hierarchie - 10.4<br\>doppelte Verbindung - 4.5<br\>Driver Mapping - 1.11<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6<br\>Entwicklungsgespräch - 2.3<br\>Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6 | Fluss angleichen - 9.6<br\>Fraktalorganisation - 10.6<br\>Gastgeber(in) - 8.4<br\>Gemeinsame Werte - 3.3<br\>Governance-Moderator - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsententscheidung - 1.4<br\>kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinator(in) - 9.7<br\>Kreis - 4.2<br\>Kunstvolle Teilnahme - 3.1<br\>laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7<br\>Logbuchführer - 6.8<br\>Meetings evaluieren - 8.3<br\>Meetings moderieren - 8.2<br\>Muster an Kontext anpassen - 5.1
+Als Beispiel dienen - 5.3<br\>Angestrebtes Ergebnis - 6.4<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Daily Standup - 7.3<br\>Delegiertenkreis - 10.2<br\>Die Betroffenen entscheiden - 1.8<br\>Die sieben Prinzipien leben - 3.2<br\>Domänen klären - 6.3<br\>Doppelt verbundene Hierarchie - 10.4<br\>Doppelte Verbindung - 4.5<br\>Driver Mapping - 1.11<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6<br\>Entwicklungsgespräch - 2.3<br\>Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6 | Fluss angleichen - 9.6<br\>Fraktalorganisation - 10.6<br\>Gastgeber(in) - 8.4<br\>Gemeinsame Werte - 3.3<br\>Governance-Moderator - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsententscheidung - 1.4<br\>Kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinator(in) - 9.7<br\>Kreis - 4.2<br\>Kunstvolle Teilnahme - 3.1<br\>Laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7<br\>Logbuchführer - 6.8<br\>Meetings evaluieren - 8.3<br\>Meetings moderieren - 8.2<br\>Muster an Kontext anpassen - 5.1
 
 
 ---
 
 
-Patterns (cont.) | Patterns (cont.)
+Muster (…) | Muster (…)
 --- | ---
 Navigiere nach Spannung - 1.2<br\>Offene Domäne - 4.8<br\>Offene Systeme - 4.9<br\>Peer-Feedback - 2.2<br\>Pfirsichorganisation - 10.3<br\>Planungs- und Review-Meetings - 7.4<br\>Proposal Forming - 1.9<br\>Pull-System für Organisationsentwicklung schaffen - 5.2<br\>Reagiere auf Organisationstreiber - 1.1<br\>Repräsentant - 4.6<br\>Retrospektive - 7.2<br\>Rolle - 4.3<br\>Runden - 8.1<br\>S3 per Open-Space - 5.5<br\>Service-Organisation - 10.5<br\>Servicekreis - 10.1<br\>Statuten - 3.9<br\>Steuerungs-Backlog - 8.5<br\>Steuerungs-Meeting - 7.1<br\>Strategie entwickeln - 6.2 | Transparentes Gehalt - 3.7<br\>Treiber beschreiben - 1.3<br\>Um Hilfe bitten - 2.1<br\>Verantwortung und Verträge - 3.6<br\>Verbindungen - 4.4<br\>Vereinbarung - 6.1<br\>Vereinbarungen brechen - 3.5<br\>Vereinbarungen überprüfen - 1.7<br\>Veränderung einladen - 5.4<br\>Wahl - 1.10
