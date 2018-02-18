@@ -35,7 +35,7 @@ epub:
 	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
 
-	cd ebook; pandoc tmp-ebook-epub-compiled.md -f markdown -t epub3 -s -o ../S3-practical-guide.epub
+	cd ebook; pandoc tmp-ebook-epub-compiled.md -f markdown -t epub3 -s -o ../$(TARGETFILE).epub
 
 	# clean up
 	cd ebook; rm tmp-*
@@ -51,7 +51,7 @@ proof:
 	
 	cd ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
 	cd ebook; latexmk -pdf ebook-proof.tex 
-	cd ebook; mv ebook-proof.pdf ../S3-practical-guide-proof.pdf
+	cd ebook; mv ebook-proof.pdf ../$(TARGETFILE)-proof.pdf
 	
 	# clean up
 	cd ebook; latexmk -C
