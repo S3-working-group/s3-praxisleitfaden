@@ -383,7 +383,7 @@ patterns:
     pid: 8
   - 
     gid: 3
-    name: Transparentes Gehalt
+    name: Gehaltstransparenz
     path: transparent-salary.md
     pid: 7
   - 
