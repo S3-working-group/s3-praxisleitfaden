@@ -8,7 +8,7 @@ title: "Mitgestaltung ermöglichen"
 - [Governance-Moderator](governance-facilitator.html)
 - [Vereinbarungen brechen](breaking-agreements.html)
 - [Verantwortung und Verträge](contracting-and-accountability.html)
-- [Transparentes Gehalt](transparent-salary.html)
+- [Gehaltstransparenz](transparent-salary.html)
 - [Hilfsrolle](support-role.html)
 - [Statuten](bylaws.html)
 

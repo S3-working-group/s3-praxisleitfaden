@@ -21,5 +21,5 @@ Um die Organisationskultur zu erhalten, fördere Selbstverantwortung und ermögl
 - Erwäge eine Probezeit.
 - Kläre die Abläufe bei Vertragsverletzungen im Voraus.
 
-[&#9654; Transparentes Gehalt](transparent-salary.html)<br/>[&#9664; Vereinbarungen brechen](breaking-agreements.html)<br/>[&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html)
+[&#9654; Gehaltstransparenz](transparent-salary.html)<br/>[&#9664; Vereinbarungen brechen](breaking-agreements.html)<br/>[&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html)
 
