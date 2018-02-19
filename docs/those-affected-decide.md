@@ -12,5 +12,5 @@ Für grössere Gruppen:
 
 Erwäge, die Betroffenen auch bei der Überprüfung und Weiterentwicklung der Entscheidungen miteinzubeziehen.
 
-[&#9664; Vereinbarungen überprüfen](evaluate-agreements.html) | [&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html) | [&#9654; Proposal Forming](proposal-forming.html)
+[&#9654; Proposal Forming](proposal-forming.html)<br/>[&#9664; Vereinbarungen überprüfen](evaluate-agreements.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

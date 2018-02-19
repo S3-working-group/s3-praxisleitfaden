@@ -11,15 +11,14 @@ Im Kontext einer Vereinbarung unterstützt die klare Definition von Leistungen d
 - beziehe dich auf andere Dokumente, wo hilfreich oder notwendig
 
 
-## Leistungen definieren (…)
 
-Leistungen explizit zu definieren kann hilfreich sein zur Verbesserung von:
+Leistungen explizit zu definieren kann hilfreich sein zur Weiterentwicklung:
 
 - der Strategie der Organisation
 - der Strategie eines Kreises
-- Entwicklungsplänen
+- eines Entwicklungsplans für einerRolle oder einen Kreises
 - der Beschreibung einer Domäne
-- jeder anderen Vereinbarung (z.B.. wirtschaftliche Ziele, Arbeitsprozesse, Kundenkommunikation)
+- jeder anderen Vereinbarung (z.B. wirtschaftliche Ziele, Arbeitsprozesse, Kundenkommunikation)
 
-[&#9664; Angestrebtes Ergebnis](intended-outcome.html) | [&#9650; Klare Vereinbarungen](defining-agreements.html) | [&#9654; Evaluationskriterien](evaluation-criteria.html)
+[&#9654; Evaluationskriterien](evaluation-criteria.html)<br/>[&#9664; Angestrebtes Ergebnis](intended-outcome.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
 

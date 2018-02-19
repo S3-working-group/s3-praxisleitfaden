@@ -3,7 +3,7 @@ title: "Änderungsprotokoll "
 ---
 
 
-## Änderungen zu. 16.11.2017
+### Änderungen zum 16.11.2017
 
 - kleine Korrekturen
 - Glossareinträge für *Kreis* und *Rolle* an Beschreibung der Muster angepasst
@@ -11,7 +11,7 @@ title: "Änderungsprotokoll "
 - *Rolle*: Entwicklung der Strategie genauer erklärt
 
 
-## Änderungen zum 10.11.2017
+### Änderungen zum 10.11.2017
 
 - verschiedene Klarstellungen und Korrekturen
 - *Kreis*: Klärung der Beziehung zwischen Kreis und Domäne
@@ -21,7 +21,7 @@ title: "Änderungsprotokoll "
 - mehrere Begriffe zum Glossar hinzugefügt
 
 
-## Änderungen zum 21.10.2017
+### Änderungen zum 21.10.2017
 
 - Liliana David zu Autoren hinzugefügt
 - den Begriff "Framework" ersetzt durch "Praktischer Leitfaden"
@@ -33,7 +33,6 @@ title: "Änderungsprotokoll "
 - Vorlagen für Vereinbarungen und Entwicklungsplan angepasst
 
 
-## Änderungen zum 21.10.2017 (…)
 
 - Einführung: 
     - neuer Abschnitt "was habe ich davon?"
@@ -43,7 +42,6 @@ title: "Änderungsprotokoll "
     - handlungsorientierte Beschreibung der Prinzipien
 
 
-## Änderungen zum 21.10.2017 (…)
 
 - *Kunstvolle Teilnahme*: Beschreibung überarbeitet
 - *Vereinbarung*: Erklärung, dass das Konzept von Vereinbarungen auch innerhalb einer Rolle angewendet werden kann
@@ -55,7 +53,6 @@ title: "Änderungsprotokoll "
 - *doppelt verbundene Hierarchie*: neue Illustration
 
 
-## Änderungen zum 21.10.2017 (…)
 
 - *Vereinbarungen prüfen*: Fragen an Peer-Review angepasst
 - *Steuerungs-Backlog*: Definition überarbeitet
@@ -68,9 +65,8 @@ title: "Änderungsprotokoll "
 - *Einwände integrieren*: neue Illustration
 
 
-## Änderungen zum 21.10.2017 (…)
 
-**Umbenannte Muster**
+**Folgende Muster wurden umbenannt:**
 
 - *Backbone-Organisation* zu *Serviceorganisation*
 - *Entwicklungsgespräch* (nur auf Englisch umbenannt)
@@ -78,10 +74,16 @@ title: "Änderungsprotokoll "
 - *Domänenbeschreibung* zu *Domänen klären*
 - *Leistungen definieren* (nur auf Englisch umbenannt)
 
-| hinzugefügt                                                           | entfernt                                                                        |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| _Treiber beschreiben_  
-_offene Domäne_  
-_Einfluss delegieren_ | _Koordinationskreis_  
-_Verschachtelte Domänen_  
-_Treiber qualifizieren_ |
+
+
+**Folgende Muster wurden hinzugefügt:**
+
+- *Einfluss delegieren*
+- *Treiber beschreiben*
+- *Offene Domäne*
+
+**Folgende Muster wurden entfernt:**
+
+- *Koordinationskreis*
+- *Verschachtelte Domänen*
+- *Treiber beurteilen*

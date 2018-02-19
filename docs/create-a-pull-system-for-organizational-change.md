@@ -13,5 +13,5 @@ Veränderungen die Wert schaffen:
   - … und lasse sie gemeinsam ihr eigenes Tempo wählen
 - jede Veränderung sollte freiwillig geschehen
 
-[&#9664; Muster an Kontext anpassen](adapt-patterns-to-context.html) | [&#9650; S3 einführen](bringing-in-s3.html) | [&#9654; Als Beispiel dienen](be-the-change.html)
+[&#9654; Als Beispiel dienen](be-the-change.html)<br/>[&#9664; Muster an Kontext anpassen](adapt-patterns-to-context.html)<br/>[&#9650; S3 einführen](bringing-in-s3.html)
 

@@ -16,5 +16,5 @@ title: "Fluss angleichen"
 - Kontinuierlicher Wertfluss sorgt dafür, dass sich weniger Verschwendung ansammeln kann. 
     - Zudem schafft er schnellere Rückmeldung und verstärkt dadurch das Lernpotenzial.
 
-[&#9664; laufende Arbeit begrenzen](limit-work-in-progress.html) | [&#9650; Arbeitsorganisation](organizing-work.html) | [&#9654; Koordinator(in)](coordinator.html)
+[&#9654; Koordinator(in)](coordinator.html)<br/>[&#9664; Laufende Arbeit begrenzen](limit-work-in-progress.html)<br/>[&#9650; Arbeitsorganisation](organizing-work.html)
 

@@ -13,14 +13,12 @@ Typische Backlogs:
 - Impediment-Backlog
 
 
-## Backlog (…)
 
 - **Umsetzung** 
     - **analoges Backlog**: Haftnotizen an einer Wand, oder Karteikarten mit Magneten an einem Whiteboard
     - **digitales Backlog**: z.B. Google Sheets, Trello, Kanban Flow, Jira, Asana
 
 
-## Backlog (…)
 
 Jedes Element in einem (priorisierten) Backlog hat:
 
@@ -32,5 +30,5 @@ Jedes Element in einem (priorisierten) Backlog hat:
 - (optional) ein Maß für **Wert** 
 - (optional) ein Maß für **Aufwand** (oft als Zeit- oder Komplexitätsschätzung)
 
-[&#9650; Arbeitsorganisation](organizing-work.html) | [&#9654; Backlogs priorisieren](prioritize-backlogs.html)
+[&#9654; Backlogs priorisieren](prioritize-backlogs.html)<br/>[&#9650; Arbeitsorganisation](organizing-work.html)
 

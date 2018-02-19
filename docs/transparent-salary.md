@@ -18,5 +18,5 @@ title: "Gehaltstransparenz"
 
 ![inline,fit](img/process/opening-salaries.png)
 
-[&#9664; Verantwortung und Verträge](contracting-and-accountability.html) | [&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html) | [&#9654; Hilfsrolle](support-role.html)
+[&#9654; Hilfsrolle](support-role.html)<br/>[&#9664; Verantwortung und Verträge](contracting-and-accountability.html)<br/>[&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html)
 

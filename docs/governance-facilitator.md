@@ -13,17 +13,16 @@ Ein Governance-Moderator …
 - lädt oft Andere dazu ein, einzelne Tagesordnungspunkte zu moderieren
 
 
-## Governance-Moderator (…)
 
 Der Governance-Moderator sollte sich auch mit folgenden Patterns vertraut machen:
 
 - Runden
-- Proposal-Forming
+- Proposal Forming
 - Konsententscheidung
 - Rollenbesetzung
 - Meetings evaluieren
 - Einwände integrieren
 - Entwicklungsgespräche
 
-[&#9664; Gemeinsame Werte](agree-on-values.html) | [&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html) | [&#9654; Vereinbarungen brechen](breaking-agreements.html)
+[&#9654; Vereinbarungen brechen](breaking-agreements.html)<br/>[&#9664; Gemeinsame Werte](agree-on-values.html)<br/>[&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html)
 

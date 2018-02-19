@@ -1,6 +1,6 @@
-# Änderungsprotokoll 
+## Änderungsprotokoll 
 
-## Änderungen zu. 16.11.2017
+### Änderungen zum 16.11.2017
 
 - kleine Korrekturen
 - Glossareinträge für *Kreis* und *Rolle* an Beschreibung der Muster angepasst
@@ -9,7 +9,7 @@
 
 * * *
 
-## Änderungen zum 10.11.2017
+### Änderungen zum 10.11.2017
 
 - verschiedene Klarstellungen und Korrekturen
 - *Kreis*: Klärung der Beziehung zwischen Kreis und Domäne
@@ -20,7 +20,7 @@
 
 * * *
 
-## Änderungen zum 21.10.2017
+### Änderungen zum 21.10.2017
 
 - Liliana David zu Autoren hinzugefügt
 - den Begriff "Framework" ersetzt durch "Praktischer Leitfaden"
@@ -33,7 +33,7 @@
 
 * * *
 
-## Änderungen zum 21.10.2017 (…)
+### Änderungen zum 21.10.2017 (…)
 
 - Einführung: 
     - neuer Abschnitt "was habe ich davon?"
@@ -44,7 +44,7 @@
 
 * * *
 
-## Änderungen zum 21.10.2017 (…)
+### Änderungen zum 21.10.2017 (…)
 
 - *Kunstvolle Teilnahme*: Beschreibung überarbeitet
 - *Vereinbarung*: Erklärung, dass das Konzept von Vereinbarungen auch innerhalb einer Rolle angewendet werden kann
@@ -57,7 +57,7 @@
 
 * * *
 
-## Änderungen zum 21.10.2017 (…)
+### Änderungen zum 21.10.2017 (…)
 
 - *Vereinbarungen prüfen*: Fragen an Peer-Review angepasst
 - *Steuerungs-Backlog*: Definition überarbeitet
@@ -71,9 +71,9 @@
 
 * * *
 
-## Änderungen zum 21.10.2017 (…)
+### Änderungen zum 21.10.2017 (…)
 
-**Umbenannte Muster**
+**Folgende Muster wurden umbenannt:**
 
 - *Backbone-Organisation* zu *Serviceorganisation*
 - *Entwicklungsgespräch* (nur auf Englisch umbenannt)
@@ -81,10 +81,18 @@
 - *Domänenbeschreibung* zu *Domänen klären*
 - *Leistungen definieren* (nur auf Englisch umbenannt)
 
-| hinzugefügt                                                           | entfernt                                                                        |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| _Treiber beschreiben_  
-_offene Domäne_  
-_Einfluss delegieren_ | _Koordinationskreis_  
-_Verschachtelte Domänen_  
-_Treiber qualifizieren_ |
+* * *
+
+### Änderungen zum 21.10.2017 (…)
+
+**Folgende Muster wurden hinzugefügt:**
+
+- *Einfluss delegieren*
+- *Treiber beschreiben*
+- *Offene Domäne*
+
+**Folgende Muster wurden entfernt:**
+
+- *Koordinationskreis*
+- *Verschachtelte Domänen*
+- *Treiber beurteilen*

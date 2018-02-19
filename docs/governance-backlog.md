@@ -11,5 +11,5 @@ _Ein **Steuerungs-Backlog** ist eine sichtbare, priorisierte Liste von Themen (T
 - Vereinbarungen, die geprüft werden müssen
 - Besetzung von Rollen
 
-[&#9664; Gastgeber(in)](meeting-host.html) | [&#9650; Effektive Meetings](meeting-practices.html) | [&#9654; Mitgestaltung ermöglichen](enablers-of-co-creation.html)
+[&#9654; Mitgestaltung ermöglichen](enablers-of-co-creation.html)<br/>[&#9664; Gastgeber(in)](meeting-host.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
 

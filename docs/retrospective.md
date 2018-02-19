@@ -26,5 +26,5 @@ Kontinuierliche Verbesserung der Arbeitsabläufe durch Reflexion und Lernen aus 
 
 Die Website [plans-for-retrospectives.com](http://www.plans-for-retrospectives.com/) bietet zahlreiche Aktivitäten für alle Phasen.
 
-[&#9664; Steuerungs-Meeting](governance-meeting.html) | [&#9650; Fokussierte Interaktionen](focused-interactions.html) | [&#9654; Daily Standup](daily-standup.html)
+[&#9654; Daily Standup](daily-standup.html)<br/>[&#9664; Steuerungs-Meeting](governance-meeting.html)<br/>[&#9650; Fokussierte Interaktionen](focused-interactions.html)
 

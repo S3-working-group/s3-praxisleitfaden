@@ -4,4 +4,4 @@
 
 **Ermögliche den Fluss von Information und Einfluss zwischen zwei Gruppen.**
 
-Eine Gruppe wählt eines seiner Mitglieder, um ihre Interessen in den Steuerungsentscheidungen einer anderen Gruppe zu vertreten.
+Eine Gruppe bestimmt eines ihrer Mitglieder, um ihre Interessen in den Steuerungsentscheidungen einer anderen Gruppe zu vertreten.

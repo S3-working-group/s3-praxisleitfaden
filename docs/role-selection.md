@@ -16,5 +16,5 @@ Einwände gegen eine Nominierung können auf verschiedene Arten aufgelöst werde
 
 **Hinweis:** Dieses Muster kann auch für die Auswahl zwischen mehreren Optionen verwendet werden.
 
-[&#9664; Proposal Forming](proposal-forming.html) | [&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html) | [&#9654; Driver Mapping](driver-mapping.html)
+[&#9654; Driver Mapping](driver-mapping.html)<br/>[&#9664; Proposal Forming](proposal-forming.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

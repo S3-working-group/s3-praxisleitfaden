@@ -7,9 +7,9 @@
 Die Delegierende der Domäne definiert
 
 - Primärtreiber, Hauptaufgaben und Rahmenbedingungen der offenen Domäne
-- wer bei der Bestellung der offenen Domäne mitwirken kann
+- wer in der offenen Domäne mitwirken kann
 - die Teilhabe der Delegierenden an den Steuerungsentscheidungen der Domäne
 
 Die Delegierende der offenen Domäne ist verantwortlich dafür, dass regelmäßige Reviews stattfinden.
 
-Abhängig von den von der Delegierenden gesetzten Rahmenbedingungen, beteiligen sich die Mitwirkenden an Arbeit, Koordination und/oder Steuerung der offenen Domäne.
+Die Rahmenbedingungen, die von der Delegierenden festgelegt wurden, bestimmen, inwieweit sich die Mitwirkenden zusätzlich zu den operativen Aufgaben auch den Steuerungsaufgaben der offenen Domäne beteiligt sind.

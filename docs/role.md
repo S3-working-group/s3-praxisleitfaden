@@ -14,7 +14,6 @@ Der Inhaber einer Rolle schlägt eine Strategie zur Wertschöpfung in seiner Dom
 Eine Rolle ist ein einfacher Weg für eine Gruppe, um wiederkehrende Aufgaben oder einen bestimmten Arbeitsbereich an eines ihrer Mitglieder zu delegieren.
 
 
-## Rolle (…)
 
 - eine Person kann mehrere Rollen innehaben, und eine Rolle kann von mehreren Personen ausgefüllt werden
 - Personen die eine Rolle inne haben, werden per Konsent und für einen festgelegten Zeitraum gewählt
@@ -29,5 +28,5 @@ Der Inhaber einer Rolle kann ein Logbuch und ein Steuerungs-Backlog führen, um 
 
 ![inline,fit](img/evolution/driver-role-selection-development.png)
 
-[&#9664; Kreis](circle.html) | [&#9650; Organisationsentwicklung](building-organizations.html) | [&#9654; Verbindungen](linking.html)
+[&#9654; Verbindungen](linking.html)<br/>[&#9664; Kreis](circle.html)<br/>[&#9650; Organisationsentwicklung](building-organizations.html)
 

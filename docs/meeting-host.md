@@ -23,5 +23,5 @@ Die Rolle kann vorübergehend (z. B. nur für eine bestimmte Veranstaltung) oder
     - Raum aufräumen, Schlüssel zurückgeben etc.
     - sicherstellen, dass das Protokoll verteil wird
 
-[&#9664; Meetings evaluieren](evaluate-meetings.html) | [&#9650; Effektive Meetings](meeting-practices.html) | [&#9654; Steuerungs-Backlog](governance-backlog.html)
+[&#9654; Steuerungs-Backlog](governance-backlog.html)<br/>[&#9664; Meetings evaluieren](evaluate-meetings.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
 

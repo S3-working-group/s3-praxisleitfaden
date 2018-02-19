@@ -30,6 +30,6 @@ Proposal forming kann auch von Einzelpersonen angewendet werden.
 
 - Wer sollte dabei sein?
 - Wer will dabei sein?
-- Wer könnte noch einen wertvollen Beitrag leisten?
+- Wer könnte sonst noch einen wertvollen Beitrag leisten?
 - Berücksichtige Expertise, besondere Perspektiven und Inspiration.
 - Gibt es Einwände gegen diese Gestalter?

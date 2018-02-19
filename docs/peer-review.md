@@ -14,11 +14,10 @@ Stelle sicher, dass die eingeladenen Teilnehmer mit unterschiedlichen Perspektiv
 Verbesserungsvorschläge können sich auf persönliche Entwicklung, Zusammenarbeit, Strategie oder Anpassungen der Domänen-Beschreibung (inkl. Treiber) beziehen.
 
 
-## Entwicklungsgespräch (…)
 
 ### Kontinuierliche Verbesserung der Fähigkeit, eine Rolle auszufüllen oder in Gruppen zusammenzuarbeiten.
 
 ![inline,fit](img/evolution/development-process.png)
 
-[&#9664; Peer-Feedback](peer-feedback.html) | [&#9650; Gemeinsame Entwicklung](peer-development.html) | [&#9654; Entwicklungsplan](development-plan.html)
+[&#9654; Entwicklungsplan](development-plan.html)<br/>[&#9664; Peer-Feedback](peer-feedback.html)<br/>[&#9650; Gemeinsame Entwicklung](peer-development.html)
 

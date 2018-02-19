@@ -14,5 +14,5 @@ Der Entwicklungsplan (inklusive aller zugehörigen Empfehlungen zu Änderungen d
 
 ![inline,fit](img/templates/development-plan-template.png)
 
-[&#9664; Entwicklungsgespräch](peer-review.html) | [&#9650; Gemeinsame Entwicklung](peer-development.html) | [&#9654; Gemeinsame Entwicklung](peer-development.html)
+[&#9654; Gemeinsame Entwicklung](peer-development.html)<br/>[&#9664; Entwicklungsgespräch](peer-review.html)<br/>[&#9650; Gemeinsame Entwicklung](peer-development.html)
 

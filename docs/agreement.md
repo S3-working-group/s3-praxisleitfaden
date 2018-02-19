@@ -18,5 +18,5 @@ _Eine **Vereinbarung** ist eine (gemeinsam) beschlossene Richtlinie, oder ein Pr
 
 ![inline,fit](img/templates/agreement-template.png)
 
-[&#9650; Klare Vereinbarungen](defining-agreements.html) | [&#9654; Strategie entwickeln](develop-strategy.html)
+[&#9654; Strategie entwickeln](develop-strategy.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
 

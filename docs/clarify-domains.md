@@ -17,11 +17,10 @@ Eine einfache Möglichkeit, Domänen zu klären ist eine **Domänenbeschreibung*
 - (vorherige Versionen der Domänenbeschreibung)
 
 
-## Domänen klären (…)
 
 Domänenbeschreibungen können für Rollen, Positionen, Kreise, Teams, offene Domänen, Abteilungen, Geschäftseinheiten oder auch für die gesamte Organisation erstellt werden.
 
 Je nach Bedarf kann man in einer Organisation zuerst existierende Domänen klären, oder nur die Domänen, die neu geschaffenen werden.
 
-[&#9664; Strategie entwickeln](develop-strategy.html) | [&#9650; Klare Vereinbarungen](defining-agreements.html) | [&#9654; Angestrebtes Ergebnis](intended-outcome.html)
+[&#9654; Angestrebtes Ergebnis](intended-outcome.html)<br/>[&#9664; Strategie entwickeln](develop-strategy.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
 

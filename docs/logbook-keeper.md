@@ -11,5 +11,5 @@ Der Logbuchführer ist verantwortlich für die Pflege des Logbuchs des Kreises:
 - Sicherstellung des Zugangs der Kreismitglieder (und der Gesamtorganisation, je nach Vereinbarung) zum Logbuch
 - Betreuung aller technischen Aspekte der Logbuchführung
 
-[&#9664; Logbuch](logbook.html) | [&#9650; Klare Vereinbarungen](defining-agreements.html) | [&#9654; Klare Vereinbarungen](defining-agreements.html)
+[&#9654; Klare Vereinbarungen](defining-agreements.html)<br/>[&#9664; Logbuch](logbook.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
 

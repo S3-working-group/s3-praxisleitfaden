@@ -4,14 +4,14 @@
 
 Einwände enthalten Informationen über Vorschläge, Entscheidungen, bestehende Vereinbarungen oder Massnahmen, die darauf hindeuten, 
 
-- dass (zumindest sehr wahrscheinlich) Schaden entstehen wird, sie sind also nicht sicher genug, um sie auszuprobieren
+- dass (zumindest sehr wahrscheinlich) Schaden entstehen wird, diese also nicht sicher genug sind, um sie auszuprobieren
 - wie man sie signifikant verbessern kann 
 
 * * *
 
 ### Einwände qualifizieren
 
-Es liegt in der Verantwortung des Einzelnen, mögliche Einwände zu erklären.
+Es liegt in der Verantwortung des Einzelnen, mögliche Einwände zu einzubringen.
 
 Die für die betreffende Aktion oder Entscheidung Verantwortlichen sind ebenfalls verantwortlich dafür, *Argumente zu bedenken und qualifizierte Einwände zu berücksichtigen*.
 
@@ -41,20 +41,20 @@ Einige hilfreiche Fragen
 - Inwiefern bezieht ich dieses Argument auf diesen Vorschlag bzw. diese Vereinbarung?
 - Zeigt dieser Einwand auf, wie eine (vorgeschlagene oder bestehende) **Aktivität oder Vereinbarung …**: 
     - die Reaktion auf einen Organisationstreiber beeinträchtigt?
-    - aktuell verbessert werden kann?
+    - hier und jetzt verbessert werden kann?
     - dem Beitrag eines Beteiligten im Weg steht?
     - im Widerspruch zu den Werten der Organisation steht?
-    - als nicht ‘sicher genug’ anzusehen ist?
+    - nicht als ‘sicher genug’ angesehen werden kann?
 
 * * *
 
 ### Bedenken
 
-Ein **Bedenken** ist die *Meinung*, dass eine Vereinbarung - auch wenn sie bereits als *gut und sicher genug* angesehen wird - weiter verbessert werden **könnte**.
+Ein **Bedenken** ist die *Meinung*, dass eine Maßnahme, selbst wenn *keine Einwände mehr dagegen vorliegen*, trotzdem noch eine effektive(re) Antwort auf einen Organisationstreiber behindern **könnte**.
 
 Bedenken in der Konsententscheidung:
 
-- Bedenken können Änderungen der Vereinbarung bewirken (einschliesslich Kriterien und Häufigkeit der Evaluation) 
+- Bedenken können Wege aufzeigen, wie Vereinbarung verbessert werden können (einschliesslich Evaluationskriterien und -zeitpunkt) 
 - Bedenken werden besprochen, wenn noch Zeit übrig ist, oder sie als wichtig eingeschätzt werden
 - Bedenken werden protokolliert
 

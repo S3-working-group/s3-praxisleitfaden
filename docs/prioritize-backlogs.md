@@ -11,5 +11,5 @@ Ordne **alle unerledigten Aufgaben** so, dass die wichtigsten zuerst kommen:
     - der Fokus liegt immer auf den momentan wichtigsten Aufgaben
     - gemeinsames Verständnis von Prioritäten ermöglicht effektivere Zusammenarbeit
 
-[&#9664; Backlog](backlog.html) | [&#9650; Arbeitsorganisation](organizing-work.html) | [&#9654; Arbeit visualisieren](visualize-work.html)
+[&#9654; Arbeit visualisieren](visualize-work.html)<br/>[&#9664; Backlog](backlog.html)<br/>[&#9650; Arbeitsorganisation](organizing-work.html)
 

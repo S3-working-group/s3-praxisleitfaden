@@ -19,5 +19,5 @@ title: "Klare Vereinbarungen"
 - [Logbuchführer](logbook-keeper.html)
 
 
-[&#9664; kontinuierliche Verbesserung des Arbeitsablaufs](continuous-improvement-of-work-process.html) | [&#9654; Vereinbarung](agreement.html)
+[&#9654; Vereinbarung](agreement.html)<br/>[&#9664; Kontinuierliche Verbesserung des Arbeitsablaufs](continuous-improvement-of-work-process.html)
 

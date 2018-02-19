@@ -16,7 +16,7 @@ Ein Governance-Moderator …
 Der Governance-Moderator sollte sich auch mit folgenden Patterns vertraut machen:
 
 - Runden
-- Proposal-Forming
+- Proposal Forming
 - Konsententscheidung
 - Rollenbesetzung
 - Meetings evaluieren

@@ -1,4 +1,4 @@
-# Soziokratie 3.0 - Ein Leitfaden zur Evolution agiler und resilienter Organisationen
+## Soziokratie 3.0 - Ein Leitfaden zur Evolution agiler und resilienter Organisationen
 
 ### Effektive Zusammenarbeit in Organisationen beliebiger Größe
 
@@ -16,7 +16,7 @@ S3 unterstützt Dich dabei, herauszufinden, wie Du am besten Deine Ziele erreich
 
 - Beginne dort, wo der Bedarf am größten ist, und wähle ein oder mehrere Muster für ein Experiment. **Bestimme selbst die passende Geschwindigkeit** und entwickle die erforderlichen Fähigkeiten unterwegs.
 
-- Du wirst für **jede beliebige Position in der Organisation** Muster finden, die Dir weiterhelfen können.
+- **Unabhängig von Deiner Position in der Organisation** wirst Du Muster finden, die Dir weiterhelfen können.
 
 * * *
 

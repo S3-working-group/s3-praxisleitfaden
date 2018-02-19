@@ -1,5 +1,5 @@
 ---
-title: "Danksagungen"
+title: "Danksagung"
 ---
 
 
@@ -12,7 +12,6 @@ Weiterhin danken wir all jenen, die unermüdlich an der Förderung einer agilen 
 Schlussendlich gebührt unser Dank unseren zahlreichen Kollegen und Kunden - sowie den Teilnehmern unserer Kurse und Workshops - die sich entschlossen haben, Soziokratie 3.0 kennenzulernen und damit zu experimentieren. Danke für Euer wertvolles und wertschätzendes Feedback, das uns hilft, zu lernen und zu wachsen, und die Muster in S3 weiterzuentwickeln.
 
 
-## Danksagung (…)
 
 Folgenden Personen wollen wir besonders danken für ihren Beitrag zu Soziokratie 3.0, oder für ihre Arbeit, die S3 wesentlich beeinflusst hat:
 

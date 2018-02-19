@@ -1,6 +1,6 @@
 ## Grundlegende Konzepte
 
-Bevor Du in die Muster eintauchst, solltest Du Dich einigen zentralen Konzepten hinter S3 vertraut machen:
+Bevor Du in die Muster eintauchst, solltest Du Dich mit einigen Konzepten vertraut machen, die das Verständnis von S3 erleichtern:
 
 - Was ist ein Muster?
 - Die sieben Prinzipien

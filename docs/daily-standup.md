@@ -14,5 +14,5 @@ title: "Daily Standup"
     - Hindernisse und Blocker besprechen
     - Beschluss neuer oder Anpassung bestehender Vereinbarungen
 
-[&#9664; Retrospektive](retrospective.html) | [&#9650; Fokussierte Interaktionen](focused-interactions.html) | [&#9654; Planungs- und Review-Meetings](planning-and-review-meetings.html)
+[&#9654; Planungs- und Review-Meetings](planning-and-review-meetings.html)<br/>[&#9664; Retrospektive](retrospective.html)<br/>[&#9650; Fokussierte Interaktionen](focused-interactions.html)
 

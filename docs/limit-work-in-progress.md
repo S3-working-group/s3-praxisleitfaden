@@ -13,5 +13,5 @@ Laufende Arbeit beinhaltet
 
 Wenn eine Aktion eine vereinbarten Grenze überschreiten würde, muss dies zuerst mit der Gruppe diskutiert werden
 
-[&#9664; Arbeiten nach Pull-System](pull-system-for-work.html) | [&#9650; Arbeitsorganisation](organizing-work.html) | [&#9654; Fluss angleichen](align-flow.html)
+[&#9654; Fluss angleichen](align-flow.html)<br/>[&#9664; Arbeiten nach Pull-System](pull-system-for-work.html)<br/>[&#9650; Arbeitsorganisation](organizing-work.html)
 
