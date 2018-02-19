@@ -30,7 +30,7 @@ wordpress:
 
 epub:
 	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX)
+	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
 	# transclude all to one file 
 	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
@@ -44,7 +44,7 @@ proof:
 	# render a pdf for proofreading
 	
 	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX)
+	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
 	# transclude all to one file 
 	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 	cd ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
