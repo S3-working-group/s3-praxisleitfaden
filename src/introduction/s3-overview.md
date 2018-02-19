@@ -1,4 +1,4 @@
-# Soziokratie 3.0 - Ein Leitfaden zur Evolution agiler und resilienter Organisationen
+## Soziokratie 3.0 - Ein Leitfaden zur Evolution agiler und resilienter Organisationen
 
 ### Effektive Zusammenarbeit in Organisationen beliebiger Größe
 

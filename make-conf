@@ -1,3 +1,7 @@
+#X-Generator: crowdin.com
 
+# filename for the slide deck
 TARGETFILE=S3-Praxisleitfaden
-SECTIONPREFIX=" Muster %(chapter)s.%(section)s:"
+# template pattern numbers
+SECTIONPREFIX=Muster %(chapter)s.%(section)s:
+

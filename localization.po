@@ -1,17 +1,17 @@
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.6\n"
-"Last-Translator: \n"
+"(cont.)\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: de\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: sociocracy-30\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: localization.pot\n"
+"Project-Id-Version: sociocracy-30\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2018-02-18 18:10-0500\n"
 
 # continuation marker for follow-up slides
 msgid "(cont.)"
@@ -24,3 +24,20 @@ msgstr "Muster"
 # pattern (singular)
 msgid "Pattern"
 msgstr "Muster"
+
+msgid ""
+msgstr ""
+""
+
+msgid ""
+msgstr ""
+""
+
+msgid ""
+msgstr ""
+""
+
+msgid ""
+msgstr ""
+""
+

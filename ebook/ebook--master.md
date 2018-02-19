@@ -1,11 +1,11 @@
-# Introduction
+# Einführung
 
 {{tmp-introduction.md}}
 
-# The Patterns
+# Muster
 
 {{tmp-chapters.md}}
 
-# Appendix
+# Anhang
 
 {{tmp-appendix.md}}
