@@ -16,7 +16,7 @@ deckset:
 
 revealjs:
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=text --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build revealjs $(CONFIG) $(TMPFOLDER) reveal.js/$(TARGETFILE).html --template=templates/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
+	mdslides build revealjs $(CONFIG) $(TMPFOLDER) docs/slides.html --template=templates/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
 
 site:
 	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=docs/_templates/index.md --index=$(PATTERNINDEX)
@@ -40,8 +40,8 @@ epub:
 	# clean up
 	cd ebook; rm tmp-*
 
-proof:
-	# render a pdf for proofreading
+e-book:
+	# render an ebook as pdf
 	
 	# render intro, chapters and appendix to separate md files
 	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
@@ -51,9 +51,17 @@ proof:
 	
 	cd ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
 	cd ebook; latexmk -pdf ebook-proof.tex 
-	cd ebook; mv ebook-proof.pdf ../$(TARGETFILE)-proof.pdf
+	cd ebook; mv ebook-proof.pdf ../$(TARGETFILE)-ebook.pdf
 	
 	# clean up
 	cd ebook; latexmk -C
+	cd ebook; rm tmp-*
+
+html:
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=glossary.yaml --index=$(PATTERNINDEX)
+	# transclude all to one file 
+	cd ebook; multimarkdown --to=mmd --output=../docs/all.md single-page--master.md
+	# clean up
 	cd ebook; rm tmp-*
 
