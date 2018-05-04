@@ -9,4 +9,14 @@ rights: ${version} © 2015 - 2018 Bernhard Bockelbrink, James Priest, Liliana Da
 lang: ${html_language}
 ...
 
-{{tmp-ebook-compiled.md}}
+# ${_("Introduction")}
+
+{{tmp-introduction.md}}
+
+# ${_("The Patterns")}
+
+{{tmp-chapters.md}}
+
+# ${_("Appendix")}
+
+{{tmp-appendix.md}}
