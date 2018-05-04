@@ -19,15 +19,15 @@ endef
 
 define prepare-ebook
 # prepare and copy templates
-mdslides template templates/ebook/ebook--master.md tmp/ebook/ebook--master.md content/localization.po project.yaml
-mdslides template templates/ebook/ebook-epub--master.md tmp/ebook/ebook-epub--master.md content/localization.po project.yaml
-mdslides template templates/ebook/ebook-proof.tex tmp/ebook/ebook-proof.tex content/localization.po project.yaml
-mdslides template templates/ebook/ebook-style.sty tmp/ebook/ebook-style.sty content/localization.po project.yaml
+mdslides template templates/ebook/ebook--master.md $(TMPFOLDER)/ebook/ebook--master.md content/localization.po project.yaml
+mdslides template templates/ebook/ebook-epub--master.md $(TMPFOLDER)/ebook/ebook-epub--master.md content/localization.po project.yaml
+mdslides template templates/ebook/ebook-proof.tex $(TMPFOLDER)/ebook/ebook-proof.tex content/localization.po project.yaml
+mdslides template templates/ebook/ebook-style.sty $(TMPFOLDER)/ebook/ebook-style.sty content/localization.po project.yaml
 # render intro, chapters and appendix to separate md files
-mdslides build ebook $(CONFIG) $(SOURCE) tmp/ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
+mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
 # transclude all to one file 
-cd tmp/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
-cd tmp/ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
+cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
 endef
 
 
@@ -42,18 +42,18 @@ endif
 	# build deckset presentation and add pattern index
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=img --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 	
-	mdslides template templates/deckset-template.md tmp/deckset-template.md content/localization.po project.yaml
-	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=tmp/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
+	mdslides template templates/deckset-template.md $(TMPFOLDER)/deckset-template.md content/localization.po project.yaml
+	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=$(TMPFOLDER)/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
 	# append pattern-index
 	mdslides deckset-index $(PATTERNINDEX) $(TARGETFILE).md
 
 revealjs:
 	$(update-make-conf)
 
-	mdslides template templates/revealjs-template.html tmp/revealjs-template.html content/localization.po project.yaml
+	mdslides template templates/revealjs-template.html $(TMPFOLDER)/revealjs-template.html content/localization.po project.yaml
 
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=text --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build revealjs $(CONFIG) $(TMPFOLDER) docs/slides.html --template=tmp/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
+	mdslides build revealjs $(CONFIG) $(TMPFOLDER) docs/slides.html --template=$(TMPFOLDER)/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
 
 site:
 	# build jekyll site
@@ -91,33 +91,35 @@ epub:
 	$(update-make-conf)
 	$(prepare-ebook)
 
-	cd tmp/ebook; pandoc tmp-ebook-epub-compiled.md -f markdown -t epub3 -s -o ../../$(TARGETFILE).epub
+	cd $(TMPFOLDER)/ebook; pandoc tmp-ebook-epub-compiled.md -f markdown -t epub3 -s -o ../../$(TARGETFILE).epub
 
 	# clean up
-	cd tmp/ebook; rm tmp-*
+	#cd $(TMPFOLDER)/ebook; rm tmp-*
 
 e-book:
 	# render an ebook as pdf
 	$(update-make-conf)
 	$(prepare-ebook)
 
-	cd tmp/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
-	cd tmp/ebook; latexmk -pdf ebook-proof.tex 
-	cd tmp/ebook; mv ebook-proof.pdf ../../$(TARGETFILE)-ebook.pdf
+	cd $(TMPFOLDER)/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
+	cd $(TMPFOLDER)/ebook; latexmk -pdf ebook-proof.tex 
+	cd $(TMPFOLDER)/ebook; mv ebook-proof.pdf ../../$(TARGETFILE)-ebook.pdf
 	
 	# clean up
-	cd tmp/ebook; latexmk -C
-	cd tmp/ebook; rm tmp-*
+	cd $(TMPFOLDER)/ebook; latexmk -C
+	#cd $(TMPFOLDER)/ebook; rm tmp-*
 
 html:
 	$(update-make-conf)
-	
+
+	mdslides template templates/ebook/single-page--master.md $(TMPFOLDER)/ebook/single-page--master.md content/localization.po project.yaml
+
 	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX)
+	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX)
 	# transclude all to one file 
-	cd ebook; multimarkdown --to=mmd --output=../docs/all.md single-page--master.md
+	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
 	# clean up
-	cd ebook; rm tmp-*
+	cd $(TMPFOLDER)/ebook; rm tmp-*
 
 update:
 	$(update-make-conf)
