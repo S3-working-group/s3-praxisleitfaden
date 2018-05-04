@@ -1,29 +1,38 @@
+# Site settings
 title: Soziokratie 3.0 Praxisleitfaden
 email: bernhard.bockelbrink@gmail.com
-description: >
-  Die offizielle Dokumentation zu Soziokratie 3.0 - Alle Muster, die sieben Prinzipien und alle wichtigen Konzepte, von Bernhard Bockelbrink, James Priest und Liliana David.
+description: > # this means to ignore newlines until "baseurl:"
+   Die offizielle Dokumentation zu Soziokratie 3.0 - Alle Muster, die sieben Prinzipien und alle wichtigen Konzepte, von Bernhard Bockelbrink, James Priest und Liliana David.
 
-baseurl: ""
-url: "http://s3-working-group.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://s3-working-group.github.io" # the base hostname & protocol for your site
+
 twitter_username: sociocracy30
+
+# Build settings
 source:   .
 destination:  ./_site
 layouts_dir:  ./_layouts
 includes_dir: ./_includes
+
+
 markdown: kramdown
-safe: true
+safe: true # required on Github pages (no plugins)
+
 defaults:
-  - 
+  -
     scope:
-      path: ""
+      path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-  - 
+  -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: "page"
+      layout: "page" # overrides previous default layout
+
+
 exclude:      [
   "_export",
   "_python",

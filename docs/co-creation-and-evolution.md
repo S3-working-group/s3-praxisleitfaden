@@ -4,7 +4,7 @@ title: "Mitgestaltung und Evolution"
 
 - [Reagiere auf Organisationstreiber](respond-to-organizational-drivers.html)
 - [Navigiere nach Spannung](navigate-via-tension.html)
-- [Treiber beschreiben](describe-drivers.html)
+- [Organisationstreiber beschreiben](describe-organizational-drivers.html)
 - [Konsententscheidung](consent-decision-making.html)
 - [Einwand](objection.html)
 - [Einwände integrieren](resolve-objections.html)

@@ -87,7 +87,7 @@ _**Wert** ist die Bedeutung oder der Nutzen von etwas in Bezug  auf einen bestim
 
 _**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht notwenig ist oder ihr sogar im Wege steht._
 
-Über die Konzepte von Wert und Verschwendung können Organisationen, die Muster aus S3 verwenden, auch viele Praktiken und Ideen aus den Bereichen der **Lean Production** und der **Lean Softwareentwicklung** nutzen, beispielsweise:
+Über das Konzept von Wert und Verschwendung können Organisationen, die Muster aus S3 verwenden, auch viele Praktiken und Ideen aus der **Lean Production** und der **Lean Softwareentwicklung** nutzen. Zum Beispiel:
 
 - Wertstromanalyse
 - verschiedene Strategien zur Vermeidung von Verschwendung

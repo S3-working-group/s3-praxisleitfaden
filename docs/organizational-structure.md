@@ -29,13 +29,13 @@ Soziokratie 3.0 beschreibt verschiedene Strukturmuster, aus denen eine große Vi
 - unterschiedliche Strukturmuster lösen unterschiedliche Probleme
 - Strukturmuster können nach Bedarf angepasst und kombiniert werden
 - weitere Strukturmuster werden entdeckt und beschrieben werden
+- [Doppelt verbundene Hierarchie](double-linked-hierarchy.html)
 - [Servicekreis](service-circle.html)
 - [Delegiertenkreis](delegate-circle.html)
 - [Pfirsichorganisation](peach-organization.html)
-- [Doppelt verbundene Hierarchie](double-linked-hierarchy.html)
 - [Service-Organisation](service-organization.html)
 - [Fraktalorganisation](fractal-organization.html)
 
 
-[&#9654; Servicekreis](service-circle.html)<br/>[&#9664; Koordinator(in)](coordinator.html)
+[&#9654; Doppelt verbundene Hierarchie](double-linked-hierarchy.html)<br/>[&#9664; Koordinator(in)](coordinator.html)
 

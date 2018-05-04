@@ -3,6 +3,13 @@ title: "Änderungsprotokoll "
 ---
 
 
+### Änderungen zum 21.3.2018
+
+- das Muster *Treiber beschreiben* wurde umbenannt in *Organisationstreiber beschreiben*
+- *Organisationstreiber beschreiben*: Erklärung der vier Aspekte eines Treibers: aktuelle Situation, Effekt der Situation auf die Organisation, Bedarf der Organisation in Bezug auf die Situation, und die Konsequenzen, wenn der Bedarf gedeckt wird
+- *Bedarf* zum Glossar hinzugefügt
+
+
 ### Änderungen zum 16.11.2017
 
 - kleine Korrekturen
@@ -23,21 +30,21 @@ title: "Änderungsprotokoll "
 
 ### Änderungen zum 21.10.2017
 
-- Liliana David zu Autoren hinzugefügt
-- den Begriff "Framework" ersetzt durch "Praktischer Leitfaden"
-- Reihenfolge der Muster aktualisiert
-- Index der Muster Patterns hinzugefügt 
-- Glossar mit vielen relevanten Begriffen erstellt 
+- Liliana Davids zu Autoren hinzugefügt
+- den Begriff «Framework» fallen gelassen (ersetzt durch «Praktischer Leitfaden»)
+- Reihenfolge der Patterns aktualisiert
+- Index aller Patterns hinzugefügt 
+- Glossar hinzugefügt 
 - Danksagungen hinzugefügt
-- verschiedene kleine Überarbeitungen von Text und Illustrationen
+- mehrere kleinere Klärungen und Korrekturen an Texten und Illustrationen
 - Vorlagen für Vereinbarungen und Entwicklungsplan angepasst
 
 
 
 - Einführung: 
     - neuer Abschnitt "was habe ich davon?"
-    - Definitionen in der Einleitung für Governance, Selbstorganisation, Teilautonomie und operatives Geschäft
-    - Klärung von Domänen und ihrer Beziehung zu Treibern
+    - Definitionen für Governance, Selbstorganisation, Teilautonomie und operatives Geschäft hinzugefügt
+    - Klärung von Domänen und ihrer Beziehung zu Treibern 
     - Kernkonzepte besser erklärt
     - handlungsorientierte Beschreibung der Prinzipien
 
@@ -68,10 +75,10 @@ title: "Änderungsprotokoll "
 
 **Folgende Muster wurden umbenannt:**
 
-- *Backbone-Organisation* zu *Serviceorganisation*
+- *Backbone-Organisation* in *Serviceorganisation*
 - *Entwicklungsgespräch* (nur auf Englisch umbenannt)
-- *Strategie* zu *Strategie entwickeln*
-- *Domänenbeschreibung* zu *Domänen klären*
+- *Strategie* in *Strategie entwickeln*
+- *Domänenbeschreibung* in *Domänen klären*
 - *Leistungen definieren* (nur auf Englisch umbenannt)
 
 

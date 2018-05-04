@@ -8,7 +8,7 @@ TMPFOLDER=tmp/
 include make-conf
 
 deckset:
-	mdslides template templates/make-conf make-conf localization.po project.yaml
+	mdslides template templates/make-conf make-conf content/localization.po project.yaml
 
 	$(build-index)
 
@@ -19,20 +19,21 @@ deckset:
 	mdslides deckset-index $(PATTERNINDEX) $(TARGETFILE).md
 
 revealjs:
-	mdslides template templates/make-conf make-conf localization.po project.yaml
+	mdslides template templates/make-conf make-conf content/localization.po project.yaml
 
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=text --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 	mdslides build revealjs $(CONFIG) $(TMPFOLDER) docs/slides.html --template=templates/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
 
 site:
 	# build jekyll site
-	mdslides template templates/make-conf make-conf localization.po project.yaml
+	mdslides template templates/make-conf make-conf content/localization.po project.yaml
 
 	# prepare templates
-	mdslides template templates/docs/_layouts/default.html docs/_layouts/default.html localization.po project.yaml
-	mdslides template templates/docs/_config.yml docs/_config.yml localization.po project.yaml
-	mdslides template templates/docs/CNAME docs/CNAME localization.po project.yaml
-	cp content/website/_includes/footer.html docs/_includes/footer.html
+	mdslides template templates/docs/_layouts/default.html docs/_layouts/default.html content/localization.po project.yaml
+	mdslides template templates/docs/_config.yml docs/_config.yml content/localization.po project.yaml
+	mdslides template templates/docs/CNAME docs/CNAME content/localization.po project.yaml
+	# cp content/website/_includes/footer.html docs/_includes/footer.html
+	mdslides template content/website/_includes/footer.html docs/_includes/footer.html content/localization.po project.yaml
 	cp content/website/_includes/header.html docs/_includes/header.html
 
 	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --index=$(PATTERNINDEX)
@@ -40,7 +41,7 @@ site:
 
 wordpress:
 	# join each pattern group into one md file to be used in wordpress
-	mdslides template templates/make-conf make-conf localization.po project.yaml
+	mdslides template templates/make-conf make-conf content/localization.po project.yaml
 
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=none --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 	mdslides build wordpress $(CONFIG) $(TMPFOLDER) $(TMPFOLDER)/web-out/ --footer=templates/wordpress-footer.md  --glossary=$(GLOSSARY)
@@ -48,13 +49,13 @@ wordpress:
 epub:
 	# render intro, chapters and appendix to separate md files
 
-	mdslides template templates/make-conf make-conf localization.po project.yaml
+	mdslides template templates/make-conf make-conf content/localization.po project.yaml
 
 	# prepare and copy templates
-	mdslides template templates/ebook/ebook--master.md tmp/ebook/ebook--master.md localization.po project.yaml
-	mdslides template templates/ebook/ebook-epub--master.md tmp/ebook/ebook-epub--master.md localization.po project.yaml
-	mdslides template templates/ebook/ebook-proof.tex tmp/ebook/ebook-proof.tex localization.po project.yaml
-	mdslides template templates/ebook/ebook-style.sty tmp/ebook/ebook-style.sty localization.po project.yaml
+	mdslides template templates/ebook/ebook--master.md tmp/ebook/ebook--master.md content/localization.po project.yaml
+	mdslides template templates/ebook/ebook-epub--master.md tmp/ebook/ebook-epub--master.md content/localization.po project.yaml
+	mdslides template templates/ebook/ebook-proof.tex tmp/ebook/ebook-proof.tex content/localization.po project.yaml
+	mdslides template templates/ebook/ebook-style.sty tmp/ebook/ebook-style.sty content/localization.po project.yaml
 
 	mdslides build ebook $(CONFIG) $(SOURCE) tmp/ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
 	# transclude all to one file 
@@ -69,13 +70,13 @@ epub:
 e-book:
 	# render an ebook as pdf
 
-	mdslides template templates/make-conf make-conf localization.po project.yaml
+	mdslides template templates/make-conf make-conf content/localization.po project.yaml
 
 	# prepare and copy templates
-	mdslides template templates/ebook/ebook--master.md tmp/ebook/ebook--master.md localization.po project.yaml
-	mdslides template templates/ebook/ebook-epub--master.md tmp/ebook/ebook-epub--master.md localization.po project.yaml
-	mdslides template templates/ebook/ebook-proof.tex tmp/ebook/ebook-proof.tex localization.po project.yaml
-	mdslides template templates/ebook/ebook-style.sty tmp/ebook/ebook-style.sty localization.po project.yaml
+	mdslides template templates/ebook/ebook--master.md tmp/ebook/ebook--master.md content/localization.po project.yaml
+	mdslides template templates/ebook/ebook-epub--master.md tmp/ebook/ebook-epub--master.md content/localization.po project.yaml
+	mdslides template templates/ebook/ebook-proof.tex tmp/ebook/ebook-proof.tex content/localization.po project.yaml
+	mdslides template templates/ebook/ebook-style.sty tmp/ebook/ebook-style.sty content/localization.po project.yaml
 	
 	# render intro, chapters and appendix to separate md files
 	mdslides build ebook $(CONFIG) $(SOURCE) tmp/ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX) --section-prefix="$(SECTIONPREFIX)"
@@ -92,7 +93,7 @@ e-book:
 	cd tmp/ebook; rm tmp-*
 
 html:
-	mdslides template templates/make-conf make-conf localization.po project.yaml
+	mdslides template templates/make-conf make-conf content/localization.po project.yaml
 
 	# render intro, chapters and appendix to separate md files
 	mdslides build ebook $(CONFIG) $(SOURCE) ebook/ --glossary=$(GLOSSARY) --index=$(PATTERNINDEX)
