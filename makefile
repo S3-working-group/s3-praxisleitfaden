@@ -89,7 +89,6 @@ epub:
 	# render to epub
 	cd $(TMPFOLDER)/ebook; pandoc epub-compiled.md -f markdown -t epub3 -s -o ../../$(TARGETFILE).epub
 
-
 ebook:
 	# render an ebook as pdf (via LaTEX)
 	$(update-make-conf)
@@ -105,8 +104,8 @@ ebook:
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
-	cd $(TMPFOLDER)/ebook; latexmk -pdf ebook-proof.tex 
-	cd $(TMPFOLDER)/ebook; mv ebook-proof.pdf ../../$(TARGETFILE)-ebook.pdf
+	cd $(TMPFOLDER)/ebook; latexmk -pdf ebook.tex 
+	cd $(TMPFOLDER)/ebook; mv ebook.pdf ../../$(TARGETFILE)-ebook.pdf
 	
 	# clean up
 	cd $(TMPFOLDER)/ebook; latexmk -C
