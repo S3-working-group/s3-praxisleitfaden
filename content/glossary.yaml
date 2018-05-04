@@ -29,7 +29,7 @@ terms:
     glossary: Eine teilautonome und selbststeuernde Gruppe gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
   complexity:
     name: Komplexität
-    glossary: 'Eine Umgebung, in der die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen kann. [nach: D. Snowden und M. Boone]'
+    glossary: 'Eine Umgebung, in der die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen können. [nach: D. Snowden und M. Boone]'
   concern:
     name: Bedenken
     definition: ""
@@ -87,6 +87,10 @@ terms:
     name: Logbuch
     definition: ""
     glossary: Ein (digitales) System zur Speicherung aller für die Organisation und ihre Teams relevanten Informationen.
+  need:
+    name: Bedarf
+    definition: ""
+    glossary: Ein Bedarf ist ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird
   operations:
     name: Operatives Geschäft
     definition: ""
@@ -172,7 +176,7 @@ terms:
   value:
     name: Wert
     definition: "**Wert** ist die Bedeutung oder der Nutzen von etwas in Bezug  auf einen bestimmten Treiber"
-    glossary: 'Die Bedeutung oder der Nutzen von etwas in Bezug  auf einen bestimmten Treiber. Auch: ein wichtiges Prinzip für das Verhalten einer Person, oder in einer Gruppe (meist im Plural verwendet, Werte, oder Unternehmenswerte).'
+    glossary: 'Die Bedeutung oder der Nutzen von etwas in Bezug auf einen bestimmten Treiber. Auch: ein wichtiges Prinzip für das Verhalten einer Person, oder in einer Gruppe (meist im Plural verwendet, "Werte", oder "Unternehmenswerte").'
   values:
     name: Werte
     glossary: Eine Sammlung wichtiger Prinzipien für das Verhalten einer Person, oder in einer Gruppe. Nicht zu verwechseln mit dem Begriff "Wert" (Singular) in Zusammenhang mit Treibern.

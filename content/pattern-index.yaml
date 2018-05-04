@@ -158,8 +158,8 @@ patterns:
     pid: 5
   - 
     gid: 1
-    name: Treiber beschreiben
-    path: describe-drivers.md
+    name: Organisationstreiber beschreiben
+    path: describe-organizational-drivers.md
     pid: 3
   - 
     gid: 6
@@ -180,7 +180,7 @@ patterns:
     gid: 10
     name: Doppelt verbundene Hierarchie
     path: double-linked-hierarchy.md
-    pid: 4
+    pid: 0
   - 
     gid: 1
     name: Driver Mapping
@@ -195,7 +195,7 @@ patterns:
     gid: 8
     name: Meetings evaluieren
     path: evaluate-meetings.md
-    pid: 3
+    pid: 0
   - 
     gid: 6
     name: Evaluationskriterien
