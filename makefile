@@ -14,9 +14,9 @@ deckset:
 
 	# build deckset presentation and add pattern index
 	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=img --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build deckset $(CONFIG) $(TMPFOLDER) release/$(TARGETFILE).md --template=templates/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
+	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=templates/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
 	# append pattern-index
-	mdslides deckset-index $(PATTERNINDEX) release/$(TARGETFILE).md
+	mdslides deckset-index $(PATTERNINDEX) $(TARGETFILE).md
 
 revealjs:
 	mdslides template templates/make-conf make-conf localization.po project.yaml
@@ -61,7 +61,7 @@ epub:
 	cd tmp/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 	cd tmp/ebook; multimarkdown --to=mmd --output=tmp-ebook-epub-compiled.md ebook-epub--master.md
 
-	cd tmp/ebook; pandoc tmp-ebook-epub-compiled.md -f markdown -t epub3 -s -o ../../release/$(TARGETFILE).epub
+	cd tmp/ebook; pandoc tmp-ebook-epub-compiled.md -f markdown -t epub3 -s -o ../../$(TARGETFILE).epub
 
 	# clean up
 	cd tmp/ebook; rm tmp-*
@@ -85,7 +85,7 @@ e-book:
 	
 	cd tmp/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
 	cd tmp/ebook; latexmk -pdf ebook-proof.tex 
-	cd tmp/ebook; mv ebook-proof.pdf ../../release/$(TARGETFILE)-ebook.pdf
+	cd tmp/ebook; mv ebook-proof.pdf ../../$(TARGETFILE)-ebook.pdf
 	
 	# clean up
 	cd tmp/ebook; latexmk -C
