@@ -1,8 +1,10 @@
-html_language: "en"
+html_language: "de"
 html_dir: "ltr"
 
-microsite_cname: "patterns.sociocracy30.org"
+microsite_cname: "patterns-de.sociocracy30.org"
 
-target_filename: "S3-practical-guide"
+target_filename: "S3-Praxisleitfaden"
 
-pattern_prefix: " Pattern %(chapter)s.%(section)s:"
+pattern_prefix: " Muster %(chapter)s.%(section)s:"
+
+version: "v2018-03-21-de-1.0"
