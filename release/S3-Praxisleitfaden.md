@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2017-11-16-de-1.0) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2018-03-21-de-1.0) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -122,7 +122,7 @@ _**Wert** ist die Bedeutung oder der Nutzen von etwas in Bezug  auf einen bestim
 
 _**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht notwenig ist oder ihr sogar im Wege steht._
 
-Über die Konzepte von Wert und Verschwendung können Organisationen, die Muster aus S3 verwenden, auch viele Praktiken und Ideen aus den Bereichen der **Lean Production** und der **Lean Softwareentwicklung** nutzen, beispielsweise:
+Über das Konzept von Wert und Verschwendung können Organisationen, die Muster aus S3 verwenden, auch viele Praktiken und Ideen aus der **Lean Production** und der **Lean Softwareentwicklung** nutzen. Zum Beispiel:
 
 - Wertstromanalyse
 - verschiedene Strategien zur Vermeidung von Verschwendung
@@ -271,26 +271,79 @@ Die erkannten **Organisationstreiber** werden an die zuständige Domäne zur Bea
 
 ---
 
-## Muster 1.3: Treiber beschreiben
+# Muster 1.3: Organisationstreiber beschreiben
 
-**Beschreibe Treiber, um sie zu verstehen, zu kommunizieren und sie im Gedächtnis zu behalten.**
+**Beschreibe Organisationstreiber, um sie zu verstehen, zu kommunizieren und sie im Gedächtnis zu behalten.**
 
-Eine einfache Methode, einen Treiber zu beschreiben ist:
+Eine einfache Methode, einen Treiber zu beschreiben ist ein **knappe Zusammenfassung**:
 
-- eine kurze Beschreibung der Situation (Beobachtungen) 
-- eine Beschreibung des Bedarfs (Defizit), der aus Sicht der Organisation aus dieser Situation heraus entsteht 
-
-Bei Uneinigkeit über den Bedarf ist es oft hilfreich, spezifische Lösungsstrategien in der Treiberformulierung zu vermeiden.
+- **Was gerade passiert:** 
+    - die **aktuelle situation**
+    - den **Effekt** dieser Situation auf die Organisation
+- und **warum wir handeln sollten:** 
+    - den **Bedarf** der Organisation bezogen auf diese Situation
+    - die **Konsequenzen**, wenn dieser Bedarf gedeckt wird
 
 * * *
 
-> Beispiel einer Treiberbeschreibung:
-> 
-> *"Die Küche ist ein Durcheinander: Es gibt keine sauberen Tassen, das Waschbecken ist voller Geschirr und es ist unmöglich, sich schnell einen Kaffee holen und wieder an die Arbeit zu gehen. Wir müssen einen Weg finden, wie wir die Küche in einem brauchbaren Zustand halten können."*
+# Organisationstreiber beschreiben (…)
 
-Die **Beschreibung eines Treibers** enthält gerade genug Informationen, um die Notwendigkeit einer Aktion oder einer Entscheidung zu kommunizieren. Weitere Details zum Treiber können in einem Anhang dokumentiert werden.
+Je nach Blickwinkel kann derselbe Treiber als Problem oder auch als Chance beschrieben werden.
 
-Ein Treiber kann – je nach Standpunkt – als Problem oder auch als Chance beschrieben werden.
+Die **Zusammenfassung eines Treibers** enthält gerade genug Informationen, um die Notwendigkeit einer Aktion oder einer Entscheidung zu kommunizieren. Zusätzlich zur Zusammenfassung können noch weitere Hintergrundinformationen zum Treiber dokumentiert werden.
+
+* * *
+
+## Beispiel eines Organisationstreibers
+
+> *"Die Küche ist ein Durcheinander: Es gibt keine sauberen Tassen, das Waschbecken ist voller Geschirr und es ist unmöglich, sich schnell einen Kaffee holen und wieder an die Arbeit zu gehen. Die Küche muss benutzbar sein, damit wir uns auf unsere Arbeit konzentrieren können."*
+
+* * *
+
+## 1. Aktuelle Situation
+
+> *“Die Küche ist ein Durcheinander: Es gibt keine sauberen Tassen, das Waschbecken ist voller Geschirr...”*
+
+Beschreibe die aktuelle Situation:
+
+- Skizziere die wesentlichen Aspekte der Situation.
+- Bemühe dich um Objektivität: beschreibe Beobachtungen, und vermeide Beurteilungen.
+
+* * *
+
+## 2. Effekt
+
+> *“...es ist unmöglich, sich schnell einen Kaffee holen und wieder an die Arbeit zu gehen.”*
+
+Erkläre den Effekt dieser Situation auf die Organisation:
+
+- Zeige, **warum** sich die Organisation um diese Situation kümmern sollte: wie betrifft das die Organisation? 
+- Benenne klar, ob ein Effekt belegt ist oder nur vermutet wird. 
+- Erläutere Herausforderungen, Verluste, Chancen oder Nutzen. 
+
+* * *
+
+## 3. Bedarf
+
+> *“Die Küche muss benutzbar sein...”*
+
+Erkläre den Bedarf der Organisation bezogen auf diese Situation:
+
+- Ein **Bedarf einer Organisation** ist etwas, das eine Gruppe (oder ein Individuum) benötigt, um sich effektiv um eine Domäne kümmern zu können. 
+- Bei Uneinigkeit über den Bedarf ist es oft hilfreich, die Formulierung spezifischer Lösungsstrategien zu vermeiden.
+- Benenne explizit, wer den Bedarf hat ("wir benötigen", "sie benötigen", "ich benötige").
+- Vermeide es, spezifische Lösungen als Bedarf zu beschreiben.
+
+* * *
+
+## 4. Konsequenzen
+
+> *“...damit wir uns auf unsere Arbeit konzentrieren können.”*
+
+Beschreibe die Konsequenzen, wenn dieser Bedarf gedeckt wird:
+
+- Beschreibe das angestrebte Ergebnis, potenzielle Vorteile oder Chancen.
+- Die Konsequenzen können auch offensichtlich oder implizit sein, insbesondere wenn der Effekt der Situation auf die Organisation bereits gut beschrieben ist.
 
 ---
 
@@ -563,7 +616,7 @@ Bedenke:
 
 Der Rolleninhaber - oder die sich entwickelnde Gruppe - führt im Entwicklungsgespräch, indem sie den Prozess initiiert, und jeden Prozessschritt beginnt.
 
-Stelle sicher, dass die eingeladenen Teilnehmer mit unterschiedlichen Perspektiven beitragen, und dass das Gespräch moderiert wird.
+Stelle sicher, dass die eingeladenen Teilnehmer unterschiedliche Perspektiven beitragen, und dass das Gespräch moderiert wird.
 
 Verbesserungsvorschläge können sich auf persönliche Entwicklung, Zusammenarbeit, Strategie oder Anpassungen der Domänen-Beschreibung (inkl. Treiber) beziehen.
 
@@ -1718,6 +1771,14 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 ## Änderungsprotokoll 
 
+### Änderungen zum 21.3.2018
+
+- das Muster *Treiber beschreiben* wurde umbenannt in *Organisationstreiber beschreiben*
+- *Organisationstreiber beschreiben*: Erklärung der vier Aspekte eines Treibers: aktuelle Situation, Effekt der Situation auf die Organisation, Bedarf der Organisation in Bezug auf die Situation, und die Konsequenzen, wenn der Bedarf gedeckt wird
+- *Bedarf* zum Glossar hinzugefügt
+
+* * *
+
 ### Änderungen zum 16.11.2017
 
 - kleine Korrekturen
@@ -1740,13 +1801,13 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 ### Änderungen zum 21.10.2017
 
-- Liliana David zu Autoren hinzugefügt
-- den Begriff "Framework" ersetzt durch "Praktischer Leitfaden"
-- Reihenfolge der Muster aktualisiert
-- Index der Muster Patterns hinzugefügt 
-- Glossar mit vielen relevanten Begriffen erstellt 
+- Liliana Davids zu Autoren hinzugefügt
+- den Begriff «Framework» fallen gelassen (ersetzt durch «Praktischer Leitfaden»)
+- Reihenfolge der Patterns aktualisiert
+- Index aller Patterns hinzugefügt 
+- Glossar hinzugefügt 
 - Danksagungen hinzugefügt
-- verschiedene kleine Überarbeitungen von Text und Illustrationen
+- mehrere kleinere Klärungen und Korrekturen an Texten und Illustrationen
 - Vorlagen für Vereinbarungen und Entwicklungsplan angepasst
 
 * * *
@@ -1755,8 +1816,8 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 - Einführung: 
     - neuer Abschnitt "was habe ich davon?"
-    - Definitionen in der Einleitung für Governance, Selbstorganisation, Teilautonomie und operatives Geschäft
-    - Klärung von Domänen und ihrer Beziehung zu Treibern
+    - Definitionen für Governance, Selbstorganisation, Teilautonomie und operatives Geschäft hinzugefügt
+    - Klärung von Domänen und ihrer Beziehung zu Treibern 
     - Kernkonzepte besser erklärt
     - handlungsorientierte Beschreibung der Prinzipien
 
@@ -1793,10 +1854,10 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 **Folgende Muster wurden umbenannt:**
 
-- *Backbone-Organisation* zu *Serviceorganisation*
+- *Backbone-Organisation* in *Serviceorganisation*
 - *Entwicklungsgespräch* (nur auf Englisch umbenannt)
-- *Strategie* zu *Strategie entwickeln*
-- *Domänenbeschreibung* zu *Domänen klären*
+- *Strategie* in *Strategie entwickeln*
+- *Domänenbeschreibung* in *Domänen klären*
 - *Leistungen definieren* (nur auf Englisch umbenannt)
 
 * * *
@@ -1902,6 +1963,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **(etwas) verantworten**: Die Verantwortung für etwas übernehmen, das getan werden muss.
 **Backlog**: Eine sichtbare Liste aus (meist priorisierten)  Aufgaben, die noch abgearbeitet werden müssen.
 **Beauftragte**: Eine Person oder Gruppe, die die Verantwortlichkeit für eine Domäne übernimmt.
+**Bedarf**: Ein Bedarf ist ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird
 **Bedenken**: Die Ansicht, dass etwas den Wertfluss zu einem Organisationstreiber behindern - oder einer Verbesserung im Weg stehen - würde
 **Benachbarte Treiber**: Zwei Treiber, die als direkte Antwort auf einen gemeinsamen Supertreiber bestehen.
 **Delegierende**: Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.
@@ -1913,7 +1975,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Gleichstellung**: Beziehe Menschen in die sie betreffenden Entscheidungen und deren Entwicklung ein.
 **Governance**: Fortwährend entscheiden, was zu tun ist, um Ziele zu erreichen, und Richtlinien dafür festlegen, wie und wann Dinge getan werden.
 **Kernaufgaben**: Die für eine bestimmte Domäne wesentlichen Arbeitsaufgaben und Entscheidungen.
-**Komplexität**: Eine Umgebung, in der die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen kann. [nach: D. Snowden und M. Boone]
 
 
 ---
@@ -1922,6 +1983,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossar (…)
 
 
+**Komplexität**: Eine Umgebung, in der die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen können. [nach: D. Snowden und M. Boone]
 **Konsent**: Handle nur, wenn keiner der Betroffenen einen Einwand hat.
 **Kreis**: Eine teilautonome und selbststeuernde Gruppe gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
 **Leistung**: Produkte, Rohstoffe, Dienstleistungen, Erfahrungen oder Transformationen, die als Ergebnis einer auf einen Treiber bezogenen Vereinbarung zur Verfügung gestellt werden.
@@ -1937,7 +1999,6 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **SKM**: (die soziokratische Kreisorganisationsmethode) Eine egalitäre Governance-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
 **Selbstorganisation**: Menschen, die ihre Arbeit - innerhalb der durch Governance festgelegten Grenzen - selbst organisieren.
 **Selbststeuerung**: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
-**Soziokratie**: Die Geisteshaltung, dass die von einer Entscheidung betroffenen Menschen diese Entscheidung beeinflussen können, wenn sie gute Gründe dafür haben.
 
 
 ---
@@ -1946,6 +2007,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 # Glossar (…)
 
 
+**Soziokratie**: Die Geisteshaltung, dass die von einer Entscheidung betroffenen Menschen diese Entscheidung beeinflussen können, wenn sie gute Gründe dafür haben.
 **Steuerungs-Backlog**: Eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.
 **Strategie**: Ein Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.
 **Subdomäne**: Eine Domäne, die vollständig in einer anderen Domäne enthalten ist.
@@ -1958,9 +2020,17 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 **Verantwortung**: Handle, wenn es erforderlich ist; befolge, was Du vereinbart hast und behalte die gesamte Organisation im Blick.
 **Vereinbarung**: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.
 **Verschwendung**: Alles, was für die effektive Antwort auf einen Treiber nicht notwenig ist oder ihr sogar im Wege steht.
-**Wert**: Die Bedeutung oder der Nutzen von etwas in Bezug  auf einen bestimmten Treiber. Auch: ein wichtiges Prinzip für das Verhalten einer Person, oder in einer Gruppe (meist im Plural verwendet, Werte, oder Unternehmenswerte).
+**Wert**: Die Bedeutung oder der Nutzen von etwas in Bezug auf einen bestimmten Treiber. Auch: ein wichtiges Prinzip für das Verhalten einer Person, oder in einer Gruppe (meist im Plural verwendet, "Werte", oder "Unternehmenswerte").
 **Werte**: Eine Sammlung wichtiger Prinzipien für das Verhalten einer Person, oder in einer Gruppe. Nicht zu verwechseln mit dem Begriff "Wert" (Singular) in Zusammenhang mit Treibern.
 **gemeinsame Ausrichtung**: Der Prozess, die Aktivitäten aller Teile einer Organisation auf die gemeinsamen Ziele hin auszurichten.
+
+
+---
+
+
+# Glossar (…)
+
+
 **kontinuierliche Verbesserung**: Bevorzuge inkrementelle Veränderung, um stetiges empirisches Lernen zu ermöglichen.
 
 
@@ -1969,7 +2039,7 @@ Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade
 
 Muster  | Muster (…)
 --- | ---
-Als Beispiel dienen - 5.3<br\>Angestrebtes Ergebnis - 6.4<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Daily Standup - 7.3<br\>Delegiertenkreis - 10.2<br\>Die Betroffenen entscheiden - 1.8<br\>Die sieben Prinzipien leben - 3.2<br\>Domänen klären - 6.3<br\>Doppelt verbundene Hierarchie - 10.4<br\>Doppelte Verbindung - 4.5<br\>Driver Mapping - 1.11<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6<br\>Entwicklungsgespräch - 2.3<br\>Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6 | Fluss angleichen - 9.6<br\>Fraktalorganisation - 10.6<br\>Gastgeber(in) - 8.4<br\>Gehaltstransparenz - 3.7<br\>Gemeinsame Werte - 3.3<br\>Governance-Moderator - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsententscheidung - 1.4<br\>Kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinator(in) - 9.7<br\>Kreis - 4.2<br\>Kunstvolle Teilnahme - 3.1<br\>Laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7<br\>Logbuchführer - 6.8<br\>Meetings evaluieren - 8.3<br\>Meetings moderieren - 8.2
+Als Beispiel dienen - 5.3<br\>Angestrebtes Ergebnis - 6.4<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Daily Standup - 7.3<br\>Delegiertenkreis - 10.2<br\>Die Betroffenen entscheiden - 1.8<br\>Die sieben Prinzipien leben - 3.2<br\>Domänen klären - 6.3<br\>Doppelt verbundene Hierarchie - 10.0<br\>Doppelte Verbindung - 4.5<br\>Driver Mapping - 1.11<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6<br\>Entwicklungsgespräch - 2.3<br\>Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6 | Fluss angleichen - 9.6<br\>Fraktalorganisation - 10.6<br\>Gastgeber(in) - 8.4<br\>Gehaltstransparenz - 3.7<br\>Gemeinsame Werte - 3.3<br\>Governance-Moderator - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsententscheidung - 1.4<br\>Kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinator(in) - 9.7<br\>Kreis - 4.2<br\>Kunstvolle Teilnahme - 3.1<br\>Laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7<br\>Logbuchführer - 6.8<br\>Meetings evaluieren - 8.0<br\>Meetings moderieren - 8.2
 
 
 ---
@@ -1977,4 +2047,4 @@ Als Beispiel dienen - 5.3<br\>Angestrebtes Ergebnis - 6.4<br\>Arbeit visualisier
 
 Muster (…) | Muster (…)
 --- | ---
-Muster an Kontext anpassen - 5.1<br\>Navigiere nach Spannung - 1.2<br\>Offene Domäne - 4.8<br\>Offene Systeme - 4.9<br\>Peer-Feedback - 2.2<br\>Pfirsichorganisation - 10.3<br\>Planungs- und Review-Meetings - 7.4<br\>Proposal Forming - 1.9<br\>Pull-System für Organisationsentwicklung schaffen - 5.2<br\>Reagiere auf Organisationstreiber - 1.1<br\>Repräsentant - 4.6<br\>Retrospektive - 7.2<br\>Rolle - 4.3<br\>Runden - 8.1<br\>S3 per Open-Space - 5.5<br\>Service-Organisation - 10.5<br\>Servicekreis - 10.1<br\>Statuten - 3.9<br\>Steuerungs-Backlog - 8.5<br\>Steuerungs-Meeting - 7.1 | Strategie entwickeln - 6.2<br\>Treiber beschreiben - 1.3<br\>Um Hilfe bitten - 2.1<br\>Verantwortung und Verträge - 3.6<br\>Verbindungen - 4.4<br\>Vereinbarung - 6.1<br\>Vereinbarungen brechen - 3.5<br\>Vereinbarungen überprüfen - 1.7<br\>Veränderung einladen - 5.4<br\>Wahl - 1.10
+Muster an Kontext anpassen - 5.1<br\>Navigiere nach Spannung - 1.2<br\>Offene Domäne - 4.8<br\>Offene Systeme - 4.9<br\>Organisationstreiber beschreiben - 1.3<br\>Peer-Feedback - 2.2<br\>Pfirsichorganisation - 10.3<br\>Planungs- und Review-Meetings - 7.4<br\>Proposal Forming - 1.9<br\>Pull-System für Organisationsentwicklung schaffen - 5.2<br\>Reagiere auf Organisationstreiber - 1.1<br\>Repräsentant - 4.6<br\>Retrospektive - 7.2<br\>Rolle - 4.3<br\>Runden - 8.1<br\>S3 per Open-Space - 5.5<br\>Service-Organisation - 10.5<br\>Servicekreis - 10.1<br\>Statuten - 3.9<br\>Steuerungs-Backlog - 8.5 | Steuerungs-Meeting - 7.1<br\>Strategie entwickeln - 6.2<br\>Um Hilfe bitten - 2.1<br\>Verantwortung und Verträge - 3.6<br\>Verbindungen - 4.4<br\>Vereinbarung - 6.1<br\>Vereinbarungen brechen - 3.5<br\>Vereinbarungen überprüfen - 1.7<br\>Veränderung einladen - 5.4<br\>Wahl - 1.10
