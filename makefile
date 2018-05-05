@@ -97,14 +97,14 @@ ebook:
 	# copy md and LaTEX templates
 	$(MKTPL) templates/ebook/ebook--master.md $(TMPFOLDER)/ebook/ebook--master.md $(LOC) $(PRJ)
 	$(MKTPL) templates/ebook/ebook.tex $(TMPFOLDER)/ebook/ebook.tex $(LOC) $(PRJ)
-	$(MKTPL) config/ebook.sty $(TMPFOLDER)/ebook/ebook.sty $(LOC) $(PRJ)
+	$(MKTPL) config/ebook-style.sty $(TMPFOLDER)/ebook/ebook-style.sty $(LOC) $(PRJ)
 
 
 	# transclude all to one file 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 
 	cd $(TMPFOLDER)/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
-	cd $(TMPFOLDER)/ebook; latexmk -pdf ebook.tex 
+	cd $(TMPFOLDER)/ebook; latexmk -pdf -silent ebook.tex 
 	cd $(TMPFOLDER)/ebook; mv ebook.pdf ../../$(TARGETFILE)-ebook.pdf
 	
 	# clean up
