@@ -28,5 +28,5 @@ Lade alle ein, in einer Runde kurz auf einige oder alle der folgenden Punkte ein
 - Verbesserungsvorschläge ("Ich wünschte …")
 - Wilde Ideen und radikale Vorschläge ("Was wäre, wenn …")
 
-[&#9654; Gastgeber(in)](meeting-host.html)<br/>[&#9664; Meetings moderieren](facilitate-meetings.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
+[&#9654; Meetings evaluieren](evaluate-meetings.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
 

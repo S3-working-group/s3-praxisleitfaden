@@ -9,5 +9,5 @@ title: "Servicekreis"
 
 Ein Servicekreis wird von Mitgliedern der Domänen besetzt, denen er dient; bei Bedarf können auch zusätzliche Personen hinzugezogen werden.
 
-[&#9654; Delegiertenkreis](delegate-circle.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
+[&#9654; Servicekreis](service-circle.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
 

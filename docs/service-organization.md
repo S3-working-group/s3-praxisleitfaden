@@ -14,5 +14,5 @@ title: "Service-Organisation"
 
 **Anmerkung:** das Muster "Service-Organisation" wird gelegentlich auch als **Backbone-Organisation** bezeichnet.
 
-[&#9654; Fraktalorganisation](fractal-organization.html)<br/>[&#9664; Doppelt verbundene Hierarchie](double-linked-hierarchy.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
+[&#9654; Fraktalorganisation](fractal-organization.html)<br/>[&#9664; Pfirsichorganisation](peach-organization.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
 

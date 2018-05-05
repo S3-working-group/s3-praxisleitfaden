@@ -9,7 +9,7 @@ title: "Entwicklungsgespräch"
 
 Der Rolleninhaber - oder die sich entwickelnde Gruppe - führt im Entwicklungsgespräch, indem sie den Prozess initiiert, und jeden Prozessschritt beginnt.
 
-Stelle sicher, dass die eingeladenen Teilnehmer mit unterschiedlichen Perspektiven beitragen, und dass das Gespräch moderiert wird.
+Stelle sicher, dass die eingeladenen Teilnehmer unterschiedliche Perspektiven beitragen, und dass das Gespräch moderiert wird.
 
 Verbesserungsvorschläge können sich auf persönliche Entwicklung, Zusammenarbeit, Strategie oder Anpassungen der Domänen-Beschreibung (inkl. Treiber) beziehen.
 
