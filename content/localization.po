@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"(cont.)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: sociocracy-30\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: localization.pot\n"
+"Project-Id-Version: sociocracy-30\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2018-05-04 06:24-0400\n"
+
+# continuation marker for follow-up slides
+msgid "(cont.)"
+msgstr "(…)"
+
+# patterns (plural)
+msgid "Patterns"
+msgstr "Muster"
+
+# pattern (singular)
+msgid "Pattern"
+msgstr "Muster"
+
+# site title for practical guide microsite and ebook
+msgid "Sociocracy 3.0 - A Practical Guide"
+msgstr "Soziokratie 3.0 - Ein Praxisleitfaden"
+
+# site descriptions for practical guide microsite
+msgid "The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+msgstr "Die offizielle Dokumentation zu Soziokratie 3.0 - Alle Muster, die sieben Prinzipien und alle wichtigen Konzepte, von Bernhard Bockelbrink, James Priest und Liliana David."
+
+# Headline for Section "Introduction" (e.g. in ebook)
+msgid "Introduction"
+msgstr "Einführung"
+
+# Headline for Section "The Patterns" (e.g. in ebook)
+msgid "The Patterns"
+msgstr "Die Muster"
+
+# Headline for Section "Appendix" (e.g. in ebook)
+msgid "Appendix"
+msgstr "Anhang"
+
+# Pattern prefix
+msgid " Pattern %(chapter)s.%(section)s:"
+msgstr " Muster %(chapter)s.%(section)s:"
+
+# Filename
+msgid "S3-practical-guide"
+msgstr "S3-Praxisleitfaden"
+
+msgid ""
+msgstr ""
+""
+
+msgid ""
+msgstr ""
+""
+
+msgid ""
+msgstr ""
+""
+
+msgid ""
+msgstr ""
+""
+

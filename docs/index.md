@@ -1,14 +1,13 @@
 ---
-title: S3 Praxisleitfaden
+title: Die S3-Muster
 ---
-
 Die offizielle Dokumentation zu Soziokratie 3.0: Alle Muster, die sieben Prinzipien und alle wichtigen Konzepte.
 
-Beginne mit der [ &#9654; Einführung](introduction.html), die Dich durch alle Muster begleiten wird, oder wähle ein Muster aus dem [ &#9654; Muster-Übersicht](pattern-index.html). Schlage unbekannte Begriffe im [ &#9654; Glossar](glossary.html) nach.
+Beginne mit der [&#9654; Einführung](introduction.html), die erklärt, worum es bei S3 geht, und wie Deine Organisation davon profitieren kann. Am Ende der Einführung findest Du eine Tour durch alle Muster, folge einfach den Links unten auf der Seite. Schlage unbekannte Begriffe einfach im [ &#9654; Glossar](glossary.html) nach. Du kannst auch gezielt einzelne Muster über den [&#9654; Index](pattern-index.html) nachschlagen, oder die Gruppen unten auf dieser Seite ansehen.
 
-Diesen Praxisleitfaden gibt es auch als [PDF zum Download](http://sociocracy30.org/_res/S3-Praxisleitfaden.pdf).
+Diesen Praxisleitfaden gibt es auch in anderen Sprachen und Formaten, eine vollständige Übersicht findest Du auf der [S3-Ressourcen-Seite](https://sociocracy30.org/resources).
 
-Zusätzliche Informationen zu Soziokratie 3.0 gibt es unter <http://sociocracy30.org>
+Weitere Informationen zu Soziokratie 3.0 und andere kostenlose Materialen findest Du unter <http://sociocracy30.org>
 
 ## Muster-Gruppen
 

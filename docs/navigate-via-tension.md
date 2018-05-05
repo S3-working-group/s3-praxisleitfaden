@@ -21,5 +21,5 @@ Die erkannten **Organisationstreiber** werden an die zuständige Domäne zur Bea
 
 ![inline,fit](img/process/navigate-via-tension-slides.png)
 
-[&#9654; Treiber beschreiben](describe-drivers.html)<br/>[&#9664; Reagiere auf Organisationstreiber](respond-to-organizational-drivers.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+[&#9654; Organisationstreiber beschreiben](describe-organizational-drivers.html)<br/>[&#9664; Reagiere auf Organisationstreiber](respond-to-organizational-drivers.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

@@ -18,5 +18,5 @@ title: "Konsent-Entscheidung"
 - Wenn es keine Einwände gegen eine Vereinbarung gibt, beabsichtige ich, diese Vereinbarung im Rahmen meiner Möglichkeiten umzusetzen.
 - Ich stimme zu, Einwände einzubringen, sobald sie mir bewusst werden.
 
-[&#9654; Einwand](objection.html)<br/>[&#9664; Treiber beschreiben](describe-drivers.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+[&#9654; Einwand](objection.html)<br/>[&#9664; Organisationstreiber beschreiben](describe-organizational-drivers.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

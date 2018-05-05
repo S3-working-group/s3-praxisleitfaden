@@ -1,0 +1,9 @@
+
+# filename for the slide deck
+TARGETFILE=S3-Praxisleitfaden
+
+# template pattern numbers
+SECTIONPREFIX= Muster %(chapter)s.%(section)s:
+
+# build index database?
+BUILD_INDEX=NO

@@ -1,0 +1,393 @@
+---
+groups:
+  - 
+    gid: 5
+    name: S3 einführen
+    path: bringing-in-s3.md
+  - 
+    gid: 4
+    name: Organisationsentwicklung
+    path: building-organizations.md
+  - 
+    gid: 1
+    name: Mitgestaltung und Evolution
+    path: co-creation-and-evolution.md
+  - 
+    gid: 6
+    name: Klare Vereinbarungen
+    path: defining-agreements.md
+  - 
+    gid: 3
+    name: Mitgestaltung ermöglichen
+    path: enablers-of-co-creation.md
+  - 
+    gid: 7
+    name: Fokussierte Interaktionen
+    path: focused-interactions.md
+  - 
+    gid: 8
+    name: Effektive Meetings
+    path: meeting-practices.md
+  - 
+    gid: 10
+    name: Organisationsstruktur
+    path: organizational-structure.md
+  - 
+    gid: 9
+    name: Arbeitsorganisation
+    path: organizing-work.md
+  - 
+    gid: 2
+    name: Gemeinsame Entwicklung
+    path: peer-development.md
+patterns:
+  - 
+    gid: 5
+    name: Muster an Kontext anpassen
+    path: adapt-patterns-to-context.md
+    pid: 1
+  - 
+    gid: 3
+    name: Die sieben Prinzipien leben
+    path: adopt-the-seven-principles.md
+    pid: 2
+  - 
+    gid: 3
+    name: Gemeinsame Werte
+    path: agree-on-values.md
+    pid: 3
+  - 
+    gid: 6
+    name: Vereinbarung
+    path: agreement.md
+    pid: 1
+  - 
+    gid: 9
+    name: Fluss angleichen
+    path: align-flow.md
+    pid: 6
+  - 
+    gid: 3
+    name: Kunstvolle Teilnahme
+    path: artful-participation.md
+    pid: 1
+  - 
+    gid: 2
+    name: Um Hilfe bitten
+    path: ask-for-help.md
+    pid: 1
+  - 
+    gid: 9
+    name: Backlog
+    path: backlog.md
+    pid: 1
+  - 
+    gid: 5
+    name: Als Beispiel dienen
+    path: be-the-change.md
+    pid: 3
+  - 
+    gid: 3
+    name: Vereinbarungen brechen
+    path: breaking-agreements.md
+    pid: 5
+  - 
+    gid: 3
+    name: Statuten
+    path: bylaws.md
+    pid: 9
+  - 
+    gid: 4
+    name: Kreis
+    path: circle.md
+    pid: 2
+  - 
+    gid: 6
+    name: Domänen klären
+    path: clarify-domains.md
+    pid: 3
+  - 
+    gid: 1
+    name: Konsententscheidung
+    path: consent-decision-making.md
+    pid: 4
+  - 
+    gid: 5
+    name: Kontinuierliche Verbesserung des Arbeitsablaufs
+    path: continuous-improvement-of-work-process.md
+    pid: 6
+  - 
+    gid: 3
+    name: Verantwortung und Verträge
+    path: contracting-and-accountability.md
+    pid: 6
+  - 
+    gid: 7
+    name: Koordinationsmeeting
+    path: coordination-meeting.md
+    pid: 5
+  - 
+    gid: 9
+    name: Koordinator(in)
+    path: coordinator.md
+    pid: 7
+  - 
+    gid: 5
+    name: Pull-System für Organisationsentwicklung schaffen
+    path: create-a-pull-system-for-organizational-change.md
+    pid: 2
+  - 
+    gid: 7
+    name: Daily Standup
+    path: daily-standup.md
+    pid: 3
+  - 
+    gid: 10
+    name: Delegiertenkreis
+    path: delegate-circle.md
+    pid: 2
+  - 
+    gid: 4
+    name: Einfluss delegieren
+    path: delegate-influence.md
+    pid: 1
+  - 
+    gid: 6
+    name: Leistungen definieren
+    path: describe-deliverables.md
+    pid: 5
+  - 
+    gid: 1
+    name: Organisationstreiber beschreiben
+    path: describe-organizational-drivers.md
+    pid: 3
+  - 
+    gid: 6
+    name: Strategie entwickeln
+    path: develop-strategy.md
+    pid: 2
+  - 
+    gid: 2
+    name: Entwicklungsplan
+    path: development-plan.md
+    pid: 4
+  - 
+    gid: 4
+    name: Doppelte Verbindung
+    path: double-linking.md
+    pid: 5
+  - 
+    gid: 10
+    name: Doppelt verbundene Hierarchie
+    path: double-linked-hierarchy.md
+    pid: 0
+  - 
+    gid: 1
+    name: Driver Mapping
+    path: driver-mapping.md
+    pid: 11
+  - 
+    gid: 1
+    name: Vereinbarungen überprüfen
+    path: evaluate-agreements.md
+    pid: 7
+  - 
+    gid: 8
+    name: Meetings evaluieren
+    path: evaluate-meetings.md
+    pid: 0
+  - 
+    gid: 6
+    name: Evaluationskriterien
+    path: evaluation-criteria.md
+    pid: 6
+  - 
+    gid: 8
+    name: Meetings moderieren
+    path: facilitate-meetings.md
+    pid: 2
+  - 
+    gid: 10
+    name: Fraktalorganisation
+    path: fractal-organization.md
+    pid: 6
+  - 
+    gid: 8
+    name: Steuerungs-Backlog
+    path: governance-backlog.md
+    pid: 5
+  - 
+    gid: 3
+    name: Governance-Moderator
+    path: governance-facilitator.md
+    pid: 4
+  - 
+    gid: 7
+    name: Steuerungs-Meeting
+    path: governance-meeting.md
+    pid: 1
+  - 
+    gid: 4
+    name: Hilfsteam
+    path: helping-team.md
+    pid: 7
+  - 
+    gid: 6
+    name: Angestrebtes Ergebnis
+    path: intended-outcome.md
+    pid: 4
+  - 
+    gid: 5
+    name: Veränderung einladen
+    path: invite-change.md
+    pid: 4
+  - 
+    gid: 9
+    name: Laufende Arbeit begrenzen
+    path: limit-work-in-progress.md
+    pid: 5
+  - 
+    gid: 4
+    name: Verbindungen
+    path: linking.md
+    pid: 4
+  - 
+    gid: 6
+    name: Logbuch
+    path: logbook.md
+    pid: 7
+  - 
+    gid: 6
+    name: Logbuchführer
+    path: logbook-keeper.md
+    pid: 8
+  - 
+    gid: 8
+    name: Gastgeber(in)
+    path: meeting-host.md
+    pid: 4
+  - 
+    gid: 1
+    name: Navigiere nach Spannung
+    path: navigate-via-tension.md
+    pid: 2
+  - 
+    gid: 1
+    name: Einwand
+    path: objection.md
+    pid: 5
+  - 
+    gid: 4
+    name: Offene Domäne
+    path: open-domain.md
+    pid: 8
+  - 
+    gid: 5
+    name: S3 per Open-Space
+    path: open-s3-adoption.md
+    pid: 5
+  - 
+    gid: 4
+    name: Offene Systeme
+    path: open-systems.md
+    pid: 9
+  - 
+    gid: 10
+    name: Pfirsichorganisation
+    path: peach-organization.md
+    pid: 3
+  - 
+    gid: 2
+    name: Peer-Feedback
+    path: peer-feedback.md
+    pid: 2
+  - 
+    gid: 2
+    name: Entwicklungsgespräch
+    path: peer-review.md
+    pid: 3
+  - 
+    gid: 7
+    name: Planungs- und Review-Meetings
+    path: planning-and-review-meetings.md
+    pid: 4
+  - 
+    gid: 9
+    name: Backlogs priorisieren
+    path: prioritize-backlogs.md
+    pid: 2
+  - 
+    gid: 1
+    name: Proposal Forming
+    path: proposal-forming.md
+    pid: 9
+  - 
+    gid: 9
+    name: Arbeiten nach Pull-System
+    path: pull-system-for-work.md
+    pid: 4
+  - 
+    gid: 4
+    name: Repräsentant
+    path: representative.md
+    pid: 6
+  - 
+    gid: 1
+    name: Einwände integrieren
+    path: resolve-objections.md
+    pid: 6
+  - 
+    gid: 1
+    name: Reagiere auf Organisationstreiber
+    path: respond-to-organizational-drivers.md
+    pid: 1
+  - 
+    gid: 7
+    name: Retrospektive
+    path: retrospective.md
+    pid: 2
+  - 
+    gid: 4
+    name: Rolle
+    path: role.md
+    pid: 3
+  - 
+    gid: 1
+    name: Wahl
+    path: role-selection.md
+    pid: 10
+  - 
+    gid: 8
+    name: Runden
+    path: rounds.md
+    pid: 1
+  - 
+    gid: 10
+    name: Servicekreis
+    path: service-circle.md
+    pid: 1
+  - 
+    gid: 10
+    name: Service-Organisation
+    path: service-organization.md
+    pid: 5
+  - 
+    gid: 3
+    name: Hilfsrolle
+    path: support-role.md
+    pid: 8
+  - 
+    gid: 1
+    name: Die Betroffenen entscheiden
+    path: those-affected-decide.md
+    pid: 8
+  - 
+    gid: 3
+    name: Gehaltstransparenz
+    path: transparent-salary.md
+    pid: 7
+  - 
+    gid: 9
+    name: Arbeit visualisieren
+    path: visualize-work.md
+    pid: 3
