@@ -4,8 +4,7 @@
 
 Veränderungen die Wert schaffen:
 
-- Muster einsetzen, die aktuelle, und wichtige Probleme lösen… 
-  - … ohne das zu beeinträchtigen, was bereits funktioniert
-  - hole alle Beteiligten dort ab, wo sie stehen…
-  - … und lasse sie gemeinsam ihr eigenes Tempo wählen
-- jede Veränderung sollte freiwillig geschehen
+- Experimentier mit Mustern, die helfen, aktuelle und wichtige Probleme zu lösen
+- … ohne das zu beeinträchtigen, was bereits funktioniert
+- hole alle Beteiligten dort ab, wo sie stehen…
+- … und lasse sie gemeinsam ihr eigenes Tempo bestimmen

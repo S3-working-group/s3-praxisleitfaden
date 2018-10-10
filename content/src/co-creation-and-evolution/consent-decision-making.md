@@ -1,17 +1,16 @@
 ## Konsent-Entscheidung
 
-![right,fit](img/agreements/cdm-condensed.png)
+**Ein (moderierter) Gruppenprozess zur Entscheidungsfindung: sammle Einwände, und integriere das dahinterstehende Wissen, um Vorschläge und bestehende Vereinbarungen weiterzuentwickeln**
 
-**Ein (moderierter) Gruppenprozess zur Entscheidungsfindung.**
+Vorschläge werden zu [Vereinbarungen](glossary:agreement), wenn sie als *gut und sicher genug* bis zum Termin der nächsten Überprüfung betrachtet werden.
 
-- sammle Einwände, und integriere das dahinterstehende Wissen, um Vorschläge und Vereinbarungen weiterzuentwickeln
-- das Zurückhalten von Einwänden kann die Ziele einer Gruppe oder Organisation gefährden
-- ungelöste Einwände verhindern, dass ein Vorschlag zu einer Vereinbarung wird
-- Vorschläge müssen nur *gut und sicher genug* bis zum Termin der nächsten Überprüfung sein
+Ungelöste [Einwände](glossary:objection) verhindern, dass ein Vorschlag zu einer Vereinbarung wird.
 
-* * *
+Das Zurückhalten von Einwänden kann die Ziele eines Teams oder der gesamten Organisation gefährden.
 
 ### Impliziter Konsent-Vertrag
 
-- Wenn es keine Einwände gegen eine Vereinbarung gibt, beabsichtige ich, diese Vereinbarung im Rahmen meiner Möglichkeiten umzusetzen.
-- Ich stimme zu, Einwände einzubringen, sobald sie mir bewusst werden.
+1. Wenn es keine Einwände gegen eine Vereinbarung gibt, beabsichtige ich, diese Vereinbarung im Rahmen meiner Möglichkeiten umzusetzen.
+2. Ich stimme zu, Einwände einzubringen, sobald sie mir bewusst werden.
+
+![Konsent-Entscheidung](img/agreements/consent-decision-making.png)

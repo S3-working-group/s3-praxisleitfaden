@@ -1,26 +1,17 @@
-## Governance, Teilautonomie und Selbstorganisation
+### Governance und operatives Geschäft
 
-**Governance**: {{glossary:governance}}
+Aktivitäten in einer Organisation fallen typischerweise in eine der folgenden zwei Kategorien
+
+{{define:governance}}
+
+{{define:operations}}
+
+### Verwandte Konzepte
 
 **Selbststeuerung**: {{glossary:self-governance}}
 
-**Selbstorganisation**: {{glossary:self-organization}}
-
-**Operatives Geschäft**: {{glossary:operations}}
-
 **Teilautonomie**: {{glossary:semi-autonomy}}
 
-* * *
+**Selbstorganisation**: {{glossary:self-organization}}
 
-## Unterscheidung zwischen Governance und operativem Geschäft
-
-Damit eine Organisation dazulernen kann und sich kontinuierlich verbessert, sollte sie alle wesentlichen Entscheidungen dokumentieren, prüfen und weiterentwickeln.
-
-*Fragestellung: Profitiert etwas von einer Einzel- oder Gruppen-Entscheidung?*
-
-- ja: Governance 
-    - nicht von existierenden Vereinbarungen abgedeckt
-    - muss vereinbart, entschieden, oder ergänzt werden
-- nein: operatives Geschäft 
-    - im Rahmen einer existierenden Vereinbarung (die Verantwortlichen können handeln)
-    - muss erledigt werden
+Je nach den Einschränkungen der Domäne, die die Delegierende festlegt, haben Teams mehr oder weniger Autonomie, Steuerungsentscheidungen zu treffen und ihr operatives Geschäft zu gestalten, sind also mehr oder weniger selbststeuernd und selbstorganisierend.

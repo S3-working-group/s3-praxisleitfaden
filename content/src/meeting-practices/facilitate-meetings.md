@@ -1,9 +1,13 @@
 ## Meetings moderieren
 
-Bestimme für jedes Meeting einen Moderator. Auch ein unerfahrener Moderator kann der Gruppe helfen, sich auf das Thema zu fokussieren. 
+**Finde für jedes Meeting eine Moderatorin, um der Gruppe zu helfen, sich zu konzentrieren, das Meeting auf Kurs zu halten und um das Wissen und die Kreativität der Teilnehmer hervorzulocken.**
 
-- bereite eine Agenda vor
-- wähle einen Moderator, der … 
-    - für jedes Thema eine passende Aktivität moderiert
-    - einen sicheren Rahmen schafft und auf die Zeit achtet
-    - am Ende jedes Meetings eine kurze Evaluation durchführt
+Bereite vor jedem Meeting eine Agenda vor, und finde eine Moderatorin, die
+
+- die Gruppe durch die Agenda führt und auf die Zeit achtet
+- zu jedem Agendapunkt eine passende Aktivität moderiert
+- am Ende des Meetings eine [Evaluation](section:meeting-evaluation) durchführt
+
+Eine Moderatorin kann auch auf einen bestimmten Zeitraum gewählt werden. Auch die Moderation durch eine unerfahrene Moderatorin macht einen großen Unterschied!
+
+**Siehe auch:**[Meetings vorbereiten](section:prepare-for-meetings), [Wahl](section:role-selection)

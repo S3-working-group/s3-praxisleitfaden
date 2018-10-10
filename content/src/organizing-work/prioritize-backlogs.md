@@ -1,9 +1,7 @@
 ## Backlogs priorisieren
 
-Ordne **alle unerledigten Aufgaben** so, dass die wichtigsten zuerst kommen:
+**Ordne alle unfertigen Arbeitsaufgaben oder Treiber so, dass die wichtigsten ganz oben stehen. Sobald neue Kapazität frei, ziehe die wichtigste Aufgabe von oben.**
 
-- Aufgaben werden von oben gezogen, sobald Kapazität frei wird
-- keine zwei Elemente können dieselbe Wichtigkeit haben, d.h. es ist notwendig, sich auf Prioritäten zu einigen und harte Entscheidungen zu treffen
-- **Vorteile** 
-    - der Fokus liegt immer auf den momentan wichtigsten Aufgaben
-    - gemeinsames Verständnis von Prioritäten ermöglicht effektivere Zusammenarbeit
+Keine zwei Elemente können dieselbe Wichtigkeit haben, d.h. es ist notwendig, sich auf Prioritäten zu einigen, was manchmal harte Entscheidungen mit sich bringt.
+
+Ein priorisiertes [Backlog](glossary:backlog) lenkt den **Fokus** auf die wichtigsten Aufgaben oder Probleme.

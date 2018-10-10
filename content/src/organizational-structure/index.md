@@ -1,25 +1,17 @@
 ## Organisationsstruktur
 
-Organisationsstruktur ist das momentane Gefüge von Domänen und deren Verbindungen. Sie zeigt Entscheidungskompetenzen und die Kanäle, durch die Einfluss und Information fließen.
+Organisationsstruktur ist das momentane Gefüge von [Domänen](glossary:domain) und deren Verbindungen. Sie zeigt Entscheidungskompetenzen und die Kanäle, durch die Einfluss und Information fließen.
 
-Eine effektive Organisationsstruktur:
+Entwickle die Struktur der Organisation ständig weiter, um
 
-- unterstützt den Wertfluss
-- ermöglicht Zusammenarbeit
-- behandelt Abhängigkeiten und macht sie explizit
-- stellt sicher, das Information dort verfügbar ist, wo sie gebraucht wird
-- verteilt Einflussmöglichkeiten nach tatsächlichem Bedarf
-- entwickelt sich kontinuierlich, um sich an veränderte Rahmenbedingungen anzupassen
-
-* * *
-
-## Organisationsstruktur (…)
+- den kontinuierlichen [Wertfluss](glossary:flow-of-value) zu unterstützen
+- die effektive Zusammenarbeit bei gegenseitigen Abhängigkeiten zu ermöglichen
+- sicherzustellen, das Information dort verfügbar ist, wo sie gebraucht wird
+- Einfluss anhand des tatsächlichem Bedarfs zu verteilen
 
 Die Grundbausteine für Organisationsstruktur sind voneinander abhängige und verbundene Domänen.
 
 Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als komplexe adaptive Systeme oder Netzwerke, in denen mehrere funktionale Strukturen parallel existieren können).
-
-* * *
 
 ### Strukturmuster
 

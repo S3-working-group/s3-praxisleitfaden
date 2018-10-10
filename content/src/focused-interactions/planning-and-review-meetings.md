@@ -1,8 +1,9 @@
 ## Planungs- und Review-Meetings
 
-![right,fit](img/meetings/planning-review.png)
+**Teams halten in regelmäßigen Abständen (1-4 Wochen) zeitlich begrenzte Meetings, um Iterationen zu planen und zu evaluieren**
 
-Gruppen halten in regelmäßigen Abständen (1-4 Wochen) zeitlich begrenzte Meetings, um Iterationen zu planen und zu evaluieren
+**Planungsmeeting**: Wähle Arbeitspakete für die nächste Iteration aus, und sorge dafür, dass es zu jedem der ausgewählten Arbeitspakete eine Aufwandsschätzung gibt
 
-- Im Planungsmeeting werden die Arbeitspakete für die nächste Iteration ausgewählt und dabei, soweit erforderlich, Zeitschätzungen durchgeführt.
-- Im Review werden die abgeschlossenen Arbeitspakete besprochen, um erforderliche Nachbesserungen und Änderungen für die nächste Iteration zu identifizieren.
+**Reviewmeeting**: Abnahme fertiggestellter Arbeitspakete, Diskussion von erforderlichen Nachbessrungen und Änderungen für folgende Iterationen 
+
+![Planungs- und Review-Meetings](img/meetings/planning-review.png)

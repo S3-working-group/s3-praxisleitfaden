@@ -1,15 +1,15 @@
 ## Offene Domäne
 
-![right,fit](img/structural-patterns/open-domain.png)
+**Anstatt die Verantwortung für eine Domäne fest zu vergeben, lade Personen ein, im Rahmen ihrer Möglichkeit und Kapazität beizutragen.**
 
-**Eine Möglichkeit, die Verantwortung für eine Domäne bewusst einzuladen, statt zu zuzuweisen.**
+Die [Delegierende](glossary:delegator) der Domäne definiert
 
-Die Delegierende der Domäne definiert
-
-- Primärtreiber, Hauptaufgaben und Rahmenbedingungen der offenen Domäne
+- den [Primärteiber](glossary:primary-driver), zentrale Verantwortlichkeiten und Grenzen der offenen Domäne
 - wer in der offenen Domäne mitwirken kann
-- die Teilhabe der Delegierenden an den Steuerungsentscheidungen der Domäne
+- die Teilhabe der Delegierenden an den [Steuerungsentscheidungen](glossary:governance) der Domäne
 
-Die Delegierende der offenen Domäne ist verantwortlich dafür, dass regelmäßige Reviews stattfinden.
+Je nach dem, wie die Delegierende die Rahmenbedingungen für die Domäne festlegt, kümmern sich die Eingeladenen nur darum, [Arbeit zu organisieren und zu erledigen](glossary:operations), oder sie tragen auch zu Steuerungsentscheidungen bei.
 
-Die Rahmenbedingungen, die von der Delegierenden festgelegt wurden, bestimmen, inwieweit sich die Mitwirkenden zusätzlich zu den operativen Aufgaben auch den Steuerungsaufgaben der offenen Domäne beteiligt sind.
+Die Delegierende ist verantwortlich für die regelmäßige Evaluation der offenen Domäne, um die Effektivität der Arbeit und der Entscheidungsfindung in der offenen Domäne sicherzustellen.
+
+![Offene Domäne](img/structural-patterns/open-domain.png)

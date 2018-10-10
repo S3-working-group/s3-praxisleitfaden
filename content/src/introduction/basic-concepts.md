@@ -4,8 +4,9 @@ Bevor Du in die Muster eintauchst, solltest Du Dich mit einigen Konzepten vertra
 
 - Was ist ein Muster?
 - Die sieben Prinzipien
-- Treiber, Wert und Verschwendung
-- Domänen, Delegation und Verantwortung
-- Governance, Selbstorganisation und Teilautonomie
+- Organisationen verstehen: 
+    - Treiber, Wert und Verschwendung
+    - Domänen, Delegation und Verantwortung
+    - Governance und operatives Geschäft
 
 Im Anhang findest Du ein Glossar, das kurze Erklärungen dieser und weiterer Begriffe enthält.
