@@ -6,7 +6,7 @@ title: Glossar
 
 **Angestrebtes Ergebnis**: Das erwartete Ergebnis einer Vereinbarung, Aktion, Projekt oder Strategie.
 
-**Arbeits-Backlog**: Eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
+**Arbeitsbacklog**: Eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
 
 **Backlog**: Eine Liste von (meist priorisierten) offenen Aufgaben (Leistungen), oder Treibern, die noch bearbeitet werden müssen.
 
@@ -16,7 +16,7 @@ title: Glossar
 
 **Bedenken**: Die Ansicht, dass etwas - selbst in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
 
-**Check-In**: Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
+**Check In**: Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
 
 **Delegation**: Die Bevollmächtigung einer Partei (des Beauftragten) durch eine andere (die Delegierende), sich um eine Domäne zu kümmern (d.h. bestimmte Aufgaben zu erfüllen und/oder bestimmte Entscheidungen zu treffen). Die Gesamtverantwortung trägt weiterhin die Delegierende.
 

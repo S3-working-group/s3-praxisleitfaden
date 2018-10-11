@@ -1,5 +1,5 @@
 ---
-title: "Konsent-Entscheidung"
+title: "Konsententscheidung"
 ---
 
 
@@ -11,12 +11,12 @@ Ungelöste <dfn data-info="Einwand: Eine _Argument_, warum eine geplante Handlun
 
 Das Zurückhalten von Einwänden kann die Ziele eines Teams oder der gesamten Organisation gefährden.
 
-### Impliziter Konsent-Vertrag
+### Impliziter Konsentvertrag
 
 1. Wenn es keine Einwände gegen eine Vereinbarung gibt, beabsichtige ich, diese Vereinbarung im Rahmen meiner Möglichkeiten umzusetzen.
 2. Ich stimme zu, Einwände einzubringen, sobald sie mir bewusst werden.
 
-![Konsent-Entscheidung](img/agreements/consent-decision-making.png)
+![Konsententscheidung](img/agreements/consent-decision-making.png)
 
 [&#9654; Einwand](objection.html)<br/>[&#9664; Organisationstreiber beschreiben](describe-organizational-drivers.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

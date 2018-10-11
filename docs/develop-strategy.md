@@ -17,5 +17,5 @@ Die Strategie ist eine gemeinsame Vereinbarung zwischen Delegierender und Beauft
 
 Strategien werden durch Experimente validiert und mit den daraus gewonnenen Erkenntnissen iterativ verfeinert.
 
-[&#9654; Domänen klären](clarify-domains.html)<br/>[&#9664; Vereinbarung](agreement.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
+[&#9654; Domänen bestimmen](clarify-domains.html)<br/>[&#9664; Vereinbarung](agreement.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
 

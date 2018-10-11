@@ -11,5 +11,5 @@ Aus dem angestrebten Ergebnis können [Evaluationskriterien](evaluation-criteria
 
 ![Angestrebtes Ergebnis und Evaluationskriterien](img/templates/outcome-and-criteria.png)
 
-[&#9654; Leistungen definieren](describe-deliverables.html)<br/>[&#9664; Domänen klären](clarify-domains.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
+[&#9654; Leistungen definieren](describe-deliverables.html)<br/>[&#9664; Domänen bestimmen](clarify-domains.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
 

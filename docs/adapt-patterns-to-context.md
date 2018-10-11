@@ -7,7 +7,7 @@ title: "Muster an Kontext anpassen"
 
 Stelle sicher, dass alle Betroffenen:
 
-- verstehen, warum es notwendig (oder hiflreich) ist, das Muster anzupassen
+- verstehen, warum es notwendig (oder hilfreich) ist, das Muster anzupassen
 - Bei der Entscheidung, was verändert wird, anwesend oder vertreten sind
 - sich bei der Anpassung an den Sieben Prinzipien orientieren
 

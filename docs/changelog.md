@@ -27,10 +27,10 @@ title: "Änderungsprotokoll "
 
 **Änderungen der Muster:**
 
-- [Agreement](agreement.html): description now mentions that any expectations should be recorded
-- [Describe Deliverables](describe-deliverables.html): updated summary
-- [Describe Organizational Drivers](oescribe-organizational-drivers.html): more information on summarizing drivers
-- [Resolve Objections](resolve-objections.html): added summary and description
+- [Vereinbarung](agreement.html): Beschreibung stellt nun klar, dass alle auf die Vereinbarung bezogenen Erwartungen dokumentiert werden sollten
+- [Leistungen definieren](describe-deliverables.html): Zusammenfassung aktualisiert
+- [Organisationstreiber beschreiben:](oescribe-organizational-drivers.html) Abschnitt zur Zusammenfassung der Beschreibung überarbeitet
+- [Einwände integrieren:](resolve-objections.html) Zusammenfassung und Beschreibung hinzugefügt
 
 ### Änderungen zum 17.8.2018
 
@@ -43,9 +43,9 @@ title: "Änderungsprotokoll "
 
 **Glossar**
 
-- **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
-- **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
-- **removed**: peer driver
+- **überarbeitet**Bedenken, Governance, Einwand, Leistung, operatives Geschäft, Primärtreiber, Rolle, Selbstorganisation, Subtreiber, Teilautonomie, Werte
+- **hinzugefügt**: Delegation, Hilfsteam, Konstituente, Koordination, Offene Domäne, Wertfluss
+- **entfernt:** Nachbartreiber
 
 **Änderungen in der Einleitung**
 
@@ -64,7 +64,7 @@ title: "Änderungsprotokoll "
 - [Vereinbarung](agreement.html):: Beschreibung überarbeitet, Vorlage aktualisiert
 - [Kunstvolle Teilnahme:](artful-participation.html) Zusammenfassung überarbeitet
 - [Das angestrebte Ergebnis klären](clarify-intended-outcome.html) (umbenannt von *angestrebtes Ergebnis*): Beschreibung überarbeitet
-- [Konsent-Entscheidung](consent-decision-making.html): Beschreibung und Illustration überarbeitet
+- [Konsententscheidung](consent-decision-making.html): Beschreibung und Illustration überarbeitet
 - [kontinuierliche Prozessverbesserung](continuous-improvement-of-work-process.html): Beschreibung überarbeitet
 - [Contract For Successful Collaboration](contract-for-successful-collaboration.html): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 - [Coordination Meeting](coordination-meeting.html): clarified agenda items, updated illustration
@@ -78,8 +78,8 @@ title: "Änderungsprotokoll "
 - [Evaluation Criteria](evaluation-criteria.html): suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
 - [Meetings moderieren](facilitate-meetings.html): Beschreibung überarbeitet
 - [Fraktalorganisation](fractal-organization.html): Beschreibung überarbeitet und erweitert
-- [Governance-Backlog](governance-backlog.html): : Beschreibung überarbeitet
-- [Governance-Meeting](governance-meeting.html): : Beschreibung überarbeitet, Agendapunkte genauer erläutert
+- [Governance-Backlog:](governance-backlog.html) Beschreibung überarbeitet
+- [Governance-Meeting:](governance-meeting.html) Beschreibung überarbeitet, Agendapunkte genauer erläutert
 - [Veränderung einladen](invite-change.html): Beschreibung überarbeitet
 - [Kreise verbinden](linking.html): Beschreibung angeglichen an [doppelte Verbindung](double-linking.html)
 - [Logbook](logbook.html): clarified that there is no difference between logbooks for groups and logbooks for roles
@@ -88,7 +88,7 @@ title: "Änderungsprotokoll "
 - [Offene Domäne](open-domain.html): Beschreibung und Illustration überarbeitet
 - [Offene Systeme](open-systems.html): Beschreibung überarbeitet
 - [Open Space for Change](open-space-for-change.html): renamed from *Open S3 Adoption*, improved description
-- [Pfirsich-Organisation](peach-organization.html): Klärung der Beziehung zwischen Peripherie und Zentrum
+- [Pfirsichorganisation](peach-organization.html): Klärung der Beziehung zwischen Peripherie und Zentrum
 - [Proposal Forming](proposal-forming.html): revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
 - [Repräsentant](representative.html): Beschreibung überarbeitet
 - [Einwände integrieren](resolve-objections.html) beide Illustrationen überarbeitet
@@ -107,9 +107,9 @@ title: "Änderungsprotokoll "
 
 **Folgende Muster wurden hinzugefügt:**
 
-- [Check-In](check-in.html)
+- [Check In](check-in.html)
 - [Vorschläge gemeinsam gestalten](co-create-proposals.html)
-- [Bereite Meetings vor](prepare-for-meetings.html)
+- [Meetings vorbereiten](prepare-for-meetings.html)
 - [Timebox](timebox-activities.html)
 
 ### Änderungen zum 21.3.2018
@@ -157,17 +157,17 @@ title: "Änderungsprotokoll "
 
 - *Kunstvolle Teilnahme*: Beschreibung überarbeitet
 - *Vereinbarung*: Erklärung, dass das Konzept von Vereinbarungen auch innerhalb einer Rolle angewendet werden kann
-- *Domänen klären*: Beschreibung überarbeitet
+- *Domänen bestimmen*: Beschreibung überarbeitet
 - *Kreis*: Beschreibung überarbeitet und Glossareintrag für "Kreis" aktualisiert
 - *Treiber*: Definition überarbeitet
 - *Entwicklungsplan*: Beschreibung überarbeitet und Vorlage aktualisiert
 - *Strategie entwickeln*: Beschreibung überarbeitet, klare Definition von Strategie
 - *doppelt verbundene Hierarchie*: neue Illustration
-- *Vereinbarungen prüfen*: Fragen an Peer-Review angepasst
-- *Steuerungs-Backlog*: Beschreibung überarbeitet
+- *Vereinbarungen prüfen*: Fragen an Entwicklungsgespräch angepasst
+- *Steuerungsbacklog*: Beschreibung überarbeitet
 - *Logbuch*: Informationen zu Governance in persönlichen Logbüchern
 - *Einwände*: Abschnitt zur Qualifikation von Einwänden überarbeitet
-- *Peer-Review*: Beschreibung überarbeitet
+- *Peer Review*: Beschreibung überarbeitet
 - *Auf Organisationstreiber reagieren*: Abschnitt zur Qualifikation von Treibern eingefügt
 - *Rolle*: der Inhaber einer Rolle kann ein Steuerungsbacklog führen
 - *Proposal Forming*: Beschreibung überarbeitet, Schritt zur Priorisierung der Kriterien hinzugefügt, Fragen zur Auswahl von Gestaltern hinzugefügt, 
@@ -178,7 +178,7 @@ title: "Änderungsprotokoll "
 - *Backbone-Organisation* in *Serviceorganisation*
 - *Entwicklungsgespräch* (nur auf Englisch umbenannt)
 - *Strategie* in *Strategie entwickeln*
-- *Domänenbeschreibung* in *Domänen klären*
+- *Domänenbeschreibung* in *Domänen bestimmen*
 - *Leistungen definieren* (nur auf Englisch umbenannt)
 
 **Folgende Muster wurden hinzugefügt:**

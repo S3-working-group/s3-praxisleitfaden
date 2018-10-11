@@ -7,7 +7,7 @@ title: "Offene Domäne"
 
 Die <dfn data-info="Delegierende: Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.">Delegierende</dfn> der Domäne definiert
 
-- den <dfn data-info="Primärtreiber: Der Primärtreiber einer Domäne ist der übergeordnete Treiber, den die Verantwortlichen für diese Domäne beantworten.">Primärteiber</dfn>, zentrale Verantwortlichkeiten und Grenzen der offenen Domäne
+- den <dfn data-info="Primärtreiber: Der Primärtreiber einer Domäne ist der übergeordnete Treiber, den die Verantwortlichen für diese Domäne beantworten.">Primärtreiber</dfn>, zentrale Verantwortlichkeiten und Grenzen der offenen Domäne
 - wer in der offenen Domäne mitwirken kann
 - die Teilhabe der Delegierenden an den <dfn data-info="Governance: Alle Tätigkeiten, die mit der Festlegung von Zielen und den aus diesen Zielen resultierenden Steuerungsaufgaben zu tun haben: Menschen mit der entsprechenden Befugnissen treffen bewusst Entscheidungen, die die Wertschöpfung  der Organisation (und die der Teams und Personen innerhalb der Organisation)  mittel- und langfristig steuern, und entwickeln diese Entscheidungen stetig anhand der gewonnenen Erkenntnisse weiter. Diese Entscheidungen begrenzen Handlungsspielräume, lenken zukünftige Entscheidungen, Verteilen Ressourcen und legen Details zu Leistungen fest.">Steuerungsentscheidungen</dfn> der Domäne
 

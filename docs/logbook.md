@@ -13,7 +13,7 @@ Verbreitete Plattformen für Logbücher sind Wikis (z.B. [Dokuwiki](https://www.
 
 Informationen über die gesamte Organisation:
 
-- <dfn data-info="Primärtreiber: Der Primärtreiber einer Domäne ist der übergeordnete Treiber, den die Verantwortlichen für diese Domäne beantworten.">Primärteiber</dfn>, <dfn data-info="Strategie: Der generelle Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.">Strategie</dfn> und gemeinsame <dfn data-info="Werte: Wichtige Prinzipien, an denen Personen ihr Verhalten ausrichten. Nicht zu verwechseln mit dem Begriff &quot;Wert&quot; (Singular) in Zusammenhang mit Treibern.">Werte</dfn>
+- <dfn data-info="Primärtreiber: Der Primärtreiber einer Domäne ist der übergeordnete Treiber, den die Verantwortlichen für diese Domäne beantworten.">Primärtreiber</dfn>, <dfn data-info="Strategie: Der generelle Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.">Strategie</dfn> und gemeinsame <dfn data-info="Werte: Wichtige Prinzipien, an denen Personen ihr Verhalten ausrichten. Nicht zu verwechseln mit dem Begriff &quot;Wert&quot; (Singular) in Zusammenhang mit Treibern.">Werte</dfn>
 - Organisationsstruktur (<dfn data-info="Domäne: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.">Domänen</dfn> und deren Verbindungen)
 - <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn> 
 

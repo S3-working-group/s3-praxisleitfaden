@@ -12,5 +12,5 @@ title: "Arbeitsorganisation"
 - [Koordinator(in)](coordinator.html)
 
 
-[&#9654; Backlog](backlog.html)<br/>[&#9664; Governance Backlog](governance-backlog.html)
+[&#9654; Backlog](backlog.html)<br/>[&#9664; Steuerungsbacklog](governance-backlog.html)
 

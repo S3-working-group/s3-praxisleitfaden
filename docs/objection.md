@@ -5,7 +5,7 @@ title: "Einwand"
 
 _Ein **Einwand** ist ein _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert._
 
-Einwände gegen Vorschläge, Entscheidungen, bestehenden <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn> oder Massnahmen enthalten wesentliche Informationen **über **negative Konsequenzen** oder sonstige <1>Verbesserungspotenziale**. verwendet.
+Einwände gegen Vorschläge, Entscheidungen, bestehenden <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn> oder Massnahmen enthalten wesentliche Informationen über **negative Konsequenzen** oder sonstige **Verbesserungspotenziale**. verwendet.
 
 Es liegt in der Verantwortung des Einzelnen, mögliche Einwände zu einzubringen.
 
@@ -31,7 +31,7 @@ Nutze die von Einwänden aufgedeckten Informationen zur Verbesserung
 
 ### Einwände qualifizieren
 
-Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enhüllen, und sonstigen Argumenten, die nur auf Meinungen, Vorlieben oder Bedenken basieren.
+Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enthüllen, und sonstigen Argumenten, die nur auf Meinungen, Vorlieben oder Bedenken basieren.
 
 Um herauszufinden, um ob ein vorgebrachtes Argument tatsächlich einen Einwand darstellt, könnte ein Moderator z.B. folgende Frage stellen:
 
@@ -55,11 +55,11 @@ Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
 _Ein **Bedenken** ist die Ansicht, dass etwas - selbst in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**._
 
-In einer [Konsent-Entscheidung](consent-decision-making.html) können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
+In einer [Konsententscheidung](consent-decision-making.html) können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
 
 Bringe Bedenken ein, wenn du sie als wichtig erachtest, und protokolliere sie im mindesten Falle mit Evaluationskriterien.
 
 Wenn du im Zweifel bist, ob es sich bei einem Argument um einen Einwand oder ein Bedenken handelt, frage die Gruppe, ob sie es für einen Einwand halten.
 
-[&#9654; Einwände integrieren](resolve-objections.html)<br/>[&#9664; Konsent-Entscheidung](consent-decision-making.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+[&#9654; Einwände integrieren](resolve-objections.html)<br/>[&#9664; Konsententscheidung](consent-decision-making.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

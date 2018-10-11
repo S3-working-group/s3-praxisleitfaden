@@ -1,5 +1,5 @@
 ---
-title: "Planungs- und Review-Meetings"
+title: "Planung und Review"
 ---
 
 
@@ -9,7 +9,7 @@ title: "Planungs- und Review-Meetings"
 
 **Reviewmeeting**: Abnahme fertiggestellter Arbeitspakete, Diskussion von erforderlichen Nachbessrungen und Änderungen für folgende Iterationen 
 
-![Planungs- und Review-Meetings](img/meetings/planning-review.png)
+![Planung und Review](img/meetings/planning-review.png)
 
 [&#9654; Koordinationsmeeting](coordination-meeting.html)<br/>[&#9664; Daily Standup](daily-standup.html)<br/>[&#9650; Fokussierte Interaktionen](focused-interactions.html)
 

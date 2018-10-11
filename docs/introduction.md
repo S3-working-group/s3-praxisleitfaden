@@ -32,9 +32,9 @@ S3 unterstützt dich dabei, herauszufinden, wie du am besten deine Ziele erreich
 
 ![Einflüsse und Geschichte von Soziokratie 3.0](img/context/history.png)
 
-## Treber für die Entwicklung von Soziokratie 3.0
+## Treiber für die Entwicklung von Soziokratie 3.0
 
-> *Wir trafen uns 2014, um gemeinsam eine Bibliothek von frei verfügbaren Lernmaterialien herzustellen, die die Ideen der Soziokratie, Agile und Lean integrieren. Dabei entdeckten wir, dass kleine wie große Organisationen ein auf ihren spezifischen Kontext passendes Angebot aus Praktiken und Strukturen benötigen, das ihnen ermöglicht, eine agile und soziokratische Geisteshaltung zu entwickeln, um ihren eigenen Weg zu mehr Effektivität, Alignment, Wohlbefinden und Erfüllung zu finden. *
+> *Wir trafen uns 2014, um gemeinsam eine Bibliothek von frei verfügbaren Lernmaterialien herzustellen, die die Ideen der Soziokratie, Agile und Lean integrieren. Dabei entdeckten wir, dass kleine wie große Organisationen ein auf ihren spezifischen Kontext passendes Angebot aus Praktiken und Strukturen benötigen, das ihnen ermöglicht, eine agile und soziokratische Geisteshaltung zu entwickeln, um ihren eigenen Weg zu mehr Effektivität, Alignment, Wohlbefinden und Erfüllung zu finden.*
 ## Grundlegende Konzepte
 
 Bevor Du in die Muster eintauchst, solltest Du Dich mit einigen Konzepten vertraut machen, die das Verständnis von S3 erleichtern:
@@ -101,7 +101,7 @@ Ein Treiber …
 
 _**Wert** ist die Bedeutung oder der Nutzen von etwas in Bezug  auf einen bestimmten Treiber_
 
-_**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht erforderlicht ist, oder ihr sogar im Wege steht._
+_**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht erforderlich ist, oder ihr sogar im Wege steht._
 
 Über das Konzept von Wert und Verschwendung können Organisationen, die Muster aus S3 verwenden, auch viele Praktiken und Ideen aus der **Lean Production** und der **Lean Softwareentwicklung** nutzen. Zum Beispiel:
 

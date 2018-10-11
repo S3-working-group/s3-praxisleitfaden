@@ -5,9 +5,9 @@ title: "Domänen klären"
 
 **Ein klares Verständnis der jeweiligen Verantwortungs- und Autonomiebereiche fördert Effizienz, effektive Zusammenarbeit und Agilität in der gesamten Organisation.**
 
-Eine einfache Möglichkeit, <dfn data-info="Domäne: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.">Domänen</dfn> zu klären ist eine **Domänenbeschreibung**, mit folgendem Inhalt:
+Eine einfache Möglichkeit, <dfn data-info="Domäne: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.">Domänen</dfn> klar zu bestimmen ist eine **Domänenbeschreibung**, mit folgendem Inhalt:
 
-- <dfn data-info="Primärtreiber: Der Primärtreiber einer Domäne ist der übergeordnete Treiber, den die Verantwortlichen für diese Domäne beantworten.">Primärteiber</dfn> (der **Bedarf der Organisation**, auf den innerhalb dieser Domäne reagiert werden soll)
+- <dfn data-info="Primärtreiber: Der Primärtreiber einer Domäne ist der übergeordnete Treiber, den die Verantwortlichen für diese Domäne beantworten.">Primärtreiber</dfn> (der **Bedarf der Organisation**, auf den innerhalb dieser Domäne reagiert werden soll)
 - **Kernaufgaben** (wesentliche Leistungen, etwaige kritische Risiken, die beachtet werden müssen, sowie weitere essentielle Arbeitsaufgaben und Entscheidungen, die delegiert wurden)
 - **Einschränkungen von Autonomie und Einfluss** der *Beauftragten*, normalerweise in Bezug auf die Organisation selbst (z.B. Abhängigkeiten, Mitbestimmung der <dfn data-info="Delegierende: Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.">Delegierenden</dfn>, oder Reporting)
 - **Ressourcen** (Zeit, Geld, Infrastruktur, Rechte, Werkzeuge

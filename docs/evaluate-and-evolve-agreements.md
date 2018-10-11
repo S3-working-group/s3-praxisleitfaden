@@ -12,7 +12,7 @@ Regelmäßige Überprüfung aller Vereinbarungen ist eine ist eine essentielle V
 
 Stelle sicher, dass für jede <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarung</dfn> ein Termin zur Evaluation festgelegt wird.
 
-Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und kein Einwande gegen ihren Fortbestand existieren.
+Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und kein Einwände gegen ihren Fortbestand existieren.
 
 ![Experimentieren, evaluieren, entwickeln](img/evolution/kaizen.png)
 

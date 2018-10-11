@@ -5,7 +5,7 @@ title: "Mitgestaltung und Evolution"
 - [Reagiere auf Organisationstreiber](respond-to-organizational-drivers.html)
 - [Navigiere nach Spannung](navigate-via-tension.html)
 - [Organisationstreiber beschreiben](describe-organizational-drivers.html)
-- [Konsent-Entscheidung](consent-decision-making.html)
+- [Konsententscheidung](consent-decision-making.html)
 - [Einwand](objection.html)
 - [Einwände integrieren](resolve-objections.html)
 - [Vereinbarungen entwickeln](evaluate-and-evolve-agreements.html)

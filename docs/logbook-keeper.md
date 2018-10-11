@@ -3,7 +3,7 @@ title: "Der Logbuchführer ist verantwortlich für die Pflege des Logbuchs eines
 ---
 
 
-**Wähle ein Teammitglied, das die Verantwortung für dafür übernimmt, dass alle für die Arbeit des Teams erforderlichen Informationen dokmentiert und verfügbar sind.**
+**Wähle ein Teammitglied, das die Verantwortung für dafür übernimmt, dass alle für die Arbeit des Teams erforderlichen Informationen dokumentiert und verfügbar sind.**
 
 Der Logbuchführer ist verantwortlich für die Pflege des <dfn data-info="Logbuch: Ein (digitales) System zur Speicherung aller für die Organisation relevanten Informationen.">Logbuchs</dfn> einer Gruppe:
 

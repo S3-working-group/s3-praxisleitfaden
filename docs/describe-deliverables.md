@@ -3,7 +3,7 @@ title: "Leistungen definieren"
 ---
 
 
-**Definiere alle auf eine Vereinbarung bezogenen Leistungen, um ein gemeinsames Verständnis der mit dieser Vereinbarung einhergehenden Erwartungen zu ermöglichen. **
+**Definiere alle auf eine Vereinbarung bezogenen Leistungen, um ein gemeinsames Verständnis der mit dieser Vereinbarung einhergehenden Erwartungen zu ermöglichen.**
 
 _Eine **Leistung** ist ein Produkt, eine Dienstleistung, eine Komponente oder ein Rohstoff, der als Reaktion auf einen Organisationstreiber hergestellt bzw. bereitgestellt wird._
 

@@ -1,5 +1,5 @@
 ---
-title: "Bereite Meetings vor"
+title: "Meetings vorbereiten"
 ---
 
 
@@ -7,7 +7,7 @@ title: "Bereite Meetings vor"
 
 Grundlegende Vorbereitung:
 
-- kläre un kommuniziere den <dfn data-info="Treiber: Das Motiv einer Person oder Gruppe, in einer bestimmten Situation zu handeln.">Treiber</dfn> und <dfn data-info="Angestrebtes Ergebnis: Das erwartete Ergebnis einer Vereinbarung, Aktion, Projekt oder Strategie.">angestrebtes Ergebnis</dfn> des Meetings
+- bestimme und kommuniziere den <dfn data-info="Treiber: Das Motiv einer Person oder Gruppe, in einer bestimmten Situation zu handeln.">Treiber</dfn>, sowie das <dfn data-info="Angestrebtes Ergebnis: Das erwartete Ergebnis einer Vereinbarung, Aktion, Projekt oder Strategie.">angestrebte Ergebnis</dfn> des Meetings
 - entscheide, wer teilnehmen soll 
 - erstelle eine Agenda
 - plane das Meeting so, dass die Teilnehmer Zeit zur Vorbereitung haben

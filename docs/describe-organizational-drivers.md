@@ -79,5 +79,5 @@ Hilfreiche Fragen für eine Evaluation
 - Befindet sich der Treiber immer noch innerhalb unserer Domäne?
 - Ist der Treiber immer noch relevant?
 
-[&#9654; Konsent-Entscheidung](consent-decision-making.html)<br/>[&#9664; Navigiere nach Spannung](navigate-via-tension.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+[&#9654; Konsententscheidung](consent-decision-making.html)<br/>[&#9664; Navigiere nach Spannung](navigate-via-tension.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

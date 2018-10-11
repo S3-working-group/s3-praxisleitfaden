@@ -8,7 +8,7 @@ title: "Klare Vereinbarungen"
 ![Der Lebenszyklus einer Vereinbarung](img/evolution/agreement-lifecycle-long.png)
 - [Vereinbarung](agreement.html)
 - [Strategie entwickeln](develop-strategy.html)
-- [Domänen klären](clarify-domains.html)
+- [Domänen bestimmen](clarify-domains.html)
 - [Das angestrebte Ergebnis klären](clarify-intended-outcome.html)
 - [Leistungen definieren](describe-deliverables.html)
 - [Evaluationskriterien](evaluation-criteria.html)

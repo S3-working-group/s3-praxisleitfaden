@@ -15,7 +15,7 @@ Ein Hilfsteam:
 Mitglieder eines Hilfsteams:
 
 - können Einwände gegen diejenigen Entscheidungen der Delegierenden erheben, die sie direkt betreffen
-- können Themen zum <dfn data-info="Steuerungs-Backlog: Eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.">Steuerungs-Backlog</dfn> der Delegierenden hinzufügen
+- können Themen zum <dfn data-info="Steuerungs-Backlog: Eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.">Steuerungsbacklog</dfn> der Delegierenden hinzufügen
 - werden in machen Fällen von der Delegierenden aufgefordert, [Repräsentanten](representative.html) zu Steuerungsentscheidungen der Delegierenden zu entsenden
 
 ![Hilfsteam](img/structural-patterns/helping-team.png)

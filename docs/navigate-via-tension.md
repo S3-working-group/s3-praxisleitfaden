@@ -3,7 +3,7 @@ title: "Navigiere nach Spannung"
 ---
 
 
-**Gehe bewusst mit Spannung um, die du in Bezug auf die Organisation empfindest: untersuche die zugrundeliegenden Ursachen und übergib die dabei entdeckten Treiber an die zuständige Domäne. **
+**Gehe bewusst mit Spannung um, die du in Bezug auf die Organisation empfindest: untersuche die zugrundeliegenden Ursachen und übergib die dabei entdeckten Treiber an die zuständige Domäne.**
 
 **Herausforderungen und Chancen** für eine Organisation werden durch ihre Mitglieder aufgedeckt, in dem diese den Gründen nachspüren, warum sie Spannung empfinden.
 

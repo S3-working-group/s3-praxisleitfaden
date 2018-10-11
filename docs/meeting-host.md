@@ -23,5 +23,5 @@ Vorbereitung:
 
 **Siehe auch:**[Meetings moderieren](facilitate-meetings.html), [Meetings vorbereiten](prepare-for-meetings.html)
 
-[&#9654; Governance Backlog](governance-backlog.html)<br/>[&#9664; Meetings evaluieren](evaluate-meetings.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
+[&#9654; Steuerungsbacklog](governance-backlog.html)<br/>[&#9664; Meetings evaluieren](evaluate-meetings.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
 

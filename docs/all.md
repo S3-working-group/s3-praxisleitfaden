@@ -36,9 +36,9 @@ S3 unterstützt dich dabei, herauszufinden, wie du am besten deine Ziele erreich
 
 ![Einflüsse und Geschichte von Soziokratie 3.0](img/context/history.png)
 
-## Treber für die Entwicklung von Soziokratie 3.0
+## Treiber für die Entwicklung von Soziokratie 3.0
 
-> *Wir trafen uns 2014, um gemeinsam eine Bibliothek von frei verfügbaren Lernmaterialien herzustellen, die die Ideen der Soziokratie, Agile und Lean integrieren. Dabei entdeckten wir, dass kleine wie große Organisationen ein auf ihren spezifischen Kontext passendes Angebot aus Praktiken und Strukturen benötigen, das ihnen ermöglicht, eine agile und soziokratische Geisteshaltung zu entwickeln, um ihren eigenen Weg zu mehr Effektivität, Alignment, Wohlbefinden und Erfüllung zu finden. *
+> *Wir trafen uns 2014, um gemeinsam eine Bibliothek von frei verfügbaren Lernmaterialien herzustellen, die die Ideen der Soziokratie, Agile und Lean integrieren. Dabei entdeckten wir, dass kleine wie große Organisationen ein auf ihren spezifischen Kontext passendes Angebot aus Praktiken und Strukturen benötigen, das ihnen ermöglicht, eine agile und soziokratische Geisteshaltung zu entwickeln, um ihren eigenen Weg zu mehr Effektivität, Alignment, Wohlbefinden und Erfüllung zu finden.*
 
 ## Grundlegende Konzepte
 
@@ -110,7 +110,7 @@ Ein Treiber …
 
 _**Wert** ist die Bedeutung oder der Nutzen von etwas in Bezug  auf einen bestimmten Treiber_
 
-_**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht erforderlicht ist, oder ihr sogar im Wege steht._
+_**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht erforderlich ist, oder ihr sogar im Wege steht._
 
 Über das Konzept von Wert und Verschwendung können Organisationen, die Muster aus S3 verwenden, auch viele Praktiken und Ideen aus der **Lean Production** und der **Lean Softwareentwicklung** nutzen. Zum Beispiel:
 
@@ -196,7 +196,7 @@ Ob es sich bei einem Treiber um einen Organisationstreiber handelt, kann leicht 
 
 ###  Muster 1.2: Navigiere nach Spannung
 
-**Gehe bewusst mit Spannung um, die du in Bezug auf die Organisation empfindest: untersuche die zugrundeliegenden Ursachen und übergib die dabei entdeckten Treiber an die zuständige Domäne. **
+**Gehe bewusst mit Spannung um, die du in Bezug auf die Organisation empfindest: untersuche die zugrundeliegenden Ursachen und übergib die dabei entdeckten Treiber an die zuständige Domäne.**
 
 **Herausforderungen und Chancen** für eine Organisation werden durch ihre Mitglieder aufgedeckt, in dem diese den Gründen nachspüren, warum sie Spannung empfinden.
 
@@ -284,7 +284,7 @@ Hilfreiche Fragen für eine Evaluation
 - Befindet sich der Treiber immer noch innerhalb unserer Domäne?
 - Ist der Treiber immer noch relevant?
 
-###  Muster 1.4: Konsent-Entscheidung
+###  Muster 1.4: Konsententscheidung
 
 **Ein (moderierter) Gruppenprozess zur Entscheidungsfindung: sammle Einwände, und integriere das dahinterstehende Wissen, um Vorschläge und bestehende Vereinbarungen weiterzuentwickeln**
 
@@ -294,18 +294,18 @@ Ungelöste Einwände verhindern, dass ein Vorschlag zu einer Vereinbarung wird.
 
 Das Zurückhalten von Einwänden kann die Ziele eines Teams oder der gesamten Organisation gefährden.
 
-#### Impliziter Konsent-Vertrag
+#### Impliziter Konsentvertrag
 
 1. Wenn es keine Einwände gegen eine Vereinbarung gibt, beabsichtige ich, diese Vereinbarung im Rahmen meiner Möglichkeiten umzusetzen.
 2. Ich stimme zu, Einwände einzubringen, sobald sie mir bewusst werden.
 
-![Konsent-Entscheidung](img/agreements/consent-decision-making.png)
+![Konsententscheidung](img/agreements/consent-decision-making.png)
 
 ###  Muster 1.5: Einwand
 
 _Ein **Einwand** ist ein _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert._
 
-Einwände gegen Vorschläge, Entscheidungen, bestehenden Vereinbarungen oder Massnahmen enthalten wesentliche Informationen **über **negative Konsequenzen** oder sonstige <1>Verbesserungspotenziale**. verwendet.
+Einwände gegen Vorschläge, Entscheidungen, bestehenden Vereinbarungen oder Massnahmen enthalten wesentliche Informationen über **negative Konsequenzen** oder sonstige **Verbesserungspotenziale**. verwendet.
 
 Es liegt in der Verantwortung des Einzelnen, mögliche Einwände zu einzubringen.
 
@@ -331,7 +331,7 @@ Nutze die von Einwänden aufgedeckten Informationen zur Verbesserung
 
 #### Einwände qualifizieren
 
-Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enhüllen, und sonstigen Argumenten, die nur auf Meinungen, Vorlieben oder Bedenken basieren.
+Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enthüllen, und sonstigen Argumenten, die nur auf Meinungen, Vorlieben oder Bedenken basieren.
 
 Um herauszufinden, um ob ein vorgebrachtes Argument tatsächlich einen Einwand darstellt, könnte ein Moderator z.B. folgende Frage stellen:
 
@@ -355,7 +355,7 @@ Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
 _Ein **Bedenken** ist die Ansicht, dass etwas - selbst in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**._
 
-In einer _Konsent-Entscheidung_ können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
+In einer _Konsententscheidung_ können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
 
 Bringe Bedenken ein, wenn du sie als wichtig erachtest, und protokolliere sie im mindesten Falle mit Evaluationskriterien.
 
@@ -387,7 +387,7 @@ Regelmäßige Überprüfung aller Vereinbarungen ist eine ist eine essentielle V
 
 Stelle sicher, dass für jede Vereinbarung ein Termin zur Evaluation festgelegt wird.
 
-Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und kein Einwande gegen ihren Fortbestand existieren.
+Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und kein Einwände gegen ihren Fortbestand existieren.
 
 ![Experimentieren, evaluieren, entwickeln](img/evolution/kaizen.png)
 
@@ -421,7 +421,7 @@ Nachbereitung:
 
 ###  Muster 1.8: Die Betroffenen entscheiden
 
-**Beteilige alle von einer Entscheidung Betroffen, um alle für die Entscheidung erforderlichen Informationen verfügbar zu machen, und um Gleichstellung und Verantwortlichkeit sicher zu stellen. **
+**Beteilige alle von einer Entscheidung Betroffen, um alle für die Entscheidung erforderlichen Informationen verfügbar zu machen, und um Gleichstellung und Verantwortlichkeit sicher zu stellen.**
 
 Für grössere Gruppen:
 
@@ -432,7 +432,7 @@ Erwäge, die Betroffenen auch bei der Überprüfung und Weiterentwicklung der En
 
 ###  Muster 1.9: Vorschläge gemeinsam gestalten
 
-**Bringe Menschen zusammen, damit sie gemeinsam Vorschläge entwickeln können, um auf organisationale Treiber zu reagieren: Nutze und aktiviere die kollektive Intelligenz, entwickle ein Gefühl von Ownership und steigere Engagement und Verantwortlichkeit.**
+**Bringe Menschen zusammen, um gemeinsam einen Vorschlag für die Reaktion auf einen Organisationstreiber zu entwickeln: Nutze das kollektive Wissen der Gruppe, und fördere Engagement und Verantwortungsbewusstsein.**
 
 Es gibt zahlreiche Wege, Vorschläge in einer Gruppe zu erarbeiten. Sie alle folgen in der Regel diesem Muster:
 
@@ -638,7 +638,7 @@ Um das zu ermöglichen, müssen sich auch die Werte einer Organisation an den Si
 
 ![Die sieben Prinzipien](img/framework/s3-principles-plain.png)
 
-![Die Werte einer Organisation sollten sich an den sieben Prinzipien orietieren.](img/collaboration-values/values-7principles.png)
+![Die Werte einer Organisation sollten sich an den sieben Prinzipien orientieren.](img/collaboration-values/values-7principles.png)
 
 ###  Muster 3.3: Gemeinsame Werte
 
@@ -663,20 +663,20 @@ Die Einigung auf gemeinsame Werte stellt eine Vereinbarung dar, die **regelmäss
 
 ###  Muster 3.4: Governance-Moderator(in)
 
-**Wähle jemanden, der die Steuerungs-Meetings moderiert.**
+**Wähle jemanden, der die Steuerungsmeetings moderiert.**
 
 Ein _Governance_-Moderator …
 
-- stellt sicher, dass die _Steuerungs-Meetings_ moderiert und ausgewertet werden
+- stellt sicher, dass die _Steuerungsmeetings_ moderiert und ausgewertet werden
 - wird in der Regel vom Team aus seinen Mitgliedern und auf eine bestimmte Zeit gewählt
-- macht sich mit dem _Steuerungs-Backlog_ vertraut
+- macht sich mit dem _Steuerungsbacklog_ vertraut
 - lädt oft Andere dazu ein, einzelne Tagesordnungspunkte zu moderieren
 
 Um die Gruppe effektiv unterstützen zu können, sollte sich ein ein Governance-Moderator mit folgenden Mustern vertraut machen:
 
 - _Runden_
 - _Proposal Forming_
-- _Konsent-Entscheidung_
+- _Konsententscheidung_
 - _Wahl_
 - _Meetings evaluieren_
 - _Einwände integrieren_
@@ -848,7 +848,7 @@ Ein Kreis …
 - **Gleichstellung der Kreismitglieder:** 
     - Jedes Mitglied eines Kreises ist gleichermaßen verantwortlich für die Steuerungsentscheidungen in der Domäne des Kreises 
 
-![edes Mitglied eines Kreises ist gleichermaßen verantwortlich für die Steuerungsentscheidungen in der Domäne des Kreises ](img/circle/circle.png)
+![Jedes Mitglied eines Kreises ist gleichermaßen verantwortlich für die Steuerungsentscheidungen in der Domäne des Kreises ](img/circle/circle.png)
 
 ###  Muster 4.3: Rolle
 
@@ -916,7 +916,7 @@ Ein Hilfsteam:
 Mitglieder eines Hilfsteams:
 
 - können Einwände gegen diejenigen Entscheidungen der Delegierenden erheben, die sie direkt betreffen
-- können Themen zum Steuerungs-Backlog der Delegierenden hinzufügen
+- können Themen zum Steuerungsbacklog der Delegierenden hinzufügen
 - werden in machen Fällen von der Delegierenden aufgefordert, _Repräsentanten_ zu Steuerungsentscheidungen der Delegierenden zu entsenden
 
 ![Hilfsteam](img/structural-patterns/helping-team.png)
@@ -927,7 +927,7 @@ Mitglieder eines Hilfsteams:
 
 Die Delegierende der Domäne definiert
 
-- den Primärteiber, zentrale Verantwortlichkeiten und Grenzen der offenen Domäne
+- den Primärtreiber, zentrale Verantwortlichkeiten und Grenzen der offenen Domäne
 - wer in der offenen Domäne mitwirken kann
 - die Teilhabe der Delegierenden an den Steuerungsentscheidungen der Domäne
 
@@ -955,7 +955,7 @@ Individuen, Teams und Organisationen können anerkennen, dass sie und ihr Umfeld
 
 Stelle sicher, dass alle Betroffenen:
 
-- verstehen, warum es notwendig (oder hiflreich) ist, das Muster anzupassen
+- verstehen, warum es notwendig (oder hilfreich) ist, das Muster anzupassen
 - Bei der Entscheidung, was verändert wird, anwesend oder vertreten sind
 - sich bei der Anpassung an den Sieben Prinzipien orientieren
 
@@ -1004,12 +1004,12 @@ Beteilige die Betroffenen an der regelmäßigen Evaluation der Ergebnisse.
 - kläre den Treiber für die Veränderung
 - Plane regelmässige Open-Space-Veranstaltungen ein: 
     - Lade alle Mitglieder dazu ein, Experimente zu planen und durchzuführen
-    - gib einen klaren Rahmen für die Experimente vor, der die Entstehung einer soziokratischen und agilen Geisteshaltung unterstützt (z.B. die Sieben Prinzipien)
+    - gib einen klaren Rahmen für die Experimente vor, der die Entstehung einer soziokratischen und agilen Geisteshaltung unterstützt (z.B. die sieben Prinzipien)
     - evaluiere die Ergebnisse der Experimente beim nächsten Open-Space, um daraus zu lernen
 
 ###  Muster 5.6: Kontinuierliche Verbesserung des Arbeitsablaufs
 
-**Entdecke Treiber und etabliere ein metrik-basiertes Pull-System für Veränderungen in der Organisation durch kontinuierliche Verbesserungen und eine Verfeinerung der Arbeitsabläufe.**
+**Entdecke Treiber und etabliere ein metrikbasiertes Pull-System für Veränderungen in der Organisation durch kontinuierliche Verbesserungen und eine Verfeinerung der Arbeitsabläufe.**
 
 - führe für ein Team das Konsent-Prinzip und das Muster _Navigiere nach Spannung_ ein, so dass das Team seine Arbeitsabläufe selbst verbessern kann
 - erwäge die Wahl eines Moderators um Gruppenprozesse zu begleiten und die Einigung auf gemeinsame Werte, an denen sich das Team orientiert
@@ -1020,7 +1020,7 @@ Beteilige die Betroffenen an der regelmäßigen Evaluation der Ergebnisse.
 
 #### Verschwendung und kontinuierliche Verbesserung
 
-_**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht erforderlicht ist, oder ihr sogar im Wege steht._
+_**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht erforderlich ist, oder ihr sogar im Wege steht._
 
 Verschwendung existiert in verschiedenen Formen und auf unterschiedlichen Abstraktionsebenen (Aufgaben, Abläufe, Organisationsstruktur, Denkmodelle…)
 
@@ -1071,9 +1071,9 @@ Strategien werden durch Experimente validiert und mit den daraus gewonnenen Erke
 
 **Ein klares Verständnis der jeweiligen Verantwortungs- und Autonomiebereiche fördert Effizienz, effektive Zusammenarbeit und Agilität in der gesamten Organisation.**
 
-Eine einfache Möglichkeit, Domänen zu klären ist eine **Domänenbeschreibung**, mit folgendem Inhalt:
+Eine einfache Möglichkeit, Domänen klar zu bestimmen ist eine **Domänenbeschreibung**, mit folgendem Inhalt:
 
-- Primärteiber (der **Bedarf der Organisation**, auf den innerhalb dieser Domäne reagiert werden soll)
+- Primärtreiber (der **Bedarf der Organisation**, auf den innerhalb dieser Domäne reagiert werden soll)
 - **Kernaufgaben** (wesentliche Leistungen, etwaige kritische Risiken, die beachtet werden müssen, sowie weitere essentielle Arbeitsaufgaben und Entscheidungen, die delegiert wurden)
 - **Einschränkungen von Autonomie und Einfluss** der *Beauftragten*, normalerweise in Bezug auf die Organisation selbst (z.B. Abhängigkeiten, Mitbestimmung der Delegierenden, oder Reporting)
 - **Ressourcen** (Zeit, Geld, Infrastruktur, Rechte, Werkzeuge
@@ -1098,7 +1098,7 @@ Aus dem angestrebten Ergebnis können _Evaluationskriterien_ und Metriken abgele
 
 ###  Muster 6.5: Leistungen definieren
 
-**Definiere alle auf eine Vereinbarung bezogenen Leistungen, um ein gemeinsames Verständnis der mit dieser Vereinbarung einhergehenden Erwartungen zu ermöglichen. **
+**Definiere alle auf eine Vereinbarung bezogenen Leistungen, um ein gemeinsames Verständnis der mit dieser Vereinbarung einhergehenden Erwartungen zu ermöglichen.**
 
 _Eine **Leistung** ist ein Produkt, eine Dienstleistung, eine Komponente oder ein Rohstoff, der als Reaktion auf einen Organisationstreiber hergestellt bzw. bereitgestellt wird._
 
@@ -1130,7 +1130,7 @@ Verbreitete Plattformen für Logbücher sind Wikis (z.B. [Dokuwiki](https://www.
 
 Informationen über die gesamte Organisation:
 
-- Primärteiber, Strategie und gemeinsame Werte
+- Primärtreiber, Strategie und gemeinsame Werte
 - Organisationsstruktur (Domänen und deren Verbindungen)
 - Vereinbarungen 
 
@@ -1142,7 +1142,7 @@ Informationen für bestimmte Teams oder Rollen:
 
 ###  Muster 6.8: Der Logbuchführer ist verantwortlich für die Pflege des Logbuchs eines Teams:
 
-**Wähle ein Teammitglied, das die Verantwortung für dafür übernimmt, dass alle für die Arbeit des Teams erforderlichen Informationen dokmentiert und verfügbar sind.**
+**Wähle ein Teammitglied, das die Verantwortung für dafür übernimmt, dass alle für die Arbeit des Teams erforderlichen Informationen dokumentiert und verfügbar sind.**
 
 Der Logbuchführer ist verantwortlich für die Pflege des Logbuchs einer Gruppe:
 
@@ -1155,18 +1155,18 @@ Der Logbuchführer ist verantwortlich für die Pflege des Logbuchs einer Gruppe:
 
 ## Fokussierte Interaktionen 
 
-###  Muster 7.1: Steuerungs-Meeting
+###  Muster 7.1: Steuerungsmeeting
 
 **Teams treffen sich in regelmäßigen Abständen um zu entscheiden, wie sie vorgehen, um ihre Ziele zu erreichen, und um inhaltliche und zeitliche und Rahmenbedingung für ihre Arbeit festzulegen.**
 
-Ein Steuerungstreffen ist meistens:
+Ein Steuerungsmeeting ist meistens:
 
 - moderiert 
 - vorbereitet 
 - zeitlich beschränkt (i.d. R. zwischen 90 und 120 Minuten)
 - ... und findet alle 4 Wochen statt
 
-Ablauf eines typischen Steuerungstreffen:
+Ablauf eines typischen Steuerungsmeetings:
 
 - Eröffnungsrunde: _einstimmen aufeinander_, und auf die Ziele des Meetings
 - Organisatorisches 
@@ -1175,7 +1175,7 @@ Ablauf eines typischen Steuerungstreffen:
     - erfrage nach Last-Minute-Agendapunkten, und prüfe den Konsent zur Agenda
 - Agendapunkte abarbeiten 
 - _Treffen evaluieren_: Reflexion der Interaktionen, Erfolge zelebrieren, Verbesserungsvorschläge überlegen
-- Schlussrunde: gemeinsamer Check-In zum Abschluss des Meetings
+- Schlussrunde: gemeinsamer Check In zum Abschluss des Meetings
 
 ![Die Phasen eines Steuerungsmeetings](img/meetings/governance-meeting.png)
 
@@ -1223,7 +1223,7 @@ Die Website [plans-for-retrospectives.com](http://www.plans-for-retrospectives.c
 
 ![Das Daily Standup ist eine zentrales Meeting für selbstorganisierende Teams.](img/meetings/planning-review-standup.png)
 
-###  Muster 7.4: Planungs- und Review-Meetings
+###  Muster 7.4: Planung und Review
 
 **Teams halten in regelmäßigen Abständen (1-4 Wochen) zeitlich begrenzte Meetings, um Iterationen zu planen und zu evaluieren**
 
@@ -1231,7 +1231,7 @@ Die Website [plans-for-retrospectives.com](http://www.plans-for-retrospectives.c
 
 **Reviewmeeting**: Abnahme fertiggestellter Arbeitspakete, Diskussion von erforderlichen Nachbessrungen und Änderungen für folgende Iterationen 
 
-![Planungs- und Review-Meetings](img/meetings/planning-review.png)
+![Planung und Review](img/meetings/planning-review.png)
 
 ###  Muster 7.5: Koordinationsmeeting
 
@@ -1279,13 +1279,13 @@ Eine Moderatorin kann auch auf einen bestimmten Zeitraum gewählt werden. Auch d
 
 **Siehe auch:**_Meetings vorbereiten_, _Wahl_
 
-###  Muster 8.3: Bereite Meetings vor
+###  Muster 8.3: Meetings vorbereiten
 
 **Bereite Meetings vor, um sie effektiver zu machen.**
 
 Grundlegende Vorbereitung:
 
-- kläre un kommuniziere den Treiber und angestrebtes Ergebnis des Meetings
+- bestimme und kommuniziere den Treiber, sowie das angestrebte Ergebnis des Meetings
 - entscheide, wer teilnehmen soll 
 - erstelle eine Agenda
 - plane das Meeting so, dass die Teilnehmer Zeit zur Vorbereitung haben
@@ -1317,19 +1317,19 @@ Bestimme für jeden Agendapunkt
 - bringe eventuelle Einwände gegen die Agenda vor, und kümmere dich darum, diese vor dem Meeting aufzulösen, soweit das möglich ist
 - gehe Verbesserungsvorschläge aus der Evaluation des vorhergehenden Meetings durch, und überlege, wie **du** diese umsetzen kannst
 
-###  Muster 8.4: Check-In
+###  Muster 8.4: Check In
 
-**Ein Check-In hilft den Teilnehmern, sich ihrer selbst und der anderen bewusst zu werden, und ermöglicht ihnen, sich zu konzentrieren, präsent zu sein und bewusster teilzuhaben.**
+**Ein Check In hilft den Teilnehmern, sich ihrer selbst und der anderen bewusst zu werden, und ermöglicht ihnen, sich zu konzentrieren, präsent zu sein und bewusster teilzuhaben.**
 
-Der Check-In ist eine kurze Mitteilung darüber, wie es dir im Moment geht, die den Anderen einen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
+Der Check In ist eine kurze Mitteilung darüber, wie es dir im Moment geht, die den Anderen einen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
 
-Ein Check-In kann in der Form einer Eröffnungs- und Schlussrunde in einer Gruppensitzung, oder auch nur als kurzer Austausch in einem Treffen zwischen zwei Personen stattfinden.
+Ein Check In kann in der Form einer Eröffnungs- und Schlussrunde in einer Gruppensitzung, oder auch nur als kurzer Austausch in einem Treffen zwischen zwei Personen stattfinden.
 
-Jeder Teilnehmer kann während eines Meetings um einen Gruppen-Check-in bitten, oder einfach nur selbst einen Check-In durchführen, wenn er in diesem Moment für wertvoll für die Gruppe hält.
+Jeder Teilnehmer kann während eines Meetings um einen Gruppen-Check-In bitten, oder einfach nur selbst einen Check In durchführen, wenn er in diesem Moment für wertvoll für die Gruppe hält.
 
 In Rahmen eines Gruppen-Check-In kann jeder Teilnehmer passen.
 
-Beim Check-In in einer unbekannten Gruppe können Teilnehmer sich mit ihrem Namen vorstellen, und - falls relevant - auch kurz erklären, woher sie kommen. (Tipp: Vermeide es, über Funktionen oder Positionen zu erwähnen, wenn es dafür keinen expliziten Grund gibt.)
+Beim Check In in einer unbekannten Gruppe können Teilnehmer sich mit ihrem Namen vorstellen, und - falls relevant - auch kurz erklären, woher sie kommen. (Tipp: Vermeide es, über Funktionen oder Positionen zu erwähnen, wenn es dafür keinen expliziten Grund gibt.)
 
 ###  Muster 8.5: Meetings evaluieren
 
@@ -1403,7 +1403,7 @@ Mache Backlogs für alle zugänglich - nicht nur für andere Mitglieder eines Te
 
 Typische Backlogs:
 
-- Steuerungs-Backlog
+- Steuerungsbacklog
 - Arbeits-Backlog (To-Do-Liste)
 - _Sprint_-Backlog
 - Produkt-Backlog
@@ -1480,18 +1480,18 @@ Wenn eine Aktion eine vereinbarten Grenze überschreiten würde, muss dies zuers
 
 **Bestimme für alles einen festen Zeitrahmen um die Konzentration zu fördern, und um die zur Verfügung stehende Zeit bewusst zu nutzen.**
 
-{define:timebox}
+_Eine **Timebox** ist ein festgelegter Zeitrahmen, der auf eine bestimmte Aktivität verwendet wird. Am Ende der Timebox ist die Aktivität nicht zwingend abgeschlossen._
 
 - um maximalen Nutzen aus der Timebox ziehen zu können, sollte das angestrebte Ergebnis vorher geklärt werden
 - die restliche zur Verfügung stehende Zeit sollte immer für alle Teilnehmer sichtbar sein
 - Verhandlungen über eine Verlängerung der Timebox sollten noch innerhalb der ursprünglichen Timebox abgeschlossen sein
-- längere Aktivitäten sollten in kleinere Timeboxes aufgeteilt werden
+- längere Aktivitäten sollten in kleinere Timeboxen aufgeteilt werden
 - auch innerhalb einer Timebox sollte der Fortschritt regelmäßig überprüft werden
 - manchmal hilft die Wahl eines "Zeit-Wächters", Timeboxen besser einzuhalten
 
 Timeboxen sind anwendbar auf
 
-- Meetins, Telefonate, Gespräche
+- Meetings, Telefonate, Gespräche
 - Aufgaben
 - Experimente
 - einen Versuch, ein Problem zu lösen
@@ -1618,14 +1618,46 @@ Die doppelt verbundene Hierarchie
 
 ![Serviceorganisation](img/structural-patterns/service-organization-text.png)
 
-###  Muster 10.6: Fraktal-Organisation
+###  Muster 10.6: Fraktalorganisation
 
-![](img/structural-patterns/fractal-organization.png)
+**Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy)**.
 
-Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen tauschen sich über Erfahrungen aus, und koordinieren ihre Aktivitäten (falls hilfreich).
+Creating a fractal organization can enable a large network to rapidly respond to changing contexts.
 
-- eine Möglichkeit, mehrere Organisationen gemeinsam zu steuern, und gleichzeitig die Autonomie der einzelnen Organisationen weitgehend zu erhalten
-- diese Struktur fördert bedarfsorientiert Innovation und Erfahrungsaustausch auch in großen Communities
+If necessary, the pattern can be repeated to connect multiple fractal organizations into one.
+
+![Fraktalorganisation](img/structural-patterns/fractal-organization.png)
+
+#### Prerequisites
+
+A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) driver, or by multiple branches, departments, or projects within a larger organization.
+
+These constituents (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional domains (e.g. accounting, product management, or development).
+
+#### Ebenen
+
+A fractal organization has at least three tiers:
+
+- first tier: the **constituents** (i.e. organizations, branches, departments or projects)
+- second tier: **function-specific _delegate circles_** to share learning and to make and evolve agreements on behalf of function-specific domains
+- third tier: a **cross-functional delegate circle** to make and evolve agreements in response to drivers affecting the overall body of constituents
+
+#### Forming a Fractal Organization
+
+1. Forming the **second tier**: In each constituent, the members of each common (and significant) functional domain, decide who of them will represent them in a **function-specific delegate circle**, where they share knowledge and learning, and contribute toward making and evolving agreements. Representatives are selected for a limited term (after which a new selection is made).
+2. Forming the **third tier**: second-tier delegate circles each select a delegate to form the **cross-functional delegate circle**.
+
+#### Impact on the organization(s)
+
+Each constituent:
+
+- gains access to a wide array of experience, wisdom and skills to increase effectiveness and innovation.
+- can share resources, infrastructure and experience with other constituents according to capacity and need
+
+The second and third tier:
+
+- can test decisions simultaneously across multiple instances of a function-specific domain, providing extensive feedback and rapid learning
+- organize, align and steer the whole system while preserving autonomy and agency of the individual constituents
 
 
 
@@ -1657,10 +1689,10 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 **Änderungen der Muster:**
 
-- _Agreement_: description now mentions that any expectations should be recorded
-- _Describe Deliverables_: updated summary
-- _Describe Organizational Drivers_: more information on summarizing drivers
-- _Resolve Objections_: added summary and description
+- _Vereinbarung_: Beschreibung stellt nun klar, dass alle auf die Vereinbarung bezogenen Erwartungen dokumentiert werden sollten
+- _Leistungen definieren_: Zusammenfassung aktualisiert
+- _Organisationstreiber beschreiben:_ Abschnitt zur Zusammenfassung der Beschreibung überarbeitet
+- _Einwände integrieren:_ Zusammenfassung und Beschreibung hinzugefügt
 
 ### Änderungen zum 17.8.2018
 
@@ -1673,9 +1705,9 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 **Glossar**
 
-- **updated**: account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
-- **added**: constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
-- **removed**: peer driver
+- **überarbeitet**Bedenken, Governance, Einwand, Leistung, operatives Geschäft, Primärtreiber, Rolle, Selbstorganisation, Subtreiber, Teilautonomie, Werte
+- **hinzugefügt**: Delegation, Hilfsteam, Konstituente, Koordination, Offene Domäne, Wertfluss
+- **entfernt:** Nachbartreiber
 
 **Änderungen in der Einleitung**
 
@@ -1694,7 +1726,7 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 - _Vereinbarung_:: Beschreibung überarbeitet, Vorlage aktualisiert
 - _Kunstvolle Teilnahme:_ Zusammenfassung überarbeitet
 - _Das angestrebte Ergebnis klären_ (umbenannt von *angestrebtes Ergebnis*): Beschreibung überarbeitet
-- _Konsent-Entscheidung_: Beschreibung und Illustration überarbeitet
+- _Konsententscheidung_: Beschreibung und Illustration überarbeitet
 - _kontinuierliche Prozessverbesserung_: Beschreibung überarbeitet
 - _Contract For Successful Collaboration_: renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 - _Coordination Meeting_: clarified agenda items, updated illustration
@@ -1708,8 +1740,8 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 - _Evaluation Criteria_: suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
 - _Meetings moderieren_: Beschreibung überarbeitet
 - _Fraktalorganisation_: Beschreibung überarbeitet und erweitert
-- _Governance-Backlog_: : Beschreibung überarbeitet
-- _Governance-Meeting_: : Beschreibung überarbeitet, Agendapunkte genauer erläutert
+- _Governance-Backlog:_ Beschreibung überarbeitet
+- _Governance-Meeting:_ Beschreibung überarbeitet, Agendapunkte genauer erläutert
 - _Veränderung einladen_: Beschreibung überarbeitet
 - _Kreise verbinden_: Beschreibung angeglichen an _doppelte Verbindung_
 - _Logbook_: clarified that there is no difference between logbooks for groups and logbooks for roles
@@ -1718,7 +1750,7 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 - _Offene Domäne_: Beschreibung und Illustration überarbeitet
 - _Offene Systeme_: Beschreibung überarbeitet
 - _Open Space for Change_: renamed from *Open S3 Adoption*, improved description
-- _Pfirsich-Organisation_: Klärung der Beziehung zwischen Peripherie und Zentrum
+- _Pfirsichorganisation_: Klärung der Beziehung zwischen Peripherie und Zentrum
 - _Proposal Forming_: revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
 - _Repräsentant_: Beschreibung überarbeitet
 - _Einwände integrieren_ beide Illustrationen überarbeitet
@@ -1737,9 +1769,9 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 **Folgende Muster wurden hinzugefügt:**
 
-- _Check-In_
+- _Check In_
 - _Vorschläge gemeinsam gestalten_
-- _Bereite Meetings vor_
+- _Meetings vorbereiten_
 - _Timebox_
 
 ### Änderungen zum 21.3.2018
@@ -1787,17 +1819,17 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 
 - *Kunstvolle Teilnahme*: Beschreibung überarbeitet
 - *Vereinbarung*: Erklärung, dass das Konzept von Vereinbarungen auch innerhalb einer Rolle angewendet werden kann
-- *Domänen klären*: Beschreibung überarbeitet
+- *Domänen bestimmen*: Beschreibung überarbeitet
 - *Kreis*: Beschreibung überarbeitet und Glossareintrag für "Kreis" aktualisiert
 - *Treiber*: Definition überarbeitet
 - *Entwicklungsplan*: Beschreibung überarbeitet und Vorlage aktualisiert
 - *Strategie entwickeln*: Beschreibung überarbeitet, klare Definition von Strategie
 - *doppelt verbundene Hierarchie*: neue Illustration
-- *Vereinbarungen prüfen*: Fragen an Peer-Review angepasst
-- *Steuerungs-Backlog*: Beschreibung überarbeitet
+- *Vereinbarungen prüfen*: Fragen an Entwicklungsgespräch angepasst
+- *Steuerungsbacklog*: Beschreibung überarbeitet
 - *Logbuch*: Informationen zu Governance in persönlichen Logbüchern
 - *Einwände*: Abschnitt zur Qualifikation von Einwänden überarbeitet
-- *Peer-Review*: Beschreibung überarbeitet
+- *Peer Review*: Beschreibung überarbeitet
 - *Auf Organisationstreiber reagieren*: Abschnitt zur Qualifikation von Treibern eingefügt
 - *Rolle*: der Inhaber einer Rolle kann ein Steuerungsbacklog führen
 - *Proposal Forming*: Beschreibung überarbeitet, Schritt zur Priorisierung der Kriterien hinzugefügt, Fragen zur Auswahl von Gestaltern hinzugefügt, 
@@ -1808,7 +1840,7 @@ Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen taus
 - *Backbone-Organisation* in *Serviceorganisation*
 - *Entwicklungsgespräch* (nur auf Englisch umbenannt)
 - *Strategie* in *Strategie entwickeln*
-- *Domänenbeschreibung* in *Domänen klären*
+- *Domänenbeschreibung* in *Domänen bestimmen*
 - *Leistungen definieren* (nur auf Englisch umbenannt)
 
 **Folgende Muster wurden hinzugefügt:**
@@ -1893,7 +1925,7 @@ Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrad
 **Angestrebtes Ergebnis**: Das erwartete Ergebnis einer Vereinbarung, Aktion, Projekt oder Strategie.
 
 
-**Arbeits-Backlog**: Eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
+**Arbeitsbacklog**: Eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
 
 
 **Backlog**: Eine Liste von (meist priorisierten) offenen Aufgaben (Leistungen), oder Treibern, die noch bearbeitet werden müssen.
@@ -1908,7 +1940,7 @@ Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrad
 **Bedenken**: Die Ansicht, dass etwas - selbst in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
 
 
-**Check-In**: Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
+**Check In**: Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
 
 
 **Delegation**: Die Bevollmächtigung einer Partei (des Beauftragten) durch eine andere (die Delegierende), sich um eine Domäne zu kümmern (d.h. bestimmte Aufgaben zu erfüllen und/oder bestimmte Entscheidungen zu treffen). Die Gesamtverantwortung trägt weiterhin die Delegierende.
