@@ -2,7 +2,7 @@
 
 **Bestimme für alles einen festen Zeitrahmen um die Konzentration zu fördern, und um die zur Verfügung stehende Zeit bewusst zu nutzen.**
 
-{define:timebox}
+{{define:timebox}}
 
 - um maximalen Nutzen aus der Timebox ziehen zu können, sollte das angestrebte Ergebnis vorher geklärt werden
 - die restliche zur Verfügung stehende Zeit sollte immer für alle Teilnehmer sichtbar sein
