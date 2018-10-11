@@ -1,13 +1,13 @@
 ---
-title: "Mitgestaltung ermöglichen"
+title: "Zusammenarbeit ermöglichen"
 ---
 
 - [Kunstvolle Teilnahme](artful-participation.html)
 - [Die sieben Prinzipien leben](adopt-the-seven-principles.html)
 - [Gemeinsame Werte](agree-on-values.html)
-- [Governance-Moderator](governance-facilitator.html)
+- [Governance-Moderator(in)](governance-facilitator.html)
 - [Vereinbarungen brechen](breaking-agreements.html)
-- [Verantwortung und Verträge](contracting-and-accountability.html)
+- [Verträge für erfolgreiche Zusammenarbeit](contract-for-successful-collaboration.html)
 - [Gehaltstransparenz](transparent-salary.html)
 - [Hilfsrolle](support-role.html)
 - [Statuten](bylaws.html)

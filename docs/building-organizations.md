@@ -7,7 +7,7 @@ title: "Organisationsentwicklung"
 - [Rolle](role.html)
 - [Verbindungen](linking.html)
 - [Doppelte Verbindung](double-linking.html)
-- [Repräsentant](representative.html)
+- [Repräsentant(in)](representative.html)
 - [Hilfsteam](helping-team.html)
 - [Offene Domäne](open-domain.html)
 - [Offene Systeme](open-systems.html)

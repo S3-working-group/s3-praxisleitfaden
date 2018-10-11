@@ -3,9 +3,7 @@ title: "Steuerungs-Meeting"
 ---
 
 
-![right,fit](img/meetings/governance-meeting.png)
-
-Gruppen treffen sich in regelmäßigen Abständen um zu entscheiden, wie sie vorgehen, um ihre Ziele zu erreichen, und um inhaltliche und zeitliche und Rahmenbedingung für ihre Arbeit festzulegen.
+**Teams treffen sich in regelmäßigen Abständen um zu entscheiden, wie sie vorgehen, um ihre Ziele zu erreichen, und um inhaltliche und zeitliche und Rahmenbedingung für ihre Arbeit festzulegen.**
 
 Ein Steuerungstreffen ist meistens:
 
@@ -14,30 +12,28 @@ Ein Steuerungstreffen ist meistens:
 - zeitlich beschränkt (i.d. R. zwischen 90 und 120 Minuten)
 - ... und findet alle 4 Wochen statt
 
-
-
 Ablauf eines typischen Steuerungstreffen:
 
-- Eröffnungsrunde: einstimmen aufeinander, und auf die Ziele (bzw. den Treiber) der Gruppe
+- Eröffnungsrunde: [einstimmen aufeinander](check-in.html), und auf die Ziele des Meetings
 - Organisatorisches 
-    - Konsent zum letzten Protokoll, Datum des nächsten Treffens etc.
-    - Last-Minute-Agendapunkte, und Konsent zur Agenda
+    - frage nach Einwänden gegen das Protokoll des letzten Steuerungs-Meetings
+    - lege den Termin des nächsten Meetings fest
+    - erfrage nach Last-Minute-Agendapunkten, und prüfe den Konsent zur Agenda
 - Agendapunkte abarbeiten 
-- Treffen evaluieren: Reflexion der Interaktionen, Erfolge zelebrieren, Verbesserungsvorschläge überlegen
-- Abschluss
+- [Treffen evaluieren](evaluate-meetings.html): Reflexion der Interaktionen, Erfolge zelebrieren, Verbesserungsvorschläge überlegen
+- Schlussrunde: gemeinsamer Check-In zum Abschluss des Meetings
 
-
+![Die Phasen eines Steuerungsmeetings](img/meetings/governance-meeting.png)
 
 Typische Agendapunkte:
 
 - kurze Berichte 
-- Evaluation von Vereinbarungen
+- Evaluation von <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn>
+- Personen in Rollen wählen 
 - neue Treiber, die Entscheidungen erfordern 
-    - gemeinsam Situationen verstehen, die eine Reaktion erfordern 
-    - Vorschläge erarbeiten und Vereinbarungen treffen 
-    - neue Rollen und Gruppen schaffen 
-    - existierende Rollen und Teams evaluieren
-    - Personen in Rollen wählen
+    - [gemeinsam einen Vorschlag gestalten](co-create-proposals.html)
+    - [Vereinbarungen abstimmen](consent-decision-making.html)
+    - [Domänen definieren](clarify-domains.html) und entscheiden, wer sie verantwortet (z.B. neue [Rollen](role.html), [Kreise](circle.html), Teams oder [offene Domänen](open-domain.html))
 
 [&#9654; Retrospektive](retrospective.html)<br/>[&#9650; Fokussierte Interaktionen](focused-interactions.html)
 

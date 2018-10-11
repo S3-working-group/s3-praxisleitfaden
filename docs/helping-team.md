@@ -3,22 +3,22 @@ title: "Hilfsteam"
 ---
 
 
-![right,fit](img/structural-patterns/helping-team.png)
-
-Eine Gruppe, die von einer Delegierenden beauftragt wird, konkrete Anforderungen innerhalb festgelegter Rahmenbedingungen abzuarbeiten.
+**Delegiere konkrete Anforderungen an eine Arbeitsgruppen aus gleichgestellten Mitarbeitern.**
 
 Ein Hilfsteam:
 
-- dient der Delegierenden, um ihre Kapazität zu erhöhen
-- kann selbstorganisiert sein oder durch einen Koordinator gesteuert werden, der in der Regel von der Delegierenden bestimmt wird
-- wird von der Delegierenden geführt
-- profitiert von einer klar definierten Domäne
+- bietet der <dfn data-info="Delegierende: Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.">Delegierenden</dfn> eine Möglichkeit, ihre Kapazität zu erhöhen
+- kann selbstorganisiert sein oder durch einen [Koordinator](coordinator.html) gesteuert werden, der in der Regel von der Delegierenden bestimmt wird
+- alle Steuerungsentscheidungen werden von der Delegierenden getroffen
+- profitiert von einer klar definierten <dfn data-info="Domäne: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.">Domäne</dfn>
 
 Mitglieder eines Hilfsteams:
 
 - können Einwände gegen diejenigen Entscheidungen der Delegierenden erheben, die sie direkt betreffen
-- können Themen zum Steuerungs-Backlog der Delegierenden hinzufügen
-- werden in machen Fällen von der Delegierenden aufgefordert, Repräsentanten in das Steuerungsmeeting der Delegierenden zu entsenden
+- können Themen zum <dfn data-info="Steuerungs-Backlog: Eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.">Steuerungs-Backlog</dfn> der Delegierenden hinzufügen
+- werden in machen Fällen von der Delegierenden aufgefordert, [Repräsentanten](representative.html) zu Steuerungsentscheidungen der Delegierenden zu entsenden
 
-[&#9654; Offene Domäne](open-domain.html)<br/>[&#9664; Repräsentant](representative.html)<br/>[&#9650; Organisationsentwicklung](building-organizations.html)
+![Hilfsteam](img/structural-patterns/helping-team.png)
+
+[&#9654; Offene Domäne](open-domain.html)<br/>[&#9664; Repräsentant(in)](representative.html)<br/>[&#9650; Organisationsentwicklung](building-organizations.html)
 

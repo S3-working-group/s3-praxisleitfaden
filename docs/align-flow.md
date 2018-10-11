@@ -3,18 +3,20 @@ title: "Fluss angleichen"
 ---
 
 
-![right,fit](img/workflow-and-value/align-flow.png)
+**Triff Entscheidungen dort, wo auch der Wert geschaffen wird, und passen den Informationsfluss entsprechend an, um kontinuierlichen Wertfluss zu ermöglichen und zu unterstützen.**
 
-- In einer effektiven Organisation **unterstützt der Fluss von Information und Einfluss den kontinuierlichen Wertfluss**.
-- Beide Flüsse können durch die kontinuierliche Verbesserung von Vereinbarungen schrittweise angeglichen werden.
+**Wertfluss:** Leistungen wandern durch die Organisation hin zum Kunden bzw. zu sonstigen Stakeholdern.
 
+Schaffe und erhalte die Angleichung der Flüsse durch die kontinuierliche Evolution der innerhalb der Organisation geltenden <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn>.
 
-### Wertfluss
+- stelle sicher, dass alle Entscheidungen, die den Wertfluss betreffen, diesen auch tatsächlich positiv beeinflussen
+- ermögliche Menschen mit entsprechenden Fähigkeiten und Kenntnissen, Entscheidungen zu beeinflussen
+- mache alle nützlichen Informationen verfügbar
+- schaffe kurze Feedback-Schleifen, um das gemeinsame Lernen zu verstärken
 
-- Der Wertfluss durch die Organisation wird durch (explizite und implizite) Vereinbarungen und Annahmen geleitet.
-- Noch unfertige Arbeit wird als Verschwendung betrachtet, weil sie Ressourcen bindet, aber noch kein Wert geschaffen wurde.
-- Kontinuierlicher Wertfluss sorgt dafür, dass sich weniger Verschwendung ansammeln kann. 
-    - Zudem schafft er schnellere Rückmeldung und verstärkt dadurch das Lernpotenzial.
+Wenn Entscheidungen dort getroffen werden, wo auch der Wert geschaffen wird, und der Informationsfluss den kontinuierlichen Wertfluss unterstützt, wird das Potenzial für die Akkumulation von Verschwendung reduziert.
 
-[&#9654; Koordinator(in)](coordinator.html)<br/>[&#9664; Laufende Arbeit begrenzen](limit-work-in-progress.html)<br/>[&#9650; Arbeitsorganisation](organizing-work.html)
+![Den Informationsfluss an den Wertfluss anpassen](img/workflow-and-value/align-flow.png)
+
+[&#9654; Koordinator(in)](coordinator.html)<br/>[&#9664; Timebox](timebox-activities.html)<br/>[&#9650; Arbeitsorganisation](organizing-work.html)
 

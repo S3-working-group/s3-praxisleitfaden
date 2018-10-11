@@ -1,28 +1,28 @@
 ---
-title: "Governance-Moderator (Rolle)"
+title: "Governance-Moderator(in)"
 ---
 
 
-![right,fit](img/circle/facilitator.png)
+**Wähle jemanden, der die Steuerungs-Meetings moderiert.**
 
-Ein Governance-Moderator …
+Ein [Governance](governance.html)-Moderator …
 
-- ist verantwortlich dafür, dass Steuerungs-Meetings moderiert werden, so dass diese auf Kurs bleiben und am Ende des Meetings ausgewertet werden
-- wird (in der Regel) von einer Gruppe selbst und aus ihren Mitgliedern ausgewählt
-- macht sich mit dem Steuerungs-Backlog vertraut
+- stellt sicher, dass die [Steuerungs-Meetings](governance-meeting.html) moderiert und ausgewertet werden
+- wird in der Regel vom <dfn data-info="Team: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.">Team</dfn> aus seinen Mitgliedern und auf eine bestimmte Zeit gewählt
+- macht sich mit dem [Steuerungs-Backlog](governance-backlog.html) vertraut
 - lädt oft Andere dazu ein, einzelne Tagesordnungspunkte zu moderieren
 
+Um die Gruppe effektiv unterstützen zu können, sollte sich ein ein Governance-Moderator mit folgenden Mustern vertraut machen:
 
+- [Runden](rounds.html)
+- [Proposal Forming](proposal-forming.html)
+- [Konsent-Entscheidung](consent-decision-making.html)
+- [Wahl](role-selection.html)
+- [Meetings evaluieren](evaluate-meetings.html)
+- [Einwände integrieren](resolve-objections.html)
+- [Entwicklungsgespräch](peer-review.html)
 
-Der Governance-Moderator sollte sich auch mit folgenden Patterns vertraut machen:
+![Ein Governance-Moderator ist normalerweise ein Mitglied des Teams ](img/circle/facilitator.png)
 
-- Runden
-- Proposal Forming
-- Konsententscheidung
-- Rollenbesetzung
-- Meetings evaluieren
-- Einwände integrieren
-- Entwicklungsgespräche
-
-[&#9654; Vereinbarungen brechen](breaking-agreements.html)<br/>[&#9664; Gemeinsame Werte](agree-on-values.html)<br/>[&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html)
+[&#9654; Vereinbarungen brechen](breaking-agreements.html)<br/>[&#9664; Gemeinsame Werte](agree-on-values.html)<br/>[&#9650; Zusammenarbeit ermöglichen](enablers-of-collaboration.html)
 

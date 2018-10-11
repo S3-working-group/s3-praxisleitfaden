@@ -3,20 +3,19 @@ title: "Vereinbarung"
 ---
 
 
-![right,fit](img/evolution/driver-agreement-improvement.png)
-
 _Eine **Vereinbarung** ist eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten._
 
-- Vereinbarungen beziehen sich auf Treiber 
-- die **Verantwortung** für eine Vereinbarung liegt bei den Personen, die diese Vereinbarung getroffen haben
-- Vereinbarungen werden **regelmäßig geprüft**
+Vereinbarungen entstehen in Reaktion auf <dfn data-info="Organisationstreiber: Ein Treiber ist das Motiv einer Person oder Gruppe, auf eine bestimmte Situation zu reagieren. Ein Treiber wird als **Organisationstreiber** betrachtet, wenn eine Reaktion darauf der Organisation hilft, Wert zu schaffen, Verschwendung zu reduzieren oder Schaden abzuwenden.">Organisationstreiber</dfn>, und werden **regelmäßig evaluiert und weiterentwickelt.**
 
-**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können wie Vereinbarungen behandelt werden.
+**Verantwortlich für eine Vereinbarung** sind diejenigen Personen, die sie getroffen haben
 
+Eine Vereinbarung kann die auch die **Delegation von Verantwortung** an bestimmte Personen oder Teams beinhalten
 
-### Vorlage für Vereinbarungen
+Dokumentiere alle **Erwartungen**, die im Rahmen einer Vereinbarung in Bezug auf <dfn data-info="Leistung: Ein Produkt, eine Dienstleistung, eine Komponente oder ein Rohstoff, der als Reaktion auf einen Organisationstreiber hergestellt bzw. bereitgestellt wird.">Leistungen</dfn>, Verhalten oder Ressourcen bestehen.
 
-![inline,fit](img/templates/agreement-template.png)
+**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, werden ebenfalls als Vereinbarungen betrachtet.
+
+![Vorlage für Vereinbarungen](img/templates/agreement-template.png)
 
 [&#9654; Strategie entwickeln](develop-strategy.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
 
