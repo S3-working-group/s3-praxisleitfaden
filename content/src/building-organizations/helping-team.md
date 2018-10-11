@@ -12,7 +12,7 @@ Ein Hilfsteam:
 Mitglieder eines Hilfsteams:
 
 - können Einwände gegen diejenigen Entscheidungen der Delegierenden erheben, die sie direkt betreffen
-- können Themen zum [Steuerungs-Backlog](glossary:governance-backlog) der Delegierenden hinzufügen
+- können Themen zum [Steuerungsbacklog](glossary:governance-backlog) der Delegierenden hinzufügen
 - werden in machen Fällen von der Delegierenden aufgefordert, [Repräsentanten](section:representative) zu Steuerungsentscheidungen der Delegierenden zu entsenden
 
 ![Hilfsteam](img/structural-patterns/helping-team.png)

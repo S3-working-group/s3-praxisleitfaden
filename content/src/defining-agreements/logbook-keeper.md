@@ -1,6 +1,6 @@
 ## Der Logbuchführer ist verantwortlich für die Pflege des Logbuchs eines Teams:
 
-**Wähle ein Teammitglied, das die Verantwortung für dafür übernimmt, dass alle für die Arbeit des Teams erforderlichen Informationen dokmentiert und verfügbar sind.**
+**Wähle ein Teammitglied, das die Verantwortung für dafür übernimmt, dass alle für die Arbeit des Teams erforderlichen Informationen dokumentiert und verfügbar sind.**
 
 Der Logbuchführer ist verantwortlich für die Pflege des [Logbuchs](glossary:logbook) einer Gruppe:
 

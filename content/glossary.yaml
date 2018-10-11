@@ -28,7 +28,7 @@ terms:
     definition: Ein **Kreis** ist ein teilautonomes und selbststeuerndes Team gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
     glossary: Eine teilautonomes und selbststeuerndes Team gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
   check-in:
-    name: Check-In
+    name: Check In
     definition:
     glossary: Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
   complexity:
@@ -129,7 +129,7 @@ terms:
     definition: "Das **operative Geschäft** umfasst die zur Wertschöpfung erforderliche Arbeit, so wie die Organisation des Tagesgeschäfts, gelenkt durch Governance-Entscheidungen."
     glossary: Die zur Wertschöpfung erforderliche Arbeit, so wie die Organisation des Tagesgeschäfts, gelenkt durch Governance-Entscheidungen.
   operations-backlog:
-    name: Arbeits-Backlog
+    name: Arbeitsbacklog
     definition: Ein **Arbeits-Backlog** ist eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
     glossary: Eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
   objection:
@@ -228,5 +228,5 @@ terms:
     glossary: "Wichtige Prinzipien, an denen Personen ihr Verhalten ausrichten. Nicht zu verwechseln mit dem Begriff \"Wert\" (Singular) in Zusammenhang mit Treibern."
   waste:
     name: Verschwendung
-    definition: "**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht erforderlicht ist, oder ihr sogar im Wege steht."
+    definition: "**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht erforderlich ist, oder ihr sogar im Wege steht."
     glossary: Alles, was für die effektive Antwort auf einen Treiber nicht erforderlich ist, oder ihr sogar im Wege steht.

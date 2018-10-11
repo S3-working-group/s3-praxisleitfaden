@@ -1,10 +1,10 @@
-## Bereite Meetings vor
+## Meetings vorbereiten
 
 **Bereite Meetings vor, um sie effektiver zu machen.**
 
 Grundlegende Vorbereitung:
 
-- kläre un kommuniziere den [Treiber](glossary:driver) und [angestrebtes Ergebnis](glossary:intended-outcome) des Meetings
+- bestimme und kommuniziere den [Treiber](glossary:driver), sowie das [angestrebte Ergebnis](glossary:intended-outcome) des Meetings
 - entscheide, wer teilnehmen soll 
 - erstelle eine Agenda
 - plane das Meeting so, dass die Teilnehmer Zeit zur Vorbereitung haben

@@ -17,4 +17,4 @@ Ein Kreis …
 - **Gleichstellung der Kreismitglieder:** 
     - Jedes Mitglied eines Kreises ist gleichermaßen verantwortlich für die Steuerungsentscheidungen in der Domäne des Kreises 
 
-![edes Mitglied eines Kreises ist gleichermaßen verantwortlich für die Steuerungsentscheidungen in der Domäne des Kreises ](img/circle/circle.png)
+![Jedes Mitglied eines Kreises ist gleichermaßen verantwortlich für die Steuerungsentscheidungen in der Domäne des Kreises ](img/circle/circle.png)

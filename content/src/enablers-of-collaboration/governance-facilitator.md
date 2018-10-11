@@ -1,19 +1,19 @@
 ## Governance-Moderator(in)
 
-**Wähle jemanden, der die Steuerungs-Meetings moderiert.**
+**Wähle jemanden, der die Steuerungsmeetings moderiert.**
 
 Ein [Governance](section:governance)-Moderator …
 
-- stellt sicher, dass die [Steuerungs-Meetings](section:governance-meeting) moderiert und ausgewertet werden
+- stellt sicher, dass die [Steuerungsmeetings](section:governance-meeting) moderiert und ausgewertet werden
 - wird in der Regel vom [Team](glossary:team) aus seinen Mitgliedern und auf eine bestimmte Zeit gewählt
-- macht sich mit dem [Steuerungs-Backlog](section:governance-backlog) vertraut
+- macht sich mit dem [Steuerungsbacklog](section:governance-backlog) vertraut
 - lädt oft Andere dazu ein, einzelne Tagesordnungspunkte zu moderieren
 
 Um die Gruppe effektiv unterstützen zu können, sollte sich ein ein Governance-Moderator mit folgenden Mustern vertraut machen:
 
 - [Runden](section:rounds)
 - [Proposal Forming](section:proposal-forming)
-- [Konsent-Entscheidung](section:consent-decision-making)
+- [Konsententscheidung](section:consent-decision-making)
 - [Wahl](section:role-selection)
 - [Meetings evaluieren](section:evaluate-meetings)
 - [Einwände integrieren](section:resolve-objections)

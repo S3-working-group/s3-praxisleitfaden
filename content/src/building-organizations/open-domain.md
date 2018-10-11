@@ -4,7 +4,7 @@
 
 Die [Delegierende](glossary:delegator) der Domäne definiert
 
-- den [Primärteiber](glossary:primary-driver), zentrale Verantwortlichkeiten und Grenzen der offenen Domäne
+- den [Primärtreiber](glossary:primary-driver), zentrale Verantwortlichkeiten und Grenzen der offenen Domäne
 - wer in der offenen Domäne mitwirken kann
 - die Teilhabe der Delegierenden an den [Steuerungsentscheidungen](glossary:governance) der Domäne
 

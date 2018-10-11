@@ -10,7 +10,7 @@ Verbreitete Plattformen für Logbücher sind Wikis (z.B. [Dokuwiki](https://www.
 
 Informationen über die gesamte Organisation:
 
-- [Primärteiber](glossary:primary-driver), [Strategie](glossary:strategy) und gemeinsame [Werte](glossary:values)
+- [Primärtreiber](glossary:primary-driver), [Strategie](glossary:strategy) und gemeinsame [Werte](glossary:values)
 - Organisationsstruktur ([Domänen](glossary:domain) und deren Verbindungen)
 - [Vereinbarungen](glossary:agreement) 
 

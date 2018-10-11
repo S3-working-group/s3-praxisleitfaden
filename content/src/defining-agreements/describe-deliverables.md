@@ -1,6 +1,6 @@
 ## Leistungen definieren
 
-**Definiere alle auf eine Vereinbarung bezogenen Leistungen, um ein gemeinsames Verständnis der mit dieser Vereinbarung einhergehenden Erwartungen zu ermöglichen. **
+**Definiere alle auf eine Vereinbarung bezogenen Leistungen, um ein gemeinsames Verständnis der mit dieser Vereinbarung einhergehenden Erwartungen zu ermöglichen.**
 
 {{define:deliverable}}
 

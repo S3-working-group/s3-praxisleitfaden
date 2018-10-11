@@ -2,7 +2,7 @@
 
 {{define:objection}}
 
-Einwände gegen Vorschläge, Entscheidungen, bestehenden [Vereinbarungen](glossary:agreement) oder Massnahmen enthalten wesentliche Informationen **über **negative Konsequenzen** oder sonstige <1>Verbesserungspotenziale**. verwendet.
+Einwände gegen Vorschläge, Entscheidungen, bestehenden [Vereinbarungen](glossary:agreement) oder Massnahmen enthalten wesentliche Informationen über **negative Konsequenzen** oder sonstige **Verbesserungspotenziale**. verwendet.
 
 Es liegt in der Verantwortung des Einzelnen, mögliche Einwände zu einzubringen.
 
@@ -28,7 +28,7 @@ Nutze die von Einwänden aufgedeckten Informationen zur Verbesserung
 
 ### Einwände qualifizieren
 
-Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enhüllen, und sonstigen Argumenten, die nur auf Meinungen, Vorlieben oder Bedenken basieren.
+Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enthüllen, und sonstigen Argumenten, die nur auf Meinungen, Vorlieben oder Bedenken basieren.
 
 Um herauszufinden, um ob ein vorgebrachtes Argument tatsächlich einen Einwand darstellt, könnte ein Moderator z.B. folgende Frage stellen:
 
@@ -52,7 +52,7 @@ Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
 {{define:concern}}
 
-In einer [Konsent-Entscheidung](section:consent-decision-making) können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
+In einer [Konsententscheidung](section:consent-decision-making) können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
 
 Bringe Bedenken ein, wenn du sie als wichtig erachtest, und protokolliere sie im mindesten Falle mit Evaluationskriterien.
 

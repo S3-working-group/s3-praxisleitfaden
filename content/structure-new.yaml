@@ -49,7 +49,7 @@ content:
           title: Organisationstreiber beschreiben
           slug: describe-organizational-drivers
         - 
-          title: Konsent-Entscheidung
+          title: Konsententscheidung
           slug: consent-decision-making
         - 
           title: Einwand
@@ -186,7 +186,7 @@ content:
           title: Strategie entwickeln
           slug: develop-strategy
         - 
-          title: Domänen klären
+          title: Domänen bestimmen
           slug: clarify-domains
         - 
           title: Das angestrebte Ergebnis klären
@@ -208,7 +208,7 @@ content:
       slug: focused-interactions
       sections:
         - 
-          title: Steuerungs-Meeting
+          title: Steuerungsmeeting
           slug: governance-meeting
         - 
           title: Retrospektive
@@ -245,7 +245,7 @@ content:
           title: Gastgeber(in)
           slug: meeting-host
         - 
-          title: Governance Backlog
+          title: Steuerungsbacklog
           slug: governance-backlog
     - 
       title: Arbeitsorganisation

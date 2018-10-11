@@ -6,7 +6,7 @@ Mache Backlogs für alle zugänglich - nicht nur für andere Mitglieder eines Te
 
 Typische Backlogs:
 
-- [Steuerungs-Backlog](glossary:governance)
+- [Steuerungsbacklog](glossary:governance)
 - [Arbeits-Backlog](glossary:operations) (To-Do-Liste)
 - [Sprint](section:planning-and-review-meetings)-Backlog
 - Produkt-Backlog

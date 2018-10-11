@@ -2,9 +2,9 @@
 
 **Ein klares Verständnis der jeweiligen Verantwortungs- und Autonomiebereiche fördert Effizienz, effektive Zusammenarbeit und Agilität in der gesamten Organisation.**
 
-Eine einfache Möglichkeit, [Domänen](glossary:domain) zu klären ist eine **Domänenbeschreibung**, mit folgendem Inhalt:
+Eine einfache Möglichkeit, [Domänen](glossary:domain) klar zu bestimmen ist eine **Domänenbeschreibung**, mit folgendem Inhalt:
 
-- [Primärteiber](glossary:primary-driver) (der **Bedarf der Organisation**, auf den innerhalb dieser Domäne reagiert werden soll)
+- [Primärtreiber](glossary:primary-driver) (der **Bedarf der Organisation**, auf den innerhalb dieser Domäne reagiert werden soll)
 - **Kernaufgaben** (wesentliche Leistungen, etwaige kritische Risiken, die beachtet werden müssen, sowie weitere essentielle Arbeitsaufgaben und Entscheidungen, die delegiert wurden)
 - **Einschränkungen von Autonomie und Einfluss** der *Beauftragten*, normalerweise in Bezug auf die Organisation selbst (z.B. Abhängigkeiten, Mitbestimmung der [Delegierenden](glossary:delegator), oder Reporting)
 - **Ressourcen** (Zeit, Geld, Infrastruktur, Rechte, Werkzeuge
