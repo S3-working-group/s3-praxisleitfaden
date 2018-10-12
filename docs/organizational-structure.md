@@ -16,11 +16,9 @@ Die Grundbausteine für Organisationsstruktur sind voneinander abhängige und ve
 
 Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als komplexe adaptive Systeme oder Netzwerke, in denen mehrere funktionale Strukturen parallel existieren können).
 
-### Strukturmuster
+Soziokratie 3.0 beschreibt verschiedene **Strukturmuster**, aus denen eine große Vielfalt von unterschiedlichen Organisationsstrukturen entwickelt werden kann:
 
-Soziokratie 3.0 beschreibt verschiedene Strukturmuster, aus denen eine große Vielfalt von unterschiedlichen Organisationsstrukturen entwickelt werden kann.
-
-- Muster haben unterschiedliche Abstraktionsebenen
+- die Strukturmuster haben unterschiedliche Abstraktionsebenen
 - unterschiedliche Strukturmuster lösen unterschiedliche Probleme
 - Strukturmuster können nach Bedarf angepasst und kombiniert werden
 - weitere Strukturmuster werden entdeckt und beschrieben werden
@@ -28,8 +26,8 @@ Soziokratie 3.0 beschreibt verschiedene Strukturmuster, aus denen eine große Vi
 - [Delegiertenkreis](delegate-circle.html)
 - [Pfirsichorganisation](peach-organization.html)
 - [Doppelt verbundene Hierarchie](double-linked-hierarchy.html)
-- [Service-Organisation](service-organization.html)
-- [Fraktal-Organisation](fractal-organization.html)
+- [Serviceorganisation](service-organization.html)
+- [Fraktalorganisation](fractal-organization.html)
 
 
 [&#9654; Servicekreis](service-circle.html)<br/>[&#9664; Koordinator(in)](coordinator.html)

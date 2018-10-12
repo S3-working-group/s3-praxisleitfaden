@@ -14,5 +14,5 @@ title: "Daily Standup"
 
 ![Das Daily Standup ist eine zentrales Meeting für selbstorganisierende Teams.](img/meetings/planning-review-standup.png)
 
-[&#9654; Planungs- und Review-Meetings](planning-and-review-meetings.html)<br/>[&#9664; Retrospektive](retrospective.html)<br/>[&#9650; Fokussierte Interaktionen](focused-interactions.html)
+[&#9654; Planung und Review](planning-and-review-meetings.html)<br/>[&#9664; Retrospektive](retrospective.html)<br/>[&#9650; Fokussierte Interaktionen](focused-interactions.html)
 

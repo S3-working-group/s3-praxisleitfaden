@@ -97,7 +97,7 @@ Ein Treiber …
 - kann als Ausgangspunkt für Ziele, Vision oder "Bestimmung" dienen
 - kann sich im Lauf der Zeit verändern
 
-### Treiber: Wert und Verschwendung
+#### Treiber, Wert und Verschwendung
 
 _**Wert** ist die Bedeutung oder der Nutzen von etwas in Bezug  auf einen bestimmten Treiber_
 
@@ -118,7 +118,7 @@ Domänen werden an Mitarbeiter delegiert (z.B. an eine Geschäftseinheit, eine A
 
 ![Domänen können sich mit anderen Domänen überschneiden, oder auch vollständig in ihnen enthalten sein.](img/driver-domain/domains-in-organizations.png)
 
-### Domänen delegieren
+#### Domänen delegieren
 
 Wer eine Domäne delegiert (die *Delegierende*) bleibt weiterhin verantwortlich für diese Domäne, stellt die erforderlichen **Ressourcen** bereit und definiert oft:
 
@@ -126,7 +126,7 @@ Wer eine Domäne delegiert (die *Delegierende*) bleibt weiterhin verantwortlich 
 - **Kernaufgaben** (wesentliche Leistungen, etwaige kritische Risiken, die beachtet werden müssen, sowie weitere essentielle Arbeitsaufgaben und Entscheidungen, die delegiert wurden)
 - **Einschränkungen von Autonomie und Einfluss** der *Beauftragten*, normalerweise in Bezug auf die Organisation selbst (z.B. Abhängigkeiten, Mitbestimmung der Delegierenden, oder Reporting)
 
-### Treiber und Domänen
+#### Treiber und Domänen
 
 Eine Domäne kann auch in Bezug auf Organisationstreiber beschrieben werden:
 
@@ -144,7 +144,7 @@ _Bezogen auf Organisationen bezeichnet **Governance** alle Tätigkeiten, die mit
 
 _Das **operative Geschäft** umfasst die zur Wertschöpfung erforderliche Arbeit, so wie die Organisation des Tagesgeschäfts, gelenkt durch Governance-Entscheidungen._
 
-### Verwandte Konzepte
+#### Related Concepts
 
 **Selbststeuerung**: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
 

@@ -1,5 +1,5 @@
 ---
-title: "Ein Pull-System für Organisationsentwicklung schaffen"
+title: "Pull-System für Organisationsentwicklung"
 ---
 
 
@@ -12,5 +12,5 @@ Veränderungen die Wert schaffen:
 - hole alle Beteiligten dort ab, wo sie stehen…
 - … und lasse sie gemeinsam ihr eigenes Tempo bestimmen
 
-[&#9654; Als Beispiel dienen](be-the-change.html)<br/>[&#9664; Patterns an Kontext anpassen](adapt-patterns-to-context.html)<br/>[&#9650; S3 einführen](bringing-in-s3.html)
+[&#9654; Als Beispiel dienen](be-the-change.html)<br/>[&#9664; Muster an den Kontext anpassen](adapt-patterns-to-context.html)<br/>[&#9650; S3 einführen](bringing-in-s3.html)
 

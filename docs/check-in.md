@@ -15,5 +15,5 @@ In Rahmen eines Gruppen-Check-In kann jeder Teilnehmer passen.
 
 Beim Check In in einer unbekannten Gruppe können Teilnehmer sich mit ihrem Namen vorstellen, und - falls relevant - auch kurz erklären, woher sie kommen. (Tipp: Vermeide es, über Funktionen oder Positionen zu erwähnen, wenn es dafür keinen expliziten Grund gibt.)
 
-[&#9654; Meetings evaluieren](evaluate-meetings.html)<br/>[&#9664; Bereite Meetings vor](prepare-for-meetings.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
+[&#9654; Meetings evaluieren](evaluate-meetings.html)<br/>[&#9664; Meetings vorbereiten](prepare-for-meetings.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
 

@@ -20,5 +20,5 @@ Inspiration für die Schritte 2 und 3 findet man z.B. in den klassischen Moderat
 
 Gemeinsame Vorschlagsgestaltung kann auch für Telekonferenzen und Online-Meetings adaptiert werden. Es ist auch möglich, den Prozess asynchron (und über einen längeren Zeitraum) mit sehr großen Gruppen durchzuführen.
 
-[&#9654; S3 Proposal Forming](proposal-forming.html)<br/>[&#9664; Die Betroffenen entscheiden](those-affected-decide.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+[&#9654; Proposal Forming](proposal-forming.html)<br/>[&#9664; Die Betroffenen entscheiden](those-affected-decide.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

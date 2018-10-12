@@ -4,8 +4,8 @@ title: "Effektive Meetings"
 
 - [Runden](rounds.html)
 - [Meetings moderieren](facilitate-meetings.html)
-- [Bereite Meetings vor](prepare-for-meetings.html)
-- [Check-In](check-in.html)
+- [Meetings vorbereiten](prepare-for-meetings.html)
+- [Check In](check-in.html)
 - [Meetings evaluieren](evaluate-meetings.html)
 - [Gastgeber(in)](meeting-host.html)
 - [Steuerungsbacklog](governance-backlog.html)

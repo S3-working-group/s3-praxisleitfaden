@@ -34,5 +34,5 @@ Manchmal enthüllt ein das Wahlverfahren einen Mangel an zeitlicher Kapazität, 
 
 Dieses Muster kann auf andere Situationen angepasst werden, in denen eine Auswahl aus verschiedenen Optionen getroffen werden muss.
 
-[&#9654; Driver Mapping](driver-mapping.html)<br/>[&#9664; S3 Proposal Forming](proposal-forming.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+[&#9654; Driver Mapping](driver-mapping.html)<br/>[&#9664; Proposal Forming](proposal-forming.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

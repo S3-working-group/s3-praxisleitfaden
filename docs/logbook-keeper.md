@@ -1,5 +1,5 @@
 ---
-title: "Der Logbuchführer ist verantwortlich für die Pflege des Logbuchs eines Teams:"
+title: "Logbuchführer(in)"
 ---
 
 

@@ -14,5 +14,5 @@ title: "Serviceorganisation"
 
 ![Serviceorganisation](img/structural-patterns/service-organization-text.png)
 
-[&#9654; Fraktal-Organisation](fractal-organization.html)<br/>[&#9664; Doppelt verbundene Hierarchie](double-linked-hierarchy.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
+[&#9654; Fraktalorganisation](fractal-organization.html)<br/>[&#9664; Doppelt verbundene Hierarchie](double-linked-hierarchy.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
 

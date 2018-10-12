@@ -1,5 +1,5 @@
 ---
-title: "Steuerungs-Backlog"
+title: "Steuerungsbacklog"
 ---
 
 

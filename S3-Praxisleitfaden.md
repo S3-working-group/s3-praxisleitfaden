@@ -129,7 +129,7 @@ Ein Treiber …
 - kann als Ausgangspunkt für Ziele, Vision oder "Bestimmung" dienen
 - kann sich im Lauf der Zeit verändern
 
-### Treiber: Wert und Verschwendung
+#### Treiber, Wert und Verschwendung
 
 _**Wert** ist die Bedeutung oder der Nutzen von etwas in Bezug  auf einen bestimmten Treiber_
 
@@ -153,7 +153,7 @@ Domänen werden an Mitarbeiter delegiert (z.B. an eine Geschäftseinheit, eine A
 
 ![Domänen können sich mit anderen Domänen überschneiden, oder auch vollständig in ihnen enthalten sein.](img/driver-domain/domains-in-organizations.png)
 
-### Domänen delegieren
+#### Domänen delegieren
 
 Wer eine Domäne delegiert (die *Delegierende*) bleibt weiterhin verantwortlich für diese Domäne, stellt die erforderlichen **Ressourcen** bereit und definiert oft:
 
@@ -161,7 +161,7 @@ Wer eine Domäne delegiert (die *Delegierende*) bleibt weiterhin verantwortlich 
 - **Kernaufgaben** (wesentliche Leistungen, etwaige kritische Risiken, die beachtet werden müssen, sowie weitere essentielle Arbeitsaufgaben und Entscheidungen, die delegiert wurden)
 - **Einschränkungen von Autonomie und Einfluss** der *Beauftragten*, normalerweise in Bezug auf die Organisation selbst (z.B. Abhängigkeiten, Mitbestimmung der Delegierenden, oder Reporting)
 
-### Treiber und Domänen
+#### Treiber und Domänen
 
 Eine Domäne kann auch in Bezug auf Organisationstreiber beschrieben werden:
 
@@ -182,7 +182,7 @@ _Bezogen auf Organisationen bezeichnet **Governance** alle Tätigkeiten, die mit
 
 _Das **operative Geschäft** umfasst die zur Wertschöpfung erforderliche Arbeit, so wie die Organisation des Tagesgeschäfts, gelenkt durch Governance-Entscheidungen._
 
-### Verwandte Konzepte
+#### Related Concepts
 
 **Selbststeuerung**: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
 
@@ -1062,7 +1062,7 @@ Individuen, Teams und Organisationen können anerkennen, dass sie und ihr Umfeld
 
 ---
 
-## Muster 5.1: Muster an Kontext anpassen
+## Muster 5.1: Muster an den Kontext anpassen
 
 **Adaptiere und entwickle S3-Muster, damit sie auf denen speziellen Kontext passen.**
 
@@ -1080,7 +1080,7 @@ Teile wertvolle Erfahrungen mit der S3 Community.
 
 ---
 
-## Muster 5.2: Ein Pull-System für Organisationsentwicklung schaffen
+## Muster 5.2: Pull-System für Organisationsentwicklung
 
 **Gestalte eine Umgebung, die Mitglieder der Organisation dazu einlädt und befähigt, den Wandel selbst voran zu treiben.**
 
@@ -1204,7 +1204,7 @@ Strategien werden durch Experimente validiert und mit den daraus gewonnenen Erke
 
 ---
 
-## Muster 6.3: Domänen klären
+## Muster 6.3: Domänen bestimmen
 
 **Ein klares Verständnis der jeweiligen Verantwortungs- und Autonomiebereiche fördert Effizienz, effektive Zusammenarbeit und Agilität in der gesamten Organisation.**
 
@@ -1287,7 +1287,7 @@ Informationen für bestimmte Teams oder [Rollen](glossary:role):
 
 ---
 
-## Muster 6.8: Der Logbuchführer ist verantwortlich für die Pflege des Logbuchs eines Teams:
+## Muster 6.8: Logbuchführer(in)
 
 **Wähle ein Teammitglied, das die Verantwortung für dafür übernimmt, dass alle für die Arbeit des Teams erforderlichen Informationen dokumentiert und verfügbar sind.**
 
@@ -1559,7 +1559,7 @@ Vorbereitung:
 
 ---
 
-## Muster 8.7: Steuerungs-Backlog
+## Muster 8.7: Steuerungsbacklog
 
 _Ein **Steuerungs-Backlog** ist eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen._
 
@@ -1749,11 +1749,9 @@ Die Grundbausteine für Organisationsstruktur sind voneinander abhängige und ve
 
 Domänen werden verbunden zu Hierarchien oder **Heterarchien** (auch bekannt als komplexe adaptive Systeme oder Netzwerke, in denen mehrere funktionale Strukturen parallel existieren können).
 
-### Strukturmuster
+Soziokratie 3.0 beschreibt verschiedene **Strukturmuster**, aus denen eine große Vielfalt von unterschiedlichen Organisationsstrukturen entwickelt werden kann:
 
-Soziokratie 3.0 beschreibt verschiedene Strukturmuster, aus denen eine große Vielfalt von unterschiedlichen Organisationsstrukturen entwickelt werden kann.
-
-- Muster haben unterschiedliche Abstraktionsebenen
+- die Strukturmuster haben unterschiedliche Abstraktionsebenen
 - unterschiedliche Strukturmuster lösen unterschiedliche Probleme
 - Strukturmuster können nach Bedarf angepasst und kombiniert werden
 - weitere Strukturmuster werden entdeckt und beschrieben werden
@@ -1839,44 +1837,13 @@ Die doppelt verbundene Hierarchie
 
 ## Muster 10.6: Fraktalorganisation
 
-**Multiple constituents (organizations or projects) with a common (or similar) primary driver and structure can share learning across functional domains, align action and make high level governance decisions (e.g. overall strategy)**.
+![right,fit](img/structural-patterns/fractal-organization.png)
 
-Creating a fractal organization can enable a large network to rapidly respond to changing contexts.
+Mehrere Organisationen (oder Domänen) mit ähnlichen Strukturen und Zielen tauschen sich über Erfahrungen aus, und koordinieren ihre Aktivitäten (falls hilfreich).
 
-If necessary, the pattern can be repeated to connect multiple fractal organizations into one.
+- eine Möglichkeit, mehrere Organisationen gemeinsam zu steuern, und gleichzeitig die Autonomie der einzelnen Organisationen weitgehend zu erhalten
+- diese Struktur fördert bedarfsorientiert Innovation und Erfahrungsaustausch auch in großen Communities
 
-![Fraktalorganisation](img/structural-patterns/fractal-organization.png)
-
-### Prerequisites
-
-A fractal organization can be formed either by multiple in(ter-)dependent organizations which share a common (primary) [driver](glossary:driver), or by multiple branches, departments, or projects within a larger organization.
-
-These [constituents](glossary:constituent) (i.e. organizations, branches, departments or projects) need to share at least some — and typically most — functional [domains](glossary:domain) (e.g. accounting, product management, or development).
-
-### Ebenen
-
-A fractal organization has at least three tiers:
-
-- first tier: the **constituents** (i.e. organizations, branches, departments or projects)
-- second tier: **function-specific _delegate circles_** to share learning and to make and evolve agreements on behalf of function-specific domains
-- third tier: a **cross-functional delegate circle** to make and evolve agreements in response to drivers affecting the overall body of constituents
-
-### Forming a Fractal Organization
-
-1. Forming the **second tier**: In each constituent, the members of each common (and significant) functional domain, decide who of them will represent them in a **function-specific delegate circle**, where they share knowledge and learning, and contribute toward making and evolving agreements. Representatives are selected for a limited term (after which a new selection is made).
-2. Forming the **third tier**: second-tier delegate circles each select a delegate to form the **cross-functional delegate circle**.
-
-### Impact on the organization(s)
-
-Each constituent:
-
-- gains access to a wide array of experience, wisdom and skills to increase effectiveness and innovation.
-- can share resources, infrastructure and experience with other constituents according to capacity and need
-
-The second and third tier:
-
-- can test decisions simultaneously across multiple instances of a function-specific domain, providing extensive feedback and rapid learning
-- organize, align and steer the whole system while preserving autonomy and agency of the individual constituents
 
 ---
 
@@ -2248,7 +2215,7 @@ Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrad
 
 Muster  | Muster (...)
 --- | ---
-Als Beispiel dienen - 5.3<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Bereite Meetings vor - 8.3<br\>Check-In - 8.4<br\>Daily Standup - 7.3<br\>Das angestrebte Ergebnis klären - 6.4<br\>Delegiertenkreis - 10.2<br\>Den Raum für Veränderung öffnen - 5.5<br\>Die Betroffenen entscheiden - 1.8<br\>Die sieben Prinzipien leben - 3.2<br\>Domänen bestimmen - 6.3<br\>Doppelt verbundene Hierarchie - 10.4<br\>Doppelte Verbindung - 4.5<br\>Driver Mapping - 1.12<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6 | Entwicklungsgespräch - 2.3<br\>Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6<br\>Fluss angleichen - 9.7<br\>Fraktal-Organisation - 10.6<br\>Gastgeber(in) - 8.6<br\>Gehaltstransparenz - 3.7<br\>Gemeinsame Werte - 3.3<br\>Governance-Moderator(in) - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsententscheidung - 1.4<br\>Kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinator(in) - 9.8<br\>Kreis - 4.2<br\>Kunstvolle Teilnahme - 3.1<br\>Laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7
+Als Beispiel dienen - 5.3<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-System - 9.4<br\>Backlog - 9.1<br\>Backlogs priorisieren - 9.2<br\>Check In - 8.4<br\>Daily Standup - 7.3<br\>Das angestrebte Ergebnis klären - 6.4<br\>Delegiertenkreis - 10.2<br\>Den Raum für Veränderung öffnen - 5.5<br\>Die Betroffenen entscheiden - 1.8<br\>Die sieben Prinzipien leben - 3.2<br\>Domänen bestimmen - 6.3<br\>Doppelt verbundene Hierarchie - 10.4<br\>Doppelte Verbindung - 4.5<br\>Driver Mapping - 1.12<br\>Einfluss delegieren - 4.1<br\>Einwand - 1.5<br\>Einwände integrieren - 1.6<br\>Entwicklungsgespräch - 2.3 | Entwicklungsplan - 2.4<br\>Evaluationskriterien - 6.6<br\>Fluss angleichen - 9.7<br\>Fraktalorganisation - 10.6<br\>Gastgeber(in) - 8.6<br\>Gehaltstransparenz - 3.7<br\>Gemeinsame Werte - 3.3<br\>Governance-Moderator(in) - 3.4<br\>Hilfsrolle - 3.8<br\>Hilfsteam - 4.7<br\>Konsententscheidung - 1.4<br\>Kontinuierliche Verbesserung des Arbeitsablaufs - 5.6<br\>Koordinationsmeeting - 7.5<br\>Koordinator(in) - 9.8<br\>Kreis - 4.2<br\>Kunstvolle Teilnahme - 3.1<br\>Laufende Arbeit begrenzen - 9.5<br\>Leistungen definieren - 6.5<br\>Logbuch - 6.7<br\>Logbuchführer(in) - 6.8
 
 
 ---
@@ -2256,4 +2223,4 @@ Als Beispiel dienen - 5.3<br\>Arbeit visualisieren - 9.3<br\>Arbeiten nach Pull-
 
 Muster (...) | Muster (...)
 --- | ---
-Logbuchführer(in) - 6.8<br\>Meetings evaluieren - 8.5<br\>Meetings moderieren - 8.2<br\>Navigiere nach Spannung - 1.2<br\>Offene Domäne - 4.8<br\>Offene Systeme - 4.9<br\>Organisationstreiber beschreiben - 1.3<br\>Patterns an Kontext anpassen - 5.1<br\>Peer-Feedback - 2.2<br\>Pfirsichorganisation - 10.3<br\>Planungs- und Review-Meetings - 7.4<br\>Pull-System für Organisationsentwicklung schaffen - 5.2<br\>Reagiere auf Organisationstreiber - 1.1<br\>Repräsentant(in) - 4.6<br\>Retrospektive - 7.2<br\>Rolle - 4.3<br\>Runden - 8.1<br\>S3 Proposal Forming - 1.10<br\>Service-Organisation - 10.5<br\>Servicekreis - 10.1 | Statuten - 3.9<br\>Steuerungsbacklog - 8.7<br\>Steuerungsmeeting - 7.1<br\>Strategie entwickeln - 6.2<br\>Timebox - 9.6<br\>Um Hilfe bitten - 2.1<br\>Verbindungen - 4.4<br\>Vereinbarung - 6.1<br\>Vereinbarungen brechen - 3.5<br\>Vereinbarungen entwickeln - 1.7<br\>Verträge für erfolgreiche Zusammenarbeit - 3.6<br\>Veränderung einladen - 5.4<br\>Vorschläge gemeinsam gestalten - 1.9<br\>Wahl - 1.11
+Meetings evaluieren - 8.5<br\>Meetings moderieren - 8.2<br\>Meetings vorbereiten - 8.3<br\>Muster an den Kontext anpassen - 5.1<br\>Navigiere nach Spannung - 1.2<br\>Offene Domäne - 4.8<br\>Offene Systeme - 4.9<br\>Organisationstreiber beschreiben - 1.3<br\>Peer-Feedback - 2.2<br\>Pfirsichorganisation - 10.3<br\>Planung und Review - 7.4<br\>Proposal Forming - 1.10<br\>Pull-System für Organisationsentwicklung - 5.2<br\>Reagiere auf Organisationstreiber - 1.1<br\>Repräsentant(in) - 4.6<br\>Retrospektive - 7.2<br\>Rolle - 4.3<br\>Runden - 8.1<br\>Servicekreis - 10.1<br\>Serviceorganisation - 10.5 | Statuten - 3.9<br\>Steuerungsbacklog - 8.7<br\>Steuerungsmeeting - 7.1<br\>Strategie entwickeln - 6.2<br\>Timebox - 9.6<br\>Um Hilfe bitten - 2.1<br\>Verbindungen - 4.4<br\>Vereinbarung - 6.1<br\>Vereinbarungen brechen - 3.5<br\>Vereinbarungen entwickeln - 1.7<br\>Verträge für erfolgreiche Zusammenarbeit - 3.6<br\>Veränderung einladen - 5.4<br\>Vorschläge gemeinsam gestalten - 1.9<br\>Wahl - 1.11

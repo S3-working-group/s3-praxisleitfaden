@@ -1,5 +1,5 @@
 ---
-title: "Domänen klären"
+title: "Domänen bestimmen"
 ---
 
 

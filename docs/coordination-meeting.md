@@ -18,5 +18,5 @@ Agendapunkte
 
 ![Die Phasen eines Koordinationsmeetings](img/meetings/coordination-meeting.png)
 
-[&#9654; Effektive Meetings](meeting-practices.html)<br/>[&#9664; Planungs- und Review-Meetings](planning-and-review-meetings.html)<br/>[&#9650; Fokussierte Interaktionen](focused-interactions.html)
+[&#9654; Effektive Meetings](meeting-practices.html)<br/>[&#9664; Planung und Review](planning-and-review-meetings.html)<br/>[&#9650; Fokussierte Interaktionen](focused-interactions.html)
 

@@ -1,5 +1,5 @@
 ---
-title: "Muster an Kontext anpassen"
+title: "Muster an den Kontext anpassen"
 ---
 
 
@@ -17,5 +17,5 @@ Teile wertvolle Erfahrungen mit der S3 Community.
 
 ![Die einzelnen Phasen der Anpassung eines Musters an den Kontext](img/process/adapt-pattern-to-context.png)
 
-[&#9654; Pull-System für Organisationsentwicklung schaffen](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; S3 einführen](bringing-in-s3.html)
+[&#9654; Pull-System für Organisationsentwicklung](create-a-pull-system-for-organizational-change.html)<br/>[&#9650; S3 einführen](bringing-in-s3.html)
 

@@ -15,5 +15,5 @@ Eine Moderatorin kann auch auf einen bestimmten Zeitraum gewählt werden. Auch d
 
 **Siehe auch:**[Meetings vorbereiten](prepare-for-meetings.html), [Wahl](role-selection.html)
 
-[&#9654; Bereite Meetings vor](prepare-for-meetings.html)<br/>[&#9664; Runden](rounds.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
+[&#9654; Meetings vorbereiten](prepare-for-meetings.html)<br/>[&#9664; Runden](rounds.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
 

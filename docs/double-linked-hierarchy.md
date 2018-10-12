@@ -18,5 +18,5 @@ Die doppelt verbundene Hierarchie
 
 **See also:** [Kreis](Circle.html), [Doppelte Verbindung](Double-Linking.html), [Repräsentant](Representative.html)
 
-[&#9654; Service-Organisation](service-organization.html)<br/>[&#9664; Pfirsichorganisation](peach-organization.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
+[&#9654; Serviceorganisation](service-organization.html)<br/>[&#9664; Pfirsichorganisation](peach-organization.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
 
