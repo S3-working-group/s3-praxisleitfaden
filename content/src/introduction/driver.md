@@ -7,7 +7,7 @@ Ein Treiber …
 - kann als Ausgangspunkt für Ziele, Vision oder "Bestimmung" dienen
 - kann sich im Lauf der Zeit verändern
 
-### Treiber: Wert und Verschwendung
+#### Treiber, Wert und Verschwendung
 
 {{define:value}}
 

@@ -67,7 +67,7 @@ content:
           title: Vorschläge gemeinsam gestalten
           slug: co-create-proposals
         - 
-          title: S3 Proposal Forming
+          title: Proposal Forming
           slug: proposal-forming
         - 
           title: Wahl
@@ -158,10 +158,10 @@ content:
       slug: bringing-in-s3
       sections:
         - 
-          title: Patterns an Kontext anpassen
+          title: Muster an den Kontext anpassen
           slug: adapt-patterns-to-context
         - 
-          title: Pull-System für Organisationsentwicklung schaffen
+          title: Pull-System für Organisationsentwicklung
           slug: create-a-pull-system-for-organizational-change
         - 
           title: Als Beispiel dienen
@@ -217,7 +217,7 @@ content:
           title: Daily Standup
           slug: daily-standup
         - 
-          title: Planungs- und Review-Meetings
+          title: Planung und Review
           slug: planning-and-review-meetings
         - 
           title: Koordinationsmeeting
@@ -233,10 +233,10 @@ content:
           title: Meetings moderieren
           slug: facilitate-meetings
         - 
-          title: Bereite Meetings vor
+          title: Meetings vorbereiten
           slug: prepare-for-meetings
         - 
-          title: Check-In
+          title: Check In
           slug: check-in
         - 
           title: Meetings evaluieren
@@ -292,10 +292,10 @@ content:
           title: Doppelt verbundene Hierarchie
           slug: double-linked-hierarchy
         - 
-          title: Service-Organisation
+          title: Serviceorganisation
           slug: service-organization
         - 
-          title: Fraktal-Organisation
+          title: Fraktalorganisation
           slug: fractal-organization
   appendix:
     title: Anhang

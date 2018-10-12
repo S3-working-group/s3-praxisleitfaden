@@ -1,4 +1,4 @@
-## Muster an Kontext anpassen
+## Muster an den Kontext anpassen
 
 **Adaptiere und entwickle S3-Muster, damit sie auf denen speziellen Kontext passen.**
 

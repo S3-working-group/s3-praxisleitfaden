@@ -1,4 +1,4 @@
-## Steuerungs-Backlog
+## Steuerungsbacklog
 
 {{define:governance-backlog}}
 

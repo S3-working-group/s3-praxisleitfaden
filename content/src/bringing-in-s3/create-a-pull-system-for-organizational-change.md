@@ -1,4 +1,4 @@
-## Ein Pull-System für Organisationsentwicklung schaffen
+## Pull-System für Organisationsentwicklung
 
 **Gestalte eine Umgebung, die Mitglieder der Organisation dazu einlädt und befähigt, den Wandel selbst voran zu treiben.**
 

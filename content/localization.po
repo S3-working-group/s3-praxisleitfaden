@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-10-11 12:02\n"
+"PO-Revision-Date: 2018-10-12 09:32\n"
 
 # continuation marker for follow-up slides
 msgid "(…)"
@@ -57,13 +57,13 @@ msgstr "S3-Praxisleitfaden"
 msgid "S3 - A Practical Guide"
 msgstr "S3 - Ein Praxisleitfaden"
 
-msgid ""
-msgstr ""
-""
+# Pattern-Index in PDF
+msgid "Pattern-Index"
+msgstr "Index der Muster"
 
-msgid ""
-msgstr ""
-""
+# Title for Table of Contents in PDF
+msgid "Contents"
+msgstr "Inhalt"
 
 msgid ""
 msgstr ""

@@ -6,7 +6,7 @@ Aktivitäten in einer Organisation fallen typischerweise in eine der folgenden z
 
 {{define:operations}}
 
-### Verwandte Konzepte
+#### Related Concepts
 
 **Selbststeuerung**: {{glossary:self-governance}}
 
