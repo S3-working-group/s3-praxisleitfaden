@@ -1,17 +1,16 @@
 \documentclass[a5paper]{scrreprt}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{graphicx} 
-\usepackage{titlepic}
+\usepackage[ngerman]{babel} % Deutsche Sprachanpassungen
 \usepackage{ebook-style}
 
-	\title{${_("Sociocracy 3.0 - A Practical Guide")}}
-	\author{Bernhard Bockelbrink\\James Priest\\Liliana David}
-	\date{${version}}
+\title{${_("Sociocracy 3.0 - A Practical Guide")}}
+\author{Bernhard Bockelbrink\\James Priest\\Liliana David}
+\date{${version}}
 \titlepic{\includegraphics[width=6cm]{./img/framework/logo.png}}
 	
 \begin{document}
 	\maketitle
+	% different title for toc
+	\renewcommand{\contentsname}{${_("Contents")}}
 	\pagenumbering{arabic}
 	% limit toc to sections
 	\setcounter{tocdepth}{1}
