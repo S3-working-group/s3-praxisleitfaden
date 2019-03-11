@@ -13,7 +13,10 @@ target_filename: "S3-Praxisleitfaden"
 pattern_prefix: " Muster %(chapter)s.%(section)s:"
 
 # Version of the practical guide (added to all releases)
-version: "v2018-10-de-0.1"
+version: "v2019-03-07-de-0.1"
+
+# URL o the Github project
+github_url: "https://github.com/S3-working-group/s3-praxisleitfaden"
 
 # directive for makefile to generate translatable pattern index
 # must be set to "NO" for translations, and "YES" for source language (English)
