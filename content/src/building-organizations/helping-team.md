@@ -6,7 +6,7 @@ Ein Hilfsteam:
 
 - bietet der [Delegierenden](glossary:delegator) eine Möglichkeit, ihre Kapazität zu erhöhen
 - kann selbstorganisiert sein oder durch einen [Koordinator](section:coordinator) gesteuert werden, der in der Regel von der Delegierenden bestimmt wird
-- alle Steuerungsentscheidungen werden von der Delegierenden getroffen
+- wird von der Delegierenden geführt
 - profitiert von einer klar definierten [Domäne](glossary:domain)
 
 Mitglieder eines Hilfsteams:

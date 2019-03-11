@@ -1,8 +1,10 @@
-## Die sieben Prinzipien
+### Die sieben Prinzipien
+
+Soziokratie basiert auf sieben Prinzipien, die eine Basis für die Kultur einer Organisation bilden. Da sich diese sieben Prinzipien in allen Mustern widerspiegeln, ist das Verständnis dieser Prinzipien hilfreich für Anwendung der Muster, und besonders wertvoll, wenn man ein Muster an die eigenen Bedürfnisse anpasst.
+
+Die Anwendung von Soziokratie 3.0 hilft Menschen, den Nutzen dieser Prinzipien immer besser zu verstehen, sowohl für den Einzelnen als auch für die gesamte Organisationen.
 
 ![Die sieben Prinzipien](img/framework/s3-principles-plain.png)
-
-Alle Muster basieren auf den sieben Prinzipien:
 
 **Das Prinzip der Effektivität:** *{{glossary:effectiveness}}*
 
@@ -18,7 +20,7 @@ Alle Muster basieren auf den sieben Prinzipien:
 
 **Das Prinzip der Verantwortlichkeit:** *{{glossary:accountability}}*
 
-### Das Prinzip der Verantwortlichkeit
+#### Das Prinzip der Verantwortlichkeit
 
 *{{glossary:accountability}}*
 

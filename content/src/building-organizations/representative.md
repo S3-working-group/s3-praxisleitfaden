@@ -6,7 +6,7 @@ Repräsentanten (auch: Delegierte oder Vertreter):
 
 - vertreten die Interessen eines [Teams](glossary:team) in einem anderen Team
 - werden für einen befristeten Zeitraum gewählt
-- nehmen an den **Steuerungsentscheidungen** der anderen Gruppe teil und können: 
+- nehmen an den **Steuerungsentscheidungen** des anderen Teams teil und können: 
     - Agendapunkte vorschlagen
     - an der Ausarbeitung von Vorschlägen mitwirken
     - [Einwände](glossary:objection) gegen Vorschläge und bestehenden [Vereinbarungen](glossary:agreement) einbringen

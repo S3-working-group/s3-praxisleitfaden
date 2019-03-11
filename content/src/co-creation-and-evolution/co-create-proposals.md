@@ -1,6 +1,6 @@
 ## Vorschläge gemeinsam gestalten
 
-**Bringe Menschen zusammen, um gemeinsam einen Vorschlag für die Reaktion auf einen Organisationstreiber zu entwickeln: Nutze das kollektive Wissen der Gruppe, und fördere Engagement und Verantwortungsbewusstsein.**
+**Bringe Menschen zusammen, damit sie gemeinsam Vorschläge entwickeln können, um auf organisationale Treiber zu reagieren: Nutze und aktiviere die kollektive Intelligenz, entwickle ein Gefühl von Ownership und steigere Engagement und Verantwortlichkeit.**
 
 Es gibt zahlreiche Wege, Vorschläge in einer Gruppe zu erarbeiten. Sie alle folgen in der Regel diesem Muster:
 

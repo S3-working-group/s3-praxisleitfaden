@@ -5,8 +5,8 @@
 Die [Delegierende](glossary:delegator) kann die [Beauftragten](glossary:delegatee) dabei unterstützen, Wert zu schaffen: 
 
 - Der Autonomie- und Verantwortungsbereich ist klar definiert.
-- Gelegenheiten zum Lernen und zur Weiterentwicklung sind sicherstellt
-- Nach Bedarf wird weitere Unterstützung geleistet
+- Gelegenheiten zum Lernen und zur Weiterentwicklung sicherstellt
+- sonstige benötigte Unterstützung bereitstellt
 
 Korrigiere Rahmenbedingungen schrittweise, berücksichtige dabei Fähigkeit, Zuverlässigkeit und erzielte Ergebnisse.
 

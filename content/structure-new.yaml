@@ -14,6 +14,9 @@ content:
         title: Geschichte
         slug: history
       - 
+        title: Warum wir den Namen "Soziokratie 3.0" gewählt haben
+        slug: why-s3
+      - 
         title: Grundlegende Konzepte
         slug: basic-concepts
       - 
@@ -310,6 +313,9 @@ content:
       - 
         title: Lizenz
         slug: license
+      - 
+        title: S3 Selbstverpflichtung
+        slug: icpt
       - 
         title: Danksagung
         slug: acknowledgments

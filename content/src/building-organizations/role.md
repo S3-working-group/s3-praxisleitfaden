@@ -8,7 +8,7 @@ Der Inhaber einer Rolle schlägt eine [Strategie](glossary:strategy) zur Wertsch
 
 Eine Rolle ist ein einfacher Weg für eine Organisation (oder [Team](glossary:team)), um wiederkehrende Aufgaben oder einen bestimmten Arbeits- und Entscheidungsbereich an eines ihrer Mitglieder zu delegieren.
 
-- eine Person kann die Verantwortung für mehr als eine Rolle übernehmen
+- eine Person kann die Verantwortung für mehr als eine Rolle haben
 - anstatt eine neues Team zu schaffen, ist es manchmal einfacher, wenn sich mehrere Personen eine Rolle teilen
 - Personen die eine Rolle inne haben, werden per Konsent und für einen festgelegten Zeitraum gewählt
 - Kollegen unterstützen sich gegenseitig dabei, sich in ihren jeweiligen Rollen weiterzuentwickeln
