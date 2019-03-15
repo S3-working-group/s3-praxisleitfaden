@@ -16,7 +16,7 @@
 - [Team](glossary:team) in Glossar aufgenommen (und den Begriff "Gruppe" im Leitfaden durch "Team" ersetzt)
 - Definition für [Leistung](glossary:deliverable) überarbeitet
 - In der englischen Version den Begriff **driver statement** aus Text und Glossar entfernt.
-- Definitionen für [Governance](glossary:governance), [operatives Geschäft](glossary:operations) und [Selbstorgansation](glossary:self-organization) überarbeitet
+- Definitionen für [Governance](glossary:governance), [operatives Geschäft](glossary:operations) und [Selbstorganisation](glossary:self-organization) überarbeitet
 
 **Abbildungen:**
 
@@ -151,7 +151,7 @@
 - Kernkonzepte besser erklärt
 - handlungsorientierte Beschreibung der Prinzipien
 
-**Änderungen der Muster**
+**Änderungen der Muster:**
 
 - *Kunstvolle Teilnahme*: Beschreibung überarbeitet
 - *Vereinbarung*: Erklärung, dass das Konzept von Vereinbarungen auch innerhalb einer Rolle angewendet werden kann

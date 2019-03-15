@@ -1,4 +1,4 @@
-## Planungs- und Review-Meetings
+## Planung und Review
 
 **Teams halten in regelmäßigen Abständen (1-4 Wochen) zeitlich begrenzte Meetings, um Iterationen zu planen und zu evaluieren**
 

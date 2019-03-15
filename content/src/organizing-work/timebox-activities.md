@@ -13,7 +13,7 @@
 
 Timeboxen sind anwendbar auf
 
-- Meetins, Telefonate, Gespräche
+- Meetings, Telefonate, Gespräche
 - Aufgaben
 - Experimente
 - einen Versuch, ein Problem zu lösen

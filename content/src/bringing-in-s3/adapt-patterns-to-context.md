@@ -1,11 +1,11 @@
-## Muster an Kontext anpassen
+## Muster an den Kontext anpassen
 
-**Adaptiere und entwickle S3-Muster, damit sie auf denen speziellen Kontext passen.**
+**Verändere und entwickle S3-Muster, so dass sie zu deinem speziellen Kontext passen.**
 
 Stelle sicher, dass alle Betroffenen:
 
-- verstehen, warum es notwendig (oder hiflreich) ist, das Muster anzupassen
-- Bei der Entscheidung, was verändert wird, anwesend oder vertreten sind
+- verstehen, warum es notwendig (oder hilfreich) ist, das Muster anzupassen
+- bei der Entscheidung, was verändert wird, anwesend oder vertreten sind
 - sich bei der Anpassung an den Sieben Prinzipien orientieren
 
 Experimentiere mit jeder Anpassung lange genug, um Vorteile und mögliche Probleme erkennen zu können.

@@ -1,4 +1,4 @@
-## Service-Organisation
+## Serviceorganisation
 
 **Zusammenarbeit mehrerer Stakeholder, und Ausrichtung auf ein gemeinsames Ziel (bzw. einen gemeinsamen Treiber).**
 

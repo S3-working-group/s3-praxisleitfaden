@@ -6,7 +6,7 @@ Dennoch blieb die Soziokratie außerhalb der Niederlande bis vor kurzem weitgehe
 
 Wir lieben die Soziokratie, weil wir sehen, wie Organisationen und ihre Mitglieder gedeihen, wenn Sie Ideen daraus umsetzen.
 
-Wir lieben auch Agilität, Lean Thinking, Kanban, die Core Protocols, gewaltfreie Kommunikation und zahlreiche andere Ideen. Und wir denken, dass die Welt dadurch besser wird, dass sich immer mehr Organisationen aus diesem Füllhorn neuer Ideen zu bedienen, und lernen, diese Ideen mit dem zu verbinden, was sie bereits kennen.
+Wir lieben auch die agile Methoden, Lean Thinking, Kanban, die Core Protocols, gewaltfreie Kommunikation und zahlreiche andere Ideen. Und wir denken, dass die Welt dadurch besser wird, dass sich immer mehr Organisationen aus diesem Füllhorn neuer Ideen zu bedienen, und lernen, diese Ideen mit dem zu verbinden, was sie bereits kennen.
 
 Deshalb haben wir beschlossen, einen Teil unserer Zeit darauf zu verwenden, die Soziokratie weiterzuentwickeln und mit anderen wichtigen Ideen zu integrieren, um sie für so viele Organisationen wie möglich zugänglich und anwendbar zu machen.
 
@@ -37,7 +37,7 @@ Dennoch gibt es unserer Erfahrung einige Hindernisse, die es Organisationen schw
 
 #### Risiken und Widerstände reduzieren
 
-*Soziokratie 3.0* trifft Organisationen genau dort, wo sie gerade stehen, und unterstützt sie auf ihrem Weg der kontinuierlichen Verbesserung. Dieser erfordert weder radikale Veränderung noch Reorganisation. *Soziokratie 3.0* bietet eine Sammlung unabhängiger und prinzipienbasierter Muster an, aus denen sich eine Organisation nach Bedarf bedienen kann, um effektiver zu werden. Alle Muster beziehen sich auf dieselben Grundprinzipie, so dass sie leicht an den speziellen Kontext einer Organisation angepasst werden können.
+*Soziokratie 3.0* trifft Organisationen genau dort, wo sie gerade stehen, und unterstützt sie auf ihrem Weg der kontinuierlichen Verbesserung. Dieser erfordert weder radikale Veränderung noch Reorganisation. *Soziokratie 3.0* bietet eine Sammlung unabhängiger und prinzipienbasierter Muster an, aus denen sich eine Organisation nach Bedarf bedienen kann, um effektiver zu werden. Alle Muster beziehen sich auf dieselben Grundprinzipien, so dass sie leicht an den speziellen Kontext einer Organisation angepasst werden können.
 
 #### Verlagerung des Fokus von Zielen (oder Sinn) hin zum Bedarf
 
@@ -51,7 +51,7 @@ Betrachtet man die offiziellen Normen, kann die *Soziokratische Kreismethode* du
 
 Das bedeutet nicht, dass alles immer ganz einfach ist: auch die Anwendung von Mustern aus *Soziokratie 3.0* bedeutet ein gewisse Investition in Lernen und Veränderung antrainierter Gewohnheiten. Daher ist es umso wichtiger, schrittweise vorzugehen, und nur die Muster anzuwenden, die man auch tatsächlich gerade benötigt, es ist sinnlos, Dinge zu ändern, die bereits gut genug sind.
 
-#### Integration von Ideen aus Agilität und Lean Thinking
+#### Integration von Ideen aus den agilen Methoden und aus Lean Thinking
 
 Bezogen auf operative Tätigkeiten und insbesondere auf die der Kultur der Zusammenarbeit innerhalb der Organisation versteht sich die *Soziokratischen Kreismethode* als "leere Methode". Viele Organisationen richten bereit ihre operativen Tätigkeiten an agilen Prinzipien und Lean Thinking aus, oder streben eine derartige Transformation an. Wir halten das für eine großartige Idee, und haben *Soziokratie 3.0* deshalb so gestaltet, dass sie gut zu agilen und lean Organisationen passt.
 

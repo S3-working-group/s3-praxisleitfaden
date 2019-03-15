@@ -1,4 +1,4 @@
-## Domänen klären
+## Domänen bestimmen
 
 **Ein klares Verständnis der jeweiligen Verantwortungs- und Autonomiebereiche fördert Effizienz, effektive Zusammenarbeit und Agilität in der gesamten Organisation.**
 

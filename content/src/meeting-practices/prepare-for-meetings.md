@@ -1,4 +1,4 @@
-## Bereite Meetings vor
+## Meetings vorbereiten
 
 **Bereite Meetings vor, um sie effektiver zu machen.**
 

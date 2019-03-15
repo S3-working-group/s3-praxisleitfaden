@@ -1,4 +1,4 @@
-## Navigiere nach Spannung
+## Navigation nach Spannung
 
 **Gehe bewusst mit Spannung um, die du in Bezug auf die Organisation empfindest: untersuche die zugrundeliegenden Ursachen und übergib die dabei entdeckten Treiber an die zuständige Domäne. **
 
@@ -8,4 +8,4 @@
 
 Spüre Spannungen nach, und beschreibe Situation und Bedarf der Organisation, um **Treiber zu entdecken**. Manchmal zeigt diese Untersuchung auch Missverständnisse auf, wodurch sich die Spannung oft auflöst.
 
-![Navigiere nach Spannung - Organisationstreiber beschreiben - Reagiere auf Organisationstreiber](img/process/navigate-describe-respond.png)
+![Navigation nach Spannung - Organisationstreiber beschreiben - Auf Organisationstreiber reagieren](img/process/navigate-describe-respond.png)

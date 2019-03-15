@@ -28,7 +28,7 @@ Nutze die von Einwänden aufgedeckten Informationen zur Verbesserung
 
 ### Einwände qualifizieren
 
-Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enhüllen, und sonstigen Argumenten, die nur auf Meinungen, Vorlieben oder Bedenken basieren.
+Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enthüllen, und sonstigen Argumenten, die nur auf Meinungen, Vorlieben oder Bedenken basieren.
 
 Um herauszufinden, um ob ein vorgebrachtes Argument tatsächlich einen Einwand darstellt, könnte ein Moderator z.B. folgende Frage stellen:
 

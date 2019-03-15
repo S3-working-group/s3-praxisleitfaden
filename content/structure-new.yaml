@@ -14,7 +14,7 @@ content:
         title: Geschichte
         slug: history
       - 
-        title: Warum wir den Namen "Soziokratie 3.0" gewählt haben
+        title: Die Entstehung von Soziokratie 3.0
         slug: why-s3
       - 
         title: Grundlegende Konzepte
@@ -43,10 +43,10 @@ content:
       slug: co-creation-and-evolution
       sections:
         - 
-          title: Reagiere auf Organisationstreiber
+          title: Auf Organisationstreiber reagieren
           slug: respond-to-organizational-drivers
         - 
-          title: Navigiere nach Spannung
+          title: Navigation nach Spannung
           slug: navigate-via-tension
         - 
           title: Organisationstreiber beschreiben
@@ -164,7 +164,7 @@ content:
           title: Muster an den Kontext anpassen
           slug: adapt-patterns-to-context
         - 
-          title: Pull-System für Organisationsentwicklung
+          title: Organisationsentwicklung per Pull-System
           slug: create-a-pull-system-for-organizational-change
         - 
           title: Als Beispiel dienen
@@ -239,7 +239,7 @@ content:
           title: Meetings vorbereiten
           slug: prepare-for-meetings
         - 
-          title: Check In
+          title: Check-In
           slug: check-in
         - 
           title: Meetings evaluieren
@@ -305,7 +305,7 @@ content:
     slug: appendix
     sections:
       - 
-        title: "Änderungsprotokoll\n"
+        title: Änderungsprotokoll
         slug: changelog
       - 
         title: Links

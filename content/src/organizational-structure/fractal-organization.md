@@ -16,7 +16,7 @@ Um eine Fraktalorganisation zu ermöglichen, müssen die [Konstituenten](glossar
 
 ### Ebenen
 
-Eine Fratalorganisation hat mindestens drei Ebenen:
+Eine Fraktalorganisation hat mindestens drei Ebenen:
 
 - erste ebene: die **Konstituenten** (d.h. einzelne Organisationen, bzw. Zweigstellen, Abteilungen oder Projekte innerhalb einer Organisation)
 - zweite Ebene: **funktionsspezifische [Delegiertenkreise](section:delegate-circle)**, in denen Erkenntnisse geteilt und gemeinsame Vereinbarungen über alle Domänen dieses Funktionsbereiches getroffen und weiterentwickelt werden.
