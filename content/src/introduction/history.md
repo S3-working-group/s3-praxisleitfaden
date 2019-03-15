@@ -2,7 +2,7 @@
 
 ![Einflüsse und Geschichte von Soziokratie 3.0](img/context/history.png)
 
-Die wörtliche Bedeutung des Begriffes **Soziokratie** ist "Herrschaft der Gefährten": *sozio__ - vom lateinischen _socius* - bedeutet "Gefährte", oder "Kamerad", und das Suffix *-kratie* - vom altgriechischen κράτος (krátos) - bedeutet "Herrschaft" bzw. "Regierung".
+Die wörtliche Bedeutung des Begriffes **Soziokratie** ist "Herrschaft der Gefährten": _sozio_ — vom lateinischen _socius_ — bedeutet "Gefährte", oder "Kamerad", und das Suffix _-kratie_ — vom altgriechischen _κράτος_ (krátos) — bedeutet "Herrschaft" bzw. "Regierung".
 
 Der Begriff "Soziokratie" kann bis zum Jahre 1851 zurückverfolgt werden, damals schlug **Auguste Comté** bezogen auf die Gesellschaft wie Anwendung eines wissenschaftlichen Ansatzes vor: Staaten sollten von Experten zum Thema Gesellschaft regiert werden. Diese Experten nannte er "Soziologen". Er hielt diese Zukunft für unabwendbar, auch wenn er anerkannte, dass das damals noch nicht realisierbar, war.
 

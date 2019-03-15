@@ -1,4 +1,4 @@
-## Konsent-Entscheidung
+## Konsententscheidung
 
 **Ein (moderierter) Gruppenprozess zur Entscheidungsfindung: sammle Einwände, und integriere das dahinterstehende Wissen, um Vorschläge und bestehende Vereinbarungen weiterzuentwickeln**
 
