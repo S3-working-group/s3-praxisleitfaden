@@ -20,7 +20,7 @@ Soziokratie hat sich in vielen Organisationen und Gemeinschaften auf der ganzen 
 
 Kurz darauf begann auch **Liliana David**, an der Weiterentwicklung von S3 mitzuwirken. 
 
-Sie arbeiten nun gemeinsam daran, S3 so zu gestallten, dass es für möglichst viele Organisationen verfügbar und wertvoll ist, und stellen dazu gemeinfreie Materialien unter einer **Creative Commons Free Culture Lizenz** bereit, die es allen Interessierten ermöglichen sollen,  S3 zu erforschen, anzuwenden und weiterzugeben.
+Sie arbeiten nun gemeinsam daran, S3 so zu gestallten, dass es für möglichst viele Organisationen verfügbar und wertvoll ist, und stellen dazu gemeinfreie Materialien unter einer **Creative Commons Free Culture Lizenz** bereit, die es allen Interessierten ermöglichen sollen, S3 zu erforschen, anzuwenden und weiterzugeben.
 
 ### Die Soziokratie-3.0-Bewegung
 

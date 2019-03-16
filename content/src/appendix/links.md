@@ -1,8 +1,6 @@
 ## Links
 
-**Die jeweils aktuellste Version des Praxisleitfadens:**
-
-Die [Online-Version](http://patterns.sociocracy30.org), die über [hypothes.is annotiert werden kann](https://via.hypothes.is/http://patterns.sociocracy30.org/) und zur einfacheren Navigation einen Index und eine Landkarte der Patterns enthält. 
+Die **aktuelle Online-Version** des Praxisleitfadens auf [https://patterns.sociocracy30.org/](http://patterns.sociocracy30.org) kann mit hypothes.is kommentiert und annotiert werden, und enthält einen Index und eine Landkarte der Muster zur einfacheren Navigation.
 
 weitere Sprachen und Formate des Praxisleitfadens gibt es unter <http://sociocracy30.org/guide/>
 
@@ -10,4 +8,4 @@ weitere Sprachen und Formate des Praxisleitfadens gibt es unter <http://sociocra
 
 **S3 Webseite**: <http://sociocracy30.org>
 
-Folge uns auf **twitter**: [@sociocracy30](http://twitter.com/sociocracy30)
+**Auf Twitter folgen:** *@sociocracy30*
