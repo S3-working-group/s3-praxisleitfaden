@@ -1,5 +1,5 @@
 ---
-title: "Navigiere nach Spannung"
+title: "Navigation nach Spannung"
 ---
 
 
@@ -11,7 +11,7 @@ title: "Navigiere nach Spannung"
 
 Spüre Spannungen nach, und beschreibe Situation und Bedarf der Organisation, um **Treiber zu entdecken**. Manchmal zeigt diese Untersuchung auch Missverständnisse auf, wodurch sich die Spannung oft auflöst.
 
-![Navigiere nach Spannung - Organisationstreiber beschreiben - Reagiere auf Organisationstreiber](img/process/navigate-describe-respond.png)
+![Navigation nach Spannung - Organisationstreiber beschreiben - Auf Organisationstreiber reagieren](img/process/navigate-describe-respond.png)
 
-[&#9654; Organisationstreiber beschreiben](describe-organizational-drivers.html)<br/>[&#9664; Reagiere auf Organisationstreiber](respond-to-organizational-drivers.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+[&#9654; Organisationstreiber beschreiben](describe-organizational-drivers.html)<br/>[&#9664; Auf Organisationstreiber reagieren](respond-to-organizational-drivers.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

@@ -1,4 +1,4 @@
-## Reagiere auf Organisationstreiber
+## Auf Organisationstreiber reagieren
 
 **Kläre Organisationstreiber und reagiere entsprechend.**
 
@@ -18,4 +18,4 @@ Die Antwort auf einen Organisationstreiber sollte als Experiment angesehen werde
 
 Ob es sich bei einem Treiber um einen Organisationstreiber handelt, kann leicht mit folgender Frage geklärt werden:
 
-*Würde es der Organisation helfen, wenn wir auf diesen Treiber reagieren? Oder würde es schaden, wenn wir diesen Treiber ignorieren?*
+*Würde eine Antwort auf diesen Treiber den Wertfluss bezogen auf einen bestehenden Organisationstreiber verbessern? Kurz: Kann uns das helfen bzw. schaden?*

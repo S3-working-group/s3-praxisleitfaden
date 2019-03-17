@@ -13,7 +13,7 @@ title: "Hilfsrolle"
 
 Auch Externe Mitarbeiter müssen der Übernahme einer Rolle zustimmen.
 
-**Siehe auch:** [Verträge für erfolgreiche Zusammenarbeit](contract-for-successful-collaboration)
+**Siehe auch:** [Verträge für erfolgreiche Zusammenarbeit](contract-for-successful-collaboration.html)
 
 [&#9654; Statuten](bylaws.html)<br/>[&#9664; Gehaltstransparenz](transparent-salary.html)<br/>[&#9650; Zusammenarbeit ermöglichen](enablers-of-collaboration.html)
 

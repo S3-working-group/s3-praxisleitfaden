@@ -8,7 +8,7 @@ Ungelöste [Einwände](glossary:objection) verhindern, dass ein Vorschlag zu ein
 
 Das Zurückhalten von Einwänden kann die Ziele eines Teams oder der gesamten Organisation gefährden.
 
-### Impliziter Konsentvertrag
+### Impliziter Konsent-Vertrag
 
 1. Wenn es keine Einwände gegen eine Vereinbarung gibt, beabsichtige ich, diese Vereinbarung im Rahmen meiner Möglichkeiten umzusetzen.
 2. Ich stimme zu, Einwände einzubringen, sobald sie mir bewusst werden.

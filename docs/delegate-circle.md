@@ -5,7 +5,7 @@ title: "Delegiertenkreis"
 
 **Delegiere die Entscheidungsbefugnis für Treiber, die mehrere Domänen betreffen an einen Kreis aus Delegierten.**
 
-Stakeholder entsenden [Repräsentanten](representative.html), die einen Delegiertenkreis bilden, der die <dfn data-info="Governance: Alle Tätigkeiten, die mit der Festlegung von Zielen und den aus diesen Zielen resultierenden Steuerungsaufgaben zu tun haben: Menschen mit der entsprechenden Befugnissen treffen bewusst Entscheidungen, die die Wertschöpfung  der Organisation (und die der Teams und Personen innerhalb der Organisation)  mittel- und langfristig steuern, und entwickeln diese Entscheidungen stetig anhand der gewonnenen Erkenntnisse weiter. Diese Entscheidungen begrenzen Handlungsspielräume, lenken zukünftige Entscheidungen, Verteilen Ressourcen und legen Details zu Leistungen fest.">Steuerungs-Entscheidungen</dfn> trifft, die mehrere (oder alle) Stakeholder betreffen.
+Stakeholder entsenden [Repräsentanten](representative.html), die einen Delegiertenkreis bilden, der die <dfn data-info="Governance: Die Summer aller Aktivitäten, die dazu dienen, Ziele zu bestimmen und dann die Entscheidungen zu treffen und weiterzuentwickeln, die die Menschen dahin führen, diese Ziele zu erreichen.">Steuerungs-Entscheidungen</dfn> trifft, die mehrere (oder alle) Stakeholder betreffen.
 
 ![Delegiertenkreis](img/structural-patterns/delegate-circle.png)
 

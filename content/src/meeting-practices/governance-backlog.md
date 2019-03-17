@@ -2,7 +2,7 @@
 
 {{define:governance-backlog}}
 
-Das Steuerungs-Backlog enthält
+Das Steuerungsbacklog enthält
 
 - Themen, zu denen eine Entscheidung erforderlich ist
 - Vorschläge, die erarbeitet und evaluiert werden müssen

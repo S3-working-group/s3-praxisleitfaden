@@ -11,7 +11,7 @@ Bereite vor jedem Meeting eine Agenda vor, und finde eine Moderatorin, die
 - zu jedem Agendapunkt eine passende Aktivität moderiert
 - am Ende des Meetings eine [Evaluation](meeting-evaluation.html) durchführt
 
-Eine Moderatorin kann auch auf einen bestimmten Zeitraum gewählt werden. Auch die Moderation durch eine unerfahrene Moderatorin macht einen großen Unterschied!
+Eine Moderatorin kann auch für einen bestimmten Zeitraum gewählt werden. Auch eine unerfahrene Moderatorin macht einen Unterschied.
 
 **Siehe auch:**[Meetings vorbereiten](prepare-for-meetings.html), [Wahl](role-selection.html)
 

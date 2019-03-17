@@ -10,4 +10,4 @@
 
 Auch Externe Mitarbeiter müssen der Übernahme einer Rolle zustimmen.
 
-**Siehe auch:** [Verträge für erfolgreiche Zusammenarbeit](contract-for-successful-collaboration)
+**Siehe auch:** [Verträge für erfolgreiche Zusammenarbeit](section:contract-for-successful-collaboration)

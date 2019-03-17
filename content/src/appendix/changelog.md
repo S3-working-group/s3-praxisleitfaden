@@ -1,21 +1,22 @@
 ## Änderungsprotokoll 
 
-### Änderungen zum 22.9.2018
+### Änderungen zum 8.3.2018
 
 **Allgemeine Änderungen**
 
+- Hintergrundinformationen zu S3 und zur Geschichte der Soziokratie, die bisher nur auf der S3 Webseite verfügbar waren, wurden in die Einleitung integriert.
 - Abschnitt zu Governance in der Einführung aktualisiert
 - Bildunterschriften zu allen Illustrationen hinzugefügt
 - Patternkategorie "Mitgestaltung ermöglichen" umbenannt in "Zusammenarbeit ermöglichen"
-- in der Webseite zeigen Begriffe aus dem Glossar nun ihre Bedeutung, wenn sie man mit der Maus berührt
-- viele Links zum Glossar auf der Web-Version hinzugefügt
+- der Praxisleitfaden wir nun nicht mehr als Foliensatz veröffentlicht, daher konnten Format und Layout der PDF- und ePub-Versionen grundlegend überarbeitet werden
+- auf der Webseite zeigen Begriffe aus dem Glossar nun ihre Bedeutung, wenn sie man mit der Maus berührt
 
 **Glossar:**
 
-- [Team](glossary:team) in's Glossar aufgenommen (und den Begriff "Gruppe" im Leitfaden durch "Team" ersetzt, wo passend)
+- [Team](glossary:team) in Glossar aufgenommen (und den Begriff "Gruppe" im Leitfaden durch "Team" ersetzt)
 - Definition für [Leistung](glossary:deliverable) überarbeitet
 - In der englischen Version den Begriff **driver statement** aus Text und Glossar entfernt.
-- Definitionen für [Governance](glossary:governance), [operatives Geschäft](glossary:operations) und [Selbstorgansation](glossary:self-organization) überarbeitet
+- Definitionen für [Governance](glossary:governance), [operatives Geschäft](glossary:operations) und [Selbstorganisation](glossary:self-organization) überarbeitet
 
 **Abbildungen:**
 
@@ -40,7 +41,7 @@
 
 **Glossar**
 
-- **überarbeitet**Bedenken, Governance, Einwand, Leistung, operatives Geschäft, Primärtreiber, Rolle, Selbstorganisation, Subtreiber, Teilautonomie, Werte
+- **überarbeitet**: Bedenken, Governance, Einwand, Leistung, operatives Geschäft, Primärtreiber, Rolle, Selbstorganisation, Subtreiber, Teilautonomie, Werte
 - **hinzugefügt**: Delegation, Hilfsteam, Konstituente, Koordination, Offene Domäne, Wertfluss
 - **entfernt:** Nachbartreiber
 
@@ -48,10 +49,10 @@
 
 - Treiber für die Entwicklung von Soziokratie 3.0 hinzugefügt
 - Die sieben Prinzipien: 
-    - *The Principle of Empiricism*: removed reference to “falsification” 
-    - *The Principle of Consent* is now explained more clearly as “Raise, seek-out and resolve objections to decisions and actions” 
-- *Governance, Semi-Autonomy and Self-Organization*: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to “coordination”, and clarified the distinction between governance and operations
-- *Drivers and Domains* - we clarified how domains can be understood in relation to organizational drivers
+    - *Das Prinzip des Empirismus*: Verweis auf "Falsifizierung" entfernt 
+    - *Das Prinzip des Konsent* deutlicher formuliert als "Suche nach möglichen Einwänden gegen Entscheidungen, bringe sie ein, und kümmere dich darum, dass das in ihnen enthaltene Wissen integriert wird." 
+- *Governance Teilautonomie und Selbstorganisation*: überarbeitete Definition von Governance, operativen Tätigkeiten und Selbstorganisation, Entfernung des Begriffes "Koordination", bessere Erklärung des Unterschieds zwischen Governance und operativen Tätigkeiten
+- *Treiber und Domänen*: Erklärung, wie Domänen in Relation zu Treibern verstanden werden können
 
 **Änderungen der Muster:**
 
@@ -63,44 +64,44 @@
 - [Das angestrebte Ergebnis klären](section:clarify-intended-outcome) (umbenannt von *angestrebtes Ergebnis*): Beschreibung überarbeitet
 - [Konsententscheidung](section:consent-decision-making): Beschreibung und Illustration überarbeitet
 - [kontinuierliche Prozessverbesserung](section:continuous-improvement-of-work-process): Beschreibung überarbeitet
-- [Contract For Successful Collaboration](section:contract-for-successful-collaboration): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
-- [Coordination Meeting](section:coordination-meeting): clarified agenda items, updated illustration
+- [Verträge für erfolgreiche Zusammenarbeit](section:contract-for-successful-collaboration): Muster umbenannt, detaillierte Beschreibung von Vertragsverhandlungen und essentiellen Vertragsbestandteilen
+- [Koordinationsmeeting](section:coordination-meeting): Liste möglicher Tagesordnungspunkte hinzugefügt, Illustration überarbeitet
 - [Delegiertenkreis](section:delegate-circle): Beschreibung überarbeitet
 - [Einfluss delegieren](section:delegate-influence): : Beschreibung überarbeitet
 - [Leistungen definieren](section:describe-deliverables): Beschreibung überarbeitet
-- [Describe Organizational Drivers](section:describe-organizational-drivers): made explicit that a driver statement is typically only 1-2 sentences, revised section about explaining the need, moved the section about reviewing driver statements from *Respond to Organizational Drivers* to this pattern, and added a new illustration that explains *how* to describe organizational drivers
+- [Organisationstreiber beschreiben](section:describe-organizational-drivers): Klarstellung, dass zur Zusammenfassung eines Treibers i.d.R. nur 1-2 Sätze erforderlich sind, Überarbeitung des Abschnitts zur Beschreibung des Bedarfs, Integration des Abschnitts zum Review von Zusammenfassungen von Treibern aus dem Muster *Reagiere auf Organisationstreiber* in dieses Muster, neue Illustration, die erklärt, *wie* Organisationstreiber beschrieben werden.
 - [Doppelte Verbindung](section:double-linking): Beschreibung angepasst an *Verbindung*
-- [Double-Linked Hierarchy](section:double-linked-hierarchy): explained in more detail what a double-linked hierarchy is, and how it is created
-- [Evaluate and Evolve Agreements](section:evaluate-and-evolve-agreements): rearranged the text so it's clear there is a long and a short format
-- [Evaluation Criteria](section:evaluation-criteria): suggested clarifying a threshold for success, and we explained about evolving evaluation criteria with agreements
+- [Doppelt verbundene Hierarchie](section:double-linked-hierarchy): bessere Erklärung der doppelt verbundenen Hierarchie, und wie diese in Organisationen entwickelt werden kann
+- [Vereinbarungen entwickeln](section:evaluate-and-evolve-agreements): Text so umgestellt, dass es klarer wird, dass für das Review ein langes und ein kurzes Format existiert
+- [Evaluationskriterien](section:evaluation-criteria): Wir schlagen vor, einen klaren Schwellenwert für den Erfolg festzulegen, und wir erklären, dass im Rahmen der Entwicklung einer Vereinbarungen auch die Evaluationskriterien weiterentwickelt werden sollten
 - [Meetings moderieren](section:facilitate-meetings): Beschreibung überarbeitet
 - [Fraktalorganisation](section:fractal-organization): Beschreibung überarbeitet und erweitert
 - [Governance-Backlog:](section:governance-backlog) Beschreibung überarbeitet
 - [Governance-Meeting:](section:governance-meeting) Beschreibung überarbeitet, Agendapunkte genauer erläutert
 - [Veränderung einladen](section:invite-change): Beschreibung überarbeitet
 - [Kreise verbinden](section:linking): Beschreibung angeglichen an [doppelte Verbindung](section:double-linking)
-- [Logbook](section:logbook): clarified that there is no difference between logbooks for groups and logbooks for roles
-- [Navigate Via Tension](section:navigate-via-tension): improved description, added a new illustration to clarify the distinction between *Navigate Via Tension*, *Describe Organizational Drivers* and *Respond to Organizational Drivers*
-- [Objection](section:objection): clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
+- [Logbuch](section:logbook): Vereinheitlichung der Beschreibung von Logbüchern für Teams und Logbücher für eine Rolle
+- [Navigiere nach Spannung](section:navigate-via-tension): überarbeiteter Text, neue Illustration, die die Beziehung zwischen *Navigiere nach Spannung*, *Organisationstreiber beschreiben* und *Reagiere auf Organisationstreiber* verdeutlicht.
+- [Einwand](section:objection): klarere Abgrenzung der Begriffe "Einwand" und "Bedenken", Erklärung, wie man einen Einwand erkennt, und wie eine Gruppe vorgehen kann, um Einwände als solche zu bestimmen
 - [Offene Domäne](section:open-domain): Beschreibung und Illustration überarbeitet
 - [Offene Systeme](section:open-systems): Beschreibung überarbeitet
-- [Open Space for Change](section:open-space-for-change): renamed from *Open S3 Adoption*, improved description
+- [Den Raum für Veränderung öffnen](section:open-space-for-change): umbenannt von *S3 per Open-Space*, Beschreibung überarbeitet
 - [Pfirsichorganisation](section:peach-organization): Klärung der Beziehung zwischen Peripherie und Zentrum
-- [Proposal Forming](section:proposal-forming): revised text and illustration to make process of choosing tuners more clear, updated template for proposal to align with template for agreement
+- [Proposal Forming](section:proposal-forming): Text und Illustrationen überarbeitet, um die Auswahl der Gestalter klarer darzustellen, Vorlage für Vorschläge an die Vorlage für Vereinbarungen angepasst
 - [Repräsentant](section:representative): Beschreibung überarbeitet
 - [Einwände integrieren](section:resolve-objections) beide Illustrationen überarbeitet
-- [Respond to Organizational Drivers](section:respond-to-organizational-drivers): improved description, simplified qualification of organizational drivers
+- [Reagiere auf Organisationstreiber](section:respond-to-organizational-drivers): Beschreibung überarbeitet
 - [Rolle](section:role): Beschreibung überarbeitet
 - [Wahl](section:role-selection): Beschreibung überarbeitet, Erklärung der einzelnen Schritte
 - [Runden](section:rounds): Beschreibung überarbeitet
-- [Transparent Salary](section:transparent-salary): added more details about fairness, and on how to develop a salary formula
+- [Gehaltstransparenz](section:transparent-salary): mehr Details zu Fairness, und zur Erarbeitung einer Gehaltsformel 
 
 **Folgende Muster wurden umbenannt:**
 
 - *Vereinbarungen prüfen* in *Vereinbarungen entwickeln*
 - *Angestrebtes Ergebnis* in *Das angestrebte Ergebnis klären* 
 - *S3 per Open-Space* in *Den Raum für Veränderung öffnen*
-- *Contracting and Accountability* to *Contract For Successful Collaboration*
+- *Verantwortung und Verträge* in *Verträge für erfolgreiche Zusammenarbeit*
 
 **Folgende Muster wurden hinzugefügt:**
 
@@ -150,7 +151,7 @@
 - Kernkonzepte besser erklärt
 - handlungsorientierte Beschreibung der Prinzipien
 
-**Änderungen der Muster**
+**Änderungen der Muster:**
 
 - *Kunstvolle Teilnahme*: Beschreibung überarbeitet
 - *Vereinbarung*: Erklärung, dass das Konzept von Vereinbarungen auch innerhalb einer Rolle angewendet werden kann
@@ -160,7 +161,7 @@
 - *Entwicklungsplan*: Beschreibung überarbeitet und Vorlage aktualisiert
 - *Strategie entwickeln*: Beschreibung überarbeitet, klare Definition von Strategie
 - *doppelt verbundene Hierarchie*: neue Illustration
-- *Vereinbarungen prüfen*: Fragen an Entwicklungsgespräch angepasst
+- *Vereinbarungen prüfen*: Fragen an Peer-Review angepasst
 - *Steuerungsbacklog*: Beschreibung überarbeitet
 - *Logbuch*: Informationen zu Governance in persönlichen Logbüchern
 - *Einwände*: Abschnitt zur Qualifikation von Einwänden überarbeitet
@@ -175,7 +176,7 @@
 - *Backbone-Organisation* in *Serviceorganisation*
 - *Entwicklungsgespräch* (nur auf Englisch umbenannt)
 - *Strategie* in *Strategie entwickeln*
-- *Domänenbeschreibung* in *Domänen bestimmen*
+- *Domänenbeschreibung* in *Domänen klären*
 - *Leistungen definieren* (nur auf Englisch umbenannt)
 
 **Folgende Muster wurden hinzugefügt:**

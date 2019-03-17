@@ -10,7 +10,7 @@ _Eine **Timebox** ist ein festgelegter Zeitrahmen, der auf eine bestimmte Aktivi
 - um maximalen Nutzen aus der Timebox ziehen zu können, sollte das angestrebte Ergebnis vorher geklärt werden
 - die restliche zur Verfügung stehende Zeit sollte immer für alle Teilnehmer sichtbar sein
 - Verhandlungen über eine Verlängerung der Timebox sollten noch innerhalb der ursprünglichen Timebox abgeschlossen sein
-- längere Aktivitäten sollten in kleinere Timeboxen aufgeteilt werden
+- längere Aktivitäten sollten in kleinere Timeboxes aufgeteilt werden
 - auch innerhalb einer Timebox sollte der Fortschritt regelmäßig überprüft werden
 - manchmal hilft die Wahl eines "Zeit-Wächters", Timeboxen besser einzuhalten
 

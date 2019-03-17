@@ -1,5 +1,5 @@
 ---
-title: "Reagiere auf Organisationstreiber"
+title: "Auf Organisationstreiber reagieren"
 ---
 
 
@@ -21,7 +21,7 @@ Ein Treiber ist das Motiv einer Person oder Gruppe, auf eine bestimmte Situation
 
 Ob es sich bei einem Treiber um einen Organisationstreiber handelt, kann leicht mit folgender Frage geklärt werden:
 
-*Würde es der Organisation helfen, wenn wir auf diesen Treiber reagieren? Oder würde es schaden, wenn wir diesen Treiber ignorieren?*
+*Würde eine Antwort auf diesen Treiber den Wertfluss bezogen auf einen bestehenden Organisationstreiber verbessern? Kurz: Kann uns das helfen bzw. schaden?*
 
-[&#9654; Navigiere nach Spannung](navigate-via-tension.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+[&#9654; Navigation nach Spannung](navigate-via-tension.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

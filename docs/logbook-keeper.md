@@ -7,7 +7,7 @@ title: "Logbuchführer(in)"
 
 Der Logbuchführer ist verantwortlich für die Pflege des <dfn data-info="Logbuch: Ein (digitales) System zur Speicherung aller für die Organisation relevanten Informationen.">Logbuchs</dfn> einer Gruppe:
 
-- Dokumentation von relevanten Details zu <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn>, <dfn data-info="Domäne: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.">Domänenbeschreibungen</dfn>, [Wahlen](role-selection.html), Evalutionsterminen, Sitzungsprotokollen etc.
+- Dokumentation von relevanten Details zu <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn>, <dfn data-info="Domäne: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.">Domänenbeschreibungen</dfn>, [Wahlen](role-selection.html), Evaluationsterminen, Sitzungsprotokollen etc.
 - Organisation der Information, und Verbesserung des Logbuch-Systems
 - Aktualisierung des Logbuchs
 - Sicherstellung des Zugangs zum Logbuch für alle Mitglieder des Teams (sowie der restlichen Organisation, falls keine abweichende Vereinbarung getroffen wurde)

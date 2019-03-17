@@ -39,5 +39,5 @@ Bestimme für jeden Agendapunkt
 - bringe eventuelle Einwände gegen die Agenda vor, und kümmere dich darum, diese vor dem Meeting aufzulösen, soweit das möglich ist
 - gehe Verbesserungsvorschläge aus der Evaluation des vorhergehenden Meetings durch, und überlege, wie **du** diese umsetzen kannst
 
-[&#9654; Check In](check-in.html)<br/>[&#9664; Meetings moderieren](facilitate-meetings.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
+[&#9654; Check-In](check-in.html)<br/>[&#9664; Meetings moderieren](facilitate-meetings.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
 

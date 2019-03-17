@@ -28,5 +28,5 @@ Lade die Teilnehmer ein, sich Gedanken zu den folgenden Themen zu machen, und mo
 - Verbesserungsvorschläge ("Ich wünschte …")
 - Wilde Ideen und radikale Vorschläge ("Was wäre, wenn …")
 
-[&#9654; Gastgeber(in)](meeting-host.html)<br/>[&#9664; Check In](check-in.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
+[&#9654; Gastgeber(in)](meeting-host.html)<br/>[&#9664; Check-In](check-in.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
 

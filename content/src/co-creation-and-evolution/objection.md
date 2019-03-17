@@ -41,7 +41,7 @@ Wenn alle Teilnehmer dem Argument zustimmen, handelt es sich üblicherweise um e
 Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
 - Inwiefern bezieht ich dieses Argument auf diesen Vorschlag bzw. diese Vereinbarung?
-- Zeigt dieser Einwand auf, wie eine (vorgeschlagene oder bestehende) **Aktivität oder Vereinbarung**: 
+- Zeigt dieser Einwand auf, wie eine (vorgeschlagene oder bestehende) **Aktivität oder Vereinbarung …**: 
     - die Reaktion auf einen Organisationstreiber beeinträchtigt?
     - hier und jetzt verbessert werden kann?
     - dem Beitrag eines Beteiligten im Weg steht?
@@ -52,7 +52,7 @@ Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
 {{define:concern}}
 
-In einer [Konsententscheidung](section:consent-decision-making) können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
+In einer [Konsent-Entscheidung](section:consent-decision-making) können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
 
 Bringe Bedenken ein, wenn du sie als wichtig erachtest, und protokolliere sie im mindesten Falle mit Evaluationskriterien.
 

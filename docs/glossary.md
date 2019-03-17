@@ -6,7 +6,7 @@ title: Glossar
 
 **Angestrebtes Ergebnis**: Das erwartete Ergebnis einer Vereinbarung, Aktion, Projekt oder Strategie.
 
-**Arbeitsbacklog**: Eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
+**Arbeits-Backlog**: Eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
 
 **Backlog**: Eine Liste von (meist priorisierten) offenen Aufgaben (Leistungen), oder Treibern, die noch bearbeitet werden müssen.
 
@@ -34,7 +34,7 @@ title: Glossar
 
 **Gleichstellung (Prinzip)**: Beziehe Menschen in die sie betreffenden Entscheidungen und deren Entwicklung ein.
 
-**Governance**: Alle Tätigkeiten, die mit der Festlegung von Zielen und den aus diesen Zielen resultierenden Steuerungsaufgaben zu tun haben: Menschen mit der entsprechenden Befugnissen treffen bewusst Entscheidungen, die die Wertschöpfung  der Organisation (und die der Teams und Personen innerhalb der Organisation)  mittel- und langfristig steuern, und entwickeln diese Entscheidungen stetig anhand der gewonnenen Erkenntnisse weiter. Diese Entscheidungen begrenzen Handlungsspielräume, lenken zukünftige Entscheidungen, Verteilen Ressourcen und legen Details zu Leistungen fest.
+**Governance**: Die Summer aller Aktivitäten, die dazu dienen, Ziele zu bestimmen und dann die Entscheidungen zu treffen und weiterzuentwickeln, die die Menschen dahin führen, diese Ziele zu erreichen.
 
 **Hilfsteam**: Eine Team aus gleichgestellten Mitarbeitern, an die die Umsetzung konkreter Anforderungen delegiert wird.
 
@@ -74,7 +74,7 @@ title: Glossar
 
 **Rolle**: Ein Domäne, die an eine Einzelperson delegiert wird.
 
-**Selbstorganisation**: Alle Aktivitäten und Prozesse, durch die sich eine Gruppe mittels lokaler Interaktionen und ohne externen Einfluss organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.
+**Selbstorganisation**: Alle Aktivitäten und Prozesse, durch die ein Team seine tägliche Arbeit ohne externen Einfluss, aber im Rahmen der durch Governance vorgegebenen Grenzen selbst organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.
 
 **Selbststeuerung**: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
 
@@ -98,7 +98,7 @@ title: Glossar
 
 **Team**: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.
 
-**Teilautonomie**: Die Freiheit der Beauftragten, selbst zu entscheiden, wie sie in ihrer Domäne Wert schöpfen  werden, die dann weiter begrenzt wird durch ihre eigenen Steuerungsentscheidungen, und durch Einwände (u.A. von der Delegierenden und von Repräsentanten).
+**Teilautonomie**: Die Freiheit der Beauftragten, selbst zu entscheiden, wie sie in ihrer Domäne Wert schöpfen  werden, die zusätzlich durch ihre eigenen Steuerungsentscheidungen sowie durch Einwände (u.A. von der Delegierenden und von Repräsentanten) begrenzt wird.
 
 **Timebox**: Ein festgelegter Zeitrahmen, der auf eine bestimmte Aktivität verwendet wird. Am Ende der Timebox ist die Aktivität nicht zwingend abgeschlossen.
 
