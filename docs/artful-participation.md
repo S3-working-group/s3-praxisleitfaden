@@ -19,8 +19,6 @@ Kunstvolle Teilnahme kann im Einzelfall auch bedeuten, andere zu unterbrechen, E
 
 ### Vorteile der kunstvollen Teilnahme
 
-![Bringe Autonomie und Zusammenarbeit in Einklang durch kunstvolle Teilnahme](img/illustrations/balance-autonomy-collaboration-alt.png)
-
 Kunstvolle Teilnahme:
 
 - ermöglicht Mitgestaltung und Entwicklung von Vereinbarungen
@@ -28,6 +26,8 @@ Kunstvolle Teilnahme:
 - fördert Selbstverantwortung, Integrität und Vertrauen
 - unterstützt eine Kultur der gegenseitigen Unterstützung und der engen Zusammenarbeit
 - die ist noch wirksamer, wenn sich mehrere Mitarbeiter dazu entschliessen
+
+![Praktiziere kunstvolle Teilnahme, um ein ausgewogenes Verhältnis zwischen Autonomie und Zusammenarbeit herzustellen.](img/illustrations/balance-autonomy-collaboration-alt.png)
 
 ### Kunstvolle Teilnahme: Selbsteinschätzung
 

@@ -25,7 +25,7 @@ title: "Proposal Forming"
 
 **Ideen sammeln** als mögliche Bestandteile eines Vorschlags
 
-**Formulieren eines Vorschlags** zur Antwort auf den Treiber, unter Berücksichtigung der gesammelten Ideen und Informationen. Dieser Schritt erfolgt typischerweise in einer kleineren Gruppe von "Gestaltern".
+**Ausformulieren eines konkreten Vorschlags** zur Antwort auf den Treiber, und unter Berücksichtigung der gesammelten Ideen und Informationen. Dieser Schritt erfolgt typischerweise in einer kleineren Gruppe von "Gestaltern".
 
 ### Gestalter bestimmen
 

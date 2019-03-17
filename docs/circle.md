@@ -8,7 +8,7 @@ _Ein **Kreis** ist ein teilautonomes und selbststeuerndes Team gleichgestellter 
 Ein Kreis …
 
 - kann andauernd oder zeitlich begrenzt bestehen
-- kann <dfn data-info="Selbstorganisation: Alle Aktivitäten und Prozesse, durch die sich eine Gruppe mittels lokaler Interaktionen und ohne externen Einfluss organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.">selbstorganisierend</dfn> sein
+- kann <dfn data-info="Selbstorganisation: Alle Aktivitäten und Prozesse, durch die ein Team seine tägliche Arbeit ohne externen Einfluss, aber im Rahmen der durch Governance vorgegebenen Grenzen selbst organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.">selbstorganisierend</dfn> sein
 - ist selbst für seine Entwicklung und seine <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn> verantwortlich
 
 - **teilautonom**:

@@ -8,8 +8,8 @@ title: "Einfluss delegieren"
 Die <dfn data-info="Delegierende: Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.">Delegierende</dfn> kann die <dfn data-info="Beauftragte: Eine Person oder Gruppe, die die Verantwortlichkeit für eine Domäne übernimmt.">Beauftragten</dfn> dabei unterstützen, Wert zu schaffen: 
 
 - Der Autonomie- und Verantwortungsbereich ist klar definiert.
-- Gelegenheiten zum Lernen und zur Weiterentwicklung sind sicherstellt
-- Nach Bedarf wird weitere Unterstützung geleistet
+- Gelegenheiten zum Lernen und zur Weiterentwicklung sicherstellt
+- sonstige benötigte Unterstützung bereitstellt
 
 Korrigiere Rahmenbedingungen schrittweise, berücksichtige dabei Fähigkeit, Zuverlässigkeit und erzielte Ergebnisse.
 

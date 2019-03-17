@@ -3,7 +3,7 @@ title: "Kontinuierliche Verbesserung des Arbeitsablaufs"
 ---
 
 
-**Entdecke Treiber und etabliere ein metrikbasiertes Pull-System für Veränderungen in der Organisation durch kontinuierliche Verbesserungen und eine Verfeinerung der Arbeitsabläufe.**
+**Entdecke Treiber und etabliere ein metrik-basiertes Pull-System für Veränderungen in der Organisation durch kontinuierliche Verbesserungen und eine Verfeinerung der Arbeitsabläufe.**
 
 - führe für ein Team das Konsent-Prinzip und das Muster [Navigiere nach Spannung](navigate-via-tension.html) ein, so dass das Team seine Arbeitsabläufe selbst verbessern kann
 - erwäge die Wahl eines Moderators um Gruppenprozesse zu begleiten und die Einigung auf gemeinsame Werte, an denen sich das Team orientiert

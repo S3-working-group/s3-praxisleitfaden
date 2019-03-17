@@ -9,7 +9,7 @@ Ein Hilfsteam:
 
 - bietet der <dfn data-info="Delegierende: Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.">Delegierenden</dfn> eine Möglichkeit, ihre Kapazität zu erhöhen
 - kann selbstorganisiert sein oder durch einen [Koordinator](coordinator.html) gesteuert werden, der in der Regel von der Delegierenden bestimmt wird
-- alle Steuerungsentscheidungen werden von der Delegierenden getroffen
+- wird von der Delegierenden geführt
 - profitiert von einer klar definierten <dfn data-info="Domäne: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.">Domäne</dfn>
 
 Mitglieder eines Hilfsteams:

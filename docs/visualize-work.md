@@ -5,7 +5,7 @@ title: "Arbeit visualisieren"
 
 **Führe alle Arbeitsaufgaben in einem System, dass es allen Stakeholdern einfach ermöglicht, sich über den Status aller geplanten, bearbeiteten und erledigten Aufgaben zu informieren.**
 
-- essentiell für <dfn data-info="Selbstorganisation: Alle Aktivitäten und Prozesse, durch die sich eine Gruppe mittels lokaler Interaktionen und ohne externen Einfluss organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.">Selbstorganisation</dfn> und Pull-Systeme
+- essentiell für <dfn data-info="Selbstorganisation: Alle Aktivitäten und Prozesse, durch die ein Team seine tägliche Arbeit ohne externen Einfluss, aber im Rahmen der durch Governance vorgegebenen Grenzen selbst organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.">Selbstorganisation</dfn> und Pull-Systeme
 - das System muss für alle Betroffenen zugänglich sein
 - **analog**: Haftnotizen an der Wand, oder Karteikarten, Magnete und Whiteboard
 - **digital**: [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
