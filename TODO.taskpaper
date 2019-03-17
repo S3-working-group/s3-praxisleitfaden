@@ -1,8 +1,11 @@
 Release v2019-03-08-de:
 	- check pattern index @done
-	- download latest translations
+	- download latest translations @done
 	- get updated illustrations @done
-	- full build
+	- full build @done
 	- publish
 Known Issues:
 	- pattern links are (sometimes??) not rendered correctly in the pdf (e.g. in "Hilfsrolle") @done
+	- insert a blank line at the end of each index file (apparently not a problem in the english build??) @done
+	- Twitter Link is broken in the epub! @done
+	
