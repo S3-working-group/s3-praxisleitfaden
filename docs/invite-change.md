@@ -1,14 +1,20 @@
 ---
-title: "Zu Veränderung einladen"
+title: "Veränderung einladen"
 ---
 
 
-**Ein Ansatz für einzelne Personen, um Wandel auszulösen und zu begleiten.**
+**Erkläre, warum die Veränderung notwendig ist, und lade die Menschen ein, am Veränderungsprozess teilzuhaben.**
 
-- Verhalte dich selbst so, wie Du es Dir auch von anderen wünschst.
-- Verwende S3-Muster und passe sie an, wann immer das nützlich erscheint
-- Erzähle darüber, wie und warum Du S3-Muster verwendest, und erkläre Ergebnisse, Erfolge und Scheitern
-- Lade dazu ein, mit Dir zu experimentieren
+Zur Veränderung einzuladen (anstatt sie einzufordern) reduziert Widerstände und ermöglicht den Betroffenen, selbst Entscheidungen zu treffen.
 
-[&#9654; S3 per Open-Space](open-s3-adoption.html)<br/>[&#9664; Als Beispiel dienen](be-the-change.html)<br/>[&#9650; S3 einführen](bringing-in-s3.html)
+Bei der Einladung:
+
+- sei offen in Bezug auf den Grund für die Veränderung
+- kläre Erwartungen und Grenzen des Handlungsspielraumes
+- vermeide Druck oder Manipulation
+- schaffe den Raum für Skepsis und Zweifel
+
+Beteilige die Betroffenen an der regelmäßigen Evaluation der Ergebnisse.
+
+[&#9654; Den Raum für Veränderung öffnen](open-space-for-change.html)<br/>[&#9664; Als Beispiel dienen](be-the-change.html)<br/>[&#9650; S3 einführen](bringing-in-s3.html)
 

@@ -3,15 +3,17 @@ title: "Delegiertenkreis"
 ---
 
 
-![right,fit](img/structural-patterns/delegate-circle.png)
+**Delegiere die Entscheidungsbefugnis für Treiber, die mehrere Domänen betreffen an einen Kreis aus Delegierten.**
 
-**Entscheide gemeinsam über den Umgang mit Treibern, die mehrere Domänen betreffen.**
+Stakeholder entsenden [Repräsentanten](representative.html), die einen Delegiertenkreis bilden, der die <dfn data-info="Governance: Die Summer aller Aktivitäten, die dazu dienen, Ziele zu bestimmen und dann die Entscheidungen zu treffen und weiterzuentwickeln, die die Menschen dahin führen, diese Ziele zu erreichen.">Steuerungs-Entscheidungen</dfn> trifft, die mehrere (oder alle) Stakeholder betreffen.
 
-Die Entscheidungen eines Delegiertentenkreises werden in den einzelnen Domänen ausgeführt, denen dieser Kreis dient.
+![Delegiertenkreis](img/structural-patterns/delegate-circle.png)
 
-Jeder Kreis wählt ein oder mehrere Mitglieder als Vertreter in den Delegiertenkreis.
+Die Entscheidungen eines Delegiertentenkreises werden in den einzelnen <dfn data-info="Domäne: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.">Domänen</dfn> ausgeführt, denen dieser Kreis dient.
 
-Delegiertenkreise steuern eine Organisation nach dem Wertfluss, und ermöglichen die Integration einer Vielfalt an Perspektiven in Steuerungsentscheidungen.
+Delegiertenkreise steuern eine Organisation anhand des <dfn data-info="Wertfluss: Leistungen wandern durch die Organisation hin zum Kunden bzw. zu sonstigen Stakeholdern.">Wertflusses</dfn>, und ermöglichen die Integration einer Vielfalt an Perspektiven in Steuerungsentscheidungen. 
 
-[&#9654; Delegiertenkreis](delegate-circle.html)<br/>[&#9664; Doppelt verbundene Hierarchie](double-linked-hierarchy.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
+Ein Delegiertenkreis kann weitere Personen (z.B. externe Experten) hinzuziehen, die ihn bei einzelnen Entscheidungen oder auch als permanente Mitglieder unterstützen.
+
+[&#9654; Pfirsichorganisation](peach-organization.html)<br/>[&#9664; Servicekreis](service-circle.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
 

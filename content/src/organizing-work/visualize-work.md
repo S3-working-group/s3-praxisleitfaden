@@ -1,19 +1,15 @@
 ## Arbeit visualisieren
 
-![right,fit](img/workflow-and-value/simple-process.png)
+**Führe alle Arbeitsaufgaben in einem System, dass es allen Stakeholdern einfach ermöglicht, sich über den Status aller geplanten, bearbeiteten und erledigten Aufgaben zu informieren.**
 
-Transparenz bzgl. des Status aller Arbeitsaufgaben, die anstehen, in Arbeit sind, oder bereits abgeschlossen wurden.
-
-- essentiell für Selbstorganisation und Pull-Systeme
+- essentiell für [Selbstorganisation](glossary:self-organization) und Pull-Systeme
 - das System muss für alle Betroffenen zugänglich sein
 - **analog**: Haftnotizen an der Wand, oder Karteikarten, Magnete und Whiteboard
-- **digital**: Trello, Kanbanery, Leankit, Jira, Google Sheets, etc.
+- **digital**: [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
-* * *
+![Visualisierung eines einfachen Arbeitsprozesses](img/workflow-and-value/simple-process.png)
 
 ### Für jede Arbeitsaufgabe sollten folgende Dinge ersichtlich sein:
-
-![right,fit](img/workflow-and-value/card.png)
 
 - **Art der Aufgabe** (z.B. Kundenwunsch, Projektaufgabe, Report, Nachbesserung)
 - **Startdatum** (und **Fälligkeitsdatum** falls erforderlich)
@@ -21,5 +17,7 @@ Transparenz bzgl. des Status aller Arbeitsaufgaben, die anstehen, in Arbeit sind
 - **Zustand** der Aufgabe (z.B. "unerledigt", "in Arbeit", "Review" and "erledigt")
 - Hindernisse oder Blockaden
 - Bearbeiter
-- Vereinbarungen und Erwartungen zum Arbeitsablauf (z.B. Definition of Done, Policies, Qualitätsstandards)
+- [Vereinbarungen](glossary:agreement) und Erwartungen zum Arbeitsablauf (z.B. Definition of Done, Policies, Qualitätsstandards)
 - nutze Farben, Symbole, Highlights etc.
+
+![Eine Karte für eine Arbeitsaufgabe](img/workflow-and-value/card.png)

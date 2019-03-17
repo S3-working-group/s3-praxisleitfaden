@@ -1,18 +1,15 @@
 ## Strategie entwickeln
 
-![right,fit](img/driver-domain/driver-strategy-agreements-domain.png)
-
 {{define:strategy}}
 
-- die Strategie wird jeweils von der Organisation, Gruppe bzw. dem Mitarbeiter in der Rolle selbst erarbeitet
-- eine Strategie enthält typischerweise eine Beschreibung des angestrebten Ergebnisses
-- da die Delegierende weiterhin für die Domäne verantwortlich bleibt, ist es hilfreich, wenn sie die Strategie prüft, potenzielle Hindernisse identifiziert und Verbesserungsvorschläge einbringt 
-- die Strategie ist eine Vereinbarung zwischen Delegierender und Domänenverantworliche(n), die regelmäßig geprüft und angepasst werden sollte
+Es ist in der Regel effektiver, wenn ein Team bzw. ein Rolleninhaber bei der Entwicklung der eigenen Strategie die Führung übernimmt.
 
-* * *
+Eine Strategie enthält typischerweise eine Beschreibung des [angestrebten Ergebnisses](glossary:intended-outcome).
 
-## Strategie entwickeln (…)
+Da die [Delegierende](glossary:delegator) weiterhin für die [Domäne](glossary:domain) verantwortlich bleibt, ist es hilfreich, wenn sie die von den [Beauftragten](glossary:delegatee) vorgeschlagene Strategie prüft, um potenzielle Hindernisse zu identifizieren und entsprechende Verbesserungen vorzuschlagen.
 
-### Strategien werden durch Experimente umgesetzt und mit den gewonnenen Erkenntnissen iterativ verfeinert.
+Die Strategie ist eine gemeinsame Vereinbarung zwischen Delegierender und Beauftragten, die regelmäßig geprüft und angepasst werden sollte.
 
-![right,fit](img/evolution/domain-driver-strategy-exeriments.png)
+![Strategien werden durch Experimente validiert und mit den daraus gewonnenen Erkenntnissen iterativ verfeinert.](img/evolution/domain-driver-strategy-exeriments.png)
+
+Strategien werden durch Experimente validiert und mit den daraus gewonnenen Erkenntnissen iterativ verfeinert.

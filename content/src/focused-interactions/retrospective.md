@@ -1,19 +1,13 @@
 ## Retrospektive
 
-Kontinuierliche Verbesserung der Arbeitsabläufe durch Reflexion und Lernen aus der Vergangenheit
+**Nimm dir Zeit, über die gemachten Erfahrungen nachzudenken, zu Erkenntnisse zu gewinnen, und Arbeitsprozesse zu verbessern.**
 
-- Ergebnis: Änderungen am Arbeitsprozess, neue Aufgaben, ad-hoc Vereinbarungen, sowie Treiber, die eine Vereinbarungen erfordern
+- Ergebnis: Änderungen am Arbeitsprozess, neue Aufgaben, [ad-hoc-Vereinbarungen](glossary:agreement), sowie [Treiber](glossary:organizational-driver), die eine Vereinbarungen erfordern
 - moderiertes Meeting (ca. 1h)
 - findet in regelmäßigen Abständen statt (1-4 Wochen)
 - Format wird jeweils an Situation und Kontext angepasst
 
-* * *
-
-### Ergebnis einer Retrospektive
-
-![inline,fit](img/meetings/retrospective.png)
-
-* * *
+![Ergebnisse einer Retrospektive](img/meetings/retrospective.png)
 
 ### Fünf Phasen einer Retrospektive
 

@@ -1,0 +1,22 @@
+\documentclass[a5paper]{scrreprt}
+\usepackage[ngerman]{babel} % Deutsche Sprachanpassungen
+\usepackage{ebook-style}
+
+\title{${_("Sociocracy 3.0 - A Practical Guide")}}
+\author{Bernhard Bockelbrink\\James Priest\\Liliana David}
+\date{${version}}
+\titlepic{\includegraphics[width=6cm]{./img/framework/logo.png}}
+	
+\begin{document}
+	\maketitle
+	% different title for toc
+	\renewcommand{\contentsname}{${_("Contents")}}
+	\pagenumbering{arabic}
+	% limit toc to sections
+	\setcounter{tocdepth}{1}
+	\tableofcontents
+	% reset counter for list of figures
+    \include{tmp-ebook-compiled}
+	\setcounter{tocdepth}{1}
+	\listoffigures
+\end {document}

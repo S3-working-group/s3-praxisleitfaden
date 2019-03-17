@@ -3,14 +3,18 @@ title: "Pfirsichorganisation"
 ---
 
 
-![right,fit](img/structural-patterns/peach-organization.png)
+**Wertschöpfung in komplexen und kompetitiven Umgebungen durch *Dezentralisierung* (von Ressourcen und Einfluss) und *direkte Interaktion* zwischen Mitarbeitern und den Kunden, für die sie Wert schöpfen.**
 
-Wertschöpfung in komplexen und kompetitiven Umgebungen durch **Dezentralisierung** (von Ressourcen und Einfluss) und **direkte Interaktion** zwischen Mitarbeitern und den Kunden, für die sie Wert schöpfen.
+Die Teams in der Peripherie
 
-- Kreise in der Peripherie schaffen Wert in direktem Austausch mit der Außenwelt (Kunden, Partner, Kommunen, Communities etc.) 
-- das Zentrum erbringt Dienstleistungen, um die Peripherie zu unterstützen
-- die Peripherie verwaltet die Finanzen und steuert die Organisation
-- verbinde Domänen so, dass Abhängigkeiten über den Fluss von Informations und Einfluss abgebildet werden
+- … schaffen Wert in direktem Austausch mit der Außenwelt (Kunden, Partner, Kommunen, Communities etc.) 
+- …verwalten die Finanzen und steuern die Organisation
 
-[&#9654; Pfirsichorganisation](peach-organization.html)<br/>[&#9664; Servicekreis](service-circle.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
+Das Zentrum erbringt Dienstleistungen, um die Peripherie zu unterstützen.
+
+<dfn data-info="Domäne: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.">Domänen</dfn> werden so verbunden, dass die zu Entscheidungen erforderlichen Einflussmöglichkeiten geschaffen werden, und um Zusammenarbeit bei gegenseitigen Abhängigkeiten zu ermöglichen.
+
+![Pfirsichorganisation](img/structural-patterns/peach-organization.png)
+
+[&#9654; Doppelt verbundene Hierarchie](double-linked-hierarchy.html)<br/>[&#9664; Delegiertenkreis](delegate-circle.html)<br/>[&#9650; Organisationsstruktur](organizational-structure.html)
 

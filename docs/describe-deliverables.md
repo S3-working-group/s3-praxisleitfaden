@@ -3,22 +3,16 @@ title: "Leistungen definieren"
 ---
 
 
-Eine **Leistung** wird als Ergebnis einer Vereinbarung in Reaktion auf einen Treiber angeboten. Leistungen umfassen Produkte, Materialien, Dienstleistungen, Erfahrungen und Transformationen.
+**Definiere alle auf eine Vereinbarung bezogenen Leistungen, um ein gemeinsames Verständnis der mit dieser Vereinbarung einhergehenden Erwartungen zu ermöglichen.**
 
-Im Kontext einer Vereinbarung unterstützt die klare Definition von Leistungen das gemeinsame Verständnis:
+_Eine **Leistung** ist ein Produkt, eine Dienstleistung, eine Komponente oder ein Rohstoff, der als Reaktion auf einen Organisationstreiber hergestellt bzw. bereitgestellt wird._
+
+Bei der Beschreibung von Leistungen ist es hilfreich
 
 - beschreibe ausreichend detailliert
-- beziehe dich auf andere Dokumente, wo hilfreich oder notwendig
+- auf existierende Dokumente zu verweisen
 
+Leistungen klar zu beschreiben verbessert nicht nur Kommunikation und Zusammenarbeit innerhalb der Organisation, sondern auch mit Kunden und externen Partnern.
 
-
-Leistungen explizit zu definieren kann hilfreich sein zur Weiterentwicklung:
-
-- der Strategie der Organisation
-- der Strategie eines Kreises
-- eines Entwicklungsplans für einerRolle oder einen Kreises
-- der Beschreibung einer Domäne
-- jeder anderen Vereinbarung (z.B. wirtschaftliche Ziele, Arbeitsprozesse, Kundenkommunikation)
-
-[&#9654; Evaluationskriterien](evaluation-criteria.html)<br/>[&#9664; Angestrebtes Ergebnis](intended-outcome.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
+[&#9654; Evaluationskriterien](evaluation-criteria.html)<br/>[&#9664; Das angestrebte Ergebnis klären](clarify-intended-outcome.html)<br/>[&#9650; Klare Vereinbarungen](defining-agreements.html)
 

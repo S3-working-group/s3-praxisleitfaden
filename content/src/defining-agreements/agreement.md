@@ -1,17 +1,15 @@
 ## Vereinbarung
 
-![right,fit](img/evolution/driver-agreement-improvement.png)
-
 {{define:agreement}}
 
-- Vereinbarungen beziehen sich auf Treiber 
-- die **Verantwortung** für eine Vereinbarung liegt bei den Personen, die diese Vereinbarung getroffen haben
-- Vereinbarungen werden **regelmäßig geprüft**
+Vereinbarungen entstehen in Reaktion auf [Organisationstreiber](glossary:organizational-driver), und werden **regelmäßig evaluiert und weiterentwickelt.**
 
-**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können wie Vereinbarungen behandelt werden.
+**Verantwortlich für eine Vereinbarung** sind diejenigen Personen, die sie getroffen haben
 
-* * *
+Eine Vereinbarung kann die auch die **Delegation von Verantwortung** an bestimmte Personen oder Teams beinhalten
 
-### Vorlage für Vereinbarungen
+Dokumentiere alle **Erwartungen**, die im Rahmen einer Vereinbarung in Bezug auf [Leistungen](glossary:deliverable), Verhalten oder Ressourcen bestehen.
 
-![inline,fit](img/templates/agreement-template.png)
+**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, werden ebenfalls als Vereinbarungen betrachtet.
+
+![Vorlage für Vereinbarungen](img/templates/agreement-template.png)

@@ -1,10 +1,12 @@
-## Repräsentant (Rolle)
+## Repräsentant(in)
+
+**Wähle ein Teammitglied, das das Team in den Steuerungsentscheidungen eines anderen Teams vertritt, um Mitwirkung und Informationsfluss sicherzustellen.**
 
 Repräsentanten (auch: Delegierte oder Vertreter):
 
-- vertreten die Interessen einer Gruppe in einer anderen Gruppe
+- vertreten die Interessen eines [Teams](glossary:team) in einem anderen Team
 - werden für einen befristeten Zeitraum gewählt
-- nehmen als vollwertige Mitglieder an den **Steuerungsentscheidungen** der Gruppe, in die sie delegiert wurden teil. Dort können sie: 
+- nehmen an den **Steuerungsentscheidungen** des anderen Teams teil und können: 
     - Agendapunkte vorschlagen
     - an der Ausarbeitung von Vorschlägen mitwirken
-    - (begründete) Einwände gegen Vereinbarungen oder Vorschläge erheben
+    - [Einwände](glossary:objection) gegen Vorschläge und bestehenden [Vereinbarungen](glossary:agreement) einbringen

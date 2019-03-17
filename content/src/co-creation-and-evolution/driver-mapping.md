@@ -1,17 +1,9 @@
 ## Driver Mapping
 
-Ein Workshop-Format um einer komplexen Situation effektiv zu begegnen: Unternehmensgründung, Projektbeginn, Umgang mit Hindernissen oder Chancen, oder die Ausrichtung der Organisationsstruktur am Wertfluss.
+Ein Workshop-Format um einer komplexen Situation effektiv zu begegnen: Unternehmensgründung, Projektbeginn, Umgang mit Hindernissen bzw. Chancen, oder die Entwicklung einer Organisationsstruktur, die den [Wertfluss](glossary:flow-of-value) unterstützt.
 
-Kleine oder grosse Gruppen identifizieren und priorisieren Treiber, um in selbstorganisierenden Teams schnell vom Konzept zur Umsetzung zu gelangen.
+Kleine oder grosse Gruppen identifizieren und organisieren Treiber, um dann in selbstorganisierenden Gruppen schnell von Konzept zu Umsetzung zu gelangen.
 
-* * *
+![Driver Mapping: Ablauf](img/facilitation-guides/driver-mapping-fg-print.png)
 
-## Driver Mapping (…)
-
-![inline,fit](img/facilitation-guides/driver-mapping-fg-print.png)
-
-* * *
-
-### Driver Mapping: Vorlage für Domänen
-
-![inline,fit](img/templates/domain-template.png)
+![Driver Mapping: Vorlage für Domänen](img/templates/domain-template.png)

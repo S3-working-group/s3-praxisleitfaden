@@ -3,25 +3,20 @@ title: "Koordinationsmeeting"
 ---
 
 
-**Halte regelmäßige Treffen (typischerweise wöchentlich), um Bericht zu erstatten und Arbeitsaufgaben zu koordinieren.**
+**Halte regelmäßige Treffen (typischerweise wöchentlich), um Bericht zu erstatten und Arbeitsaufgaben über Domänengrenzen hinweg zu koordinieren.**
 
-- sorge für Moderation, und bevorzuge Runden (anstatt Diskussionen)
-- erstelle die Agenda möglichst vor dem Meeting: 
-    - stelle alle Informationen bereit, die die Teilnehmer zur Vorbereitung benötigen
+- moderiere das Meeting (bestimme einen festen Zeitrahmen für jeden Austausch, und bevorzuge Runden statt Diskussionen)
+- falls nützlich, erstelle vor dem Meeting eine Agenda und verteile sie vorher an die Teilnehmer 
+    - informiere die Teilnehmer im Vorfeld über notwendige Vorbereitungsaufgaben
     - aus den Berichten können sich während des Meetings neue Agendapunkte ergeben
 
+Agendapunkte
 
-## Koordinationsmeeting
+- domänenübergreifende Synchronisation und Ausrichtung
+- Priorisierung von Arbeitsaufgaben 
+- Hindernisse behandeln
 
-![right,fit](img/meetings/coordination-meeting.png)
+![Die Phasen eines Koordinationsmeetings](img/meetings/coordination-meeting.png)
 
-- Statusberichte: 
-    - Kreismetriken (falls vorhanden)
-    - Projekte und Aufgaben
-- Agendapunkte 
-    - Informationen weitergeben
-    - Aufgaben und Projekte aktualisieren oder erfassen
-    - neue Vereinbarungen treffen oder bestehende aktualisieren
-
-[&#9654; Mitgestaltung ermöglichen](enablers-of-co-creation.html)<br/>[&#9664; Planungs- und Review-Meetings](planning-and-review-meetings.html)<br/>[&#9650; Fokussierte Interaktionen](focused-interactions.html)
+[&#9654; Effektive Meetings](meeting-practices.html)<br/>[&#9664; Planung und Review](planning-and-review-meetings.html)<br/>[&#9650; Fokussierte Interaktionen](focused-interactions.html)
 

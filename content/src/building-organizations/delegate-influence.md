@@ -1,13 +1,13 @@
 ## Einfluss delegieren
 
-Dezentralisiere Macht in klar definierten Grenzen. Befähige Mitarbeiter, bei der Reaktion auf Organisationstreiber selbst zu entscheiden und zu handeln.
+**Delegiere nicht nur Arbeit, sondern auch Entscheidungskompetenz, um den Mitarbeitern zu ermöglichen, so autonom wie möglich wert zu schöpfen.**
 
-Die Delegierende unterstützt die Wertschöpfung der Mitarbeiter durch:
+Die [Delegierende](glossary:delegator) kann die [Beauftragten](glossary:delegatee) dabei unterstützen, Wert zu schaffen: 
 
-- klare Definition des Verantwortungs- und Autonomiebereichs
-- Gewährleistung von fortwährendem Lernen und Weiterentwicklung
-- weitere Unterstützung nach Bedarf
+- Der Autonomie- und Verantwortungsbereich ist klar definiert.
+- Gelegenheiten zum Lernen und zur Weiterentwicklung sicherstellt
+- sonstige benötigte Unterstützung bereitstellt
 
 Korrigiere Rahmenbedingungen schrittweise, berücksichtige dabei Fähigkeit, Zuverlässigkeit und erzielte Ergebnisse.
 
-Dezentralisiere so weit wie möglich, behalte so viel Einfluss wie nötig.
+Dezentralisiere so weit wie möglich, behalte so viel Einfluss wie erforderlich.

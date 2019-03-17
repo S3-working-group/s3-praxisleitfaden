@@ -3,12 +3,12 @@ title: Glossar
 continued: (…)
 terms:
   accountability:
-    name: Verantwortung
-    definition: ""
+    name: Verantwortung (Prinzip)
+    definition:
     glossary: Handle, wenn es erforderlich ist; befolge, was Du vereinbart hast und behalte die gesamte Organisation im Blick.
   account:
     name: (etwas) verantworten
-    glossary: Die Verantwortung für etwas übernehmen, das getan werden muss.
+    glossary: die Verantwortung für etwas übernehmen.
   agreement:
     name: Vereinbarung
     definition: Eine **Vereinbarung** ist eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.
@@ -18,40 +18,55 @@ terms:
     glossary: Der Prozess, die Aktivitäten aller Teile einer Organisation auf die gemeinsamen Ziele hin auszurichten.
   backlog:
     name: Backlog
-    definition: Ein **Backlog** (Aufgabenliste) ist eine sichtbare Liste aus (meist priorisierten)  Aufgaben, die noch abgearbeitet werden müssen.
-    glossary: Eine sichtbare Liste aus (meist priorisierten)  Aufgaben, die noch abgearbeitet werden müssen.
+    definition: Ein **Backlog** (Aufgabenliste) ist eineListe von (meist priorisierten) offenen Aufgaben (Leistungen), oder Treibern, die noch bearbeitet werden müssen.
+    glossary: Eine Liste von (meist priorisierten) offenen Aufgaben (Leistungen), oder Treibern, die noch bearbeitet werden müssen.
   chosen-values:
     name: Gewählte Werte
-    glossary: Ein Satz von Prinzipien, für die sich eine Gruppe (oder eine Organisation) gemeinsam entschieden hat, um sie im Rahmen ihrer Zusammenarbeit umzusetzen.
+    glossary: Ein Satz von Prinzipien, für die sich ein Team (oder eine Organisation) gemeinsam entschieden hat, um sie im Rahmen ihrer Zusammenarbeit umzusetzen.
   circle:
     name: Kreis
-    definition: Ein **Kreis** ist eine teilautonome und selbststeuernde Gruppe gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
-    glossary: Eine teilautonome und selbststeuernde Gruppe gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
+    definition: Ein **Kreis** ist ein teilautonomes und selbststeuerndes Team gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
+    glossary: Eine teilautonomes und selbststeuerndes Team gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
+  check-in:
+    name: Check In
+    definition:
+    glossary: Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
   complexity:
     name: Komplexität
     glossary: 'Eine Umgebung, in der die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen können. [nach: D. Snowden und M. Boone]'
   concern:
     name: Bedenken
-    definition: ""
-    glossary: Die Ansicht, dass etwas den Wertfluss zu einem Organisationstreiber behindern - oder einer Verbesserung im Weg stehen - würde
+    definition: Ein **Bedenken** ist die Ansicht, dass etwas - selbst in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
+    glossary: Die Ansicht, dass etwas - selbst in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
   consent:
-    name: Konsent
-    definition: ""
-    glossary: Handle nur, wenn keiner der Betroffenen einen Einwand hat.
+    name: Konsent (Prinzip)
+    definition:
+    glossary: Suche nach möglichen Einwänden gegen Entscheidungen, bringe sie ein, und kümmere dich darum, dass das in ihnen enthaltene Wissen integriert wird.
+  constituent:
+    name: Konstituente
+    definition:
+    glossary: Ein Team (z. B. ein Kreis, Team, Abteilung, Niederlassung, Projekt oder Organisation), das einen Repräsentanten bevollmächtigt, in seinem Namen in anderen Teams oder Organisationen zu handeln.
   continuous-improvement:
-    name: kontinuierliche Verbesserung
-    definition: ""
+    name: Kontinuierliche Verbesserung (Prinzip)
+    definition:
     glossary: Bevorzuge inkrementelle Veränderung, um stetiges empirisches Lernen zu ermöglichen.
+  coordination:
+    name: Koordination
+    definition:
+    glossary: Die domänenübergreifende Abstimmung mehrerer Personen oder Teams, die diesen ermöglicht, effektiv gemeinsame Ziele zu erreichen.
   delegatee:
     name: Beauftragte
     glossary: Eine Person oder Gruppe, die die Verantwortlichkeit für eine Domäne übernimmt.
+  delegation:
+    name: Delegation
+    glossary: Die Bevollmächtigung einer Partei (des Beauftragten) durch eine andere (die Delegierende), sich um eine Domäne zu kümmern (d.h. bestimmte Aufgaben zu erfüllen und/oder bestimmte Entscheidungen zu treffen). Die Gesamtverantwortung trägt weiterhin die Delegierende.
   delegator:
     name: Delegierende
     glossary: Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.
   deliverable:
     name: Leistung
-    definition: ""
-    glossary: Produkte, Rohstoffe, Dienstleistungen, Erfahrungen oder Transformationen, die als Ergebnis einer auf einen Treiber bezogenen Vereinbarung zur Verfügung gestellt werden.
+    definition: Eine **Leistung** ist ein Produkt, eine Dienstleistung, eine Komponente oder ein Rohstoff, der als Reaktion auf einen Organisationstreiber hergestellt bzw. bereitgestellt wird.
+    glossary: Ein Produkt, eine Dienstleistung, eine Komponente oder ein Rohstoff, der als Reaktion auf einen Organisationstreiber hergestellt bzw. bereitgestellt wird.
   domain:
     name: Domäne
     definition: Eine **Domäne** ist ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.
@@ -61,117 +76,147 @@ terms:
     definition: Ein **Treiber** ist das Motiv einer Person oder Gruppe, in einer bestimmten Situation zu handeln.
     glossary: Das Motiv einer Person oder Gruppe, in einer bestimmten Situation zu handeln.
   effectiveness:
-    name: Effektivität
-    definition: Investiere Zeit nur für das, was Dich dem Erreichen Deiner Ziele näher bringt.
-    glossary: Investiere Zeit nur für das, was Dich dem Erreichen Deiner Ziele näher bringt.
+    name: Effektivität (Prinzip)
+    definition: Investiere Zeit nur in das, was Dich dem Erreichen Deiner Ziele näher bringt.
+    glossary: Investiere Zeit nur in das, was Dich dem Erreichen Deiner Ziele näher bringt.
   empiricism:
-    name: Empirismus
-    definition: ""
-    glossary: Überprüfe alle Annahmen durch Experimente, achte auf kontinuierliche Revision und Falsifizierbarkeit.
+    name: Empirismus (Prinzip)
+    definition:
+    glossary: Prüfe alle Annahmen durch Experimente und kontinuierliche Revision.
   equivalence:
-    name: Gleichstellung
-    definition: ""
+    name: Gleichstellung (Prinzip)
+    definition:
     glossary: Beziehe Menschen in die sie betreffenden Entscheidungen und deren Entwicklung ein.
+  evolve:
+    name: sich entwickeln
+    glossary: allmählich entstehen
+  flow-of-value:
+    name: Wertfluss
+    glossary: Leistungen wandern durch die Organisation hin zum Kunden bzw. zu sonstigen Stakeholdern.
   governance:
     name: Governance
-    definition: ""
-    glossary: Fortwährend entscheiden, was zu tun ist, um Ziele zu erreichen, und Richtlinien dafür festlegen, wie und wann Dinge getan werden.
+    definition: "**Governance** in einer Organisation (oder einer ihrer Domänen) bezeichnet die Summer aller Aktivitäten, die dazu dienen, Ziele zu bestimmen und dann die Entscheidungen zu treffen und weiterzuentwickeln, die die Menschen dahin führen, diese Ziele zu erreichen."
+    glossary: Die Summer aller Aktivitäten, die dazu dienen, Ziele zu bestimmen und dann die Entscheidungen zu treffen und weiterzuentwickeln, die die Menschen dahin führen, diese Ziele zu erreichen.
   governance-backlog:
     name: Steuerungs-Backlog
     definition: Ein **Steuerungs-Backlog** ist eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.
     glossary: Eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.
+  intended-outcome:
+    name: Angestrebtes Ergebnis
+    definition:
+    glossary: Das erwartete Ergebnis einer Vereinbarung, Aktion, Projekt oder Strategie.
+  helping-team:
+    name: Hilfsteam
+    definition:
+    glossary: Eine Team aus gleichgestellten Mitarbeitern, an die die Umsetzung konkreter Anforderungen delegiert wird.
   key-responsibilities:
     name: Kernaufgaben
     glossary: Die für eine bestimmte Domäne wesentlichen Arbeitsaufgaben und Entscheidungen.
   logbook:
     name: Logbuch
-    definition: ""
-    glossary: Ein (digitales) System zur Speicherung aller für die Organisation und ihre Teams relevanten Informationen.
+    definition:
+    glossary: Ein (digitales) System zur Speicherung aller für die Organisation relevanten Informationen.
   need:
     name: Bedarf
-    definition: ""
-    glossary: Ein Bedarf ist ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird
+    definition: Ein **Bedarf** ist ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird.
+    glossary: Ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird.
+  open-domain:
+    name: Offene Domäne
+    definition:
+    glossary: Eine Domaine, um die sich Personen nach entsprechender Einladung freiwillig und im Rahmen ihrer Möglichkeiten kümmern.
   operations:
     name: Operatives Geschäft
-    definition: ""
-    glossary: Das Abarbeiten aller anfallenden Arbeiten, innerhalb des durch Governance und Koordination gesetzten Rahmens.
+    definition: "Das **operative Geschäft** umfasst die zur Wertschöpfung erforderliche Arbeit, so wie die Organisation des Tagesgeschäfts, gelenkt durch Governance-Entscheidungen."
+    glossary: Die zur Wertschöpfung erforderliche Arbeit, so wie die Organisation des Tagesgeschäfts, gelenkt durch Governance-Entscheidungen.
+  operations-backlog:
+    name: Arbeits-Backlog
+    definition: Ein **Arbeits-Backlog** ist eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
+    glossary: Eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
   objection:
     name: Einwand
-    definition: Ein **Einwand** ist ein Grund, warum ein Vorschlag, eine Entscheidung oder eine Handlung einer effektiv(er)en Antwort auf einen Treiber im Weg steht.
-    glossary: Ein Grund, warum ein Vorschlag, eine Entscheidung oder eine Handlung einer effektiv(er)en Antwort auf einen Treiber im Weg steht.
+    definition: Ein **Einwand** ist ein _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert.
+    glossary: Eine _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert.
   peer-domain:
     name: Nachbardomäne
-    definition: ""
+    definition:
     glossary: Zwei Peer-Domänen befinden sich innerhalb der gleichen unmittelbaren übergeordneten Domäne, und können sich gegenseitig überschneiden.
   organization:
     name: Organisation
-    definition: ""
+    definition:
     glossary: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.
   organizational-driver:
     name: Organisationstreiber
-    definition: Ein ** Organisationstreiber** ist ein Treiber, der in (direktem oder indirektem) Zusammenhang zum Primärtreiber einer Organisation steht.
-    glossary: Ein Treiber, der in (direktem oder indirektem) Zusammenhang zum Primärtreiber einer Organisation steht.
-  peer-drivers:
-    name: Benachbarte Treiber
-    definition: ""
-    glossary: Zwei Treiber, die als direkte Antwort auf einen gemeinsamen Supertreiber bestehen.
+    definition:
+    glossary: Ein Treiber ist das Motiv einer Person oder Gruppe, auf eine bestimmte Situation zu reagieren. Ein Treiber wird als **Organisationstreiber** betrachtet, wenn eine Reaktion darauf der Organisation hilft, Wert zu schaffen, Verschwendung zu reduzieren oder Schaden abzuwenden.
   pattern:
     name: Muster
     definition: Ein **Muster** ist eine Vorgehensweise, um einer bestimmten Herausforderung erfolgreich zu begegnen.
     glossary: Eine Vorgehensweise, um einer bestimmten Herausforderung erfolgreich zu begegnen.
   primary-driver:
     name: Primärtreiber
-    definition: ""
-    glossary: Der Treiber, der eine Domäne begründet, wird als Primärtreiber dieser Domäne bezeichnet.
+    definition:
+    glossary: Der Primärtreiber einer Domäne ist der übergeordnete Treiber, den die Verantwortlichen für diese Domäne beantworten.
   principle:
     name: Prinzip
-    definition: Ein Prinzip ist eine Gesetzmäßigkeit, die einer Sache zugrunde liegt, oder ein Grundsatz für   Denken und Handeln.
-    glossary: Eine Gesetzmäßigkeit, die einer Sache zugrunde liegt, oder ein Grundsatz für   Denken und Handeln.
+    definition: Ein **Prinzip** ist eine Vorstellung oder Regel, die Verhalten lenkt, oder die erklärt oder steuert wie etwas abläuft oder funktioniert.
+    glossary: Eine Vorstellung oder Regel, die Verhalten lenkt, oder die erklärt oder steuert wie etwas abläuft oder funktioniert.
   role:
     name: Rolle
-    definition: ""
-    glossary: Ein Verantwortungsbereich, der über eine Domäne definiert und an eine Person übertragen wird.
+    definition:
+    glossary: Ein Domäne, die an eine Einzelperson delegiert wird.
   scm:
-    name: SKM
-    glossary: (die soziokratische Kreisorganisationsmethode) Eine egalitäre Governance-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
+    name: Soziokratische Kreismethode (SKM
+    glossary: Eine egalitäre Governance-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
   self-governance:
     name: Selbststeuerung
-    definition: ""
+    definition:
     glossary: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
   self-organization:
     name: Selbstorganisation
-    definition: ""
-    glossary: Menschen, die ihre Arbeit - innerhalb der durch Governance festgelegten Grenzen - selbst organisieren.
+    definition:
+    glossary: Alle Aktivitäten und Prozesse, durch die ein Team seine tägliche Arbeit ohne externen Einfluss, aber im Rahmen der durch Governance vorgegebenen Grenzen selbst organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.
   semi-autonomy:
     name: Teilautonomie
-    definition: ""
-    glossary: Die Autonomie der Mitarbeiter, innerhalb ihrer Domäne Wert zu schöpfen (begrenzt von den Einschränkungen der Domäne).
+    definition:
+    glossary: Die Freiheit der Beauftragten, selbst zu entscheiden, wie sie in ihrer Domäne Wert schöpfen  werden, die zusätzlich durch ihre eigenen Steuerungsentscheidungen sowie durch Einwände (u.A. von der Delegierenden und von Repräsentanten) begrenzt wird.
   sociocracy:
     name: Soziokratie
     glossary: Die Geisteshaltung, dass die von einer Entscheidung betroffenen Menschen diese Entscheidung beeinflussen können, wenn sie gute Gründe dafür haben.
   strategy:
     name: Strategie
-    definition: Eine **Strategie** ist der Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.
-    glossary: Ein Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.
+    definition: Eine **Strategie** ist der generelle Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.
+    glossary: Der generelle Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.
   subdomain:
     name: Subdomäne
-    definition: ""
+    definition:
     glossary: Eine Domäne, die vollständig in einer anderen Domäne enthalten ist.
   subdriver:
     name: Subtreiber
-    definition: ""
+    definition:
     glossary: Ein Subtreiber entsteht als Folge der Reaktion einer Organisation auf einen Treiber (den Supertreiber), und ist essentiell für die erfolgreiche Reaktion auf den Supertreiber.
   superdriver:
     name: Supertreiber
-    definition: ""
+    definition:
     glossary: siehe Subtreiber
   superdomain:
     name: Superdomäne
-    definition: ""
+    definition:
     glossary: Eine Domäne, die eine andere Domäne vollständig enthält.
+  team:
+    name: Team
+    definition:
+    glossary: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.
+  tension:
+    name: Spannung
+    definition:
+    glossary: Eine persönliche Erfahrung, ein Symptom der Unstimmigkeit zwischen persönlicher Wahrnehmung und Erwartung (oder Präferenz).
+  timebox:
+    name: Timebox
+    definition: Eine **Timebox** ist ein festgelegter Zeitrahmen, der auf eine bestimmte Aktivität verwendet wird. Am Ende der Timebox ist die Aktivität nicht zwingend abgeschlossen.
+    glossary: Ein festgelegter Zeitrahmen, der auf eine bestimmte Aktivität verwendet wird. Am Ende der Timebox ist die Aktivität nicht zwingend abgeschlossen.
   transparency:
-    name: Transparenz
-    definition: ""
+    name: Transparenz (Prinzip)
+    definition:
     glossary: Mache alle Informationen für jeden in der Organisation zugänglich, es sei denn, es gibt einen wichtigen Grund für Vertraulichkeit.
   value:
     name: Wert
@@ -179,9 +224,9 @@ terms:
     glossary: 'Die Bedeutung oder der Nutzen von etwas in Bezug auf einen bestimmten Treiber. Auch: ein wichtiges Prinzip für das Verhalten einer Person, oder in einer Gruppe (meist im Plural verwendet, "Werte", oder "Unternehmenswerte").'
   values:
     name: Werte
-    glossary: Eine Sammlung wichtiger Prinzipien für das Verhalten einer Person, oder in einer Gruppe. Nicht zu verwechseln mit dem Begriff "Wert" (Singular) in Zusammenhang mit Treibern.
+    definition: "**Werte** sind wichtige Prinzipien, an denen Personen ihr Verhalten ausrichten. Werte begrenzen den Handlungsspielraum und definieren ethische Rahmenbedingungen."
+    glossary: "Wichtige Prinzipien, an denen Personen ihr Verhalten ausrichten. Nicht zu verwechseln mit dem Begriff \"Wert\" (Singular) in Zusammenhang mit Treibern."
   waste:
     name: Verschwendung
-    definition: "**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht notwenig ist oder ihr sogar im Wege steht."
-    glossary: Alles, was für die effektive Antwort auf einen Treiber nicht notwenig ist oder ihr sogar im Wege steht.
-
+    definition: "**Verschwendung** ist alles, was für die effektive Antwort auf einen Treiber nicht erforderlich ist, oder ihr sogar im Wege steht."
+    glossary: Alles, was für die effektive Antwort auf einen Treiber nicht erforderlich ist, oder ihr sogar im Wege steht.

@@ -1,25 +1,17 @@
 ---
-title: "Navigiere nach Spannung"
+title: "Navigation nach Spannung"
 ---
 
 
-**Erkenne und beantworte Organisationstreiber.**
+**Gehe bewusst mit Spannung um, die du in Bezug auf die Organisation empfindest: untersuche die zugrundeliegenden Ursachen und übergib die dabei entdeckten Treiber an die zuständige Domäne.**
 
-**Alle Mitarbeiter** richten ihre Aufmerksamkeit darauf, was der Organisation helfen oder schaden könnte, und suchen nach effektiven Antworten auf diese Treiber.
+**Herausforderungen und Chancen** für eine Organisation werden durch ihre Mitglieder aufgedeckt, in dem diese den Gründen nachspüren, warum sie Spannung empfinden.
 
-Eine **Spannung** ist eine persönliche Erfahrung: Ein Symptom von Unstimmigkeit zwischen persönlicher Wahrnehmung und Erwartung (oder Präferenz).
-
-
-
-**Herausforderungen und Chancen** für eine Organisation können dadurch identifiziert werden, dass Mitarbeiter auf Spannungen aufmerksam werden.
+**Anmerkung:** Eine *Spannung* ist eine persönliche Erfahrung: Ein Symptom von Unstimmigkeit zwischen persönlicher Wahrnehmung und Erwartung (oder Präferenz).
 
 Spüre Spannungen nach, und beschreibe Situation und Bedarf der Organisation, um **Treiber zu entdecken**. Manchmal zeigt diese Untersuchung auch Missverständnisse auf, wodurch sich die Spannung oft auflöst.
 
-Die erkannten **Organisationstreiber** werden an die zuständige Domäne zur Bearbeitung weiter gereicht.
+![Navigation nach Spannung - Organisationstreiber beschreiben - Auf Organisationstreiber reagieren](img/process/navigate-describe-respond.png)
 
-
-
-![inline,fit](img/process/navigate-via-tension-slides.png)
-
-[&#9654; Organisationstreiber beschreiben](describe-organizational-drivers.html)<br/>[&#9664; Reagiere auf Organisationstreiber](respond-to-organizational-drivers.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+[&#9654; Organisationstreiber beschreiben](describe-organizational-drivers.html)<br/>[&#9664; Auf Organisationstreiber reagieren](respond-to-organizational-drivers.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

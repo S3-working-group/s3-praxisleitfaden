@@ -1,16 +1,16 @@
 ---
-title: "die Betroffenen entscheiden"
+title: "Die Betroffenen entscheiden"
 ---
 
 
-Involviere alle, die von einer Entscheidung betroffen sein werden, um Gleichstellung und Verantwortlichkeit sicher zu stellen. Vervollständige die Informationen, die zu dem Thema verfügbar sind.
+**Beteilige alle von einer Entscheidung Betroffen, um alle für die Entscheidung erforderlichen Informationen verfügbar zu machen, und um Gleichstellung und Verantwortlichkeit sicher zu stellen.**
 
 Für grössere Gruppen:
 
 - Moderiere einen mehrstufigen Prozess und bilde Gruppen, die Delegierte wählen
-- Finde einen virtuellen, asynchronen, zeitlich gerahmten und gestuften Prozess
+- nutze Online-Werkzeuge, um asynchrone und mehrstufige Prozesse mit festem Zeitrahmen für jeden Prozessschritt durchzuführen
 
 Erwäge, die Betroffenen auch bei der Überprüfung und Weiterentwicklung der Entscheidungen miteinzubeziehen.
 
-[&#9654; Proposal Forming](proposal-forming.html)<br/>[&#9664; Vereinbarungen überprüfen](evaluate-agreements.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+[&#9654; Vorschläge gemeinsam gestalten](co-create-proposals.html)<br/>[&#9664; Vereinbarungen entwickeln](evaluate-and-evolve-agreements.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

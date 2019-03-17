@@ -2,12 +2,12 @@
 title: "Fokussierte Interaktionen"
 ---
 
-- [Steuerungs-Meeting](governance-meeting.html)
+- [Steuerungsmeeting](governance-meeting.html)
 - [Retrospektive](retrospective.html)
 - [Daily Standup](daily-standup.html)
-- [Planungs- und Review-Meetings](planning-and-review-meetings.html)
+- [Planung und Review](planning-and-review-meetings.html)
 - [Koordinationsmeeting](coordination-meeting.html)
 
 
-[&#9654; Steuerungs-Meeting](governance-meeting.html)<br/>[&#9664; Logbuchführer](logbook-keeper.html)
+[&#9654; Steuerungsmeeting](governance-meeting.html)<br/>[&#9664; Logbuchführer(in)](logbook-keeper.html)
 

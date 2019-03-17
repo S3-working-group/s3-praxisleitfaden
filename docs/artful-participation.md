@@ -3,41 +3,43 @@ title: "Kunstvolle Teilnahme"
 ---
 
 
-![right,fit](img/collaboration-values/artful-participation.png)
+**Nimm dir vor, nach bestem Wissen und Können zu effektiver Zusammenarbeit beizutragen.**
 
-Eine **Selbstverpflichtung** zur Entwicklung effektiver Zusammenarbeit und hilfreicher Interaktionen:
+*“Ist mein Verhalten der beste Beitrag, den ich zu dieser Zusammenarbeit im Moment leisten kann?”*
+
+Kunstvolle Teilnahme kann im Einzelfall auch bedeuten, andere zu unterbrechen, Einwände zu erheben oder <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn> zu brechen.
+
+*Kunstvolle Teilnahme* ist eine **Selbstverpflichtung**:
 
 - **berücksichtige und befolge alle Vereinbarungen**, so gut es dir unter den momentanen Bedingungen möglich ist
 - entwickle **Bewusstsein und Verständnis** für individuelle und kollektive Bedürfnisse
-- entwickle die dazu **erforderlichen Fähigkeiten**
-- **unterstütze andere**, dasselbe zu tun 
-- mache andere auf Hindernisse aufmerksam, wenn nötig
-
-Kunstvolle Teilnahme kann im Einzelfall auch bedeuten, andere zu unterbrechen, Einwände zu erheben oder Vereinbarungen zu brechen.
-
+- **entwickle die erforderlichen Fähigkeiten**
+- **unterstütze Andere** in deren kunstvoller Teilnahme
+- mache andere auf Hindernisse und Verbesserungsvorschläge aufmerksam
 
 ### Vorteile der kunstvollen Teilnahme
 
-![right,fit](img/illustrations/balance-autonomy-collaboration-alt.png)
+Kunstvolle Teilnahme:
 
 - ermöglicht Mitgestaltung und Entwicklung von Vereinbarungen
 - hilft Teams dabei, stärker zu werden
 - fördert Selbstverantwortung, Integrität und Vertrauen
 - unterstützt eine Kultur der gegenseitigen Unterstützung und der engen Zusammenarbeit
-- die Wirkung wird verstärkt, wenn sich mehrere Mitarbeiter zur kunstvollen Teilnahme entschliessen
+- die ist noch wirksamer, wenn sich mehrere Mitarbeiter dazu entschliessen
 
+![Praktiziere kunstvolle Teilnahme, um ein ausgewogenes Verhältnis zwischen Autonomie und Zusammenarbeit herzustellen.](img/illustrations/balance-autonomy-collaboration-alt.png)
 
 ### Kunstvolle Teilnahme: Selbsteinschätzung
 
-- Wie kann ich mich und andere darin unterstützen, kunstvoller teilzunehmen? 
+- Wie werde ich mich und andere darin unterstützen, kunstvoller teilzunehmen? 
 - Welche meiner Interaktionen sind hinderlich oder ineffektiv?
 - Welche Vereinbarungen finde ich schwierig einzuhalten oder mitzugestalten? Was kann ich dagegen tun?
-- Welche Fähigkeiten könnte ich entwickeln um meine kunstvolle Teilnahme zu unterstützen?
+- Welche Fähigkeiten kann ich entwickeln um meine kunstvolle Teilnahme zu unterstützen?
 - Was würde kunstvolle Teilnahme bedeuten in Bezug auf … 
     - meine Alltagsaktivitäten?
     - meine Zusammenarbeit und Interaktion mit Anderen?
-    - die Organisation? Unsere Kunden?
+    - die Organisation? … unsere Kunden?
     - das weitere Umfeld?
 
-[&#9654; Die sieben Prinzipien leben](adopt-the-seven-principles.html)<br/>[&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html)
+[&#9654; Die sieben Prinzipien leben](adopt-the-seven-principles.html)<br/>[&#9650; Zusammenarbeit ermöglichen](enablers-of-collaboration.html)
 

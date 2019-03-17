@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"docs/*.md"
+			],
+			"folder_exclude_patterns":
+			[
+				"web",
+				"reveal.js/plugin",
+				"reveal.js/lib",
+				"reveal.js/js",
+				"docs/_site"
+			],
+			"path": "."
+		}
+	]
+}

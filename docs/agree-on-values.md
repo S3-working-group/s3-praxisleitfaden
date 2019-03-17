@@ -3,23 +3,24 @@ title: "Gemeinsame Werte"
 ---
 
 
-![right,fit](img/collaboration-values/chosen-values.png)
-
 **Gestalte bewusst die Kultur der Organisation.**
 
-*Ein **Wert** ist ein Prinzip, an dem Personen ihr Verhalten ausrichten. Werte begrenzen den Handlungsspielraum und definieren ethische Rahmenbedingungen.*
+_**Werte** sind wichtige Prinzipien, an denen Personen ihr Verhalten ausrichten. Werte begrenzen den Handlungsspielraum und definieren ethische Rahmenbedingungen._
 
 - Jedes Mitglied einer Organisation bringt eigene Werte mit, die aus persönlichen Erfahrungen und Überzeugungen resultieren.
-- Eine Gruppe oder Organisation kann sich **auf gemeinsame Werte einigen,** an dienen sie ihre Zusammenarbeit ausrichten.
+- Ein Team oder eine Organisation kann sich **auf gemeinsame Werte einigen,** an denen sie ihre Zusammenarbeit ausrichtet.
 
+Aus Werten kann angemessenes Handeln abgeleitet werden, auch wenn es für ein Thema keine expliziten <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn> gibt
 
+Die Einigung auf gemeinsame Werte fördert die Effektivität einer Organisation:
 
-- aus Werten kann angemessenes Handeln abgeleitet werden, auch wenn es für etwas keine explizite Vereinbarungen gibt
-- die Einigung auf gemeinsame Werte ist eine **Strategie** zur Unterstützung der Effektivität einer Organisation: 
-    - geringeres Potential für **Missverständnisse**
-    - gemeinsame **Ausrichtung** von Entscheidungen und Aktivität
-    - **Attraktion neuer Mitarbeiter, Partner und Kunden**, die sich mit den Werten der Organisation identifizieren
-- Gemeinsame Werte sind eine Vereinbarung, und sollten daher **regelmässiger überprüft und weiterentwickelt** werden.
+- geringeres Potential für **Missverständnisse**
+- gemeinsame **Ausrichtung** von Entscheidungen und Aktivität
+- **Attraktion neuer Mitarbeiter, Partner und Kunden**, die sich mit den Werten der Organisation identifizieren
 
-[&#9654; Governance-Moderator](governance-facilitator.html)<br/>[&#9664; Die sieben Prinzipien leben](adopt-the-seven-principles.html)<br/>[&#9650; Mitgestaltung ermöglichen](enablers-of-co-creation.html)
+Die Einigung auf gemeinsame Werte stellt eine Vereinbarung dar, die **regelmässig überprüft und weiterentwickelt** werden sollte.
+
+![Gemeinsame Werte definieren den Handlungsspielraum bei der Zusammenarbeit](img/collaboration-values/chosen-values.png)
+
+[&#9654; Governance-Moderator(in)](governance-facilitator.html)<br/>[&#9664; Die sieben Prinzipien leben](adopt-the-seven-principles.html)<br/>[&#9650; Zusammenarbeit ermöglichen](enablers-of-collaboration.html)
 

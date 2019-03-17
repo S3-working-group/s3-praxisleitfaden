@@ -1,9 +1,5 @@
 ### S3 fördert einen hypothesengetriebenen Ansatz zur Entscheidungsfindung
 
-![inline,fit](img/evolution/experiments.png)
+![Jede Vereinbarung bzw. Entscheidung sollte als Experiment betrachtet werden.](img/evolution/experiments.png)
 
-* * *
-
-### Lebenszyklus von Vereinbarungen
-
-![inline,fit](img/evolution/agreement-lifecycle-long.png)
+![Der Lebenszyklus einer Vereinbarung](img/evolution/agreement-lifecycle-long.png)

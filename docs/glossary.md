@@ -2,73 +2,91 @@
 title: Glossar 
 ---
 
-**(etwas) verantworten**: Die Verantwortung für etwas übernehmen, das getan werden muss.
+**(etwas) verantworten**: die Verantwortung für etwas übernehmen.
 
-**Backlog**: Eine sichtbare Liste aus (meist priorisierten)  Aufgaben, die noch abgearbeitet werden müssen.
+**Angestrebtes Ergebnis**: Das erwartete Ergebnis einer Vereinbarung, Aktion, Projekt oder Strategie.
+
+**Arbeits-Backlog**: Eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
+
+**Backlog**: Eine Liste von (meist priorisierten) offenen Aufgaben (Leistungen), oder Treibern, die noch bearbeitet werden müssen.
 
 **Beauftragte**: Eine Person oder Gruppe, die die Verantwortlichkeit für eine Domäne übernimmt.
 
-**Bedarf**: Ein Bedarf ist ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird
+**Bedarf**: Ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird.
 
-**Bedenken**: Die Ansicht, dass etwas den Wertfluss zu einem Organisationstreiber behindern - oder einer Verbesserung im Weg stehen - würde
+**Bedenken**: Die Ansicht, dass etwas - selbst in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
 
-**Benachbarte Treiber**: Zwei Treiber, die als direkte Antwort auf einen gemeinsamen Supertreiber bestehen.
+**Check In**: Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
+
+**Delegation**: Die Bevollmächtigung einer Partei (des Beauftragten) durch eine andere (die Delegierende), sich um eine Domäne zu kümmern (d.h. bestimmte Aufgaben zu erfüllen und/oder bestimmte Entscheidungen zu treffen). Die Gesamtverantwortung trägt weiterhin die Delegierende.
 
 **Delegierende**: Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.
 
 **Domäne**: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.
 
-**Effektivität**: Investiere Zeit nur für das, was Dich dem Erreichen Deiner Ziele näher bringt.
+**Effektivität (Prinzip)**: Investiere Zeit nur in das, was Dich dem Erreichen Deiner Ziele näher bringt.
 
-**Einwand**: Ein Grund, warum ein Vorschlag, eine Entscheidung oder eine Handlung einer effektiv(er)en Antwort auf einen Treiber im Weg steht.
+**Einwand**: Eine _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert.
 
-**Empirismus**: Überprüfe alle Annahmen durch Experimente, achte auf kontinuierliche Revision und Falsifizierbarkeit.
+**Empirismus (Prinzip)**: Prüfe alle Annahmen durch Experimente und kontinuierliche Revision.
 
-**Gewählte Werte**: Ein Satz von Prinzipien, für die sich eine Gruppe (oder eine Organisation) gemeinsam entschieden hat, um sie im Rahmen ihrer Zusammenarbeit umzusetzen.
+**Gewählte Werte**: Ein Satz von Prinzipien, für die sich ein Team (oder eine Organisation) gemeinsam entschieden hat, um sie im Rahmen ihrer Zusammenarbeit umzusetzen.
 
-**Gleichstellung**: Beziehe Menschen in die sie betreffenden Entscheidungen und deren Entwicklung ein.
+**Gleichstellung (Prinzip)**: Beziehe Menschen in die sie betreffenden Entscheidungen und deren Entwicklung ein.
 
-**Governance**: Fortwährend entscheiden, was zu tun ist, um Ziele zu erreichen, und Richtlinien dafür festlegen, wie und wann Dinge getan werden.
+**Governance**: Die Summer aller Aktivitäten, die dazu dienen, Ziele zu bestimmen und dann die Entscheidungen zu treffen und weiterzuentwickeln, die die Menschen dahin führen, diese Ziele zu erreichen.
+
+**Hilfsteam**: Eine Team aus gleichgestellten Mitarbeitern, an die die Umsetzung konkreter Anforderungen delegiert wird.
 
 **Kernaufgaben**: Die für eine bestimmte Domäne wesentlichen Arbeitsaufgaben und Entscheidungen.
 
 **Komplexität**: Eine Umgebung, in der die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen können. [nach: D. Snowden und M. Boone]
 
-**Konsent**: Handle nur, wenn keiner der Betroffenen einen Einwand hat.
+**Konsent (Prinzip)**: Suche nach möglichen Einwänden gegen Entscheidungen, bringe sie ein, und kümmere dich darum, dass das in ihnen enthaltene Wissen integriert wird.
 
-**Kreis**: Eine teilautonome und selbststeuernde Gruppe gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
+**Konstituente**: Ein Team (z. B. ein Kreis, Team, Abteilung, Niederlassung, Projekt oder Organisation), das einen Repräsentanten bevollmächtigt, in seinem Namen in anderen Teams oder Organisationen zu handeln.
 
-**Leistung**: Produkte, Rohstoffe, Dienstleistungen, Erfahrungen oder Transformationen, die als Ergebnis einer auf einen Treiber bezogenen Vereinbarung zur Verfügung gestellt werden.
+**Kontinuierliche Verbesserung (Prinzip)**: Bevorzuge inkrementelle Veränderung, um stetiges empirisches Lernen zu ermöglichen.
 
-**Logbuch**: Ein (digitales) System zur Speicherung aller für die Organisation und ihre Teams relevanten Informationen.
+**Koordination**: Die domänenübergreifende Abstimmung mehrerer Personen oder Teams, die diesen ermöglicht, effektiv gemeinsame Ziele zu erreichen.
+
+**Kreis**: Eine teilautonomes und selbststeuerndes Team gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
+
+**Leistung**: Ein Produkt, eine Dienstleistung, eine Komponente oder ein Rohstoff, der als Reaktion auf einen Organisationstreiber hergestellt bzw. bereitgestellt wird.
+
+**Logbuch**: Ein (digitales) System zur Speicherung aller für die Organisation relevanten Informationen.
 
 **Muster**: Eine Vorgehensweise, um einer bestimmten Herausforderung erfolgreich zu begegnen.
 
 **Nachbardomäne**: Zwei Peer-Domänen befinden sich innerhalb der gleichen unmittelbaren übergeordneten Domäne, und können sich gegenseitig überschneiden.
 
-**Operatives Geschäft**: Das Abarbeiten aller anfallenden Arbeiten, innerhalb des durch Governance und Koordination gesetzten Rahmens.
+**Offene Domäne**: Eine Domaine, um die sich Personen nach entsprechender Einladung freiwillig und im Rahmen ihrer Möglichkeiten kümmern.
+
+**Operatives Geschäft**: Die zur Wertschöpfung erforderliche Arbeit, so wie die Organisation des Tagesgeschäfts, gelenkt durch Governance-Entscheidungen.
 
 **Organisation**: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.
 
-**Organisationstreiber**: Ein Treiber, der in (direktem oder indirektem) Zusammenhang zum Primärtreiber einer Organisation steht.
+**Organisationstreiber**: Ein Treiber ist das Motiv einer Person oder Gruppe, auf eine bestimmte Situation zu reagieren. Ein Treiber wird als **Organisationstreiber** betrachtet, wenn eine Reaktion darauf der Organisation hilft, Wert zu schaffen, Verschwendung zu reduzieren oder Schaden abzuwenden.
 
-**Primärtreiber**: Der Treiber, der eine Domäne begründet, wird als Primärtreiber dieser Domäne bezeichnet.
+**Primärtreiber**: Der Primärtreiber einer Domäne ist der übergeordnete Treiber, den die Verantwortlichen für diese Domäne beantworten.
 
-**Prinzip**: Eine Gesetzmäßigkeit, die einer Sache zugrunde liegt, oder ein Grundsatz für   Denken und Handeln.
+**Prinzip**: Eine Vorstellung oder Regel, die Verhalten lenkt, oder die erklärt oder steuert wie etwas abläuft oder funktioniert.
 
-**Rolle**: Ein Verantwortungsbereich, der über eine Domäne definiert und an eine Person übertragen wird.
+**Rolle**: Ein Domäne, die an eine Einzelperson delegiert wird.
 
-**SKM**: (die soziokratische Kreisorganisationsmethode) Eine egalitäre Governance-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
-
-**Selbstorganisation**: Menschen, die ihre Arbeit - innerhalb der durch Governance festgelegten Grenzen - selbst organisieren.
+**Selbstorganisation**: Alle Aktivitäten und Prozesse, durch die ein Team seine tägliche Arbeit ohne externen Einfluss, aber im Rahmen der durch Governance vorgegebenen Grenzen selbst organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.
 
 **Selbststeuerung**: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
 
 **Soziokratie**: Die Geisteshaltung, dass die von einer Entscheidung betroffenen Menschen diese Entscheidung beeinflussen können, wenn sie gute Gründe dafür haben.
 
+**Soziokratische Kreismethode (SKM**: Eine egalitäre Governance-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
+
+**Spannung**: Eine persönliche Erfahrung, ein Symptom der Unstimmigkeit zwischen persönlicher Wahrnehmung und Erwartung (oder Präferenz).
+
 **Steuerungs-Backlog**: Eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.
 
-**Strategie**: Ein Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.
+**Strategie**: Der generelle Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.
 
 **Subdomäne**: Eine Domäne, die vollständig in einer anderen Domäne enthalten ist.
 
@@ -78,23 +96,29 @@ title: Glossar
 
 **Supertreiber**: siehe Subtreiber
 
-**Teilautonomie**: Die Autonomie der Mitarbeiter, innerhalb ihrer Domäne Wert zu schöpfen (begrenzt von den Einschränkungen der Domäne).
+**Team**: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.
 
-**Transparenz**: Mache alle Informationen für jeden in der Organisation zugänglich, es sei denn, es gibt einen wichtigen Grund für Vertraulichkeit.
+**Teilautonomie**: Die Freiheit der Beauftragten, selbst zu entscheiden, wie sie in ihrer Domäne Wert schöpfen  werden, die zusätzlich durch ihre eigenen Steuerungsentscheidungen sowie durch Einwände (u.A. von der Delegierenden und von Repräsentanten) begrenzt wird.
+
+**Timebox**: Ein festgelegter Zeitrahmen, der auf eine bestimmte Aktivität verwendet wird. Am Ende der Timebox ist die Aktivität nicht zwingend abgeschlossen.
+
+**Transparenz (Prinzip)**: Mache alle Informationen für jeden in der Organisation zugänglich, es sei denn, es gibt einen wichtigen Grund für Vertraulichkeit.
 
 **Treiber**: Das Motiv einer Person oder Gruppe, in einer bestimmten Situation zu handeln.
 
-**Verantwortung**: Handle, wenn es erforderlich ist; befolge, was Du vereinbart hast und behalte die gesamte Organisation im Blick.
+**Verantwortung (Prinzip)**: Handle, wenn es erforderlich ist; befolge, was Du vereinbart hast und behalte die gesamte Organisation im Blick.
 
 **Vereinbarung**: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.
 
-**Verschwendung**: Alles, was für die effektive Antwort auf einen Treiber nicht notwenig ist oder ihr sogar im Wege steht.
+**Verschwendung**: Alles, was für die effektive Antwort auf einen Treiber nicht erforderlich ist, oder ihr sogar im Wege steht.
 
 **Wert**: Die Bedeutung oder der Nutzen von etwas in Bezug auf einen bestimmten Treiber. Auch: ein wichtiges Prinzip für das Verhalten einer Person, oder in einer Gruppe (meist im Plural verwendet, "Werte", oder "Unternehmenswerte").
 
-**Werte**: Eine Sammlung wichtiger Prinzipien für das Verhalten einer Person, oder in einer Gruppe. Nicht zu verwechseln mit dem Begriff "Wert" (Singular) in Zusammenhang mit Treibern.
+**Werte**: Wichtige Prinzipien, an denen Personen ihr Verhalten ausrichten. Nicht zu verwechseln mit dem Begriff "Wert" (Singular) in Zusammenhang mit Treibern.
+
+**Wertfluss**: Leistungen wandern durch die Organisation hin zum Kunden bzw. zu sonstigen Stakeholdern.
 
 **gemeinsame Ausrichtung**: Der Prozess, die Aktivitäten aller Teile einer Organisation auf die gemeinsamen Ziele hin auszurichten.
 
-**kontinuierliche Verbesserung**: Bevorzuge inkrementelle Veränderung, um stetiges empirisches Lernen zu ermöglichen.
+**sich entwickeln**: allmählich entstehen
 

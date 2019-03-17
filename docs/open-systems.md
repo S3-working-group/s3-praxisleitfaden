@@ -1,16 +1,14 @@
 ---
-title: "offene Systeme"
+title: "Offene Systeme"
 ---
 
 
-Eine Organisation kann davon profitieren, sich bewusst mit Außenstehenden auszutauschen und von ihnen zu lernen.
+**Kommuniziere mit anderen außerhalb deines Systems, um von ihnen zu lernen.**
 
-Wenn eine Organisation anerkennt, dass sie und ihr Umfeld voneinander abhängig sind, kann sie bewusst **externes Wissen, Kompetenz und Einfluss** einladen, um sie bei Entscheidungen und gemeinsamem Lernen zu unterstützen.
-
-
+Individuen, Teams und Organisationen können anerkennen, dass sie und ihr Umfeld gegenseitig voneinander abhängig sind. Sie können aktiv Personen von außerhalb einladen **externes Wissen, Kompetenz und Einfluss einzubringen**, um so Entscheidungen zu unterstützen und gemeinsames Lernen zu ermöglichen.
 
 - **Externe Experten** können neue Perspektiven, Wissen und Fähigkeiten einbringen
-- **Vertreter betroffener Parteien** können zu Verständnis und Entscheidungsfindung beitragen, so dass gemeinsame Ziele bessern erreicht werden können (siehe Muster: "Die Betroffenen entscheiden")
+- **Vertreter betroffener Parteien** können zu Verständnis und Entscheidungsfindung beitragen, so dass gemeinsame Ziele bessern erreicht werden können (siehe [Die Betroffenen entscheiden](those-affected-decide.html))
 
-[&#9654; Fokussierte Interaktionen](focused-interactions.html)<br/>[&#9664; Offene Domäne](open-domain.html)<br/>[&#9650; Organisationsentwicklung](building-organizations.html)
+[&#9654; S3 einführen](bringing-in-s3.html)<br/>[&#9664; Offene Domäne](open-domain.html)<br/>[&#9650; Organisationsentwicklung](building-organizations.html)
 

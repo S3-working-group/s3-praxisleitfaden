@@ -3,23 +3,23 @@ title: "Meetings evaluieren"
 ---
 
 
-![right,fit](img/meetings/evaluate-interactions.png)
-
 **Investiere etwas Zeit in gemeinsame Reflexion am Ende jedes Meetings oder Workshops.**
 
 Gemeinsam über Interaktionen nachdenken, Erfolge feiern und Verbesserungsvorschläge machen.
 
-- vor der Abschlussrunde
 - reserviere 5 Minuten für ein einstündiges Meeting, und 15 Minuten für einen Tagesworkshop
 - dokumentiere das Gelernte, und betrachte es vor dem nächsten Meeting
-- kurze Formate: 
-    - mehr / weniger / anfangen / aufhören / beibehalten
-    - positiv / kritisch / Verbesserungsvorschläge
 
+Vorschläge für Kurzformate:
+
+- mehr / weniger / anfangen / aufhören / beibehalten
+- positiv / kritisch / Verbesserungsvorschläge
+
+![Evaluiere ein Meeting direkt vor dem Abschluss](img/meetings/evaluate-interactions.png)
 
 ### Meetings evaluieren: ausführliches Format
 
-Lade alle ein, in einer Runde kurz auf einige oder alle der folgenden Punkte einzugehen:
+Lade die Teilnehmer ein, sich Gedanken zu den folgenden Themen zu machen, und moderiere eine [Runde](round.html), in der sich jeder kurz zu den Themen äußern kann, die dokumentiert werden sollen: 
 
 - Effektivität und Format
 - Moderation und Teilnahme
@@ -28,5 +28,5 @@ Lade alle ein, in einer Runde kurz auf einige oder alle der folgenden Punkte ein
 - Verbesserungsvorschläge ("Ich wünschte …")
 - Wilde Ideen und radikale Vorschläge ("Was wäre, wenn …")
 
-[&#9654; Meetings evaluieren](evaluate-meetings.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
+[&#9654; Gastgeber(in)](meeting-host.html)<br/>[&#9664; Check-In](check-in.html)<br/>[&#9650; Effektive Meetings](meeting-practices.html)
 
