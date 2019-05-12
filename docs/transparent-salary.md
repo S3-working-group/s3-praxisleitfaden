@@ -5,7 +5,7 @@ title: "Gehaltstransparenz"
 
 **Gestalte eine gerechte Gehaltsformel und mache sie transparent.**
 
-Um Gehaltstransparenz zu erzielen, werden Gehälter nicht mehr individuell verhandelt, sondern anhand einer festgelegten Gehaltsformel berechnet. Diese Gehaltsformeln — und manchmal auch die daraus resultierenden Gehälter — sind allen Mitarbeitern bekannt, und sind in einigen Fällen sogar öffentlich.
+Gehaltstransparenz (machmal auch als "offene Gehälter" bezeichnet) ist die Praxis, das Gehalts jedes Arbeitnehmers anhand fester Regeln zu bestimmen – die *Gehaltsformel* – anstatt das Gehalt individuell in zwischen Arbeitgebern und Arbeitnehmern zu verhandeln. Die Gehaltsformel — und oft auch die einzelnen Gehälter — ist für alle Mitglieder der Organisation einsehbar, und wird manchmal sogar veröffentlicht.
 
 Eine Gehaltsformel muss zum Kontext eines Unternehmens passen, und von allen Stakeholdern als fair empfunden werden.
 

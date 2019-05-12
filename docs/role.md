@@ -9,7 +9,7 @@ Eine Rolle ist ein Verantwortungsbereich, der durch eine <dfn data-info="Domäne
 
 Der Inhaber einer Rolle schlägt eine <dfn data-info="Strategie: Der generelle Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.">Strategie</dfn> zur Wertschöpfung in seiner Domäne vor. Diese Strategie wird dann gemeinsam mit der <dfn data-info="Delegierende: Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.">Delegierenden</dfn> weiter entwickelt.
 
-Eine Rolle ist ein einfacher Weg für eine Organisation (oder <dfn data-info="Team: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.">Team</dfn>), um wiederkehrende Aufgaben oder einen bestimmten Arbeits- und Entscheidungsbereich an eines ihrer Mitglieder zu delegieren.
+Eine Rolle ist ein einfacher Weg für eine Organisation (oder <dfn data-info="Team: Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Ein Team ist typischerweise Teil einer Organisation, oder es entsteht im Rahmen einer Zusammenarbeit mehrerer Organisationen.">Team</dfn>), um wiederkehrende Aufgaben oder einen bestimmten Arbeits- und Entscheidungsbereich an eines ihrer Mitglieder zu delegieren.
 
 - eine Person kann die Verantwortung für mehr als eine Rolle haben
 - anstatt eine neues Team zu schaffen, ist es manchmal einfacher, wenn sich mehrere Personen eine Rolle teilen
@@ -18,7 +18,7 @@ Eine Rolle ist ein einfacher Weg für eine Organisation (oder <dfn data-info="Te
 
 Der Rolleninhaber kann ein eigenes <dfn data-info="Backlog: Eine Liste von (meist priorisierten) offenen Aufgaben (Leistungen), oder Treibern, die noch bearbeitet werden müssen.">Steuerungsbacklog</dfn> führen und ein <dfn data-info="Logbuch: Ein (digitales) System zur Speicherung aller für die Organisation relevanten Informationen.">Logbuch</dfn> anlegen, um seine Strategie zur <dfn data-info="Wert: Die Bedeutung oder der Nutzen von etwas in Bezug auf einen bestimmten Treiber. Auch: ein wichtiges Prinzip für das Verhalten einer Person, oder in einer Gruppe (meist im Plural verwendet, &quot;Werte&quot;, oder &quot;Unternehmenswerte&quot;).">Wertschöpfung</dfn> zu entwickeln.
 
-**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können genauso wie Vereinbarungen behandelt und entwickelt werden.
+**Anmerkung:** Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können wie Vereinbarungen behandelt werden.
 
 ![eine Person kann die Verantwortung für mehr als eine Rolle übernehmen](img/illustrations/roles.png)
 

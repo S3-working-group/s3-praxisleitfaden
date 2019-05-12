@@ -11,6 +11,8 @@ Anstatt Personen eine [Rolle](role.html) zuzuweisen, oder per Mehrheit zu bestim
 - die Verantwortlichkeit der gesamten Gruppe für die resultierende Entscheidung zu stärken
 - die Unterstützung der Rolleninhaberin für durch die Gruppe sicherzustellen
 
+Voraussetzung für die Wahl ist eine [Beschreibung](clarify-domains.html) der <dfn data-info="Domäne: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.">Domäne</dfn> der Rolle.
+
 ### Wahlverfahren
 
 ![Ablauf des Wahlverfahrens](img/agreements/selection.png)
@@ -24,7 +26,7 @@ Anstatt Personen eine [Rolle](role.html) zuzuweisen, oder per Mehrheit zu bestim
     - Vorschlag der Moderatorin oder eines Teilnehmers
     - die Bitte an (einige der) Nominierten, gemeinsam einen Kandidaten vorzuschlagen
     - kurzen Dialog in der Gruppe, um den geeignetsten Kandidaten zu identifizieren
-7. **Einwände sammeln:** alle Teilnehmer (auch der vorgeschlagene Kandidat) geben gleichzeitig per Handzeichen bekannt, ob sie einen <dfn data-info="Einwand: Eine _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert.">Einwand</dfn> gegen die Wahl des Kandidaten für die Rolle haben. 
+7. **Einwände sammeln:** alle Teilnehmer (auch der vorgeschlagene Kandidat) geben gleichzeitig per Handzeichen bekannt, ob sie einen <dfn data-info="Einwand: Ein _Argument_ — bezogen auf einen Vorschlag, eine Entscheidung, eine bestehende Vereinbarung oder ein Handlung — die unbeabsichtigte Konsequenzen oder praktikable Möglichkeiten zur Verbesserung offenbart.">Einwand</dfn> gegen die Wahl des Kandidaten für die Rolle haben. 
 8. **Einwände integrieren**, dabei zuerst etwaige Einwände des vorgeschlagenen Kandidaten behandeln. Es gibt [verschiedene Methoden, Einwände zu integrieren](resolve-objections.html), das Ergebnis könnten z.B. Änderungen in der Rollenbeschreibung oder die Nominierung einer anderen Person sein. Wenn alle Einwände behandelt wurden, wird der letztendliche Kandidat nochmals gefragt, ob er die Rolle annimmt.
 9. **Erfolg feiern:** Bestätige, dass eine Einigung erzielt wurde, und danke der Person, die die Rolle von nun an übernimmt.
 

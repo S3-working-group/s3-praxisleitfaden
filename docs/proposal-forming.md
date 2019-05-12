@@ -13,9 +13,9 @@ title: "Proposal Forming"
 
 ### Proposal Forming: Ablauf
 
-**Zustimmung zum Treiber**: Stelle den <dfn data-info="Organisationstreiber: Ein Treiber ist das Motiv einer Person oder Gruppe, auf eine bestimmte Situation zu reagieren. Ein Treiber wird als **Organisationstreiber** betrachtet, wenn eine Reaktion darauf der Organisation hilft, Wert zu schaffen, Verschwendung zu reduzieren oder Schaden abzuwenden.">Treiber</dfn> kurz vor. *Ist dieser Treiber für uns relevant? Will jemand etwas hinzufügen?*
+**Zustimmung zum Treiber:** Stelle den <dfn data-info="Organisationstreiber: Ein Treiber ist das Motiv einer Person oder Gruppe, auf eine bestimmte Situation zu reagieren. Ein Treiber wird als **Organisationstreiber** betrachtet, wenn eine Reaktion darauf der Organisation hilft, Wert zu schaffen, Verschwendung zu reduzieren oder Schaden abzuwenden.">Treiber</dfn> kurz vor. *Ist dieser Treiber für uns relevant? Will jemand etwas hinzufügen?*
 
-**Das gemeinsames Verständnis des Treibers vertiefen**: Die Teilnehmer können Fragen stellen, um mehr über den Treiber zu erfahren.
+**Das gemeinsames Verständnis des Treibers vertiefen:** Die Teilnehmer können Fragen stellen, um mehr über den Treiber zu erfahren.
 
 **Überlegungen sammeln**, formuliert als Fragen in Bezug auf mögliche Lösungen. Diese Fragen deuten entweder auf Einschränkungen (Informationsfragen) oder Möglichkeiten (generative Fragen) hin.
 
@@ -38,7 +38,7 @@ Bedenke:
 
 In der Regel ist eine Gruppe von 2–3 Gestaltern angemessen. Prüfe, ob es Einwände gegen die vorgeschlagenen Gestalter gibt.
 
-![Vorlage für Vorschläge](img/templates/proposal-template.png)
+![Ablauf des Proposal Forming](img/agreements/proposal-forming.png)
 
 [&#9654; Wahl](role-selection.html)<br/>[&#9664; Vorschläge gemeinsam gestalten](co-create-proposals.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

@@ -5,9 +5,9 @@ title: "Konsententscheidung"
 
 **Ein (moderierter) Gruppenprozess zur Entscheidungsfindung: sammle Einwände, und integriere das dahinterstehende Wissen, um Vorschläge und bestehende Vereinbarungen weiterzuentwickeln**
 
-Vorschläge werden zu <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn>, wenn sie als *gut und sicher genug* bis zum Termin der nächsten Überprüfung betrachtet werden.
+Vorschläge werden zu <dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">Vereinbarungen</dfn>, wenn sie als *gut und sicher genug* bis zum Termin der nächsten Überprüfung betrachtet werden.
 
-Ungelöste <dfn data-info="Einwand: Eine _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert.">Einwände</dfn> verhindern, dass ein Vorschlag zu einer Vereinbarung wird.
+Ungelöste <dfn data-info="Einwand: Ein _Argument_ — bezogen auf einen Vorschlag, eine Entscheidung, eine bestehende Vereinbarung oder ein Handlung — die unbeabsichtigte Konsequenzen oder praktikable Möglichkeiten zur Verbesserung offenbart.">Einwände</dfn> verhindern, dass ein Vorschlag zu einer Vereinbarung wird.
 
 Das Zurückhalten von Einwänden kann die Ziele eines Teams oder der gesamten Organisation gefährden.
 

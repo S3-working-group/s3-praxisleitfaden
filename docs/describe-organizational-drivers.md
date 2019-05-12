@@ -10,7 +10,7 @@ title: "Organisationstreiber beschreiben"
 Eine einfache Methode, einen Treiber zu beschreiben:
 
 - **Was gerade passiert:** 
-    - die **aktuelle situation**
+    - die **aktuelle Situation**
     - den **Effekt** dieser Situation auf die Organisation
 - und **warum wir handeln sollten:** 
     - den **Bedarf** der Organisation bezogen auf diese Situation

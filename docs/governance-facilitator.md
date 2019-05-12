@@ -8,7 +8,7 @@ title: "Governance-Moderator(in)"
 Ein [Governance](governance.html)-Moderator …
 
 - stellt sicher, dass die [Steuerungsmeetings](governance-meeting.html) moderiert und ausgewertet werden
-- wird in der Regel vom <dfn data-info="Team: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.">Team</dfn> aus seinen Mitgliedern und auf eine bestimmte Zeit gewählt
+- wird in der Regel vom <dfn data-info="Team: Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Ein Team ist typischerweise Teil einer Organisation, oder es entsteht im Rahmen einer Zusammenarbeit mehrerer Organisationen.">Team</dfn> aus seinen Mitgliedern und auf eine bestimmte Zeit gewählt
 - macht sich mit dem [Steuerungsbacklog](governance-backlog.html) vertraut
 - lädt oft Andere dazu ein, einzelne Tagesordnungspunkte zu moderieren
 

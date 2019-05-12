@@ -7,7 +7,7 @@ title: "Fluss angleichen"
 
 **Wertfluss:** Leistungen wandern durch die Organisation hin zum Kunden bzw. zu sonstigen Stakeholdern.
 
-Schaffe und erhalte die Angleichung der Flüsse durch die kontinuierliche Evolution der innerhalb der Organisation geltenden <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn>.
+Schaffe und erhalte die Angleichung der Flüsse durch die kontinuierliche Evolution der innerhalb der Organisation geltenden <dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">Vereinbarungen</dfn>.
 
 - stelle sicher, dass alle Entscheidungen, die den Wertfluss betreffen, diesen auch tatsächlich positiv beeinflussen
 - ermögliche Menschen mit entsprechenden Fähigkeiten und Kenntnissen, Entscheidungen zu beeinflussen

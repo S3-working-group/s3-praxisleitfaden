@@ -7,7 +7,7 @@ title: "Kunstvolle Teilnahme"
 
 *“Ist mein Verhalten der beste Beitrag, den ich zu dieser Zusammenarbeit im Moment leisten kann?”*
 
-Kunstvolle Teilnahme kann im Einzelfall auch bedeuten, andere zu unterbrechen, Einwände zu erheben oder <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn> zu brechen.
+Kunstvolle Teilnahme kann im Einzelfall auch bedeuten, andere zu unterbrechen, Einwände zu erheben oder <dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">Vereinbarungen</dfn> zu brechen.
 
 *Kunstvolle Teilnahme* ist eine **Selbstverpflichtung**:
 

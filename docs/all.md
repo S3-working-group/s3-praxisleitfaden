@@ -64,7 +64,7 @@ Soziokratie 3.0 ist:
 
 Die wörtliche Bedeutung des Begriffes **Soziokratie** ist "Herrschaft der Gefährten": _sozio_ — vom lateinischen _socius_ — bedeutet "Gefährte", oder "Kamerad", und das Suffix _-kratie_ — vom altgriechischen _κράτος_ (krátos) — bedeutet "Herrschaft" bzw. "Regierung".
 
-Der Begriff "Soziokratie" kann bis zum Jahre 1851 zurückverfolgt werden, damals schlug **Auguste Comté** bezogen auf die Gesellschaft wie Anwendung eines wissenschaftlichen Ansatzes vor: Staaten sollten von Experten zum Thema Gesellschaft regiert werden. Diese Experten nannte er "Soziologen". Er hielt diese Zukunft für unabwendbar, auch wenn er anerkannte, dass das damals noch nicht realisierbar, war.
+Der Begriff "Soziokratie" kann bis zum Jahre 1851 zurückverfolgt werden, damals schlug **Auguste Comte** bezogen auf die Gesellschaft wie Anwendung eines wissenschaftlichen Ansatzes vor: Staaten sollten von Experten zum Thema Gesellschaft regiert werden. Diese Experten nannte er "Soziologen". Er hielt diese Zukunft für unabwendbar, auch wenn er anerkannte, dass das damals noch nicht realisierbar, war.
 
 Einige Jahrzehnte später verwendete **Lester Frank Ward** das Wort 'Soziokratie' zur Beschreibung einer Gesellschaftsordnung, in der die Menschen in enger Beziehung zueinander stehen und gemeinsam regieren. Anstatt den Fokus auf die Soziologen zu legen, wollte er dem einzelnen Bürger mehr Macht und mehr Verantwortung geben, und wies den Soziologen eine Rolle als Forscher und Berater zu.
 
@@ -86,7 +86,7 @@ Sie arbeiten nun gemeinsam daran, S3 so zu gestallten, dass es für möglichst v
 
 Durch das steigende Interesse an Soziokratie 3.0 wächst auch eine Gemeinschaft von Personen — Berater, Coaches, Trainer, und Anwender von S3 in ganz verschiedenen Kontexten — die das S3 innewohnende transformative Potenzial wertschätzen, das sowohl Organisationen als auch deren Mitglieder hilft, das sich zu entwickeln und zu entfalten. Viele aus dieser Gemeinschaft stellen freundlicherweise Zeit zur Verfügung, S3 zu erforschen und weiterzutragen, zusammenzuarbeiten, voneinander zu lernen und ihre Erfahrungen zu dokumentieren, so dass mit den so gewonnene Erkenntnissen S3 selbst weiterentwickelt werden kann.
 
-## Die Entstehung von Soziokratie 3.0
+## Warum "Soziokratie 3.0"?
 
 Die ersten Konzepte zur Soziokratie als Regierungsform stammen aus dem Jahre 1851. Seit damals wurde sie von vielen Menschen und Organisationen weiterentwickelt und angepasst, u.A. von Gerard Endenburg, von der The Sociocracy Group (TSG) und von Brian Robertson (HolacracyOne).
 
@@ -110,42 +110,42 @@ Der Name soll auch Verwechslungen mit der *Soziokratische Kreismethode* (SKM) zu
 
 ### Eine neue Form der Verbreitung
 
-*Soziokratie 3.0* beruht auf einem dezentralen Verteilungsmodell. Im Vergleich dazu, wie die Soziokratie bisher an Personen und Organisationen vermittelt wurde, stellt das einen radikalen Paradigmenwechsel dar, der auf viel positive Resonanz stößt.
+*Soziokratie 3.0* beruht auf einem dezentralen Verteilungsmodell. Im Vergleich dazu, wie die Soziokratie bisher an Personen und Organisationen vermittelt wurde, stellt das einen radikalen Paradigmenwechsel dar, der auf viel positive Resonanz stößt.
 
 Durch zwei Strategien unterstützen wir "virale" Verbreitung:
 
-* **Soziokratie 3.0 ist offen:** Wir wollen die Entstehung eines lebendigen Ökosystems aus Anwendungen und Abwandlungen der Soziokratie fördern, in dem Menschen ihre Erfahrungen und Anpassungen miteinander teilen und diskutieren. Daher legen wir einen Schwerpunkt auf die Kommunikation der hinter Soziokratie 3.0 stehenden Prinzipien, und auf die explizite Einladung, alles nach Bedarf anzupassen, zu erweitern und neu zu kombinieren.
-* **Soziokratie 3.0 ist frei**: Um die Eintrittsbarrieren für Menschen und für Organisationen zu senken, bieten wir unsere Materialien zum Lernen, zur Ausübung und zur Vermittlung von *Soziokratie 3.0* unter einer *Creative Commons Free Culture Lizenz* an. Jeder kann diese Materialen einfach verwenden, auch in einem kommerziellen Kontext oder als Grundlage für die Erstellung eigener Materialien[^solange das Resultat unter derselben Lizenz verfügbar ist], ohne uns erst um Erlaubnis fragen zu müssen. Wir ermutigen ausdrücklich andere Organisationen, Berater, Coaches, Moderatoren und Trainer, unserem Beispiel zu folgen und auch ihre Ressourcen freizugeben.
+* **Soziokratie 3.0 ist offen:** Wir wollen die Entstehung eines lebendigen Ökosystems aus Anwendungen und Abwandlungen der Soziokratie fördern, in dem Menschen ihre Erfahrungen und Anpassungen miteinander teilen und diskutieren. Daher legen wir einen Schwerpunkt auf die Kommunikation der hinter Soziokratie 3.0 stehenden Prinzipien, und auf die explizite Einladung, alles nach Bedarf anzupassen, zu erweitern und neu zu kombinieren.
+* **Soziokratie 3.0 ist frei:** Um die Eintrittsbarrieren für Menschen und für Organisationen zu senken, bieten wir unsere Materialien zum Lernen, zur Ausübung und zur Vermittlung von *Soziokratie 3.0* unter einer *Creative Commons Free Culture Lizenz* an. Jeder kann diese Materialen einfach verwenden, auch in einem kommerziellen Kontext oder als Grundlage für die Erstellung eigener Materialien[^solange das Resultat unter derselben Lizenz verfügbar ist], ohne uns erst um Erlaubnis fragen zu müssen. Wir ermutigen ausdrücklich andere Organisationen, Berater, Coaches, Moderatoren und Trainer, unserem Beispiel zu folgen und auch ihre Ressourcen freizugeben.
 
 ### Die Evolution der Soziokratischen Kreismethode
 
-Wir wollen eines ausdrücklich klarstellen: Soziokratie 3.0 richtet sich nicht an diejenigen, die die *Soziokratische Kreismethode* (SKM) anwenden, und auch nicht an The Sociocracy Group (TSG). SKM ist bereits gut entwickelt, und einige Menschen sind mit dieser Methode offensichtlich weitestgehend zufrieden.
+Wir wollen eines ausdrücklich klarstellen: Soziokratie 3.0 richtet sich nicht an diejenigen, die die *Soziokratische Kreismethode* (SKM) anwenden, und auch nicht an The Sociocracy Group (TSG). SKM ist bereits gut entwickelt, und einige Menschen sind mit dieser Methode offensichtlich weitestgehend zufrieden.
 
-Dennoch gibt es unserer Erfahrung einige Hindernisse, die es Organisationen schwer machen, mit Soziokratie zu experimentieren. Durch *Soziokratie 3.0* versuchen wir aktiv, diese Hindernisse auszuräumen und den Einstieg zu erleichtern.
+Dennoch gibt es unserer Erfahrung einige Hindernisse, die es Organisationen schwer machen, mit Soziokratie zu experimentieren. Durch *Soziokratie 3.0* versuchen wir aktiv, diese Hindernisse auszuräumen und den Einstieg zu erleichtern.
 
 #### Minimierung von Risiko und Widerstand
 
-*Soziokratie 3.0* holt Organisationen genau dort ab, wo sie gerade stehen, und unterstützt sie auf ihrem Weg durch schrittweise und kontinuierliche Verbesserung. Radikale Veränderung oder Reorganisation sind nicht erforderlich. *Soziokratie 3.0* bietet eine Sammlung unabhängiger und prinzipienbasierter Muster an, aus denen sich eine Organisation nach Bedarf bedienen kann, um effektiver zu werden. Alle Muster beziehen sich auf dieselben Grundprinzipien, so dass sie leicht an den speziellen Kontext einer Organisation angepasst werden können.
+*Soziokratie 3.0* holt Organisationen genau dort ab, wo sie gerade stehen, und unterstützt sie auf ihrem Weg durch schrittweise und kontinuierliche Verbesserung. Radikale Veränderung oder Reorganisation sind nicht erforderlich. *Soziokratie 3.0* bietet eine Sammlung unabhängiger und prinzipienbasierter Muster an, aus denen sich eine Organisation nach Bedarf bedienen kann, um effektiver zu werden. Alle Muster beziehen sich auf dieselben Grundprinzipien, so dass sie leicht an den speziellen Kontext einer Organisation angepasst werden können.
 
 #### Verlagerung des Fokus von Zielen (oder Sinn) hin zum Bedarf
 
-*Soziokratie 3.0* verschiebt den primären Fokus weg von Vision, Mission, Zielen oder Sinn ("Purpose") zum Ausgangspunkt der Motivation für Veränderung, und hilft, einer Organisation, zu entdecken, was ihr Bedarf ist, und sich dann an diesem Bedarf auszurichten. Organisationen, die bereits bedarfsgetrieben, wertgetrieben oder kundenzentrisch sind, finden das unmittelbar einleuchtend.
+*Soziokratie 3.0* verschiebt den primären Fokus weg von Vision, Mission, Zielen oder Sinn ("Purpose") zum Ausgangspunkt der Motivation für Veränderung, und hilft, einer Organisation, zu entdecken, was ihr Bedarf ist, und sich dann an diesem Bedarf auszurichten. Organisationen, die bereits bedarfsgetrieben, wertgetrieben oder kundenzentrisch sind, finden das unmittelbar einleuchtend.
 
-Mit *Soziokratie 3.0* ist der Sinn ("Purpose") immer implizit klar - Wertschöpfung bezogen auf den Bedarf der Organisation.
+Mit *Soziokratie 3.0* ist der Sinn ("Purpose") immer implizit klar - Wertschöpfung bezogen auf den Bedarf der Organisation.
 
 #### Reduktion auf das Wesentliche
 
-Betrachtet man die offiziellen Normen, kann die *Soziokratische Kreismethode* durchaus riesig und furchterregend wirken. Durch die Konzentration auf das Wesentliche bietet *Soziokratie 3.0* demgegenüber einen leichtgewichtigen Rahmen für Anpassung und Entwicklung einer Organisation.
+Betrachtet man die offiziellen Normen, kann die *Soziokratische Kreismethode* durchaus riesig und furchterregend wirken. Durch die Konzentration auf das Wesentliche bietet *Soziokratie 3.0* demgegenüber einen leichtgewichtigen Rahmen für Anpassung und Entwicklung einer Organisation.
 
 Das bedeutet nicht, dass alles immer ganz einfach ist: auch die Anwendung von Mustern aus *Soziokratie 3.0* bedeutet ein gewisse Investition in Lernen und Veränderung antrainierter Gewohnheiten. Daher ist es umso wichtiger, schrittweise vorzugehen, und nur die Muster anzuwenden, die man auch tatsächlich gerade benötigt, es ist sinnlos, Dinge zu ändern, die bereits gut genug sind.
 
 #### Integration von Ideen aus den agilen Methoden und aus Lean Thinking
 
-Bezogen auf operative Tätigkeiten und insbesondere auf die der Kultur der Zusammenarbeit innerhalb der Organisation versteht sich die *Soziokratischen Kreismethode* als "leere Methode". Viele Organisationen richten bereit ihre operativen Tätigkeiten an agilen Prinzipien und Lean Thinking aus, oder streben eine derartige Transformation an. Wir halten das für eine großartige Idee, und haben *Soziokratie 3.0* deshalb so gestaltet, dass sie gut zu agilen und lean Organisationen passt.
+Bezogen auf operative Tätigkeiten und insbesondere auf die der Kultur der Zusammenarbeit innerhalb der Organisation versteht sich die *Soziokratischen Kreismethode* als "leere Methode". Viele Organisationen richten bereit ihre operativen Tätigkeiten an agilen Prinzipien und Lean Thinking aus, oder streben eine derartige Transformation an. Wir halten das für eine großartige Idee, und haben *Soziokratie 3.0* deshalb so gestaltet, dass sie gut zu agilen und lean Organisationen passt.
 
 #### Neue Wege zur Entwicklung von Organisationsstruktur
 
-Die *Soziokratische Kreismethode* kennt nur eine einzige Organisationsstruktur, die anhand von hierarchischen Domänen modelliert ist. Wir beobachten zunehmend die Entstehung von kollaborativen Multi-Stakeholder-Umgebungen, die einen Bedarf an einer breiteren Vielfalt an Mustern für Organisationsstrukturen haben. Die Entwicklung hilfreicher Organisationsstrukturen passiert ganz natürlich, sobald man beginnt, Informationsfluss und Führungsstrukturen an die Wertschöpfung anzugleichen. Dazu stellt *Soziokratie 3.0* eine Palette an Strukturmustern bereit, die leicht miteinander kombiniert werden können um die eigene Organisationsstruktur flexibel und bedarfsgerecht weiterzuentwickeln.
+Die *Soziokratische Kreismethode* kennt nur eine einzige Organisationsstruktur, die anhand von hierarchischen Domänen modelliert ist. Wir beobachten zunehmend die Entstehung von kollaborativen Multi-Stakeholder-Umgebungen, die einen Bedarf an einer breiteren Vielfalt an Mustern für Organisationsstrukturen haben. Die Entwicklung hilfreicher Organisationsstrukturen passiert ganz natürlich, sobald man beginnt, Informationsfluss und Führungsstrukturen an die Wertschöpfung anzugleichen. Dazu stellt *Soziokratie 3.0* eine Palette an Strukturmustern bereit, die leicht miteinander kombiniert werden können um die eigene Organisationsstruktur flexibel und bedarfsgerecht weiterzuentwickeln.
 
 *James Priest, Bernhard Bockelbrink und Liliana David*
 
@@ -200,7 +200,7 @@ Die Anwendung von Soziokratie 3.0 hilft Menschen, den Nutzen dieser Prinzipien i
 
 Handle in allen Domänen, für die du verantwortlich bist, innerhalb der Grenzen bestehender Vereinbarungen. Das betrifft die Organisation selbst, Teams, deren Teil du bist, und Rollen, die du übernommen hast.
 
-Jeder Mitarbeiter ist verantwortlich für die effektive Zusammenarbeit aller bei der Antwort auf Organisationstreiber
+Jedes Mitglied der Organisation ist verantwortlich für die effektive Reaktion der Organisation auf Organisationstreiber, das betrifft nicht nur die eigene Arbeit, sondern auch die Verantwortung für die effektive Zusammenarbeit aller.
 
 Einzelpersonen und Gruppen sind jeweils verantwortlich für ihre eigene Arbeit, und für ihre Weiterentwicklung, und dafür, sich gegenseitig zu unterstützen.
 
@@ -291,11 +291,11 @@ Steuerungsentscheidungen können jederzeit und an jedem Ort getroffen werden, ni
 
 #### Verwandte Konzepte
 
-**Selbststeuerung**: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
+**Selbststeuerung:** Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
 
-**Teilautonomie**: Die Freiheit der Beauftragten, selbst zu entscheiden, wie sie in ihrer Domäne Wert schöpfen  werden, die zusätzlich durch ihre eigenen Steuerungsentscheidungen sowie durch Einwände (u.A. von der Delegierenden und von Repräsentanten) begrenzt wird.
+**Teilautonomie:** Die Freiheit der Beauftragten, selbst zu entscheiden, wie sie in ihrer Domäne Wert schöpfen werden, die dann weiter begrenzt wird durch ihre eigenen Steuerungsentscheidungen, und durch Einwände (u.A. von der Delegierenden und von Repräsentanten).
 
-**Selbstorganisation**: Alle Aktivitäten und Prozesse, durch die ein Team seine tägliche Arbeit ohne externen Einfluss, aber im Rahmen der durch Governance vorgegebenen Grenzen selbst organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.
+**Selbstorganisation:** Alle Aktivitäten und Prozesse, durch die ein Team seine tägliche Arbeit ohne externen Einfluss, aber im Rahmen der durch Governance vorgegebenen Grenzen selbst organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.
 
 Je nach den Einschränkungen der Domäne, die die Delegierende festlegt, haben Teams mehr oder weniger Autonomie, Steuerungsentscheidungen zu treffen und ihr operatives Geschäft zu gestalten, sind also mehr oder weniger selbststeuernd und selbstorganisierend.
 
@@ -349,7 +349,7 @@ Treiber können von Einzelpersonen oder auch gemeinsam von einer Gruppe beschrie
 Eine einfache Methode, einen Treiber zu beschreiben:
 
 - **Was gerade passiert:** 
-    - die **aktuelle situation**
+    - die **aktuelle Situation**
     - den **Effekt** dieser Situation auf die Organisation
 - und **warum wir handeln sollten:** 
     - den **Bedarf** der Organisation bezogen auf diese Situation
@@ -439,9 +439,9 @@ Das Zurückhalten von Einwänden kann die Ziele eines Teams oder der gesamten Or
 
 _Ein **Einwand** ist ein _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert._
 
-Einwände gegen Vorschläge, Entscheidungen, bestehenden Vereinbarungen oder Massnahmen enthalten wesentliche Informationen über **negative Konsequenzen** oder sonstige **Verbesserungspotenziale**. verwendet.
+Einwände offenbaren Information über **unbeabsichtigte Folgen**, oder über **Verbesserungsmöglichkeiten<0>.</p> 
 
-Es liegt in der Verantwortung des Einzelnen, mögliche Einwände zu einzubringen.
+Es liegt in der Verantwortung des Einzelnen, Einwände gegen Entscheidungen, bestehende Vereinbarungen oder Handlungen zu erheben.
 
 Das Zurückhalten von Einwänden kann die Fähigkeit von Personen, Teams oder der gesamten Organisation beeinträchtigen, effektiv auf Organisationstreiber zu reagieren.
 
@@ -465,7 +465,7 @@ Nutze die von Einwänden aufgedeckten Informationen zur Verbesserung
 
 #### Einwände qualifizieren
 
-Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enthüllen, und sonstigen Argumenten, die nur auf Meinungen, Vorlieben oder Bedenken basieren.
+Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enthüllen, und sonstigen Argumenten, die nur auf Annahmen oder Vorlieben basieren.
 
 Um herauszufinden, um ob ein vorgebrachtes Argument tatsächlich einen Einwand darstellt, könnte ein Moderator z.B. folgende Frage stellen:
 
@@ -487,13 +487,15 @@ Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
 #### Bedenken
 
-_Ein **Bedenken** ist die Ansicht, dass etwas - selbst in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**._
+_Ein **Bedenken** ist eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**._
 
 In einer _Konsent-Entscheidung_ können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
 
 Bringe Bedenken ein, wenn du sie als wichtig erachtest, und protokolliere sie im mindesten Falle mit Evaluationskriterien.
 
 Wenn du im Zweifel bist, ob es sich bei einem Argument um einen Einwand oder ein Bedenken handelt, frage die Gruppe, ob sie es für einen Einwand halten.
+
+![Ein Prozess, um Einwände zu qualifizieren](img/agreements/qualify-objection-process.png)
 
 ###  Muster 1.6: Einwände integrieren
 
@@ -595,9 +597,9 @@ Gemeinsame Vorschlagsgestaltung kann auch für Telekonferenzen und Online-Meetin
 
 #### Proposal Forming: Ablauf
 
-**Zustimmung zum Treiber**: Stelle den Treiber kurz vor. *Ist dieser Treiber für uns relevant? Will jemand etwas hinzufügen?*
+**Zustimmung zum Treiber:** Stelle den Treiber kurz vor. *Ist dieser Treiber für uns relevant? Will jemand etwas hinzufügen?*
 
-**Das gemeinsames Verständnis des Treibers vertiefen**: Die Teilnehmer können Fragen stellen, um mehr über den Treiber zu erfahren.
+**Das gemeinsames Verständnis des Treibers vertiefen:** Die Teilnehmer können Fragen stellen, um mehr über den Treiber zu erfahren.
 
 **Überlegungen sammeln**, formuliert als Fragen in Bezug auf mögliche Lösungen. Diese Fragen deuten entweder auf Einschränkungen (Informationsfragen) oder Möglichkeiten (generative Fragen) hin.
 
@@ -620,7 +622,7 @@ Bedenke:
 
 In der Regel ist eine Gruppe von 2–3 Gestaltern angemessen. Prüfe, ob es Einwände gegen die vorgeschlagenen Gestalter gibt.
 
-![Vorlage für Vorschläge](img/templates/proposal-template.png)
+![Ablauf des Proposal Forming](img/agreements/proposal-forming.png)
 
 ###  Muster 1.11: Wahl
 
@@ -631,6 +633,8 @@ Anstatt Personen eine _Rolle_ zuzuweisen, oder per Mehrheit zu bestimmen, verwen
 - das Wissen der gesamten Gruppe zu nutzen, indem begründete Nominierungen vorgebracht und bedacht werden
 - die Verantwortlichkeit der gesamten Gruppe für die resultierende Entscheidung zu stärken
 - die Unterstützung der Rolleninhaberin für durch die Gruppe sicherzustellen
+
+Voraussetzung für die Wahl ist eine _Beschreibung_ der Domäne der Rolle.
 
 #### Wahlverfahren
 
@@ -838,7 +842,7 @@ Eine essentielle Voraussetzung für erfolgreiche Zusammenarbeit ist die Entwickl
 
 Bereits während der Vertragsverhandlungen sollte bereits der Umgang miteinander eingeübt werden, der auch für die spätere Zusammenarbeit gewünscht ist, und die Chance genutzt werden, gute Beziehungen mit den anderen Vertragspartnern aufzubauen.
 
-Dieses Muster bezieht sich auf diejenigen Verträge, die den Rahmen zur Zusammenarbeit einer Organisation mit weiteren Parteien (z.B. Angestellte, Freiberufler, Berater, Dienstleister, Zulieferer, Anteilseigner oder Kunden) festlegen. Besonders relevant ist dieses Muster, wenn es um Verträge geht, die großen Einfluss auf die Zukunft einer Organisation haben, z.B.:
+Dieses Muster bezieht sich auf diejenigen Verträge, die den Rahmen zur Zusammenarbeit einer Organisation mit weiteren Parteien (z.B. Angestellte, Freiberufler, Berater, Dienstleister, Zulieferer, Anteilseigner oder Kunden) festlegen. Dies ist besonders für Verträge relevant, die einen maßgeblichen Einfluss auf die Zukunft einer Organisation oder eines ihrer Partner haben, wie z.B. :
 
 - Arbeitsverträge und Verträge mit externen Dienstleistern oder Beratern in _Hilfsrollen_, sowie alle Vereinbarungen, die aus denen sich Veränderungen von Vergütung oder Arbeitszeit ergeben
 - Verträge über die Zusammenarbeit mit Kunden, Lieferanten oder Dienstleistern
@@ -846,7 +850,7 @@ Dieses Muster bezieht sich auf diejenigen Verträge, die den Rahmen zur Zusammen
 
 **Anmerkung:** Viele Vereinbarungen, die die Zusammenarbeit innerhalb einer Organisation betreffen, erfordern keine eigenen Verträge, das sie bereits von bestehenden Verträgen (z.B. dem Arbeitsvertrag) abgedeckt werden.
 
-#### Erfolgskriterien für produktive Vertragsverhandlungen
+#### Erfolgskriterien für Vertragsverhandlungen
 
 Stelle während den Vertragsverhandlungen folgendes sicher:
 
@@ -863,7 +867,7 @@ Wenn aus irgendeinem Grund eine oder mehrere dieser Kriterien nicht erfüllt wer
 
 Die Art und Weise, die ein Vertrag ausgehandelt wird, kann erheblich zur Vertrauensbildung zwischen den beteiligten Parteien beitragen. Betrachte Vertragsverhandlungen als Einigungsprozess zwischen Partnern, nicht als Wettstreit zwischen Konkurrenten.
 
-- Der Vertrag sollte alle Erwartungen an jeden der Vertragspartner beinhalten, und jede Erwartung sollten ausreichend detailliert dokumentiert werden.
+- Der Vertrag sollte alle Erwartungen an die Vertragspartner beinhalten, und jede Erwartung sollten ausreichend detailliert dokumentiert werden.
 - Verwende eine klare und einfache Sprache, die alle Parteien verstehen können, und beschreibe etwaige Rechtsfolgen klar und deutlich.
 - Wenn es erforderlich ist, Fachbegriffe zu verwenden, die einer der Parteien nicht geläufig sind, sollten diese in einem Glossar erklärt werden, das Vertragsbestandteil wird.
 - Lasse dich von einem Anwalt beraten, der die von dir angestrebte Kultur unterstützt, und auch Branchenkompetenz hat
@@ -904,7 +908,7 @@ Oft sind die Standardverträge in einer Branche nicht im Einklang mit der Kultur
 
 **Gestalte eine gerechte Gehaltsformel und mache sie transparent.**
 
-Um Gehaltstransparenz zu erzielen, werden Gehälter nicht mehr individuell verhandelt, sondern anhand einer festgelegten Gehaltsformel berechnet. Diese Gehaltsformeln — und manchmal auch die daraus resultierenden Gehälter — sind allen Mitarbeitern bekannt, und sind in einigen Fällen sogar öffentlich.
+Gehaltstransparenz (machmal auch als "offene Gehälter" bezeichnet) ist die Praxis, das Gehalts jedes Arbeitnehmers anhand fester Regeln zu bestimmen – die *Gehaltsformel* – anstatt das Gehalt individuell in zwischen Arbeitgebern und Arbeitnehmern zu verhandeln. Die Gehaltsformel — und oft auch die einzelnen Gehälter — ist für alle Mitglieder der Organisation einsehbar, und wird manchmal sogar veröffentlicht.
 
 Eine Gehaltsformel muss zum Kontext eines Unternehmens passen, und von allen Stakeholdern als fair empfunden werden.
 
@@ -973,11 +977,11 @@ Ein Kreis …
 - kann selbstorganisierend sein
 - ist selbst für seine Entwicklung und seine Vereinbarungen verantwortlich
 
-- **teilautonom**:
+- **teilautonom:**
     
     - die Mitglieder eines Kreises handeln innerhalb der durch die Domäne des Kreises abgesteckten Grenzen
     - jeder Kreis kann selbstständig Wert schöpfen
-- **selbstverwaltet**: 
+- **selbststeuernd:** 
     - die Mitglieder des Kreis entscheiden gemeinsam, wie der Kreis in seiner Domäne Wert schöpft, und definieren inhaltliche und zeitliche Rahmenbedingungen für die zu erledigende Arbeit
 - **Gleichstellung der Kreismitglieder:** 
     - Jedes Mitglied eines Kreises ist gleichermaßen verantwortlich für die Steuerungsentscheidungen in der Domäne des Kreises 
@@ -1001,7 +1005,7 @@ Eine Rolle ist ein einfacher Weg für eine Organisation (oder Team), um wiederke
 
 Der Rolleninhaber kann ein eigenes Steuerungsbacklog führen und ein Logbuch anlegen, um seine Strategie zur Wertschöpfung zu entwickeln.
 
-**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können genauso wie Vereinbarungen behandelt und entwickelt werden.
+**Anmerkung:** Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können wie Vereinbarungen behandelt werden.
 
 ![eine Person kann die Verantwortung für mehr als eine Rolle übernehmen](img/illustrations/roles.png)
 
@@ -1172,7 +1176,7 @@ Eine Vorgehensweise zur ständigen Verringerung von Verschwendung bewirkt eine n
 
 ###  Muster 6.1: Vereinbarung
 
-_Eine **Vereinbarung** ist eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten._
+_Eine **Vereinbarung** ist eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss der Organisation steuert._
 
 Vereinbarungen entstehen in Reaktion auf Organisationstreiber, und werden **regelmäßig evaluiert und weiterentwickelt.**
 
@@ -1182,7 +1186,7 @@ Eine Vereinbarung kann die auch die **Delegation von Verantwortung** an bestimmt
 
 Dokumentiere alle **Erwartungen**, die im Rahmen einer Vereinbarung in Bezug auf Leistungen, Verhalten oder Ressourcen bestehen.
 
-**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, werden ebenfalls als Vereinbarungen betrachtet.
+**Anmerkung:** Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, werden ebenfalls als Vereinbarungen betrachtet.
 
 ![Vorlage für Vereinbarungen](img/templates/agreement-template.png)
 
@@ -1243,6 +1247,8 @@ Bei der Beschreibung von Leistungen ist es hilfreich
 - auf existierende Dokumente zu verweisen
 
 Leistungen klar zu beschreiben verbessert nicht nur Kommunikation und Zusammenarbeit innerhalb der Organisation, sondern auch mit Kunden und externen Partnern.
+
+**Beispiel:** In der Software-Entwicklung ist es inzwischen üblich, Leistungen in Form von so-genannten **User Stories** zu definieren, die jeweils den Bedarf eines Nutzers eines Softwaresystems beschreiben. User Stories werden im Dialog zwischen Kunden (oder dessen Vertreter, z.B. einem Produktmanager oder einem "Product Owner") und den betroffenen Softwareentwicklern erarbeitet. Schriftlich dokumentiert wird mindestens der Bedarf des Benutzers, und die Akzeptanzkriterien, ein Liste von Anforderungen, anhand derer der Kunde im Review feststellen kann, ob das neue Feature in der vorliegenden Form freigegeben wird.
 
 ###  Muster 6.6: Evaluationskriterien
 
@@ -1362,9 +1368,9 @@ Die Website [plans-for-retrospectives.com](http://www.plans-for-retrospectives.c
 
 **Teams halten in regelmäßigen Abständen (1-4 Wochen) zeitlich begrenzte Meetings, um Iterationen zu planen und zu evaluieren**
 
-**Planungsmeeting**: Wähle Arbeitspakete für die nächste Iteration aus, und sorge dafür, dass es zu jedem der ausgewählten Arbeitspakete eine Aufwandsschätzung gibt
+**Planungsmeeting:** Wähle Arbeitspakete für die nächste Iteration aus, und sorge dafür, dass es zu jedem der ausgewählten Arbeitspakete eine Aufwandsschätzung gibt
 
-**Reviewmeeting**: Abnahme fertiggestellter Arbeitspakete, Diskussion von erforderlichen Nachbessrungen und Änderungen für folgende Iterationen 
+**Reviewmeeting:** Abnahme fertiggestellter Arbeitspakete, Diskussion von erforderlichen Nachbessrungen und Änderungen für folgende Iterationen 
 
 ![Planung und Review](img/meetings/planning-review.png)
 
@@ -1546,8 +1552,8 @@ Typische Backlogs:
 
 **Umsetzung:**
 
-- **analoges Backlog**: Haftnotizen an einer Wand, oder Karteikarten mit Magneten an einem Whiteboard
-- **digitales Backlog**: z.B. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
+- **analoges Backlog:** Haftnotizen an einer Wand, oder Karteikarten mit Magneten an einem Whiteboard
+- **digitales Backlog:** z.B. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
 Jedes Element in einem (priorisierten) Backlog hat normalerweise:
 
@@ -1573,8 +1579,8 @@ Ein priorisiertes Backlog lenkt den **Fokus** auf die wichtigsten Aufgaben oder 
 
 - essentiell für Selbstorganisation und Pull-Systeme
 - das System muss für alle Betroffenen zugänglich sein
-- **analog**: Haftnotizen an der Wand, oder Karteikarten, Magnete und Whiteboard
-- **digital**: [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
+- **analog:** Haftnotizen an der Wand, oder Karteikarten, Magnete und Whiteboard
+- **digital:** [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
 ![Visualisierung eines einfachen Arbeitsprozesses](img/workflow-and-value/simple-process.png)
 
@@ -1695,7 +1701,7 @@ Ein Servicekreis wird von Mitgliedern derjenigen Domänen besetzt, denen er dien
 
 ###  Muster 10.2: Delegiertenkreis
 
-**Delegiere die Entscheidungsbefugnis für Treiber, die mehrere Domänen betreffen an einen Kreis aus Delegierten.**
+**Delegiere Steuerungsentscheidungen, die mehrere Domänen betreffen, an Delegierte, die in diesen Domänen gewählt wurden.**
 
 Stakeholder entsenden _Repräsentanten_, die einen Delegiertenkreis bilden, der die Steuerungs-Entscheidungen trifft, die mehrere (oder alle) Stakeholder betreffen.
 
@@ -1724,7 +1730,7 @@ Domänen werden so verbunden, dass die zu Entscheidungen erforderlichen Einfluss
 
 ###  Muster 10.4: Doppelt verbundene Hierarchie
 
-**Delegiere alle Governance-Entscheidungen an selbststeuernde Kreise, und verbinde diese Kreise jeweils nach oben und unten über den Austausch von Delegierten, um eine herkömmliche Hierarchie in eine Struktur zu überführen, die es leichter macht, das kollektive Wissen zu nutzen und Engagement zu fördern.**
+**Delegiere alle Governance-Entscheidungen an selbststeuernde Kreise, und verbinde diese Kreise jeweils nach oben und unten über den Austausch von Delegierten, um eine herkömmliche Hierarchie in eine Struktur zu überführen, die das kollektive Wissen nutzt, Gleichstellung ermöglicht und individuelles Engagement fördert.**
 
 1. Alle Governance-Entscheidungen werden von Einzelpersonen auf Teams übertragen, indem selbststeuernde Kreise auf allen Ebenen der Organisation gebildet werden.
 2. Die Mitglieder eines jeden Kreises entsenden Delegierte in den nächsthöheren sowie in alle tieferen Kreise, die ihre Interessen in den Governance-Entscheidungen dieser Kreise vertreten.
@@ -1798,6 +1804,19 @@ Die zweite und dritte Ebene:
 
 ## Änderungsprotokoll 
 
+### Änderungen zum 3.5.2018
+
+- Glossareinträge überarbeitet für Vereinbarung, Organisation und Team, Eintrag hinzugefügt für Ziel
+- Prinzip der Verantwortlichkeit: individuelle Verantwortung der Mitarbeiter für die eigene Arbeit als auch für die Zusammenarbeit
+- _Verträge für erfolgreiche Zusammenarbeit_: text überarbeitet
+- _Leistungen definieren_: User Stories als Beispiel hinzugefügt
+- _doppelt verbundene Hierarchie_: Zusammenfassung überarbeitet
+- _Delegiertenkreis_: Zusammenfassung überarbeitet
+- _Einwand_: Definitionen von Einwand und Bedenken überarbeitet, neue Illustration für einen Prozess zur Qualifikation eines Einwandes
+- _Proposal Forming_: verlorengegangene Prozessillustration wieder hinzugefügt
+- _Wahl_: Illustration überarbeitet
+- _Gehaltstransparenz_: Erklärung einer Gehaltsformel
+
 ### Änderungen zum 8.3.2018
 
 **Allgemeine Änderungen**
@@ -1837,11 +1856,11 @@ Die zweite und dritte Ebene:
 - sprachliche Überarbeitung
 - Links zur Web-Version des Praxisleitfadens ergänzt 
 
-**Glossar**
+**Glossar:**
 
-- **überarbeitet**: Bedenken, Governance, Einwand, Leistung, operatives Geschäft, Primärtreiber, Rolle, Selbstorganisation, Subtreiber, Teilautonomie, Werte
-- **hinzugefügt**: Delegation, Hilfsteam, Konstituente, Koordination, Offene Domäne, Wertfluss
-- **entfernt:** Nachbartreiber
+- **aktualisiert:** verantworten, Bedenken, Leistung, Governance, Einwand, operative Tätigkeiten, Primärtreiber, Prinzip, Rolle, Selbstorganisation, Teilautonomie, Subtreiber, Werte
+- **hinzugefügt:** Konstituente, Koordination, Delegation, Zusammenfassung eines Treibers, entwickeln, Wertfluss, Hilfsteam, Offene Domäne
+- **entfernt:** benachbarter Treiber
 
 **Änderungen in der Einleitung**
 
@@ -1997,7 +2016,7 @@ weitere Sprachen und Formate des Praxisleitfadens gibt es unter <http://sociocra
 
 **Weitere Materialien zu S3**: <http://sociocracy30.org/resources/>
 
-**S3 Webseite**: <http://sociocracy30.org>
+**S3 Webseite:** <http://sociocracy30.org>
 
 **Auf Twitter folgen:** *@sociocracy30*
 
@@ -2092,12 +2111,11 @@ Unser Angebot umfasst Beratung, Training, Coaching und Mentoring zu *Soziokratie
 
 ### James Priest
 
-… bietet seine Unterstützung international an; Beratung zu Organisationsentwicklung, Lernbegleitung, sowie Mentoring für Menschen, die kollaborative, adaptive Organisationen in grösserem Rahmen entwickeln möchten.
+... … bietet seine Unterstützung international an; Beratung zu Organisationsentwicklung, Lernbegleitung, sowie Mentoring für Menschen, die kollaborative, adaptive Organisationen in grösserem Rahmen entwickeln möchten.
 
 <https://thriveincollaboration.com>
 
 <james@thriveincollaboration.com>
-
 
 ### Bernhard Bockelbrink
 
@@ -2107,198 +2125,199 @@ Unser Angebot umfasst Beratung, Training, Coaching und Mentoring zu *Soziokratie
 
 <bernhard.bockelbrink@evolvingcollaboration.com>
 
-
 ### Liliana David
 
-… bietet ihre Unterstützung international an; Training, Prozessbegleitung und Mentoring für Teams und Organisationen mit dem Wunsch, grössere Effektivität und Gleichberechtigung in der Zusammenarbeit zu entwickeln.
+... … bietet ihre Unterstützung international an; Training, Prozessbegleitung und Mentoring für Teams und Organisationen, die den Wunsch haben, grössere Effektivität und Gleichberechtigung in der Zusammenarbeit zu entwickeln.
 
 <https://thriveincollaboration.com>
 
 <lili@thriveincollaboration.com>
 
 
-
 ## Glossar 
 
 
-**(etwas) verantworten**: die Verantwortung für etwas übernehmen.
+**(etwas) verantworten:** die Verantwortung für etwas übernehmen.
 
 
-**Angestrebtes Ergebnis**: Das erwartete Ergebnis einer Vereinbarung, Aktion, Projekt oder Strategie.
+**Angestrebtes Ergebnis:** Das erwartete Ergebnis einer Vereinbarung, Aktion, Projekt oder Strategie.
 
 
-**Arbeits-Backlog**: Eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
+**Arbeits-Backlog:** Eine sichtbare Liste von (meist priorisierten) offenen Aufgaben (Leistungen).
 
 
-**Backlog**: Eine Liste von (meist priorisierten) offenen Aufgaben (Leistungen), oder Treibern, die noch bearbeitet werden müssen.
+**Backlog:** Eine Liste von (meist priorisierten) offenen Aufgaben (Leistungen), oder Treibern, die noch bearbeitet werden müssen.
 
 
-**Beauftragte**: Eine Person oder Gruppe, die die Verantwortlichkeit für eine Domäne übernimmt.
+**Beauftragte:** Eine Person oder Gruppe, die die Verantwortlichkeit für eine Domäne übernimmt.
 
 
-**Bedarf**: Ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird.
+**Bedarf:** Ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird.
 
 
-**Bedenken**: Die Ansicht, dass etwas - selbst in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
+**Bedenken:** Eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
 
 
-**Check In**: Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
+**Check In:** Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
 
 
-**Delegation**: Die Bevollmächtigung einer Partei (des Beauftragten) durch eine andere (die Delegierende), sich um eine Domäne zu kümmern (d.h. bestimmte Aufgaben zu erfüllen und/oder bestimmte Entscheidungen zu treffen). Die Gesamtverantwortung trägt weiterhin die Delegierende.
+**Delegation:** Die Bevollmächtigung einer Partei (des Beauftragten) durch eine andere (die Delegierende), sich um eine Domäne zu kümmern (d.h. bestimmte Aufgaben zu erfüllen und/oder bestimmte Entscheidungen zu treffen). Die Gesamtverantwortung trägt weiterhin die Delegierende.
 
 
-**Delegierende**: Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.
+**Delegierende:** Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.
 
 
-**Domäne**: Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.
+**Domäne:** Ein eigener Arbeits-, Einfluss-  und Entscheidungsbereich innerhalb einer Organisation.
 
 
-**Effektivität (Prinzip)**: Investiere Zeit nur in das, was Dich dem Erreichen Deiner Ziele näher bringt.
+**Effektivität (Prinzip):** Investiere Zeit nur in das, was Dich dem Erreichen Deiner Ziele näher bringt.
 
 
-**Einwand**: Eine _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert.
+**Einwand:** Ein _Argument_ — bezogen auf einen Vorschlag, eine Entscheidung, eine bestehende Vereinbarung oder ein Handlung — die unbeabsichtigte Konsequenzen oder praktikable Möglichkeiten zur Verbesserung offenbart.
 
 
-**Empirismus (Prinzip)**: Prüfe alle Annahmen durch Experimente und kontinuierliche Revision.
+**Empirismus (Prinzip):** Prüfe alle Annahmen durch Experimente und kontinuierliche Revision.
 
 
-**Gewählte Werte**: Ein Satz von Prinzipien, für die sich ein Team (oder eine Organisation) gemeinsam entschieden hat, um sie im Rahmen ihrer Zusammenarbeit umzusetzen.
+**Gewählte Werte:** Ein Satz von Prinzipien, für die sich ein Team (oder eine Organisation) gemeinsam entschieden hat, um sie im Rahmen ihrer Zusammenarbeit umzusetzen.
 
 
-**Gleichstellung (Prinzip)**: Beziehe Menschen in die sie betreffenden Entscheidungen und deren Entwicklung ein.
+**Gleichstellung (Prinzip):** Beziehe Menschen in die sie betreffenden Entscheidungen und deren Entwicklung ein.
 
 
-**Governance**: Die Summer aller Aktivitäten, die dazu dienen, Ziele zu bestimmen und dann die Entscheidungen zu treffen und weiterzuentwickeln, die die Menschen dahin führen, diese Ziele zu erreichen.
+**Governance:** Die Summer aller Aktivitäten, die dazu dienen, Ziele zu bestimmen und dann die Entscheidungen zu treffen und weiterzuentwickeln, die die Menschen dahin führen, diese Ziele zu erreichen.
 
 
-**Hilfsteam**: Eine Team aus gleichgestellten Mitarbeitern, an die die Umsetzung konkreter Anforderungen delegiert wird.
+**Hilfsteam:** Eine Team aus gleichgestellten Mitarbeitern, an die die Umsetzung konkreter Anforderungen delegiert wird.
 
 
-**Kernaufgaben**: Die für eine bestimmte Domäne wesentlichen Arbeitsaufgaben und Entscheidungen.
+**Kernaufgaben:** Die für eine bestimmte Domäne wesentlichen Arbeitsaufgaben und Entscheidungen.
 
 
-**Komplexität**: Eine Umgebung, in der die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen können. [nach: D. Snowden und M. Boone]
+**Komplexität:** Eine Umgebung, in der die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen können. [nach: D. Snowden und M. Boone]
 
 
-**Konsent (Prinzip)**: Suche nach möglichen Einwänden gegen Entscheidungen, bringe sie ein, und kümmere dich darum, dass das in ihnen enthaltene Wissen integriert wird.
+**Konsent (Prinzip):** Suche nach möglichen Einwänden gegen Entscheidungen, bringe sie ein, und kümmere dich darum, dass das in ihnen enthaltene Wissen integriert wird.
 
 
-**Konstituente**: Ein Team (z. B. ein Kreis, Team, Abteilung, Niederlassung, Projekt oder Organisation), das einen Repräsentanten bevollmächtigt, in seinem Namen in anderen Teams oder Organisationen zu handeln.
+**Konstituente:** Ein Team (z. B. ein Kreis, Team, Abteilung, Niederlassung, Projekt oder Organisation), das einen Repräsentanten bevollmächtigt, in seinem Namen in anderen Teams oder Organisationen zu handeln.
 
 
-**Kontinuierliche Verbesserung (Prinzip)**: Bevorzuge inkrementelle Veränderung, um stetiges empirisches Lernen zu ermöglichen.
+**Kontinuierliche Verbesserung (Prinzip):** Bevorzuge inkrementelle Veränderung, um stetiges empirisches Lernen zu ermöglichen.
 
 
-**Koordination**: Die domänenübergreifende Abstimmung mehrerer Personen oder Teams, die diesen ermöglicht, effektiv gemeinsame Ziele zu erreichen.
+**Koordination:** Die domänenübergreifende Abstimmung mehrerer Personen oder Teams, die diesen ermöglicht, effektiv gemeinsame Ziele zu erreichen.
 
 
-**Kreis**: Eine teilautonomes und selbststeuerndes Team gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
+**Kreis:** Eine teilautonomes und selbststeuerndes Team gleichgestellter Personen, die gemeinsam eine Domäne verantworten.
 
 
-**Leistung**: Ein Produkt, eine Dienstleistung, eine Komponente oder ein Rohstoff, der als Reaktion auf einen Organisationstreiber hergestellt bzw. bereitgestellt wird.
+**Leistung:** Ein Produkt, eine Dienstleistung, eine Komponente oder ein Rohstoff, der als Reaktion auf einen Organisationstreiber hergestellt bzw. bereitgestellt wird.
 
 
-**Logbuch**: Ein (digitales) System zur Speicherung aller für die Organisation relevanten Informationen.
+**Logbuch:** Ein (digitales) System zur Speicherung aller für die Organisation relevanten Informationen.
 
 
-**Muster**: Eine Vorgehensweise, um einer bestimmten Herausforderung erfolgreich zu begegnen.
+**Muster:** Eine Vorgehensweise, um einer bestimmten Herausforderung erfolgreich zu begegnen.
 
 
-**Nachbardomäne**: Zwei Peer-Domänen befinden sich innerhalb der gleichen unmittelbaren übergeordneten Domäne, und können sich gegenseitig überschneiden.
+**Nachbardomäne:** Zwei Peer-Domänen befinden sich innerhalb der gleichen unmittelbaren übergeordneten Domäne, und können sich gegenseitig überschneiden.
 
 
-**Offene Domäne**: Eine Domaine, um die sich Personen nach entsprechender Einladung freiwillig und im Rahmen ihrer Möglichkeiten kümmern.
+**Offene Domäne:** Eine Domaine, um die sich Personen nach entsprechender Einladung freiwillig und im Rahmen ihrer Möglichkeiten kümmern.
 
 
-**Operatives Geschäft**: Die zur Wertschöpfung erforderliche Arbeit, so wie die Organisation des Tagesgeschäfts, gelenkt durch Governance-Entscheidungen.
+**Operatives Geschäft:** Die zur Wertschöpfung erforderliche Arbeit, so wie die Organisation des Tagesgeschäfts, gelenkt durch Governance-Entscheidungen.
 
 
-**Organisation**: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.
+**Organisation:** Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Eine Organisation ist oft in mehrere Teams aufgeteilt.
 
 
-**Organisationstreiber**: Ein Treiber ist das Motiv einer Person oder Gruppe, auf eine bestimmte Situation zu reagieren. Ein Treiber wird als **Organisationstreiber** betrachtet, wenn eine Reaktion darauf der Organisation hilft, Wert zu schaffen, Verschwendung zu reduzieren oder Schaden abzuwenden.
+**Organisationstreiber:** Ein Treiber ist das Motiv einer Person oder Gruppe, auf eine bestimmte Situation zu reagieren. Ein Treiber wird als **Organisationstreiber** betrachtet, wenn eine Reaktion darauf der Organisation hilft, Wert zu schaffen, Verschwendung zu reduzieren oder Schaden abzuwenden.
 
 
-**Primärtreiber**: Der Primärtreiber einer Domäne ist der übergeordnete Treiber, den die Verantwortlichen für diese Domäne beantworten.
+**Primärtreiber:** Der Primärtreiber einer Domäne ist der übergeordnete Treiber, den die Verantwortlichen für diese Domäne beantworten.
 
 
-**Prinzip**: Eine Vorstellung oder Regel, die Verhalten lenkt, oder die erklärt oder steuert wie etwas abläuft oder funktioniert.
+**Prinzip:** Eine Vorstellung oder Regel, die Verhalten lenkt, oder die erklärt oder steuert wie etwas abläuft oder funktioniert.
 
 
-**Rolle**: Ein Domäne, die an eine Einzelperson delegiert wird.
+**Rolle:** Ein Domäne, die an eine Einzelperson delegiert wird.
 
 
-**Selbstorganisation**: Alle Aktivitäten und Prozesse, durch die ein Team seine tägliche Arbeit ohne externen Einfluss, aber im Rahmen der durch Governance vorgegebenen Grenzen selbst organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.
+**Selbstorganisation:** Alle Aktivitäten und Prozesse, durch die ein Team seine tägliche Arbeit ohne externen Einfluss, aber im Rahmen der durch Governance vorgegebenen Grenzen selbst organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.
 
 
-**Selbststeuerung**: Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
+**Selbststeuerung:** Eine Gruppe, sich innerhalb einer Grenzen einer Domäne selbst steuert und selbst organisiert.
 
 
-**Soziokratie**: Die Geisteshaltung, dass die von einer Entscheidung betroffenen Menschen diese Entscheidung beeinflussen können, wenn sie gute Gründe dafür haben.
+**Soziokratie:** Die Geisteshaltung, dass die von einer Entscheidung betroffenen Menschen diese Entscheidung beeinflussen können, wenn sie gute Gründe dafür haben.
 
 
-**Soziokratische Kreismethode (SKM**: Eine egalitäre Governance-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
+**Soziokratische Kreismethode (SKM:** Eine egalitäre Governance-Methode für Organisationen, die auf einer soziokratischen Grundhaltung basiert, entwickelt in den Niederlanden von Gerard Endenburg.
 
 
-**Spannung**: Eine persönliche Erfahrung, ein Symptom der Unstimmigkeit zwischen persönlicher Wahrnehmung und Erwartung (oder Präferenz).
+**Spannung:** Eine persönliche Erfahrung, ein Symptom der Unstimmigkeit zwischen persönlicher Wahrnehmung und Erwartung (oder Präferenz).
 
 
-**Steuerungs-Backlog**: Eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.
+**Steuerungs-Backlog:** Eine sichtbare, priorisierte Liste von Themen (Treibern), die in Bezug auf die Governance einer Domäne bearbeitet werden müssen.
 
 
-**Strategie**: Der generelle Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.
+**Strategie:** Der generelle Ansatz, wie Mitarbeiter planen, in einer bestimmten Domäne Wert zu schöpfen.
 
 
-**Subdomäne**: Eine Domäne, die vollständig in einer anderen Domäne enthalten ist.
+**Subdomäne:** Eine Domäne, die vollständig in einer anderen Domäne enthalten ist.
 
 
-**Subtreiber**: Ein Subtreiber entsteht als Folge der Reaktion einer Organisation auf einen Treiber (den Supertreiber), und ist essentiell für die erfolgreiche Reaktion auf den Supertreiber.
+**Subtreiber:** Ein Subtreiber entsteht als Folge der Reaktion einer Organisation auf einen Treiber (den Supertreiber), und ist essentiell für die erfolgreiche Reaktion auf den Supertreiber.
 
 
-**Superdomäne**: Eine Domäne, die eine andere Domäne vollständig enthält.
+**Superdomäne:** Eine Domäne, die eine andere Domäne vollständig enthält.
 
 
-**Supertreiber**: siehe Subtreiber
+**Supertreiber:** siehe Subtreiber
 
 
-**Team**: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.
+**Team:** Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Ein Team ist typischerweise Teil einer Organisation, oder es entsteht im Rahmen einer Zusammenarbeit mehrerer Organisationen.
 
 
-**Teilautonomie**: Die Freiheit der Beauftragten, selbst zu entscheiden, wie sie in ihrer Domäne Wert schöpfen  werden, die zusätzlich durch ihre eigenen Steuerungsentscheidungen sowie durch Einwände (u.A. von der Delegierenden und von Repräsentanten) begrenzt wird.
+**Teilautonomie:** Die Freiheit der Beauftragten, selbst zu entscheiden, wie sie in ihrer Domäne Wert schöpfen werden, die dann weiter begrenzt wird durch ihre eigenen Steuerungsentscheidungen, und durch Einwände (u.A. von der Delegierenden und von Repräsentanten).
 
 
-**Timebox**: Ein festgelegter Zeitrahmen, der auf eine bestimmte Aktivität verwendet wird. Am Ende der Timebox ist die Aktivität nicht zwingend abgeschlossen.
+**Timebox:** Ein festgelegter Zeitrahmen, der auf eine bestimmte Aktivität verwendet wird. Am Ende der Timebox ist die Aktivität nicht zwingend abgeschlossen.
 
 
-**Transparenz (Prinzip)**: Mache alle Informationen für jeden in der Organisation zugänglich, es sei denn, es gibt einen wichtigen Grund für Vertraulichkeit.
+**Transparenz (Prinzip):** Mache alle Informationen für jeden in der Organisation zugänglich, es sei denn, es gibt einen wichtigen Grund für Vertraulichkeit.
 
 
-**Treiber**: Das Motiv einer Person oder Gruppe, in einer bestimmten Situation zu handeln.
+**Treiber:** Das Motiv einer Person oder Gruppe, in einer bestimmten Situation zu handeln.
 
 
-**Verantwortung (Prinzip)**: Handle, wenn es erforderlich ist; befolge, was Du vereinbart hast und behalte die gesamte Organisation im Blick.
+**Verantwortung (Prinzip):** Handle, wenn es erforderlich ist; befolge, was Du vereinbart hast und behalte die gesamte Organisation im Blick.
 
 
-**Vereinbarung**: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.
+**Vereinbarung:** Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.
 
 
-**Verschwendung**: Alles, was für die effektive Antwort auf einen Treiber nicht erforderlich ist, oder ihr sogar im Wege steht.
+**Verschwendung:** Alles, was für die effektive Antwort auf einen Treiber nicht erforderlich ist, oder ihr sogar im Wege steht.
 
 
-**Wert**: Die Bedeutung oder der Nutzen von etwas in Bezug auf einen bestimmten Treiber. Auch: ein wichtiges Prinzip für das Verhalten einer Person, oder in einer Gruppe (meist im Plural verwendet, "Werte", oder "Unternehmenswerte").
+**Wert:** Die Bedeutung oder der Nutzen von etwas in Bezug auf einen bestimmten Treiber. Auch: ein wichtiges Prinzip für das Verhalten einer Person, oder in einer Gruppe (meist im Plural verwendet, "Werte", oder "Unternehmenswerte").
 
 
-**Werte**: Wichtige Prinzipien, an denen Personen ihr Verhalten ausrichten. Nicht zu verwechseln mit dem Begriff "Wert" (Singular) in Zusammenhang mit Treibern.
+**Werte:** Wichtige Prinzipien, an denen Personen ihr Verhalten ausrichten. Nicht zu verwechseln mit dem Begriff "Wert" (Singular) in Zusammenhang mit Treibern.
 
 
-**Wertfluss**: Leistungen wandern durch die Organisation hin zum Kunden bzw. zu sonstigen Stakeholdern.
+**Wertfluss:** Leistungen wandern durch die Organisation hin zum Kunden bzw. zu sonstigen Stakeholdern.
 
 
-**gemeinsame Ausrichtung**: Der Prozess, die Aktivitäten aller Teile einer Organisation auf die gemeinsamen Ziele hin auszurichten.
+**Ziel:** Ein (spezifisches) Ergebnis, das eine Person oder ein Team oder Organisation erreichen will; eine Zielvorgabe bzw. ein Unternehmensziel.
 
 
-**sich entwickeln**: allmählich entstehen
+**gemeinsame Ausrichtung:** Der Prozess, die Aktivitäten aller Teile einer Organisation auf die gemeinsamen Ziele hin auszurichten.
+
+
+**sich entwickeln:** allmählich entstehen
 
 
 

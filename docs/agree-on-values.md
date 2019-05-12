@@ -10,7 +10,7 @@ _**Werte** sind wichtige Prinzipien, an denen Personen ihr Verhalten ausrichten.
 - Jedes Mitglied einer Organisation bringt eigene Werte mit, die aus persönlichen Erfahrungen und Überzeugungen resultieren.
 - Ein Team oder eine Organisation kann sich **auf gemeinsame Werte einigen,** an denen sie ihre Zusammenarbeit ausrichtet.
 
-Aus Werten kann angemessenes Handeln abgeleitet werden, auch wenn es für ein Thema keine expliziten <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn> gibt
+Aus Werten kann angemessenes Handeln abgeleitet werden, auch wenn es für ein Thema keine expliziten <dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">Vereinbarungen</dfn> gibt
 
 Die Einigung auf gemeinsame Werte fördert die Effektivität einer Organisation:
 

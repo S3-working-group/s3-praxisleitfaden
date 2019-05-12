@@ -10,7 +10,7 @@ title: "Daily Standup"
 - das Team versammelt sich um das Taskboard (oder ein anderes visuelles Projektmanagement-Werkzeug), um 
     - die tägliche Arbeit zu organisieren
     - sich gemeinsam um Hindernisse und Blocker zu kümmern
-    - neue <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn> zu beschließen, oder bestehende Vereinbarungen anzupassen
+    - neue <dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">Vereinbarungen</dfn> zu beschließen, oder bestehende Vereinbarungen anzupassen
 
 ![Das Daily Standup ist eine zentrales Meeting für selbstorganisierende Teams.](img/meetings/planning-review-standup.png)
 

@@ -3,6 +3,19 @@ title: "Änderungsprotokoll "
 ---
 
 
+### Änderungen zum 3.5.2018
+
+- Glossareinträge überarbeitet für <dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">Vereinbarung</dfn>, <dfn data-info="Organisation: Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Eine Organisation ist oft in mehrere Teams aufgeteilt.">Organisation</dfn> und <dfn data-info="Team: Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Ein Team ist typischerweise Teil einer Organisation, oder es entsteht im Rahmen einer Zusammenarbeit mehrerer Organisationen.">Team</dfn>, Eintrag hinzugefügt für <dfn data-info="Ziel: Ein (spezifisches) Ergebnis, das eine Person oder ein Team oder Organisation erreichen will; eine Zielvorgabe bzw. ein Unternehmensziel.">Ziel</dfn>
+- Prinzip der Verantwortlichkeit: individuelle Verantwortung der Mitarbeiter für die eigene Arbeit als auch für die Zusammenarbeit
+- [Verträge für erfolgreiche Zusammenarbeit](contract-for-successful-collaboration.html): text überarbeitet
+- [Leistungen definieren](describe-deliverables.html): User Stories als Beispiel hinzugefügt
+- [doppelt verbundene Hierarchie](double-linked-hierarchy.html): Zusammenfassung überarbeitet
+- [Delegiertenkreis](delegate-circle.html): Zusammenfassung überarbeitet
+- [Einwand](objection.html): Definitionen von Einwand und Bedenken überarbeitet, neue Illustration für einen Prozess zur Qualifikation eines Einwandes
+- [Proposal Forming](proposal-forming.html): verlorengegangene Prozessillustration wieder hinzugefügt
+- [Wahl](role-selection.html): Illustration überarbeitet
+- [Gehaltstransparenz](transparent-salary.html): Erklärung einer Gehaltsformel
+
 ### Änderungen zum 8.3.2018
 
 **Allgemeine Änderungen**
@@ -16,7 +29,7 @@ title: "Änderungsprotokoll "
 
 **Glossar:**
 
-- <dfn data-info="Team: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.">Team</dfn> in Glossar aufgenommen (und den Begriff "Gruppe" im Leitfaden durch "Team" ersetzt)
+- <dfn data-info="Team: Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Ein Team ist typischerweise Teil einer Organisation, oder es entsteht im Rahmen einer Zusammenarbeit mehrerer Organisationen.">Team</dfn> in Glossar aufgenommen (und den Begriff "Gruppe" im Leitfaden durch "Team" ersetzt)
 - Definition für <dfn data-info="Leistung: Ein Produkt, eine Dienstleistung, eine Komponente oder ein Rohstoff, der als Reaktion auf einen Organisationstreiber hergestellt bzw. bereitgestellt wird.">Leistung</dfn> überarbeitet
 - In der englischen Version den Begriff **driver statement** aus Text und Glossar entfernt.
 - Definitionen für <dfn data-info="Governance: Die Summer aller Aktivitäten, die dazu dienen, Ziele zu bestimmen und dann die Entscheidungen zu treffen und weiterzuentwickeln, die die Menschen dahin führen, diese Ziele zu erreichen.">Governance</dfn>, <dfn data-info="Operatives Geschäft: Die zur Wertschöpfung erforderliche Arbeit, so wie die Organisation des Tagesgeschäfts, gelenkt durch Governance-Entscheidungen.">operatives Geschäft</dfn> und <dfn data-info="Selbstorganisation: Alle Aktivitäten und Prozesse, durch die ein Team seine tägliche Arbeit ohne externen Einfluss, aber im Rahmen der durch Governance vorgegebenen Grenzen selbst organisiert. In jeder Organisation und in jedem Team koexistieren Selbstorganisation und externer Einfluss.">Selbstorganisation</dfn> überarbeitet
@@ -42,11 +55,11 @@ title: "Änderungsprotokoll "
 - sprachliche Überarbeitung
 - Links zur Web-Version des Praxisleitfadens ergänzt 
 
-**Glossar**
+**Glossar:**
 
-- **überarbeitet**: Bedenken, Governance, Einwand, Leistung, operatives Geschäft, Primärtreiber, Rolle, Selbstorganisation, Subtreiber, Teilautonomie, Werte
-- **hinzugefügt**: Delegation, Hilfsteam, Konstituente, Koordination, Offene Domäne, Wertfluss
-- **entfernt:** Nachbartreiber
+- **aktualisiert:** verantworten, Bedenken, Leistung, Governance, Einwand, operative Tätigkeiten, Primärtreiber, Prinzip, Rolle, Selbstorganisation, Teilautonomie, Subtreiber, Werte
+- **hinzugefügt:** Konstituente, Koordination, Delegation, Zusammenfassung eines Treibers, entwickeln, Wertfluss, Hilfsteam, Offene Domäne
+- **entfernt:** benachbarter Treiber
 
 **Änderungen in der Einleitung**
 

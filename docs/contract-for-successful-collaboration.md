@@ -11,7 +11,7 @@ Eine essentielle Voraussetzung für erfolgreiche Zusammenarbeit ist die Entwickl
 
 Bereits während der Vertragsverhandlungen sollte bereits der Umgang miteinander eingeübt werden, der auch für die spätere Zusammenarbeit gewünscht ist, und die Chance genutzt werden, gute Beziehungen mit den anderen Vertragspartnern aufzubauen.
 
-Dieses Muster bezieht sich auf diejenigen Verträge, die den Rahmen zur Zusammenarbeit einer Organisation mit weiteren Parteien (z.B. Angestellte, Freiberufler, Berater, Dienstleister, Zulieferer, Anteilseigner oder Kunden) festlegen. Besonders relevant ist dieses Muster, wenn es um Verträge geht, die großen Einfluss auf die Zukunft einer Organisation haben, z.B.:
+Dieses Muster bezieht sich auf diejenigen Verträge, die den Rahmen zur Zusammenarbeit einer Organisation mit weiteren Parteien (z.B. Angestellte, Freiberufler, Berater, Dienstleister, Zulieferer, Anteilseigner oder Kunden) festlegen. Dies ist besonders für Verträge relevant, die einen maßgeblichen Einfluss auf die Zukunft einer Organisation oder eines ihrer Partner haben, wie z.B. :
 
 - Arbeitsverträge und Verträge mit externen Dienstleistern oder Beratern in [Hilfsrollen](support-role.html), sowie alle Vereinbarungen, die aus denen sich Veränderungen von Vergütung oder Arbeitszeit ergeben
 - Verträge über die Zusammenarbeit mit Kunden, Lieferanten oder Dienstleistern
@@ -19,7 +19,7 @@ Dieses Muster bezieht sich auf diejenigen Verträge, die den Rahmen zur Zusammen
 
 **Anmerkung:** Viele Vereinbarungen, die die Zusammenarbeit innerhalb einer Organisation betreffen, erfordern keine eigenen Verträge, das sie bereits von bestehenden Verträgen (z.B. dem Arbeitsvertrag) abgedeckt werden.
 
-### Erfolgskriterien für produktive Vertragsverhandlungen
+### Erfolgskriterien für Vertragsverhandlungen
 
 Stelle während den Vertragsverhandlungen folgendes sicher:
 
@@ -36,7 +36,7 @@ Wenn aus irgendeinem Grund eine oder mehrere dieser Kriterien nicht erfüllt wer
 
 Die Art und Weise, die ein Vertrag ausgehandelt wird, kann erheblich zur Vertrauensbildung zwischen den beteiligten Parteien beitragen. Betrachte Vertragsverhandlungen als Einigungsprozess zwischen Partnern, nicht als Wettstreit zwischen Konkurrenten.
 
-- Der Vertrag sollte alle Erwartungen an jeden der Vertragspartner beinhalten, und jede Erwartung sollten ausreichend detailliert dokumentiert werden.
+- Der Vertrag sollte alle Erwartungen an die Vertragspartner beinhalten, und jede Erwartung sollten ausreichend detailliert dokumentiert werden.
 - Verwende eine klare und einfache Sprache, die alle Parteien verstehen können, und beschreibe etwaige Rechtsfolgen klar und deutlich.
 - Wenn es erforderlich ist, Fachbegriffe zu verwenden, die einer der Parteien nicht geläufig sind, sollten diese in einem Glossar erklärt werden, das Vertragsbestandteil wird.
 - Lasse dich von einem Anwalt beraten, der die von dir angestrebte Kultur unterstützt, und auch Branchenkompetenz hat
