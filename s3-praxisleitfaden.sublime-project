@@ -4,16 +4,19 @@
 		{
 			"file_exclude_patterns":
 			[
-				"./docs/*.md"
+				"s3-praxisleitfaden/docs/*.md"
 			],
 			"folder_exclude_patterns":
 			[
-				"./docs/reveal.js/plugin",
-				"./docs/reveal.js/lib",
-				"./docs/reveal.js/js",
-				"./docs/_site"
+				"s3-praxisleitfaden/docs/reveal.js/plugin",
+				"s3-praxisleitfaden/docs/reveal.js/lib",
+				"s3-praxisleitfaden/docs/reveal.js/js",
+				"s3-praxisleitfaden/docs/_site/*",
+				"s3-praxisleitfaden/_attic",
+				"s3-praxisleitfaden/tmp"
 			],
 			"path": "."
 		}
 	]
 }
+
