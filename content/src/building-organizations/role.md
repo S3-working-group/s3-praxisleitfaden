@@ -15,6 +15,6 @@ Eine Rolle ist ein einfacher Weg für eine Organisation (oder [Team](glossary:te
 
 Der Rolleninhaber kann ein eigenes [Steuerungsbacklog](glossary:backlog) führen und ein [Logbuch](glossary:logbook) anlegen, um seine Strategie zur [Wertschöpfung](glossary:value) zu entwickeln.
 
-**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können genauso wie Vereinbarungen behandelt und entwickelt werden.
+**Anmerkung:** Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, können wie Vereinbarungen behandelt werden.
 
 ![eine Person kann die Verantwortung für mehr als eine Rolle übernehmen](img/illustrations/roles.png)

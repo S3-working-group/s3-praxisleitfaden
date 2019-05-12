@@ -26,7 +26,7 @@ Die Anwendung von Soziokratie 3.0 hilft Menschen, den Nutzen dieser Prinzipien i
 
 Handle in allen Domänen, für die du verantwortlich bist, innerhalb der Grenzen bestehender Vereinbarungen. Das betrifft die Organisation selbst, Teams, deren Teil du bist, und Rollen, die du übernommen hast.
 
-Jeder Mitarbeiter ist verantwortlich für die effektive Zusammenarbeit aller bei der Antwort auf Organisationstreiber
+Jedes Mitglied der Organisation ist verantwortlich für die effektive Reaktion der Organisation auf Organisationstreiber, das betrifft nicht nur die eigene Arbeit, sondern auch die Verantwortung für die effektive Zusammenarbeit aller.
 
 Einzelpersonen und Gruppen sind jeweils verantwortlich für ihre eigene Arbeit, und für ihre Weiterentwicklung, und dafür, sich gegenseitig zu unterstützen.
 

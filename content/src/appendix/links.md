@@ -6,6 +6,6 @@ weitere Sprachen und Formate des Praxisleitfadens gibt es unter <http://sociocra
 
 **Weitere Materialien zu S3**: <http://sociocracy30.org/resources/>
 
-**S3 Webseite**: <http://sociocracy30.org>
+**S3 Webseite:** <http://sociocracy30.org>
 
 **Auf Twitter folgen:** *@sociocracy30*

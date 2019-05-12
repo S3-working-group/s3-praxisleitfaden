@@ -31,10 +31,10 @@ Steuerungsentscheidungen können jederzeit und an jedem Ort getroffen werden, ni
 
 #### Verwandte Konzepte
 
-**Selbststeuerung**: {{glossary:self-governance}}
+**Selbststeuerung:** {{glossary:self-governance}}
 
-**Teilautonomie**: {{glossary:semi-autonomy}}
+**Teilautonomie:** {{glossary:semi-autonomy}}
 
-**Selbstorganisation**: {{glossary:self-organization}}
+**Selbstorganisation:** {{glossary:self-organization}}
 
 Je nach den Einschränkungen der Domäne, die die Delegierende festlegt, haben Teams mehr oder weniger Autonomie, Steuerungsentscheidungen zu treffen und ihr operatives Geschäft zu gestalten, sind also mehr oder weniger selbststeuernd und selbstorganisierend.

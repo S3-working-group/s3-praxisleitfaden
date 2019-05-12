@@ -14,8 +14,8 @@ Typische Backlogs:
 
 **Umsetzung:**
 
-- **analoges Backlog**: Haftnotizen an einer Wand, oder Karteikarten mit Magneten an einem Whiteboard
-- **digitales Backlog**: z.B. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
+- **analoges Backlog:** Haftnotizen an einer Wand, oder Karteikarten mit Magneten an einem Whiteboard
+- **digitales Backlog:** z.B. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
 Jedes Element in einem (priorisierten) Backlog hat normalerweise:
 

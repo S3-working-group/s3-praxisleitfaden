@@ -8,6 +8,8 @@ Anstatt Personen eine [Rolle](section:role) zuzuweisen, oder per Mehrheit zu bes
 - die Verantwortlichkeit der gesamten Gruppe für die resultierende Entscheidung zu stärken
 - die Unterstützung der Rolleninhaberin für durch die Gruppe sicherzustellen
 
+Voraussetzung für die Wahl ist eine [Beschreibung](section:clarify-domains) der [Domäne](glossary:domain) der Rolle.
+
 ### Wahlverfahren
 
 ![Ablauf des Wahlverfahrens](img/agreements/selection.png)
