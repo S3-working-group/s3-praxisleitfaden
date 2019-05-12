@@ -11,8 +11,8 @@ terms:
     glossary: die Verantwortung für etwas übernehmen.
   agreement:
     name: Vereinbarung
-    definition: Eine **Vereinbarung** ist eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.
-    glossary: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.
+    definition: Eine **Vereinbarung** ist eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss der Organisation steuert.
+    glossary: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.
   alignment:
     name: gemeinsame Ausrichtung
     glossary: Der Prozess, die Aktivitäten aller Teile einer Organisation auf die gemeinsamen Ziele hin auszurichten.
@@ -36,8 +36,8 @@ terms:
     glossary: 'Eine Umgebung, in der die blinden Flecken unbekannt sind, das Verhältnis von Ursache und Wirkung nur retrospektiv erklärt werden kann, und Handlungen unvorhersehbare Veränderungen verursachen können. [nach: D. Snowden und M. Boone]'
   concern:
     name: Bedenken
-    definition: Ein **Bedenken** ist die Ansicht, dass etwas - selbst in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
-    glossary: Die Ansicht, dass etwas - selbst in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
+    definition: Ein **Bedenken** ist eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
+    glossary: Eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
   consent:
     name: Konsent (Prinzip)
     definition:
@@ -135,15 +135,19 @@ terms:
   objection:
     name: Einwand
     definition: Ein **Einwand** ist ein _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert.
-    glossary: Eine _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert.
+    glossary: Ein _Argument_ — bezogen auf einen Vorschlag, eine Entscheidung, eine bestehende Vereinbarung oder ein Handlung — die unbeabsichtigte Konsequenzen oder praktikable Möglichkeiten zur Verbesserung offenbart.
   peer-domain:
     name: Nachbardomäne
     definition:
     glossary: Zwei Peer-Domänen befinden sich innerhalb der gleichen unmittelbaren übergeordneten Domäne, und können sich gegenseitig überschneiden.
+  objective:
+    name: Ziel
+    definition:
+    glossary: Ein (spezifisches) Ergebnis, das eine Person oder ein Team oder Organisation erreichen will; eine Zielvorgabe bzw. ein Unternehmensziel.
   organization:
     name: Organisation
     definition:
-    glossary: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.
+    glossary: Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Eine Organisation ist oft in mehrere Teams aufgeteilt.
   organizational-driver:
     name: Organisationstreiber
     definition:
@@ -178,7 +182,7 @@ terms:
   semi-autonomy:
     name: Teilautonomie
     definition:
-    glossary: Die Freiheit der Beauftragten, selbst zu entscheiden, wie sie in ihrer Domäne Wert schöpfen  werden, die zusätzlich durch ihre eigenen Steuerungsentscheidungen sowie durch Einwände (u.A. von der Delegierenden und von Repräsentanten) begrenzt wird.
+    glossary: Die Freiheit der Beauftragten, selbst zu entscheiden, wie sie in ihrer Domäne Wert schöpfen werden, die dann weiter begrenzt wird durch ihre eigenen Steuerungsentscheidungen, und durch Einwände (u.A. von der Delegierenden und von Repräsentanten).
   sociocracy:
     name: Soziokratie
     glossary: Die Geisteshaltung, dass die von einer Entscheidung betroffenen Menschen diese Entscheidung beeinflussen können, wenn sie gute Gründe dafür haben.
@@ -205,7 +209,7 @@ terms:
   team:
     name: Team
     definition:
-    glossary: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.
+    glossary: Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Ein Team ist typischerweise Teil einer Organisation, oder es entsteht im Rahmen einer Zusammenarbeit mehrerer Organisationen.
   tension:
     name: Spannung
     definition:

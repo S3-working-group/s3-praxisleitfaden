@@ -1,6 +1,6 @@
 ## Delegiertenkreis
 
-**Delegiere die Entscheidungsbefugnis für Treiber, die mehrere Domänen betreffen an einen Kreis aus Delegierten.**
+**Delegiere Steuerungsentscheidungen, die mehrere Domänen betreffen, an Delegierte, die in diesen Domänen gewählt wurden.**
 
 Stakeholder entsenden [Repräsentanten](section:representative), die einen Delegiertenkreis bilden, der die [Steuerungs-Entscheidungen](glossary:governance) trifft, die mehrere (oder alle) Stakeholder betreffen.
 

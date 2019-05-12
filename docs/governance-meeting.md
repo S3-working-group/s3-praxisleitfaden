@@ -28,7 +28,7 @@ Ablauf eines typischen Steuerungstreffens:
 Typische Agendapunkte:
 
 - kurze Berichte 
-- Evaluation von <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn>
+- Evaluation von <dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">Vereinbarungen</dfn>
 - Personen in Rollen wählen 
 - neue Treiber, die Entscheidungen erfordern, z.B.: 
     - [gemeinsam einen Vorschlag gestalten](co-create-proposals.html)

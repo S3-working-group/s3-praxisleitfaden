@@ -10,9 +10,9 @@
 
 ### Proposal Forming: Ablauf
 
-**Zustimmung zum Treiber**: Stelle den [Treiber](glossary:organizational-driver) kurz vor. *Ist dieser Treiber für uns relevant? Will jemand etwas hinzufügen?*
+**Zustimmung zum Treiber:** Stelle den [Treiber](glossary:organizational-driver) kurz vor. *Ist dieser Treiber für uns relevant? Will jemand etwas hinzufügen?*
 
-**Das gemeinsames Verständnis des Treibers vertiefen**: Die Teilnehmer können Fragen stellen, um mehr über den Treiber zu erfahren.
+**Das gemeinsames Verständnis des Treibers vertiefen:** Die Teilnehmer können Fragen stellen, um mehr über den Treiber zu erfahren.
 
 **Überlegungen sammeln**, formuliert als Fragen in Bezug auf mögliche Lösungen. Diese Fragen deuten entweder auf Einschränkungen (Informationsfragen) oder Möglichkeiten (generative Fragen) hin.
 
@@ -35,4 +35,4 @@ Bedenke:
 
 In der Regel ist eine Gruppe von 2–3 Gestaltern angemessen. Prüfe, ob es Einwände gegen die vorgeschlagenen Gestalter gibt.
 
-![Vorlage für Vorschläge](img/templates/proposal-template.png)
+![Ablauf des Proposal Forming](img/agreements/proposal-forming.png)

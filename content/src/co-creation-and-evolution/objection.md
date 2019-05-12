@@ -2,9 +2,9 @@
 
 {{define:objection}}
 
-Einwände gegen Vorschläge, Entscheidungen, bestehenden [Vereinbarungen](glossary:agreement) oder Massnahmen enthalten wesentliche Informationen über **negative Konsequenzen** oder sonstige **Verbesserungspotenziale**. verwendet.
+Einwände offenbaren Information über **unbeabsichtigte Folgen**, oder über **Verbesserungsmöglichkeiten<0>.</p> 
 
-Es liegt in der Verantwortung des Einzelnen, mögliche Einwände zu einzubringen.
+Es liegt in der Verantwortung des Einzelnen, Einwände gegen Entscheidungen, bestehende [Vereinbarungen](glossary:agreement) oder Handlungen zu erheben.
 
 Das Zurückhalten von Einwänden kann die Fähigkeit von Personen, Teams oder der gesamten Organisation beeinträchtigen, effektiv auf [Organisationstreiber](glossary:organizational-driver) zu reagieren.
 
@@ -28,7 +28,7 @@ Nutze die von Einwänden aufgedeckten Informationen zur Verbesserung
 
 ### Einwände qualifizieren
 
-Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enthüllen, und sonstigen Argumenten, die nur auf Meinungen, Vorlieben oder Bedenken basieren.
+Nicht alle vorgebrachten Argumente sind Einwände. Unterscheide zwischen Einwänden, die immer nützliche Informationen enthüllen, und sonstigen Argumenten, die nur auf Annahmen oder Vorlieben basieren.
 
 Um herauszufinden, um ob ein vorgebrachtes Argument tatsächlich einen Einwand darstellt, könnte ein Moderator z.B. folgende Frage stellen:
 
@@ -57,3 +57,5 @@ In einer [Konsent-Entscheidung](section:consent-decision-making) können Bedenke
 Bringe Bedenken ein, wenn du sie als wichtig erachtest, und protokolliere sie im mindesten Falle mit Evaluationskriterien.
 
 Wenn du im Zweifel bist, ob es sich bei einem Argument um einen Einwand oder ein Bedenken handelt, frage die Gruppe, ob sie es für einen Einwand halten.
+
+![Ein Prozess, um Einwände zu qualifizieren](img/agreements/qualify-objection-process.png)

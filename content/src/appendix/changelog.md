@@ -1,5 +1,18 @@
 ## Änderungsprotokoll 
 
+### Änderungen zum 3.5.2018
+
+- Glossareinträge überarbeitet für [Vereinbarung](glossary:agreement), [Organisation](glossary:organization) und [Team](glossary:team), Eintrag hinzugefügt für [Ziel](glossary:objective)
+- Prinzip der Verantwortlichkeit: individuelle Verantwortung der Mitarbeiter für die eigene Arbeit als auch für die Zusammenarbeit
+- [Verträge für erfolgreiche Zusammenarbeit](section:contract-for-successful-collaboration): text überarbeitet
+- [Leistungen definieren](section:describe-deliverables): User Stories als Beispiel hinzugefügt
+- [doppelt verbundene Hierarchie](section:double-linked-hierarchy): Zusammenfassung überarbeitet
+- [Delegiertenkreis](section:delegate-circle): Zusammenfassung überarbeitet
+- [Einwand](section:objection): Definitionen von Einwand und Bedenken überarbeitet, neue Illustration für einen Prozess zur Qualifikation eines Einwandes
+- [Proposal Forming](section:proposal-forming): verlorengegangene Prozessillustration wieder hinzugefügt
+- [Wahl](section:role-selection): Illustration überarbeitet
+- [Gehaltstransparenz](section:transparent-salary): Erklärung einer Gehaltsformel
+
 ### Änderungen zum 8.3.2018
 
 **Allgemeine Änderungen**
@@ -39,11 +52,11 @@
 - sprachliche Überarbeitung
 - Links zur Web-Version des Praxisleitfadens ergänzt 
 
-**Glossar**
+**Glossar:**
 
-- **überarbeitet**: Bedenken, Governance, Einwand, Leistung, operatives Geschäft, Primärtreiber, Rolle, Selbstorganisation, Subtreiber, Teilautonomie, Werte
-- **hinzugefügt**: Delegation, Hilfsteam, Konstituente, Koordination, Offene Domäne, Wertfluss
-- **entfernt:** Nachbartreiber
+- **aktualisiert:** verantworten, Bedenken, Leistung, Governance, Einwand, operative Tätigkeiten, Primärtreiber, Prinzip, Rolle, Selbstorganisation, Teilautonomie, Subtreiber, Werte
+- **hinzugefügt:** Konstituente, Koordination, Delegation, Zusammenfassung eines Treibers, entwickeln, Wertfluss, Hilfsteam, Offene Domäne
+- **entfernt:** benachbarter Treiber
 
 **Änderungen in der Einleitung**
 

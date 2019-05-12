@@ -14,7 +14,7 @@ Eine einfache Möglichkeit, <dfn data-info="Domäne: Ein eigener Arbeits-, Einfl
 - **Evaluationskriterien** und Zeitplan für die Evaluation
 - Amtszeit (für Rollen)
 
-Domänenbeschreibungen können für [Rollen](role.html), Positionen, [Kreise](circle.html), <dfn data-info="Team: Eine Gruppe von Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen.">Teams</dfn>, [offene Domänen](open-domain.html), Abteilungen, Geschäftseinheiten oder auch für die gesamte Organisation erstellt werden.
+Domänenbeschreibungen können für [Rollen](role.html), Positionen, [Kreise](circle.html), <dfn data-info="Team: Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Ein Team ist typischerweise Teil einer Organisation, oder es entsteht im Rahmen einer Zusammenarbeit mehrerer Organisationen.">Teams</dfn>, [offene Domänen](open-domain.html), Abteilungen, Geschäftseinheiten oder auch für die gesamte Organisation erstellt werden.
 
 Eine weitere Möglichkeit, Domänen zu bestimmen, ist das ausfüllen einer [S3 Delegation Canvas](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html).
 

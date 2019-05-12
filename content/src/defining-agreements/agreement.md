@@ -10,6 +10,6 @@ Eine Vereinbarung kann die auch die **Delegation von Verantwortung** an bestimmt
 
 Dokumentiere alle **Erwartungen**, die im Rahmen einer Vereinbarung in Bezug auf [Leistungen](glossary:deliverable), Verhalten oder Ressourcen bestehen.
 
-**Anmerkung**: Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, werden ebenfalls als Vereinbarungen betrachtet.
+**Anmerkung:** Richtlinien, Prozesse oder Protokolle, die von Mitarbeitern in Rollen erstellt und entwickelt werden, werden ebenfalls als Vereinbarungen betrachtet.
 
 ![Vorlage für Vereinbarungen](img/templates/agreement-template.png)

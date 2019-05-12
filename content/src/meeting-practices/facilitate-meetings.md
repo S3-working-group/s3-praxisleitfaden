@@ -6,7 +6,7 @@ Bereite vor jedem Meeting eine Agenda vor, und finde eine Moderatorin, die
 
 - die Gruppe durch die Agenda führt und auf die Zeit achtet
 - zu jedem Agendapunkt eine passende Aktivität moderiert
-- am Ende des Meetings eine [Evaluation](section:meeting-evaluation) durchführt
+- am Ende des Meetings eine [Evaluation](section:evaluate-meetings) durchführt
 
 Eine Moderatorin kann auch für einen bestimmten Zeitraum gewählt werden. Auch eine unerfahrene Moderatorin macht einen Unterschied.
 

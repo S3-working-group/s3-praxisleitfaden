@@ -6,12 +6,11 @@ Unser Angebot umfasst Beratung, Training, Coaching und Mentoring zu *Soziokratie
 
 ### James Priest
 
-… bietet seine Unterstützung international an; Beratung zu Organisationsentwicklung, Lernbegleitung, sowie Mentoring für Menschen, die kollaborative, adaptive Organisationen in grösserem Rahmen entwickeln möchten.
+... … bietet seine Unterstützung international an; Beratung zu Organisationsentwicklung, Lernbegleitung, sowie Mentoring für Menschen, die kollaborative, adaptive Organisationen in grösserem Rahmen entwickeln möchten.
 
 <https://thriveincollaboration.com>
 
 <james@thriveincollaboration.com>
-
 
 ### Bernhard Bockelbrink
 
@@ -21,10 +20,9 @@ Unser Angebot umfasst Beratung, Training, Coaching und Mentoring zu *Soziokratie
 
 <bernhard.bockelbrink@evolvingcollaboration.com>
 
-
 ### Liliana David
 
-… bietet ihre Unterstützung international an; Training, Prozessbegleitung und Mentoring für Teams und Organisationen mit dem Wunsch, grössere Effektivität und Gleichberechtigung in der Zusammenarbeit zu entwickeln.
+... … bietet ihre Unterstützung international an; Training, Prozessbegleitung und Mentoring für Teams und Organisationen, die den Wunsch haben, grössere Effektivität und Gleichberechtigung in der Zusammenarbeit zu entwickeln.
 
 <https://thriveincollaboration.com>
 

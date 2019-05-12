@@ -3,7 +3,7 @@ title: "Vereinbarungen brechen"
 ---
 
 
-<dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">Vereinbarungen</dfn> zu brechen ist manchmal **notwendig,** kann allerdings auch die **Gemeinschaft belasten**.
+<dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">Vereinbarungen</dfn> zu brechen ist manchmal **notwendig,** kann allerdings auch die **Gemeinschaft belasten**.
 
 Übernimm die Verantwortung:
 

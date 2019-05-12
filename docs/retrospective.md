@@ -5,7 +5,7 @@ title: "Retrospektive"
 
 **Nimm dir Zeit, über die gemachten Erfahrungen nachzudenken, zu Erkenntnisse zu gewinnen, und Arbeitsprozesse zu verbessern.**
 
-- Ergebnis: Änderungen am Arbeitsprozess, neue Aufgaben, <dfn data-info="Vereinbarung: Eine (gemeinsam) beschlossene Richtlinie, oder ein Prozess oder Protokoll, um den Wertfluss in der Organisation zu gestalten.">ad-hoc-Vereinbarungen</dfn>, sowie <dfn data-info="Organisationstreiber: Ein Treiber ist das Motiv einer Person oder Gruppe, auf eine bestimmte Situation zu reagieren. Ein Treiber wird als **Organisationstreiber** betrachtet, wenn eine Reaktion darauf der Organisation hilft, Wert zu schaffen, Verschwendung zu reduzieren oder Schaden abzuwenden.">Treiber</dfn>, die eine Vereinbarungen erfordern
+- Ergebnis: Änderungen am Arbeitsprozess, neue Aufgaben, <dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">ad-hoc-Vereinbarungen</dfn>, sowie <dfn data-info="Organisationstreiber: Ein Treiber ist das Motiv einer Person oder Gruppe, auf eine bestimmte Situation zu reagieren. Ein Treiber wird als **Organisationstreiber** betrachtet, wenn eine Reaktion darauf der Organisation hilft, Wert zu schaffen, Verschwendung zu reduzieren oder Schaden abzuwenden.">Treiber</dfn>, die eine Vereinbarungen erfordern
 - moderiertes Meeting (ca. 1h)
 - findet in regelmäßigen Abständen statt (1-4 Wochen)
 - Format wird jeweils an Situation und Kontext angepasst

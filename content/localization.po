@@ -8,10 +8,10 @@ msgstr ""
 "X-Crowdin-File: localization.pot\n"
 "Project-Id-Version: sociocracy-30\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Last-Translator: sociocracy30\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-03-16 08:03\n"
+"PO-Revision-Date: 2019-05-12 11:28\n"
 
 # continuation marker for follow-up slides
 msgid "(…)"
