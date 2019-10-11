@@ -8,11 +8,11 @@ title: Soziokratie 3.0 - Ein Praxisleitfaden
 
 ### Effektive Zusammenarbeit in Organisationen beliebiger Größe
 
-Soziokratie 3.0 — **kurz "S3"** — ist eine praktischer Anleitung um agile und resiliente Organisationen beliebiger Größe zu entwickeln, vom kleinen Start-Up bis hin zu zu großen internationalen Netzwerkorganisationen oder auch organisationsübergreifenden Kollaborationen. Gleichzeitig ist S3 auch ein ein ganzheitlicher Weg, die Vertrauenswürdigkeit einer Organisation zu fördern und eine **agile und soziokratische Geisteshaltung** zu entwickeln.
+Soziokratie 3.0 — **kurz "S3"** — ist eine praktischer Anleitung um agile und resiliente Organisationen beliebiger Größe zu entwickeln, vom kleinen Start-Up bis hin zu großen internationalen Netzwerkorganisationen oder auch organisationsübergreifenden Kollaborationen. Gleichzeitig ist S3 auch ein ganzheitlicher Weg, die Vertrauenswürdigkeit einer Organisation zu fördern und eine **agile und soziokratische Geisteshaltung** zu entwickeln.
 
 S3 bietet dir eine umfangreiche Sammlung von Ideen (sogenannte "Muster"), die sich in Organisationen als hilfreich erwiesen haben, um **Produktivität, Zusammenarbeit und Zufriedenheit zu verbessern**.
 
-Diese Muster unterstützen dich dabei, herauszufinden, wie du am besten deine Ziele erreichst, und wie du komplexe Herausforderungen meisterst. Schritt für Schritt, **und das ganz ohne Reorganisation oder groß angelegte Change-Initiativen**:
+Diese Muster unterstützen dich dabei, herauszufinden, wie Du am besten deine Ziele erreichst, und wie Du komplexe Herausforderungen meisterst. Schritt für Schritt, **und das ganz ohne Reorganisation oder groß angelegte Change-Initiativen**:
 
 Beginne dort, wo der Bedarf am größten ist, und wähle ein oder mehrere Muster für ein Experiment. **Bestimme selbst die passende Geschwindigkeit** und entwickle die erforderlichen Fähigkeiten unterwegs.
 
@@ -28,14 +28,14 @@ Soziokratie 3.0 ist:
 
 **Soziokratie 3.0:**
 
-- bietet eine ganzheitliche Sammlung von prinzipienbasierten Mustern für Zusammenarbeit, die es ermöglichen, komplexe Problem durch schrittweise Veränderung anzugehen.
-- unterstützt Menschen dabei, die ihnen momentan zur Verfügung stehende Information zur kontinuierlichen Verbesserung ihrer Arbeitsprozesse, Produkte, Dienstleistungen und Fähigkeiten zu verwenden.
+- bietet eine ganzheitliche Sammlung von prinzipienbasierten Mustern für Zusammenarbeit, die es ermöglichen, komplexe Probleme durch schrittweise Veränderung anzugehen.
+- unterstützt Menschen, die momentan zur Verfügung stehende Informationen zur kontinuierlichen Verbesserung ihrer Arbeitsprozesse, Produkte, Dienstleistungen und Fähigkeiten zu verwenden.
 - hilft Organisationen, das Talent ihrer bestehenden Mitarbeiter bestmöglich einzusetzen, und flexible Organisationsstrukturen herauszubilden, die den Informationsfluss und die Führungsstrukturen an den Wertfluss der Organisation anpassen. 
-- bietet einen organischen, iterativen Ansatz für Veränderung, der Menschen und Organisationen dort abholt, wo sie gerade stehen, und sie in ihrem speziellen Kontext dabei unterstützt, in ihrem eigenen Tempo und ihren eigenen Bedürfnissen gemäß weiterzugehen.
-- nutzt die kollektive Intelligenz einer Gruppe
+- bietet einen organischen, iterativen Ansatz für Veränderung, der Menschen und Organisationen dort abholt, wo sie gerade stehen, und sie in ihrem speziellen Kontext dabei unterstützt, in ihrem eigenen Tempo und nach eigenen Bedürfnissen weiterzugehen.
+- nutzt die kollektive Intelligenz einer Gruppe.
 - ermöglicht die Entwicklung von Strategien, die "qualitativ angemessen" sind und ein "ausreichendes Maß an Sicherheit" besitzen.
 - fördert Verantwortungsbewusstsein und Verbindlichkeit.
-- wirkt transformativ auf die einzelnen Mitarbeiter und auf die gesamte Organisation.
+- wirkt transformativ auf die einzelnen Mitarbeiter, sowie auf die gesamte Organisation.
 
 **Soziokratie 3.0 kann angewendet werden in …**
 
@@ -64,39 +64,39 @@ Soziokratie 3.0 ist:
 
 Die wörtliche Bedeutung des Begriffes **Soziokratie** ist "Herrschaft der Gefährten": _sozio_ — vom lateinischen _socius_ — bedeutet "Gefährte", oder "Kamerad", und das Suffix _-kratie_ — vom altgriechischen _κράτος_ (krátos) — bedeutet "Herrschaft" bzw. "Regierung".
 
-Der Begriff "Soziokratie" kann bis zum Jahre 1851 zurückverfolgt werden, damals schlug **Auguste Comte** bezogen auf die Gesellschaft wie Anwendung eines wissenschaftlichen Ansatzes vor: Staaten sollten von Experten zum Thema Gesellschaft regiert werden. Diese Experten nannte er "Soziologen". Er hielt diese Zukunft für unabwendbar, auch wenn er anerkannte, dass das damals noch nicht realisierbar, war.
+Der Begriff "Soziokratie" kann bis zum Jahre 1851 zurückverfolgt werden. Damals schlug **Auguste Comte**, bezogen auf die Gesellschaft, die Anwendung eines wissenschaftlichen Ansatzes vor: Staaten sollten von Experten zum Thema Gesellschaft regiert werden. Diese Experten nannte er "Soziologen". Er hielt diese Zukunft für unabwendbar, auch wenn er anerkannte, dass es zu seiner Zeit nicht realisierbar sei.
 
 Einige Jahrzehnte später verwendete **Lester Frank Ward** das Wort 'Soziokratie' zur Beschreibung einer Gesellschaftsordnung, in der die Menschen in enger Beziehung zueinander stehen und gemeinsam regieren. Anstatt den Fokus auf die Soziologen zu legen, wollte er dem einzelnen Bürger mehr Macht und mehr Verantwortung geben, und wies den Soziologen eine Rolle als Forscher und Berater zu.
 
 Im Jahr 1926 gründete der niederländische Reformpädagoge und Quäker **Kees Boeke** eine Schule, die auf dem Konsentprinzip beruhte. Mitarbeitende und Schüler wurden als gleichberechtigte Mitglieder an der Leitung der Schule beteiligt. Alle Entscheidungen mussten für alle akzeptabel sein. Er begründete seine Form der Soziokratie auf den Traditionen der Quäker, und beschrieb sie in "Soziokratie: Demokratie wie sie sein könnte" (1945) als Weiterentwicklung der Demokratie.
 
-**Gerard Endenburg**, ein Schüler Bockes und ebenfalls Quäker begann, die Soziokratie im Familienunternehmen Endenburg Elektrotechniek anzuwenden. Er begründete und entwickelte die *Soziokratische Kreismethode (SKM)*, indem er die Boekes Form der Soziokratie mit Ingenieurswissenschaften und mit Kybernetik verband. 1978 gründete er das 'Sociocratisch Centrum' in Utrecht (das noch heute als "Soziokratisches Zentrum" in Rotterdam weiterbesteht) zur Förderung der Soziokratie innerhalb und außerhalb der Niederlande. Seit 1994 sind in den Niederlanden alle Organisationen, die Soziokratische Kreismethode anwenden, von der gesetzlichen Verpflichtung befreit, einen Betriebsrat zu haben.
+**Gerard Endenburg**, ein Schüler *Bockes* und ebenfalls Quäker begann, die Soziokratie im Familienunternehmen Endenburg Elektrotechnik anzuwenden. Er begründete und entwickelte die *Soziokratische Kreismethode (SKM)*, indem er die *Boekes* Form der Soziokratie mit Ingenieurswissenschaften und Kybernetik verband. 1978 gründete er das 'Sociocratisch Centrum' in Utrecht (das noch heute als "Soziokratisches Zentrum" in Rotterdam weiterbesteht) zur Förderung der Soziokratie innerhalb und außerhalb der Niederlande. Seit 1994 sind in den Niederlanden alle Organisationen, die Soziokratische Kreismethode anwenden, von der gesetzlichen Verpflichtung befreit, einen Betriebsrat zu haben.
 
 Während der späten 1990er und frühen 2000er Jahre begannen auch einige Menschen ausserhalb der Niederlande, die Soziokratie zu entdecken. Aber als 2007 das Buch "We the People" von **Sharon Villines und John Buck** erschien, wurde die Soziokratie zunächst einem breiteren englischsprachigen Publikum zugänglich, und von dort aus begann die Verbreitung in weitere Sprachen.
 
 Soziokratie hat sich in vielen Organisationen und Gemeinschaften auf der ganzen Welt bewährt, aber man kann noch lange nicht von einer viralen Verbreitung sprechen.
 
-**James Priest und Bernhard Bockelbrink** begannen 2014 ihre Zusammenarbeit damit, gemeinfreie Lernmaterialien herzustellen, in denen sie die Ideen der Soziokratie mit Agilität und Lean Thinking und Lean kombinierten. Dabei entdeckten sie, dass kleine wie große Organisationen ein auf ihren spezifischen Kontext passendes Angebot aus Praktiken und Strukturen benötigen, das ihnen ermöglicht, eine agile und soziokratische Geisteshaltung zu entwickeln, um ihren eigenen Weg zu mehr Effektivität, Alignment, Wohlbefinden und Erfüllung zu finden. Die erste Fassung von **Soziokratie 3.0** erschien im März 2015.
+**James Priest und Bernhard Bockelbrink** begannen 2014 ihre Zusammenarbeit damit, gemeinfreie Lernmaterialien herzustellen, in denen sie die Ideen der Soziokratie mit Agilität und Lean Thinking und Lean kombinierten. Dabei entdeckten sie, dass kleine wie große Organisationen ein auf ihren spezifischen Kontext passendes Angebot aus Praktiken und Strukturen benötigen, das ihnen ermöglicht, eine agile und soziokratische Geisteshaltung zu entwickeln, um ihren eigenen Weg zu mehr Effektivität, Alignment, Wohlbefinden und Erfüllung zu entdecken. Die erste Fassung von **Soziokratie 3.0** erschien im März 2015.
 
 Kurz darauf begann auch **Liliana David**, an der Weiterentwicklung von S3 mitzuwirken. 
 
-Sie arbeiten nun gemeinsam daran, S3 so zu gestallten, dass es für möglichst viele Organisationen verfügbar und wertvoll ist, und stellen dazu gemeinfreie Materialien unter einer **Creative Commons Free Culture Lizenz** bereit, die es allen Interessierten ermöglichen sollen, S3 zu erforschen, anzuwenden und weiterzugeben.
+Sie arbeiten nun gemeinsam daran, S3 so zu gestallten, dass es für möglichst viele Organisationen verfügbar und wertvoll ist, und stellen dazu gemeinfreie Materialien unter einer **Creative Commons Free Culture Lizenz** bereit, die es allen Interessierten ermöglicht, S3 zu erforschen, anzuwenden und weiterzugeben.
 
 ### Die Soziokratie-3.0-Bewegung
 
-Durch das steigende Interesse an Soziokratie 3.0 wächst auch eine Gemeinschaft von Personen — Berater, Coaches, Trainer, und Anwender von S3 in ganz verschiedenen Kontexten — die das S3 innewohnende transformative Potenzial wertschätzen, das sowohl Organisationen als auch deren Mitglieder hilft, das sich zu entwickeln und zu entfalten. Viele aus dieser Gemeinschaft stellen freundlicherweise Zeit zur Verfügung, S3 zu erforschen und weiterzutragen, zusammenzuarbeiten, voneinander zu lernen und ihre Erfahrungen zu dokumentieren, so dass mit den so gewonnene Erkenntnissen S3 selbst weiterentwickelt werden kann.
+Durch das steigende Interesse an Soziokratie 3.0 wächst auch eine Gemeinschaft von Personen — Berater, Coaches, Trainer, und Anwender von S3 in ganz verschiedenen Kontexten — die das transformative Potenzial wertschätzen, das sowohl Organisationen als auch deren Mitglieder hilft, sich zu entwickeln und zu entfalten. Viele aus dieser Gemeinschaft stellen freundlicherweise ihre Zeit zur Verfügung, um S3 zu erforschen und weiterzutragen, zusammenzuarbeiten, voneinander zu lernen und ihre Erfahrungen zu dokumentieren.
 
 ## Warum "Soziokratie 3.0"?
 
-Die ersten Konzepte zur Soziokratie als Regierungsform stammen aus dem Jahre 1851. Seit damals wurde sie von vielen Menschen und Organisationen weiterentwickelt und angepasst, u.A. von Gerard Endenburg, von der The Sociocracy Group (TSG) und von Brian Robertson (HolacracyOne).
+Die ersten Konzepte zur Soziokratie als Regierungsform stammen aus dem Jahre 1851. Seit damals wurde sie von vielen Menschen und Organisationen weiterentwickelt und angepasst, u.A. von Gerard Endenburg, von der **The Sociocracy Group (TSG)** und von Brian Robertson (HolacracyOne).
 
 Dennoch blieb die Soziokratie außerhalb der Niederlande bis vor kurzem weitgehend unbekannt.
 
 Wir lieben die Soziokratie, weil wir sehen, wie Organisationen und ihre Mitglieder gedeihen, wenn Sie Ideen daraus umsetzen.
 
-Wir lieben auch die agile Methoden, Lean Thinking, Kanban, die Core Protocols, gewaltfreie Kommunikation und zahlreiche andere Ideen. Und wir denken, dass die Welt dadurch besser wird, dass sich immer mehr Organisationen aus diesem Füllhorn neuer Ideen zu bedienen, und lernen, diese Ideen mit dem zu verbinden, was sie bereits kennen.
+Wir lieben auch agile Methoden, Lean Thinking, Kanban, die Core Protocols, gewaltfreie Kommunikation und zahlreiche andere Ideen und denken, dass die Welt dadurch besser wird, da sich immer mehr Organisationen aus diesem Füllhorn neuer Ideen bedienen, und lernen, diese Ideen mit dem zu verbinden, was sie bereits kennen.
 
-Deshalb haben wir beschlossen, einen Teil unserer Zeit darauf zu verwenden, die Soziokratie weiterzuentwickeln und mit anderen wichtigen Ideen zu integrieren, um sie für so viele Organisationen wie möglich zugänglich und anwendbar zu machen.
+Deshalb haben wir beschlossen, einen Teil unserer Zeit darauf zu verwenden, die Soziokratie weiterzuentwickeln und mit anderen wichtigen Ideen zu kombinieren, um sie für so viele Organisationen wie möglich zugänglich und anwendbar zu machen.
 
 Um dieses Ziel zu erreichen, halten wir es für erforderlich, eine solide Marke aufzubauen, eine radikal neue Form der Verbreitung zu etablieren, und die *Soziokratischen Kreismethode* so zu erweitern, dass deren praktische Anwendbarkeit verbessert wird.
 
@@ -104,24 +104,24 @@ Um dieses Ziel zu erreichen, halten wir es für erforderlich, eine solide Marke 
 
 Der Name "*Soziokratie 3.0*" verbindet den respektvollen Umgang mit der Herkunft der Soziokratie mit der Andeutung eines wichtigen Schrittes nach vorne.
 
-Der Name soll auch Verwechslungen mit der *Soziokratische Kreismethode* (SKM) zu vermeiden, die von The Sociocracy Group (TSG) gelehrt wird. 
+Der Name soll auch Verwechslungen mit der *Soziokratische Kreismethode* (SKM) vermeiden, die von **The Sociocracy Group (TSG)** gelehrt wird. 
 
 ![Drei Formen der Soziokratie: S3, SCM und Holakratie](img/context/sociocracy-variants.png)
 
 ### Eine neue Form der Verbreitung
 
-*Soziokratie 3.0* beruht auf einem dezentralen Verteilungsmodell. Im Vergleich dazu, wie die Soziokratie bisher an Personen und Organisationen vermittelt wurde, stellt das einen radikalen Paradigmenwechsel dar, der auf viel positive Resonanz stößt.
+*Soziokratie 3.0* beruht auf einem dezentralen Verteilungsmodell. Im Vergleich dazu, wie die Soziokratie bisher an Personen und Organisationen vermittelt wurde, stellt es einen radikalen Paradigmenwechsel dar, der auf viel positive Resonanz stößt.
 
 Durch zwei Strategien unterstützen wir "virale" Verbreitung:
 
-* **Soziokratie 3.0 ist offen:** Wir wollen die Entstehung eines lebendigen Ökosystems aus Anwendungen und Abwandlungen der Soziokratie fördern, in dem Menschen ihre Erfahrungen und Anpassungen miteinander teilen und diskutieren. Daher legen wir einen Schwerpunkt auf die Kommunikation der hinter Soziokratie 3.0 stehenden Prinzipien, und auf die explizite Einladung, alles nach Bedarf anzupassen, zu erweitern und neu zu kombinieren.
+* **Soziokratie 3.0 ist offen:** Wir wollen die Entstehung eines lebendigen Ökosystems aus Anwendungen und Abwandlungen der Soziokratie fördern, in dem Menschen ihre Erfahrungen und Anpassungen miteinander teilen und diskutieren. Daher legen wir einen Schwerpunkt auf die Kommunikation, der hinter Soziokratie 3.0 stehenden Prinzipien, und auf die explizite Einladung, alles nach Bedarf anzupassen, zu erweitern und neu zu kombinieren.
 * **Soziokratie 3.0 ist frei:** Um die Eintrittsbarrieren für Menschen und für Organisationen zu senken, bieten wir unsere Materialien zum Lernen, zur Ausübung und zur Vermittlung von *Soziokratie 3.0* unter einer *Creative Commons Free Culture Lizenz* an. Jeder kann diese Materialen einfach verwenden, auch in einem kommerziellen Kontext oder als Grundlage für die Erstellung eigener Materialien[^solange das Resultat unter derselben Lizenz verfügbar ist], ohne uns erst um Erlaubnis fragen zu müssen. Wir ermutigen ausdrücklich andere Organisationen, Berater, Coaches, Moderatoren und Trainer, unserem Beispiel zu folgen und auch ihre Ressourcen freizugeben.
 
 ### Die Evolution der Soziokratischen Kreismethode
 
 Wir wollen eines ausdrücklich klarstellen: Soziokratie 3.0 richtet sich nicht an diejenigen, die die *Soziokratische Kreismethode* (SKM) anwenden, und auch nicht an The Sociocracy Group (TSG). SKM ist bereits gut entwickelt, und einige Menschen sind mit dieser Methode offensichtlich weitestgehend zufrieden.
 
-Dennoch gibt es unserer Erfahrung einige Hindernisse, die es Organisationen schwer machen, mit Soziokratie zu experimentieren. Durch *Soziokratie 3.0* versuchen wir aktiv, diese Hindernisse auszuräumen und den Einstieg zu erleichtern.
+Dennoch gibt es unserer Erfahrung nach einige Hindernisse, die es Organisationen erschweren, mit Soziokratie zu experimentieren. Durch *Soziokratie 3.0* versuchen wir aktiv, diese Hindernisse auszuräumen und den Einstieg zu erleichtern.
 
 #### Minimierung von Risiko und Widerstand
 
@@ -129,7 +129,7 @@ Dennoch gibt es unserer Erfahrung einige Hindernisse, die es Organisationen schw
 
 #### Verlagerung des Fokus von Zielen (oder Sinn) hin zum Bedarf
 
-*Soziokratie 3.0* verschiebt den primären Fokus weg von Vision, Mission, Zielen oder Sinn ("Purpose") zum Ausgangspunkt der Motivation für Veränderung, und hilft, einer Organisation, zu entdecken, was ihr Bedarf ist, und sich dann an diesem Bedarf auszurichten. Organisationen, die bereits bedarfsgetrieben, wertgetrieben oder kundenzentrisch sind, finden das unmittelbar einleuchtend.
+*Soziokratie 3.0* verschiebt den primären Fokus - weg von Vision, Mission, Zielen oder Sinn ("Purpose") - zum Ausgangspunkt der Motivation für Veränderung, und hilft einer Organisation zu entdecken, was ihr Bedarf ist, und sich dann an diesem Bedarf auszurichten. Organisationen, die bereits bedarfsgetrieben, wertgetrieben oder kundenzentrisch sind, finden das unmittelbar einleuchtend.
 
 Mit *Soziokratie 3.0* ist der Sinn ("Purpose") immer implizit klar - Wertschöpfung bezogen auf den Bedarf der Organisation.
 
@@ -137,11 +137,11 @@ Mit *Soziokratie 3.0* ist der Sinn ("Purpose") immer implizit klar - Wertschöpf
 
 Betrachtet man die offiziellen Normen, kann die *Soziokratische Kreismethode* durchaus riesig und furchterregend wirken. Durch die Konzentration auf das Wesentliche bietet *Soziokratie 3.0* demgegenüber einen leichtgewichtigen Rahmen für Anpassung und Entwicklung einer Organisation.
 
-Das bedeutet nicht, dass alles immer ganz einfach ist: auch die Anwendung von Mustern aus *Soziokratie 3.0* bedeutet ein gewisse Investition in Lernen und Veränderung antrainierter Gewohnheiten. Daher ist es umso wichtiger, schrittweise vorzugehen, und nur die Muster anzuwenden, die man auch tatsächlich gerade benötigt, es ist sinnlos, Dinge zu ändern, die bereits gut genug sind.
+Das bedeutet nicht, dass alles immer ganz einfach ist: auch die Anwendung von Mustern aus *Soziokratie 3.0* bedeutet ein gewisse Investition in das Lernen und die Veränderung antrainierter Gewohnheiten. Daher ist es umso wichtiger, schrittweise vorzugehen, und nur die Muster anzuwenden, die man auch tatsächlich gerade benötigt. Es ist sinnlos Dinge zu ändern, die bereits gut genug sind.
 
 #### Integration von Ideen aus den agilen Methoden und aus Lean Thinking
 
-Bezogen auf operative Tätigkeiten und insbesondere auf die der Kultur der Zusammenarbeit innerhalb der Organisation versteht sich die *Soziokratischen Kreismethode* als "leere Methode". Viele Organisationen richten bereit ihre operativen Tätigkeiten an agilen Prinzipien und Lean Thinking aus, oder streben eine derartige Transformation an. Wir halten das für eine großartige Idee, und haben *Soziokratie 3.0* deshalb so gestaltet, dass sie gut zu agilen und lean Organisationen passt.
+Bezogen auf operative Tätigkeiten und insbesondere auf die Kultur der Zusammenarbeit innerhalb der Organisation versteht sich die *Soziokratischen Kreismethode* als "leere Methode". Viele Organisationen richten bereits ihre operativen Tätigkeiten an agilen Prinzipien und Lean Thinking aus, oder streben eine derartige Transformation an. Wir halten das für eine großartige Idee, und haben *Soziokratie 3.0* deshalb so gestaltet, dass sie gut zu agilen und lean Organisationen passt.
 
 #### Neue Wege zur Entwicklung von Organisationsstruktur
 
