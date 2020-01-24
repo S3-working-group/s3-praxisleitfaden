@@ -2,7 +2,7 @@
 
 {{define:objection}}
 
-Einwände offenbaren Information über **unbeabsichtigte Folgen**, oder über **Verbesserungsmöglichkeiten<0>.</p> 
+Einwände offenbaren Information über **unbeabsichtigte Folgen**, oder über **Verbesserungsmöglichkeiten**. 
 
 Es liegt in der Verantwortung des Einzelnen, Einwände gegen Entscheidungen, bestehende [Vereinbarungen](glossary:agreement) oder Handlungen zu erheben.
 
