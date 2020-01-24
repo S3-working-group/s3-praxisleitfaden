@@ -1,6 +1,6 @@
 ## Änderungsprotokoll 
 
-### Änderungen zum 3.5.2018
+### Änderungen zum 3.5.2019
 
 - Glossareinträge überarbeitet für [Vereinbarung](glossary:agreement), [Organisation](glossary:organization) und [Team](glossary:team), Eintrag hinzugefügt für [Ziel](glossary:objective)
 - Prinzip der Verantwortlichkeit: individuelle Verantwortung der Mitarbeiter für die eigene Arbeit als auch für die Zusammenarbeit
@@ -13,7 +13,7 @@
 - [Wahl](section:role-selection): Illustration überarbeitet
 - [Gehaltstransparenz](section:transparent-salary): Erklärung einer Gehaltsformel
 
-### Änderungen zum 8.3.2018
+### Änderungen zum 8.3.2019
 
 **Allgemeine Änderungen**
 
