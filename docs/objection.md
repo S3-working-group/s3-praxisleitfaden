@@ -3,9 +3,9 @@ title: "Einwand"
 ---
 
 
-_Ein **Einwand** ist ein _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert._
+_Ein **Einwand** ist ein Argument, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert._
 
-Einwände offenbaren Information über **unbeabsichtigte Folgen**, oder über **Verbesserungsmöglichkeiten<0>.</p> 
+Einwände offenbaren Information über **unbeabsichtigte Folgen**, oder über **Verbesserungsmöglichkeiten**. 
 
 Es liegt in der Verantwortung des Einzelnen, Einwände gegen Entscheidungen, bestehende <dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">Vereinbarungen</dfn> oder Handlungen zu erheben.
 

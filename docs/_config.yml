@@ -2,7 +2,7 @@
 title: Soziokratie 3.0 - Ein Praxisleitfaden
 email: bernhard.bockelbrink@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David.
+   Die offizielle Dokumentation zu Soziokratie 3.0 — mit allen Muster, den sieben Prinzipien und allen wichtigen Konzepten, von Bernhard Bockelbrink, James Priest und Liliana David.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://s3-working-group.github.io" # the base hostname & protocol for your site

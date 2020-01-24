@@ -30,7 +30,7 @@ msgid "Sociocracy 3.0 - A Practical Guide"
 msgstr "Soziokratie 3.0 - Ein Praxisleitfaden"
 
 # site descriptions for practical guide microsite
-msgid "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+msgid "The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
 msgstr "Die offizielle Dokumentation zu Soziokratie 3.0 — mit allen Muster, den sieben Prinzipien und allen wichtigen Konzepten, von Bernhard Bockelbrink, James Priest und Liliana David."
 
 # Headline for Section "Introduction" (e.g. in ebook)

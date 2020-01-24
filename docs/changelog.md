@@ -3,7 +3,7 @@ title: "Änderungsprotokoll "
 ---
 
 
-### Änderungen zum 3.5.2018
+### Änderungen zum 3.5.2019
 
 - Glossareinträge überarbeitet für <dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">Vereinbarung</dfn>, <dfn data-info="Organisation: Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Eine Organisation ist oft in mehrere Teams aufgeteilt.">Organisation</dfn> und <dfn data-info="Team: Eine Gruppe von Personen, die zusammenarbeitet, um ein gemeinsames Ziel zu erreichen. Ein Team ist typischerweise Teil einer Organisation, oder es entsteht im Rahmen einer Zusammenarbeit mehrerer Organisationen.">Team</dfn>, Eintrag hinzugefügt für <dfn data-info="Ziel: Ein (spezifisches) Ergebnis, das eine Person oder ein Team oder Organisation erreichen will; eine Zielvorgabe bzw. ein Unternehmensziel.">Ziel</dfn>
 - Prinzip der Verantwortlichkeit: individuelle Verantwortung der Mitarbeiter für die eigene Arbeit als auch für die Zusammenarbeit
@@ -16,7 +16,7 @@ title: "Änderungsprotokoll "
 - [Wahl](role-selection.html): Illustration überarbeitet
 - [Gehaltstransparenz](transparent-salary.html): Erklärung einer Gehaltsformel
 
-### Änderungen zum 8.3.2018
+### Änderungen zum 8.3.2019
 
 **Allgemeine Änderungen**
 
