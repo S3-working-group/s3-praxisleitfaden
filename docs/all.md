@@ -437,9 +437,9 @@ Das Zurückhalten von Einwänden kann die Ziele eines Teams oder der gesamten Or
 
 ###  Muster 1.5: Einwand
 
-_Ein **Einwand** ist ein _Argument_, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert._
+_Ein **Einwand** ist ein Argument, warum eine geplante Handlung oder Entscheidung die effektive Reaktion auf einen Organisationstreiber verhindert._
 
-Einwände offenbaren Information über **unbeabsichtigte Folgen**, oder über **Verbesserungsmöglichkeiten<0>.</p> 
+Einwände offenbaren Information über **unbeabsichtigte Folgen**, oder über **Verbesserungsmöglichkeiten**. 
 
 Es liegt in der Verantwortung des Einzelnen, Einwände gegen Entscheidungen, bestehende Vereinbarungen oder Handlungen zu erheben.
 
@@ -1804,7 +1804,7 @@ Die zweite und dritte Ebene:
 
 ## Änderungsprotokoll 
 
-### Änderungen zum 3.5.2018
+### Änderungen zum 3.5.2019
 
 - Glossareinträge überarbeitet für Vereinbarung, Organisation und Team, Eintrag hinzugefügt für Ziel
 - Prinzip der Verantwortlichkeit: individuelle Verantwortung der Mitarbeiter für die eigene Arbeit als auch für die Zusammenarbeit
@@ -1817,7 +1817,7 @@ Die zweite und dritte Ebene:
 - _Wahl_: Illustration überarbeitet
 - _Gehaltstransparenz_: Erklärung einer Gehaltsformel
 
-### Änderungen zum 8.3.2018
+### Änderungen zum 8.3.2019
 
 **Allgemeine Änderungen**
 
