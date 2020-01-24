@@ -13,7 +13,7 @@ target_filename: "S3-Praxisleitfaden"
 pattern_prefix: " Muster %(chapter)s.%(section)s:"
 
 # Version of the practical guide (added to all releases)
-version: "v2019-05-03-de-0.82"
+version: "v2019-05-03-de-0.83"
 
 # URL o the Github project
 github_url: "https://github.com/S3-working-group/s3-praxisleitfaden"
