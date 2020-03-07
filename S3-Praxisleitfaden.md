@@ -585,7 +585,7 @@ Elemente dieses Musters können auch von Einzelpersonen bei der Prüfung ihrer E
 
 ### Ausführliches Format
 
-![Ein Ausführliches Format zur Entwicklung von Vereinbarungen](img/agreements/evaluate-agreements.png)
+![Ein ausführliches Format zur Entwicklung von Vereinbarungen](img/agreements/evaluate-agreements.png)
 
 Vorbereitung:
 
