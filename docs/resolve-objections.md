@@ -5,7 +5,7 @@ title: "Einwände integrieren"
 
 **Integriere Einwände einzeln nacheinander, indem jeweils das im Einwand enthaltene Wissen in Änderungsanträgen formuliert wird.**
 
-Wähle für jeden <dfn data-info="Einwand: Ein _Argument_ — bezogen auf einen Vorschlag, eine Entscheidung, eine bestehende Vereinbarung oder ein Handlung — die unbeabsichtigte Konsequenzen oder praktikable Möglichkeiten zur Verbesserung offenbart.">Einwand</dfn> zunächst diejenige Option, die für diesen Einwand am meisten Erfolg verspricht, wenn die Option nicht zum Erfolg führt, versuche einfach eine andere. Jeder Versuch wir die Gruppe dabei unterstützen, mehr über den Einwand zu verstehen, sich schrittweise an einen Änderungsantrag heranzutasten, der den Einwand erfolgreich integriert.
+Wähle für jeden <dfn data-info="Einwand: Ein _Argument_ — bezogen auf einen Vorschlag, eine Entscheidung, eine bestehende Vereinbarung oder ein Handlung — die unbeabsichtigte Konsequenzen oder praktikable Möglichkeiten zur Verbesserung offenbart.">Einwand</dfn> zunächst diejenige Option, die für diesen Einwand am meisten Erfolg verspricht, wenn die Option nicht zum Erfolg führt, versuche einfach eine andere. Jeder Versuch wird die Gruppe dabei unterstützen, mehr über den Einwand zu verstehen, sich schrittweise an einen Änderungsantrag heranzutasten, der den Einwand erfolgreich integriert.
 
 Es ist oft eine guter Anfang, den Einwandgeber zuerst nach einem möglichen Änderungsantrag zu fragen.
 
