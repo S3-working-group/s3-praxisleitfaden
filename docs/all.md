@@ -523,7 +523,7 @@ Regelmäßige Überprüfung aller Vereinbarungen ist eine essentielle Voraussetz
 
 Stelle sicher, dass für jede Vereinbarung ein Termin zur Evaluation festgelegt wird.
 
-Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und kein Einwände gegen ihren Fortbestand existieren.
+Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und keine Einwände gegen ihren Fortbestand existieren.
 
 ![Experimentieren, evaluieren, entwickeln](img/evolution/kaizen.png)
 
