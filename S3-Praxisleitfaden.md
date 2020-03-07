@@ -559,7 +559,7 @@ um Einwände zu integrieren](img/agreements/resolve-objections-process.png)
 
 **Entwickle alle Vereinbarungen ständig weiter, und reduziere dabei Verschwendung.**
 
-Regelmäßige Überprüfung aller Vereinbarungen ist eine ist eine essentielle Voraussetzung für lernende Organisationen:
+Regelmäßige Überprüfung aller Vereinbarungen ist eine essentielle Voraussetzung für lernende Organisationen:
 
 - passe Vereinbarungen an sich verändernde Gegebenheiten an
 - integriere gewonnene Erkenntnisse, um Vereinbarungen effektiver zu machen
