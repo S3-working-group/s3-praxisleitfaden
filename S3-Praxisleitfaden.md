@@ -516,7 +516,7 @@ Wenn alle Teilnehmer dem Argument zustimmen, handelt es sich üblicherweise um e
 
 Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
-- Inwiefern bezieht ich dieses Argument auf diesen Vorschlag bzw. diese Vereinbarung?
+- Inwiefern bezieht sich dieses Argument auf diesen Vorschlag bzw. diese Vereinbarung?
 - Zeigt dieser Einwand auf, wie eine (vorgeschlagene oder bestehende) **Aktivität oder Vereinbarung …**: 
     - die Reaktion auf einen Organisationstreiber beeinträchtigt?
     - hier und jetzt verbessert werden kann?
