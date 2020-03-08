@@ -487,7 +487,7 @@ Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
 #### Bedenken
 
-_Ein **Bedenken** ist eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**._
+_Ein **Bedenken** ist eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)e Antwort auf einen Organisationstreiber behindern **könnte**._
 
 In einer _Konsent-Entscheidung_ können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
 
@@ -2155,7 +2155,7 @@ Unser Angebot umfasst Beratung, Training, Coaching und Mentoring zu *Soziokratie
 **Bedarf:** Ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird.
 
 
-**Bedenken:** Eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
+**Bedenken:** Eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)e Antwort auf einen Organisationstreiber behindern **könnte**.
 
 
 **Check In:** Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.

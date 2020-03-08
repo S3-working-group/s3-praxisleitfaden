@@ -14,7 +14,7 @@ title: Glossar
 
 **Bedarf:** Ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird.
 
-**Bedenken:** Eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
+**Bedenken:** Eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)e Antwort auf einen Organisationstreiber behindern **könnte**.
 
 **Check In:** Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
 

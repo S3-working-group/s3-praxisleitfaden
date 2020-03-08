@@ -526,7 +526,7 @@ Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
 ### Bedenken
 
-_Ein **Bedenken** ist eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**._
+_Ein **Bedenken** ist eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)e Antwort auf einen Organisationstreiber behindern **könnte**._
 
 In einer _Konsent-Entscheidung_ können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
 
@@ -2382,7 +2382,7 @@ Unser Angebot umfasst Beratung, Training, Coaching und Mentoring zu *Soziokratie
 **Backlog:** Eine Liste von (meist priorisierten) offenen Aufgaben (Leistungen), oder Treibern, die noch bearbeitet werden müssen.
 **Beauftragte:** Eine Person oder Gruppe, die die Verantwortlichkeit für eine Domäne übernimmt.
 **Bedarf:** Ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird.
-**Bedenken:** Eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
+**Bedenken:** Eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)e Antwort auf einen Organisationstreiber behindern **könnte**.
 **Check In:** Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
 **Delegation:** Die Bevollmächtigung einer Partei (des Beauftragten) durch eine andere (die Delegierende), sich um eine Domäne zu kümmern (d.h. bestimmte Aufgaben zu erfüllen und/oder bestimmte Entscheidungen zu treffen). Die Gesamtverantwortung trägt weiterhin die Delegierende.
 **Delegierende:** Eine Person oder Gruppe, die die Verantwortung für eine Domäne an andere delegiert.
