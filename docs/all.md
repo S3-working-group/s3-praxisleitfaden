@@ -557,7 +557,7 @@ Nachbereitung:
 
 ###  Muster 1.8: Die Betroffenen entscheiden
 
-**Beteilige alle von einer Entscheidung Betroffen, um alle für die Entscheidung erforderlichen Informationen verfügbar zu machen, und um Gleichstellung und Verantwortlichkeit sicher zu stellen.**
+**Beteilige alle von einer Entscheidung Betroffenen, um alle für die Entscheidung erforderlichen Informationen verfügbar zu machen, und um Gleichstellung und Verantwortlichkeit sicher zu stellen.**
 
 Für grössere Gruppen:
 
