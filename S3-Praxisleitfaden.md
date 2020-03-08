@@ -604,7 +604,7 @@ Nachbereitung:
 
 **Beteilige alle von einer Entscheidung Betroffenen, um alle für die Entscheidung erforderlichen Informationen verfügbar zu machen, und um Gleichstellung und Verantwortlichkeit sicher zu stellen.**
 
-Für grössere Gruppen:
+Für größere Gruppen:
 
 - Moderiere einen mehrstufigen Prozess und bilde Gruppen, die Delegierte wählen
 - nutze Online-Werkzeuge, um asynchrone und mehrstufige Prozesse mit festem Zeitrahmen für jeden Prozessschritt durchzuführen
@@ -2349,7 +2349,7 @@ Unser Angebot umfasst Beratung, Training, Coaching und Mentoring zu *Soziokratie
 
 ### James Priest
 
-... … bietet seine Unterstützung international an; Beratung zu Organisationsentwicklung, Lernbegleitung, sowie Mentoring für Menschen, die kollaborative, adaptive Organisationen in grösserem Rahmen entwickeln möchten.
+... … bietet seine Unterstützung international an; Beratung zu Organisationsentwicklung, Lernbegleitung, sowie Mentoring für Menschen, die kollaborative, adaptive Organisationen in größerem Rahmen entwickeln möchten.
 
 <https://thriveincollaboration.com>
 
@@ -2365,7 +2365,7 @@ Unser Angebot umfasst Beratung, Training, Coaching und Mentoring zu *Soziokratie
 
 ### Liliana David
 
-... … bietet ihre Unterstützung international an; Training, Prozessbegleitung und Mentoring für Teams und Organisationen, die den Wunsch haben, grössere Effektivität und Gleichberechtigung in der Zusammenarbeit zu entwickeln.
+... … bietet ihre Unterstützung international an; Training, Prozessbegleitung und Mentoring für Teams und Organisationen, die den Wunsch haben, größere Effektivität und Gleichberechtigung in der Zusammenarbeit zu entwickeln.
 
 <https://thriveincollaboration.com>
 
