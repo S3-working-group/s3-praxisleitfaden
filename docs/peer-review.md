@@ -15,5 +15,5 @@ Verbesserungsvorschläge können sich auf persönliche Entwicklung, Zusammenarbe
 
 ![Kontinuierliche Verbesserung der Fähigkeit, eine Rolle auszufüllen oder im Team zusammenzuarbeiten.](img/evolution/development-process.png)
 
-[&#9654; Entwicklungsplan](development-plan.html)<br/>[&#9664; Peer-Feedback](peer-feedback.html)<br/>[&#9650; gemeinsame Entwicklung](peer-development.html)
+[&#9654; Entwicklungsplan](development-plan.html)<br/>[&#9664; Peer-Feedback](peer-feedback.html)<br/>[&#9650; Gemeinsame Entwicklung](peer-development.html)
 

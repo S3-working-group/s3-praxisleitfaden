@@ -670,7 +670,7 @@ Kleine oder grosse Gruppen identifizieren und organisieren Treiber, um dann in s
 ![Driver Mapping: Vorlage für Domänen](img/templates/domain-template.png)
 
 
-## gemeinsame Entwicklung 
+## Gemeinsame Entwicklung 
 
 ###  Muster 2.1: Um Hilfe bitten
 

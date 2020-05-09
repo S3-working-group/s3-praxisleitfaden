@@ -1,5 +1,5 @@
 ---
-title: "gemeinsame Entwicklung"
+title: "Gemeinsame Entwicklung"
 ---
 
 - [Um Hilfe bitten](ask-for-help.html)

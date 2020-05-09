@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
    Die offizielle Dokumentation zu Soziokratie 3.0 — mit allen Muster, den sieben Prinzipien und allen wichtigen Konzepten, von Bernhard Bockelbrink, James Priest und Liliana David.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://s3-working-group.github.io" # the base hostname & protocol for your site
+url: "https://patterns-de.sociocracy30.org" # the base hostname & protocol for your site
 
 twitter_username: sociocracy30
 

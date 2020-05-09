@@ -11,5 +11,5 @@ Kleine oder grosse Gruppen identifizieren und organisieren Treiber, um dann in s
 
 ![Driver Mapping: Vorlage für Domänen](img/templates/domain-template.png)
 
-[&#9654; gemeinsame Entwicklung](peer-development.html)<br/>[&#9664; Wahl](role-selection.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
+[&#9654; Gemeinsame Entwicklung](peer-development.html)<br/>[&#9664; Wahl](role-selection.html)<br/>[&#9650; Mitgestaltung und Evolution](co-creation-and-evolution.html)
 

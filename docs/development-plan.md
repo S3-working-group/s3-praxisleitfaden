@@ -13,5 +13,5 @@ Der Entwicklungsplan (inklusive aller zugehörigen Empfehlungen zu Änderungen d
 
 ![Vorlage für einen Entwicklungsplan](img/templates/development-plan-template.png)
 
-[&#9654; Zusammenarbeit ermöglichen](enablers-of-collaboration.html)<br/>[&#9664; Entwicklungsgespräch](peer-review.html)<br/>[&#9650; gemeinsame Entwicklung](peer-development.html)
+[&#9654; Zusammenarbeit ermöglichen](enablers-of-collaboration.html)<br/>[&#9664; Entwicklungsgespräch](peer-review.html)<br/>[&#9650; Gemeinsame Entwicklung](peer-development.html)
 
