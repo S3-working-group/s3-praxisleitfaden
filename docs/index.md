@@ -13,7 +13,7 @@ Weitere Informationen zu Soziokratie 3.0 und andere kostenlose Materialen findes
 ## Muster-Gruppen
 
 - [Mitgestaltung und Evolution](co-creation-and-evolution.html)
-- [gemeinsame Entwicklung](peer-development.html)
+- [Gemeinsame Entwicklung](peer-development.html)
 - [Zusammenarbeit ermöglichen](enablers-of-collaboration.html)
 - [Organisationsentwicklung](building-organizations.html)
 - [S3 einführen](bringing-in-s3.html)

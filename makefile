@@ -1,5 +1,5 @@
 
-CONFIG=content/structure-new.yaml
+CONFIG=content/structure.yaml
 GLOSSARY=content/glossary.yaml
 SOURCE=content/src
 TMPFOLDER=tmp
@@ -15,38 +15,20 @@ define update-make-conf
 $(MKTPL) templates/make-conf config/make-conf $(LOC) $(PRJ)
 endef
 
-deckset:
-	$(update-make-conf)
-
-	# build deckset presentation and add pattern index
-	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=img --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	
-	$(MKTPL) templates/deckset-template.md $(TMPFOLDER)/deckset-template.md $(LOC) $(PRJ)
-	mdslides build deckset $(CONFIG) $(TMPFOLDER) $(TARGETFILE).md --template=$(TMPFOLDER)/deckset-template.md  --glossary=$(GLOSSARY) --glossary-items=16
-	# append pattern-index
-	mdslides index deckset $(CONFIG) $(TARGETFILE).md --append
-
-revealjs:
-	$(update-make-conf)
-
-	$(MKTPL) templates/revealjs-template.html $(TMPFOLDER)/revealjs-template.html $(LOC) $(PRJ)
-
-	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=text --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build revealjs $(CONFIG) $(TMPFOLDER) docs/slides.html --template=$(TMPFOLDER)/revealjs-template.html  --glossary=$(GLOSSARY) --glossary-items=8
-
 site:
 	# build jekyll site
 	$(update-make-conf)
 
 	# prepare templates
-	$(MKTPL) templates/docs/_layouts/default.html docs/_layouts/default.html $(LOC) $(PRJ)
-	$(MKTPL) templates/docs/_layouts/plain.html docs/_layouts/plain.html $(LOC) $(PRJ)
-	$(MKTPL) templates/docs/_config.yml docs/_config.yml $(LOC) $(PRJ)
-	$(MKTPL) templates/docs/CNAME docs/CNAME $(LOC) $(PRJ)
+	$(MKTPL) templates/website/_layouts/default.html docs/_layouts/default.html $(LOC) $(PRJ)
+	$(MKTPL) templates/website/_layouts/plain.html docs/_layouts/plain.html $(LOC) $(PRJ)
+	$(MKTPL) templates/website/_config.yml docs/_config.yml $(LOC) $(PRJ)
+	$(MKTPL) templates/website/CNAME docs/CNAME $(LOC) $(PRJ)
 	$(MKTPL) content/website/_includes/footer.html docs/_includes/footer.html $(LOC) $(PRJ)
-	cp templates/docs/map.md docs/map.md
-	$(MKTPL)  templates/docs/pattern-map.html docs/_includes/pattern-map.html $(LOC) $(PRJ)
+	cp templates/website/map.md docs/map.md
+	$(MKTPL) templates/website/pattern-map.html docs/_includes/pattern-map.html $(LOC) $(PRJ)
 	cp content/website/_includes/header.html docs/_includes/header.html
+	cp content/website/_templates/404.md docs/404.md
 
 	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
 	cd docs;jekyll build
