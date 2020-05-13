@@ -3,6 +3,9 @@ CONFIG=content/structure.yaml
 GLOSSARY=content/glossary.yaml
 SOURCE=content/src
 TMPFOLDER=tmp
+TMPSUP = tmp/supporter-epub
+EBOOK_TMP = tmp/ebook
+DOCS_TMP = tmp/docs
 LOC=content/localization.po
 PRJ=config/project.yaml
 MKTPL=mdslides template
@@ -31,64 +34,54 @@ site:
 	cp content/website/_templates/404.md docs/404.md
 
 	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
-	cd docs;jekyll build
 
-wordpress:
-	# join each pattern group into one md file to be used in wordpress
-	$(update-make-conf)
-ifeq ("$(wildcard $(TMPFOLDER)/web-out)","")
-	mkdir $(TMPFOLDER)/web-out
-endif 
-	mdslides compile $(CONFIG) $(SOURCE) $(TMPFOLDER) --chapter-title=none --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
-	mdslides build wordpress $(CONFIG) $(TMPFOLDER) $(TMPFOLDER)/web-out/ --footer=templates/wordpress-footer.md  --glossary=$(GLOSSARY)
+	# build the single page version
+	$(MKTPL) templates/single-page--master.md $(EBOOK_TMP)/single-page--master.md $(LOC) $(PRJ)
+	# render intro, chapters and appendix to separate md files
+	mdslides build ebook $(CONFIG) $(SOURCE) $(EBOOK_TMP)/ --glossary=$(GLOSSARY)
+	# transclude all to one file 
+	cd $(EBOOK_TMP); multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
+
+	# build the site
+	cd docs;jekyll build
 
 epub:
 	# render an ebook as epub
 	$(update-make-conf)
 
 	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
+	mdslides build ebook $(CONFIG) $(SOURCE) $(EBOOK_TMP)/ --glossary=$(GLOSSARY) --section-prefix="$(SECTIONPREFIX)"
 
 	# prepare and copy template
-	$(MKTPL) templates/epub--master.md $(TMPFOLDER)/ebook/epub--master.md $(LOC) $(PRJ)
+	$(MKTPL) templates/epub--master.md $(EBOOK_TMP)/epub--master.md $(LOC) $(PRJ)
 	# transclude all to one file 
-	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=epub-compiled.md epub--master.md
+	cd $(EBOOK_TMP); multimarkdown --to=mmd --output=epub-compiled.md epub--master.md
 	# render to epub
-	cd $(TMPFOLDER)/ebook; pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE).epub
+	cd $(EBOOK_TMP); pandoc epub-compiled.md -f markdown -t epub3 --toc --toc-depth=3 -s -o ../../$(TARGETFILE).epub
 
 ebook:
 	# render an ebook as pdf (via LaTEX)
 	$(update-make-conf)
 	
 	# render intro, chapters and appendix to separate md files (but without sectionprefix!)
-	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY) --no-section-prefix
+	mdslides build ebook $(CONFIG) $(SOURCE) $(EBOOK_TMP)/ --glossary=$(GLOSSARY) --no-section-prefix
 
 	# copy md and LaTEX templates
-	$(MKTPL) templates/ebook--master.md $(TMPFOLDER)/ebook/ebook--master.md $(LOC) $(PRJ)
-	$(MKTPL) config/ebook.tex $(TMPFOLDER)/ebook/ebook.tex $(LOC) $(PRJ)
-	$(MKTPL) config/ebook-style.sty $(TMPFOLDER)/ebook/ebook-style.sty $(LOC) $(PRJ)
+	$(MKTPL) templates/ebook--master.md $(EBOOK_TMP)/ebook--master.md $(LOC) $(PRJ)
+	$(MKTPL) config/ebook.tex $(EBOOK_TMP)/ebook.tex $(LOC) $(PRJ)
+	$(MKTPL) config/ebook-style.sty $(EBOOK_TMP)/ebook-style.sty $(LOC) $(PRJ)
 
 	# make an index
-	mdslides index latex content/structure-new.yaml $(TMPFOLDER)/ebook/tmp-index.md
+	mdslides index latex $(CONFIG) $(EBOOK_TMP)/tmp-index.md
 	# transclude all to one file
-	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
+	cd $(EBOOK_TMP); multimarkdown --to=mmd --output=tmp-ebook-compiled.md ebook--master.md
 
-	cd $(TMPFOLDER)/ebook; multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
-	cd $(TMPFOLDER)/ebook; latexmk -pdf -xelatex -silent ebook.tex 
+	cd $(EBOOK_TMP); multimarkdown --to=latex --output=tmp-ebook-compiled.tex tmp-ebook-compiled.md
+	cd $(EBOOK_TMP); latexmk -pdf -xelatex -silent ebook.tex 
 	cd $(TMPFOLDER)/ebook; mv ebook.pdf ../../$(TARGETFILE).pdf
 	
 	# clean up
-	cd $(TMPFOLDER)/ebook; latexmk -C
-
-single:
-	$(update-make-conf)
-
-	$(MKTPL) templates/single-page--master.md $(TMPFOLDER)/ebook/single-page--master.md $(LOC) $(PRJ)
-
-	# render intro, chapters and appendix to separate md files
-	mdslides build ebook $(CONFIG) $(SOURCE) $(TMPFOLDER)/ebook/ --glossary=$(GLOSSARY)
-	# transclude all to one file 
-	cd $(TMPFOLDER)/ebook; multimarkdown --to=mmd --output=../../docs/all.md single-page--master.md
+	cd $(EBOOK_TMP); latexmk -C
 
 gitbook:
 	mdslides build gitbook $(CONFIG) $(SOURCE) gitbook/ --glossary=$(GLOSSARY)
@@ -101,25 +94,35 @@ clean:
 	-rm -r docs/img
 	-rm -r docs/_site
 	-rm docs/*.md
-	-rm -r $(TMPFOLDER)
+	# take no risk here!
+	-rm -r tmp
 
 setup:
 	# prepare temp folders and jekyll site
 	$(update-make-conf)
 	# prepare temp folders
 	echo "this might produce error output if folders already exist"
-	-mkdir -p $(TMPFOLDER)/ebook
-	-mkdir -p $(TMPFOLDER)/web-out
+	-mkdir -p $(EBOOK_TMP)
+	-mkdir -p $(DOCS_TMP)
+	-mkdir -p $(TMPSUP)
 	-mkdir docs/_site
-	# -mkdir gitbook
-ifeq ("$(wildcard $(TMPFOLDER)/ebook/img)","")
-	cd $(TMPFOLDER)/ebook; ln -s ../../img
-endif 
+
+	# images for ebook
+ifneq ("$(wildcard $(EBOOK_TMP)/img)","")
+	rm -r $(EBOOK_TMP)/img
+endif
+	cp -r img $(EBOOK_TMP)/img
+	cp templates/covers/* $(EBOOK_TMP)/img
+
+	# update version number in content
+	$(MKTPL) templates/version.txt content/version.txt $(LOC) $(PRJ)
+
 	# clean up and copy images do to docs folder
 ifneq ("$(wildcard docs/img)","")
 	rm -r docs/img
 endif
 	cp -r img docs/img
+
 ifneq ("$(wildcard gitbook/img)","")
 	# rm -r gitbook/img
 endif
