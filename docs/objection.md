@@ -43,7 +43,7 @@ Wenn alle Teilnehmer dem Argument zustimmen, handelt es sich üblicherweise um e
 
 Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
-- Inwiefern bezieht ich dieses Argument auf diesen Vorschlag bzw. diese Vereinbarung?
+- Inwiefern bezieht sich dieses Argument auf diesen Vorschlag bzw. diese Vereinbarung?
 - Zeigt dieser Einwand auf, wie eine (vorgeschlagene oder bestehende) **Aktivität oder Vereinbarung …**: 
     - die Reaktion auf einen Organisationstreiber beeinträchtigt?
     - hier und jetzt verbessert werden kann?
@@ -53,7 +53,7 @@ Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
 ### Bedenken
 
-_Ein **Bedenken** ist eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**._
+_Ein **Bedenken** ist eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)e Antwort auf einen Organisationstreiber behindern **könnte**._
 
 In einer [Konsent-Entscheidung](consent-decision-making.html) können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
 

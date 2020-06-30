@@ -5,14 +5,14 @@ title: "Vereinbarungen entwickeln"
 
 **Entwickle alle Vereinbarungen ständig weiter, und reduziere dabei Verschwendung.**
 
-Regelmäßige Überprüfung aller Vereinbarungen ist eine ist eine essentielle Voraussetzung für lernende Organisationen:
+Regelmäßige Überprüfung aller Vereinbarungen ist eine essentielle Voraussetzung für lernende Organisationen:
 
 - passe Vereinbarungen an sich verändernde Gegebenheiten an
 - integriere gewonnene Erkenntnisse, um Vereinbarungen effektiver zu machen
 
 Stelle sicher, dass für jede <dfn data-info="Vereinbarung: Eine gemeinsam beschlossene Richtlinie, ein Prozess, ein Protokoll oder eine Policy, die den den Wertfluss in der Organisation steuert.">Vereinbarung</dfn> ein Termin zur Evaluation festgelegt wird.
 
-Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und kein Einwände gegen ihren Fortbestand existieren.
+Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und keine Einwände gegen ihren Fortbestand existieren.
 
 ![Experimentieren, evaluieren, entwickeln](img/evolution/kaizen.png)
 
@@ -31,7 +31,7 @@ Elemente dieses Musters können auch von Einzelpersonen bei der Prüfung ihrer E
 
 ### Ausführliches Format
 
-![Ein Ausführliches Format zur Entwicklung von Vereinbarungen](img/agreements/evaluate-agreements.png)
+![Ein ausführliches Format zur Entwicklung von Vereinbarungen](img/agreements/evaluate-agreements.png)
 
 Vorbereitung:
 

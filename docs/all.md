@@ -477,7 +477,7 @@ Wenn alle Teilnehmer dem Argument zustimmen, handelt es sich üblicherweise um e
 
 Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
-- Inwiefern bezieht ich dieses Argument auf diesen Vorschlag bzw. diese Vereinbarung?
+- Inwiefern bezieht sich dieses Argument auf diesen Vorschlag bzw. diese Vereinbarung?
 - Zeigt dieser Einwand auf, wie eine (vorgeschlagene oder bestehende) **Aktivität oder Vereinbarung …**: 
     - die Reaktion auf einen Organisationstreiber beeinträchtigt?
     - hier und jetzt verbessert werden kann?
@@ -487,7 +487,7 @@ Hilfreiche Fragen zum gemeinsamen Verständnis von Einwänden:
 
 #### Bedenken
 
-_Ein **Bedenken** ist eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**._
+_Ein **Bedenken** ist eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)e Antwort auf einen Organisationstreiber behindern **könnte**._
 
 In einer _Konsent-Entscheidung_ können Bedenken Wege aufzeigen, wie eine Vereinbarung weiterentwickelt werden kann, z.B. über die Anpassung von Evaluationskriterien und -zeitpunkt.
 
@@ -501,7 +501,7 @@ Wenn du im Zweifel bist, ob es sich bei einem Argument um einen Einwand oder ein
 
 **Integriere Einwände einzeln nacheinander, indem jeweils das im Einwand enthaltene Wissen in Änderungsanträgen formuliert wird.**
 
-Wähle für jeden Einwand zunächst diejenige Option, die für diesen Einwand am meisten Erfolg verspricht, wenn die Option nicht zum Erfolg führt, versuche einfach eine andere. Jeder Versucht wir die Gruppe dabei unterstützen, mehr über den Einwand zu verstehen, sich schrittweise an einen Änderungsantrag heranzutasten, der den Einwand erfolgreich integriert.
+Wähle für jeden Einwand zunächst diejenige Option, die für diesen Einwand am meisten Erfolg verspricht, wenn die Option nicht zum Erfolg führt, versuche einfach eine andere. Jeder Versuch wird die Gruppe dabei unterstützen, mehr über den Einwand zu verstehen, sich schrittweise an einen Änderungsantrag heranzutasten, der den Einwand erfolgreich integriert.
 
 Es ist oft eine guter Anfang, den Einwandgeber zuerst nach einem möglichen Änderungsantrag zu fragen.
 
@@ -516,14 +516,14 @@ um Einwände zu integrieren](img/agreements/resolve-objections-process.png)
 
 **Entwickle alle Vereinbarungen ständig weiter, und reduziere dabei Verschwendung.**
 
-Regelmäßige Überprüfung aller Vereinbarungen ist eine ist eine essentielle Voraussetzung für lernende Organisationen:
+Regelmäßige Überprüfung aller Vereinbarungen ist eine essentielle Voraussetzung für lernende Organisationen:
 
 - passe Vereinbarungen an sich verändernde Gegebenheiten an
 - integriere gewonnene Erkenntnisse, um Vereinbarungen effektiver zu machen
 
 Stelle sicher, dass für jede Vereinbarung ein Termin zur Evaluation festgelegt wird.
 
-Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und kein Einwände gegen ihren Fortbestand existieren.
+Im einfachsten Fall beschränkt sich die Prüfung einer Vereinbarung darauf, festzustellen, dass sie weiterhin relevant ist und keine Einwände gegen ihren Fortbestand existieren.
 
 ![Experimentieren, evaluieren, entwickeln](img/evolution/kaizen.png)
 
@@ -542,7 +542,7 @@ Elemente dieses Musters können auch von Einzelpersonen bei der Prüfung ihrer E
 
 #### Ausführliches Format
 
-![Ein Ausführliches Format zur Entwicklung von Vereinbarungen](img/agreements/evaluate-agreements.png)
+![Ein ausführliches Format zur Entwicklung von Vereinbarungen](img/agreements/evaluate-agreements.png)
 
 Vorbereitung:
 
@@ -557,9 +557,9 @@ Nachbereitung:
 
 ###  Muster 1.8: Die Betroffenen entscheiden
 
-**Beteilige alle von einer Entscheidung Betroffen, um alle für die Entscheidung erforderlichen Informationen verfügbar zu machen, und um Gleichstellung und Verantwortlichkeit sicher zu stellen.**
+**Beteilige alle von einer Entscheidung Betroffenen, um alle für die Entscheidung erforderlichen Informationen verfügbar zu machen, und um Gleichstellung und Verantwortlichkeit sicher zu stellen.**
 
-Für grössere Gruppen:
+Für größere Gruppen:
 
 - Moderiere einen mehrstufigen Prozess und bilde Gruppen, die Delegierte wählen
 - nutze Online-Werkzeuge, um asynchrone und mehrstufige Prozesse mit festem Zeitrahmen für jeden Prozessschritt durchzuführen
@@ -2111,7 +2111,7 @@ Unser Angebot umfasst Beratung, Training, Coaching und Mentoring zu *Soziokratie
 
 ### James Priest
 
-... … bietet seine Unterstützung international an; Beratung zu Organisationsentwicklung, Lernbegleitung, sowie Mentoring für Menschen, die kollaborative, adaptive Organisationen in grösserem Rahmen entwickeln möchten.
+... … bietet seine Unterstützung international an; Beratung zu Organisationsentwicklung, Lernbegleitung, sowie Mentoring für Menschen, die kollaborative, adaptive Organisationen in größerem Rahmen entwickeln möchten.
 
 <https://thriveincollaboration.com>
 
@@ -2127,7 +2127,7 @@ Unser Angebot umfasst Beratung, Training, Coaching und Mentoring zu *Soziokratie
 
 ### Liliana David
 
-... … bietet ihre Unterstützung international an; Training, Prozessbegleitung und Mentoring für Teams und Organisationen, die den Wunsch haben, grössere Effektivität und Gleichberechtigung in der Zusammenarbeit zu entwickeln.
+... … bietet ihre Unterstützung international an; Training, Prozessbegleitung und Mentoring für Teams und Organisationen, die den Wunsch haben, größere Effektivität und Gleichberechtigung in der Zusammenarbeit zu entwickeln.
 
 <https://thriveincollaboration.com>
 
@@ -2155,7 +2155,7 @@ Unser Angebot umfasst Beratung, Training, Coaching und Mentoring zu *Soziokratie
 **Bedarf:** Ein Mangel an etwas, das erwünscht ist oder als notwendig erachtet wird.
 
 
-**Bedenken:** Eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)en Antwort auf einen Organisationstreiber behindern **könnte**.
+**Bedenken:** Eine Annahme, dass etwas - auch in der Abwesenheit von Einwänden - eine effektiv(er)e Antwort auf einen Organisationstreiber behindern **könnte**.
 
 
 **Check In:** Eine kurze Mitteilung darüber, wie es dir im Moment geht, die Anderen Einblick in deine Gedanken, Gefühle oder Bedürfnisse ermöglicht.
