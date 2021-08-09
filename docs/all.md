@@ -174,7 +174,7 @@ _Ein **Muster** ist eine Vorgehensweise, um einer bestimmten Herausforderung erf
 
 ### Die sieben Prinzipien
 
-Soziokratie basiert auf sieben Prinzipien, die eine Basis für die Kultur einer Organisation bilden. Da sich diese sieben Prinzipien in allen Mustern widerspiegeln, ist das Verständnis dieser Prinzipien hilfreich für Anwendung der Muster, und besonders wertvoll, wenn man ein Muster an die eigenen Bedürfnisse anpasst.
+Soziokratie basiert auf sieben Prinzipien, die eine Basis für die Kultur einer Organisation bilden. Da sich diese sieben Prinzipien in allen Mustern widerspiegeln, ist das Verständnis dieser Prinzipien hilfreich für die Anwendung der Muster, und besonders wertvoll, wenn man ein Muster an die eigenen Bedürfnisse anpasst.
 
 Die Anwendung von Soziokratie 3.0 hilft Menschen, den Nutzen dieser Prinzipien immer besser zu verstehen, sowohl für den Einzelnen als auch für die gesamte Organisationen.
 
