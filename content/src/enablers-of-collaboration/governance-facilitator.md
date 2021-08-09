@@ -9,7 +9,7 @@ Ein [Governance](section:governance)-Moderator …
 - macht sich mit dem [Steuerungsbacklog](section:governance-backlog) vertraut
 - lädt oft Andere dazu ein, einzelne Tagesordnungspunkte zu moderieren
 
-Um die Gruppe effektiv unterstützen zu können, sollte sich ein ein Governance-Moderator mit folgenden Mustern vertraut machen:
+Um die Gruppe effektiv unterstützen zu können, sollte sich ein Governance-Moderator mit folgenden Mustern vertraut machen:
 
 - [Runden](section:rounds)
 - [Proposal Forming](section:proposal-forming)

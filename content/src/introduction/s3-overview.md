@@ -2,7 +2,7 @@
 
 ### Effektive Zusammenarbeit in Organisationen beliebiger Größe
 
-Soziokratie 3.0 — **kurz "S3"** — ist eine praktischer Anleitung um agile und resiliente Organisationen beliebiger Größe zu entwickeln, vom kleinen Start-Up bis hin zu zu großen internationalen Netzwerkorganisationen oder auch organisationsübergreifenden Kollaborationen. Gleichzeitig ist S3 auch ein ein ganzheitlicher Weg, die Vertrauenswürdigkeit einer Organisation zu fördern und eine **agile und soziokratische Geisteshaltung** zu entwickeln.
+Soziokratie 3.0 — **kurz "S3"** — ist eine praktischer Anleitung um agile und resiliente Organisationen beliebiger Größe zu entwickeln, vom kleinen Start-Up bis hin zu zu großen internationalen Netzwerkorganisationen oder auch organisationsübergreifenden Kollaborationen. Gleichzeitig ist S3 auch ein ganzheitlicher Weg, die Vertrauenswürdigkeit einer Organisation zu fördern und eine **agile und soziokratische Geisteshaltung** zu entwickeln.
 
 S3 bietet dir eine umfangreiche Sammlung von Ideen (sogenannte "Muster"), die sich in Organisationen als hilfreich erwiesen haben, um **Produktivität, Zusammenarbeit und Zufriedenheit zu verbessern**.
 

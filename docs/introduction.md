@@ -6,7 +6,7 @@ title: Einführung
 
 ### Effektive Zusammenarbeit in Organisationen beliebiger Größe
 
-Soziokratie 3.0 — **kurz "S3"** — ist eine praktischer Anleitung um agile und resiliente Organisationen beliebiger Größe zu entwickeln, vom kleinen Start-Up bis hin zu zu großen internationalen Netzwerkorganisationen oder auch organisationsübergreifenden Kollaborationen. Gleichzeitig ist S3 auch ein ein ganzheitlicher Weg, die Vertrauenswürdigkeit einer Organisation zu fördern und eine **agile und soziokratische Geisteshaltung** zu entwickeln.
+Soziokratie 3.0 — **kurz "S3"** — ist eine praktischer Anleitung um agile und resiliente Organisationen beliebiger Größe zu entwickeln, vom kleinen Start-Up bis hin zu zu großen internationalen Netzwerkorganisationen oder auch organisationsübergreifenden Kollaborationen. Gleichzeitig ist S3 auch ein ganzheitlicher Weg, die Vertrauenswürdigkeit einer Organisation zu fördern und eine **agile und soziokratische Geisteshaltung** zu entwickeln.
 
 S3 bietet dir eine umfangreiche Sammlung von Ideen (sogenannte "Muster"), die sich in Organisationen als hilfreich erwiesen haben, um **Produktivität, Zusammenarbeit und Zufriedenheit zu verbessern**.
 
@@ -137,7 +137,7 @@ Das bedeutet nicht, dass alles immer ganz einfach ist: auch die Anwendung von Mu
 
 #### Integration von Ideen aus den agilen Methoden und aus Lean Thinking
 
-Bezogen auf operative Tätigkeiten und insbesondere auf die der Kultur der Zusammenarbeit innerhalb der Organisation versteht sich die *Soziokratischen Kreismethode* als "leere Methode". Viele Organisationen richten bereit ihre operativen Tätigkeiten an agilen Prinzipien und Lean Thinking aus, oder streben eine derartige Transformation an. Wir halten das für eine großartige Idee, und haben *Soziokratie 3.0* deshalb so gestaltet, dass sie gut zu agilen und lean Organisationen passt.
+Bezogen auf operative Tätigkeiten und insbesondere auf die der Kultur der Zusammenarbeit innerhalb der Organisation versteht sich die *Soziokratischen Kreismethode* als "leere Methode". Viele Organisationen richten bereits ihre operativen Tätigkeiten an agilen Prinzipien und Lean Thinking aus, oder streben eine derartige Transformation an. Wir halten das für eine großartige Idee, und haben *Soziokratie 3.0* deshalb so gestaltet, dass sie gut zu agilen und lean Organisationen passt.
 
 #### Neue Wege zur Entwicklung von Organisationsstruktur
 
@@ -167,7 +167,7 @@ _Ein **Muster** ist eine Vorgehensweise, um einer bestimmten Herausforderung erf
 ![Die Muster sind thematisch in 10 Kategorien geordnet.](img/pattern-group-headers/all-groups-dark.png)
 ### Die sieben Prinzipien
 
-Soziokratie basiert auf sieben Prinzipien, die eine Basis für die Kultur einer Organisation bilden. Da sich diese sieben Prinzipien in allen Mustern widerspiegeln, ist das Verständnis dieser Prinzipien hilfreich für Anwendung der Muster, und besonders wertvoll, wenn man ein Muster an die eigenen Bedürfnisse anpasst.
+Soziokratie basiert auf sieben Prinzipien, die eine Basis für die Kultur einer Organisation bilden. Da sich diese sieben Prinzipien in allen Mustern widerspiegeln, ist das Verständnis dieser Prinzipien hilfreich für die Anwendung der Muster, und besonders wertvoll, wenn man ein Muster an die eigenen Bedürfnisse anpasst.
 
 Die Anwendung von Soziokratie 3.0 hilft Menschen, den Nutzen dieser Prinzipien immer besser zu verstehen, sowohl für den Einzelnen als auch für die gesamte Organisationen.
 
