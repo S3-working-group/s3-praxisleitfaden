@@ -3,7 +3,7 @@ title: "Um Hilfe bitten"
 ---
 
 
-**Ein einfacher Weg um zu Lernen zu ermöglichen, Fähigkeiten zu entwickeln, und Beziehungen aufzubauen, und dabei die Autonomie des Einzelnen zu respektieren.**
+**Ein einfacher Weg um Lernen zu ermöglichen, Fähigkeiten zu entwickeln, und Beziehungen aufzubauen, und dabei die Autonomie des Einzelnen zu respektieren.**
 
 Frage einen Kollegen, "*Wärest du bereit, mir mit … zu helfen*?" Die gefragte Person antwortet nur mit einem einfachen "*ja*" oder "*nein*".
 
